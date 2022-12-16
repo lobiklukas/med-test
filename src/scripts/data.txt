@@ -679,9 +679,9 @@
 136	C)	Pod 5 mg na litr
 136	D)	Neexistuje
 137		Náhlé zvýšení obsahu chloridů v pitné vodě může být způsobeno:
-137	A)	Ošetřením vody chlorací
+137	A)	Ošetřením vody chlorací	y
 137	B)	Přítomností řas a sinic
-137	C)	Znečištěním močí	y
+137	C)	Znečištěním močí
 137	D)	Vysokým obsahem psychrofilních bakterií
 138		Kolísá-li  teplota vody ve studni:
 138	A)	Zdroj je znečištěn povrchovými nebo odpadními vodami	y

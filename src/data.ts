@@ -1467,9 +1467,9 @@ export const data = {
   "137": {
     title: "Náhlé zvýšení obsahu chloridů v pitné vodě může být způsobeno:",
     options: [
-      { text: "Ošetřením vody chlorací", isCorrect: false },
+      { text: "Ošetřením vody chlorací", isCorrect: true },
       { text: "Přítomností řas a sinic", isCorrect: false },
-      { text: "Znečištěním močí", isCorrect: true },
+      { text: "Znečištěním močí", isCorrect: false },
       { text: "Vysokým obsahem psychrofilních bakterií", isCorrect: false },
     ],
   },
