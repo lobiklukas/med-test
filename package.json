@@ -11,8 +11,6 @@
   "dependencies": {
     "clsx": "^1.2.1",
     "daisyui": "^2.45.0",
-    "google-auth-library": "^8.7.0",
-    "googleapis": "^109.0.1",
     "next": "13.0.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",

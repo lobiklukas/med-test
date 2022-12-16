@@ -1,7 +1,8 @@
+// eslint-disable-next-line @typescript-eslint/no-var-requires
 const fs = require("fs/promises");
 
 const main = async () => {
-  const file = await fs.readFile("/opt/dev/med-test/src/data.txt", "utf-8");
+  const file = await fs.readFile("./data.txt", "utf-8");
   const lines = file.split("\n");
   const questions = {};
 
@@ -23,4 +24,5 @@ const main = async () => {
 
   return questions;
 };
-main().then(x => console.log(JSON.stringify(x)))
+
+main().then((x) => console.log(JSON.stringify(x)));
