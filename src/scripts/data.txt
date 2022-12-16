@@ -493,7 +493,7 @@
 99	B)	Postup výroby inaktivovaných vakcín
 99	C)	Postup výroby živých vakcín
 99	D)	Sterilizace za velmi nízkých teplot
-99		Počet hlášených HIV pozitivních případů v ČR se pohybuje v řádech:
+100		Počet hlášených HIV pozitivních případů v ČR se pohybuje v řádech:
 100	A)	Desítek
 100	B)	Stovek	y
 100	C)	Statisíců

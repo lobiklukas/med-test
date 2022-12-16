@@ -2,7 +2,7 @@
 const fs = require("fs/promises");
 
 const main = async () => {
-  const file = await fs.readFile("./data.txt", "utf-8");
+  const file = await fs.readFile(__dirname + "/data.txt", "utf-8");
   const lines = file.split("\n");
   const questions = {};
 
@@ -21,7 +21,6 @@ const main = async () => {
       });
     }
   }
-
   return questions;
 };
 

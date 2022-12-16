@@ -974,7 +974,7 @@ export const data = {
     ],
   },
   "100": {
-    title: "Desítek",
+    title: "Počet hlášených HIV pozitivních případů v ČR se pohybuje v řádech:",
     options: [
       { text: "Desítek", isCorrect: false },
       { text: "Stovek", isCorrect: true },
