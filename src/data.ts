@@ -4013,7 +4013,7 @@ export const data = {
     options: [
       {
         title: "a) když je roven nule, tak je vztah dvou jevů nezávislý",
-        isCorrect: false,
+        isCorrect: true,
       },
       { title: "b) může mít hodnoty od jedné do nekonečna", isCorrect: false },
       { title: "c) může být i záporně číslo", isCorrect: false },
@@ -4030,15 +4030,6 @@ export const data = {
         title: "d) je nebezpečný hlavně při inhalaci aerosolů",
         isCorrect: true,
       },
-    ],
-  },
-  "358": {
-    title: "58) Londýnský smog vzniká:",
-    options: [
-      { title: "a) Fotolýzou NO2", isCorrect: false },
-      { title: "b) radiolýzou", isCorrect: false },
-      { title: "c) oxidací So2", isCorrect: false },
-      { title: "d) Spalováním uhlí", isCorrect: true },
     ],
   },
 };
