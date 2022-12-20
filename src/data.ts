@@ -3886,627 +3886,6 @@ export const data = {
     ],
   },
   "345": {
-    title: "Hygienické limity stanovené pro obsah prachu v pracovním ovzduší:",
-    options: [
-      {
-        title:
-          "a) mohou být překračovány, jestliže to zaměstnanci odsouhlasili",
-        isCorrect: false,
-      },
-      { title: "b) nesmí být překračovány", isCorrect: false },
-      {
-        title: "c) mohou být překračovány, jestliže tak rozhodne zaměstnavatel",
-        isCorrect: false,
-      },
-      { title: "d) jsou stejné na celém světě", isCorrect: false },
-    ],
-  },
-  "346": {
-    title: "Hodnocení zdravotních rizik nezahrnuje:",
-    options: [
-      { title: "a) vnímání rizika", isCorrect: false },
-      { title: "b) určení nebezpečnosti", isCorrect: false },
-      { title: "c) hodnocení vztahu mezi dávkou a odpovědí", isCorrect: false },
-      { title: "d) odhad expozice", isCorrect: false },
-    ],
-  },
-  "347": {
-    title: "Nulová hypotéza je tvrzení týkající se:",
-    options: [
-      { title: "a) chyby druhého druhu", isCorrect: false },
-      { title: "b) výběru", isCorrect: false },
-      { title: "c) chyby prvního druhu", isCorrect: false },
-      { title: "d) studované populace", isCorrect: false },
-    ],
-  },
-  "348": {
-    title:
-      "dlouhodobým působením nadměrného hluku na vnitřní ucho vzniká sluchová porucha:",
-    options: [
-      { title: "a) přechodná", isCorrect: false },
-      { title: "b) léčitelná", isCorrect: false },
-      { title: "c) poškozením ušních kůstek", isCorrect: false },
-      { title: "d) trvalá", isCorrect: false },
-    ],
-  },
-  "349": {
-    title: "Studie případů a kontrol charakterizuje:",
-    options: [
-      { title: "a) vhodnost pro studium vzácných expozic", isCorrect: false },
-      { title: "b) časová a finanční náročnost", isCorrect: false },
-      { title: "c) jedná se vždy o prospektivní studie", isCorrect: false },
-      {
-        title: "d) možnost sledování i více rizikových faktorů u jedné nemoci",
-        isCorrect: false,
-      },
-    ],
-  },
-  "350": {
-    title: "Způsob vodárenské úpravy vody:",
-    options: [
-      { title: "a) je závislý na kvalitě surové vody", isCorrect: false },
-      {
-        title: "b) je určený Zákonem o ochraně veřejného zdraví",
-        isCorrect: false,
-      },
-      {
-        title: "c) je určen Vyhláškou o požadavcích na pitnou vodu",
-        isCorrect: false,
-      },
-      { title: "d) je nezávislý na kvalitě surové vody", isCorrect: false },
-    ],
-  },
-  "351": {
-    title:
-      "V epidemii virové hepatitidy A byly zjištěny tyto inkubační doby u 17 nemocných osob: 8, 10, 11, 12, 13, 15, 15, 16, 16, 16, 17, 18, 19, 20, 23, 24, 25 dni. Která tvrzení jsou pravdivá?",
-    options: [
-      {
-        title:
-          "a) Protože průměrná hodnota, modus a medián jsou si přibližně rovny, v žádném případě nelze předpokládat, že inkubační doba se řídí normálním rozdělením",
-        isCorrect: false,
-      },
-      { title: "b) Modus je 16,4 dni.", isCorrect: false },
-      {
-        title: "c) Aritmeticky průměr inkubační doby je 30 dni.",
-        isCorrect: false,
-      },
-      { title: "d) Medián je 16 dni", isCorrect: false },
-    ],
-  },
-  "352": {
-    title: "ČR patří mezi státy s nejvyšším výskytem:",
-    options: [
-      { title: "a) karcinomu jícnu a žaludku", isCorrect: false },
-      { title: "b) karcinomu kůže a dutiny ústní", isCorrect: false },
-      { title: "c) karcinomu ledviny a slinivky", isCorrect: false },
-      { title: "d) karcinomu plic a prostaty", isCorrect: false },
-    ],
-  },
-  "353": {
-    title:
-      "Delší doba dožití u mužů v posledních letech je v ČR způsobena především:",
-    options: [
-      { title: "a) lepší prevencí rizikových faktorů", isCorrect: false },
-      { title: "b) snížením prevalence kouření", isCorrect: false },
-      { title: "c) lepší léčbou hypertenze", isCorrect: false },
-      {
-        title: "d) zvýšením dostupnosti metod intervenční kardiologie",
-        isCorrect: false,
-      },
-    ],
-  },
-  "354": {
-    title: "10) Tepelný odpor oblečení závisí na:",
-    options: [
-      {
-        title: "a) počtu vrstev oblečení a rychlosti proudění vzduchu",
-        isCorrect: false,
-      },
-      {
-        title: "b) počtu vrstev oblečení a teplotě kulového teploměru",
-        isCorrect: false,
-      },
-      { title: "c) počtu vrstev oblečení a okolní teplotě", isCorrect: false },
-      {
-        title: "d) počtu vrstev oblečení a relativní vlhkosti vzduchu",
-        isCorrect: false,
-      },
-    ],
-  },
-  "355": {
-    title: "11) Zvýšení hmotnosti při odvykání kouření:",
-    options: [
-      {
-        title: "a) může nastat pouze při zvýšeném energetickém příjmu",
-        isCorrect: false,
-      },
-      {
-        title: "b) může nastat, i pokud pacient nezmění stravovací návyky",
-        isCorrect: false,
-      },
-      { title: "c) je neoprávněná obava", isCorrect: false },
-      {
-        title: "d) bývá při terapii nikotinem větší než bez ní",
-        isCorrect: false,
-      },
-    ],
-  },
-  "356": {
-    title: "12) Vyberte NESPRÁVNÉ tvrzení:",
-    options: [
-      {
-        title:
-          "a) k polovině úmrtí v důsledku kouření dochází ve středním věku",
-        isCorrect: false,
-      },
-      {
-        title: "b) kouření má vysokou psychiatrickou komorbiditu",
-        isCorrect: false,
-      },
-      {
-        title:
-          "c) polovina kuřáků zemře předčasně na nemoci způsobené kouřením",
-        isCorrect: false,
-      },
-      {
-        title:
-          "d) AIDS zaviní celosvětově každý rok více úmrtí než užívání tabáku",
-        isCorrect: false,
-      },
-    ],
-  },
-  "357": {
-    title:
-      "13) Počet případů nemoci mezi exponovanými, které by se nevyskytly pokud by jsme dokázali zcela eliminovat expozici, lze nejlépe vyjádřit termínem:",
-    options: [
-      { title: "a) poměr šancí (odds ratio)", isCorrect: false },
-      { title: "b) incidence", isCorrect: false },
-      { title: "c) relativní riziko", isCorrect: false },
-      { title: "d) atributivní riziko", isCorrect: false },
-    ],
-  },
-  "358": {
-    title:
-      "14) Které tvrzení o vztahu nulové a alternativní hypotézy je pravdivé?",
-    options: [
-      {
-        title:
-          "a) nulová hypotéza přesně vymezuje situace v rámci alternativní hypotézy, které nás nejvíce zajímají",
-        isCorrect: false,
-      },
-      {
-        title:
-          "b) může nastat situace, že platí nulová i alternativní hypotéza",
-        isCorrect: false,
-      },
-      {
-        title:
-          "c) alternativní hypotéza platí právě tehdy, když neplatí nulová hypotéza",
-        isCorrect: false,
-      },
-      {
-        title:
-          "d) alternativní hypotéza přesně vymezuje situace v rámci nulové hypotézy, která nás nejvíce zajímají",
-        isCorrect: false,
-      },
-    ],
-  },
-  "359": {
-    title: "15) Součástí hexavakcíny je očkovací látka proti:",
-    options: [
-      { title: "a) Di, Te, Pe, TBC, VHB, HiB", isCorrect: false },
-      { title: "b) Di, Te, Pe, Po, VHA, VHB", isCorrect: false },
-      { title: "c) Di, Te, Pe, Po, VHB, HiB", isCorrect: false },
-      {
-        title: "d) Di, Te, Pe, Parotitis, Rubeole, Morbilli",
-        isCorrect: false,
-      },
-    ],
-  },
-  "360": {
-    title: "16) Zatrhněte správnou odpověď o vakcinaci při pandemii chřipky:",
-    options: [
-      {
-        title:
-          "a) vakcinace je nejúčinnější protiepidemické opatření ke snížení zdravotních dopadů pandemie chřipky",
-        isCorrect: false,
-      },
-      {
-        title:
-          "b) výroba a distribuce nové pandemické vakcíny trvá maximálně 2 měsíce",
-        isCorrect: false,
-      },
-      {
-        title:
-          "c) novou pandemickou vakcínou se smí očkovat pouze osoby, které již byli opakovaně vakcinováni proti sezónní chřipce",
-        isCorrect: false,
-      },
-      {
-        title:
-          "d) pandemickou vakcínou se nesmí očkovat chronicky nemocné osoby a děti mladší 15 let",
-        isCorrect: false,
-      },
-    ],
-  },
-  "361": {
-    title: "17) Karcinom prsu v ČR:",
-    options: [
-      { title: "a) nemá známou léčbu", isCorrect: false },
-      { title: "b) má klesající tendenci", isCorrect: false },
-      { title: "c) nemá možnost časného záchytu", isCorrect: false },
-      { title: "d) má rostoucí trend", isCorrect: false },
-    ],
-  },
-  "362": {
-    title: "18) Očkovací látka proti TBC se aplikuje:",
-    options: [
-      { title: "a) perorálně", isCorrect: false },
-      { title: "b) intradermálně", isCorrect: false },
-      { title: "c) intramuskulárně", isCorrect: false },
-      { title: "d) subkutánně", isCorrect: false },
-    ],
-  },
-  "363": {
-    title: "19) Adaptace na pracovní podmínky není ovlivněna:",
-    options: [
-      {
-        title: "a) frekvencí preventivních lékařských prohlídek",
-        isCorrect: false,
-      },
-      { title: "b) funkcí smyslových orgánů", isCorrect: false },
-      { title: "c) psychickou způsobilostí", isCorrect: false },
-      { title: "d) fyzickou zdatností", isCorrect: false },
-    ],
-  },
-  "364": {
-    title:
-      "20) Jestliže nám počítač při testování nějaké hypotézy vypočítá dosaženou hladinu významnosti p= 0,02, pak:",
-    options: [
-      { title: "a) na 1% hladině zamítáme nulovou hypotézu", isCorrect: false },
-      {
-        title: "b) rozdíl je statisticky nevýznamný na 5% hladině",
-        isCorrect: false,
-      },
-      {
-        title: "c) na 5% hladině nezamítáme nulovou hypotézu",
-        isCorrect: false,
-      },
-      { title: "d) na 5% hladině zamítáme nulovou hypotézu", isCorrect: false },
-    ],
-  },
-  "365": {
-    title:
-      "21) Nejčastějším zhoubným novotvarem u mužů v ČR (kromě nemelanomových nádorů kůže) je:",
-    options: [
-      { title: "a) ca prostaty", isCorrect: false },
-      { title: "b) KRKA", isCorrect: false },
-      { title: "c) ca ledvin", isCorrect: false },
-      { title: "d) ca plic", isCorrect: false },
-    ],
-  },
-  "366": {
-    title:
-      "22) Pozitivní test na marihuanu ve slině koresponduje nejlépe s pozitivním testem na marihuanu:",
-    options: [
-      { title: "a) v krvi", isCorrect: false },
-      { title: "b) ve vydechovaném vzduchu", isCorrect: false },
-      { title: "c) v moči", isCorrect: false },
-      { title: "d) ve stolici", isCorrect: false },
-    ],
-  },
-  "367": {
-    title: "23) Výhodou experimentálních studií nad observačními studiemi je:",
-    options: [
-      {
-        title: "a) dodržování protokolu studie jejími účastníky",
-        isCorrect: false,
-      },
-      { title: "b) ochota spolupracovat na výzkumu", isCorrect: false },
-      {
-        title: "c) možnost provádět studii v klinickém prostředí",
-        isCorrect: false,
-      },
-      { title: "d) možnost randomizace", isCorrect: false },
-    ],
-  },
-  "368": {
-    title: "24) Zvýšená zraková zátěž není způsobena:",
-    options: [
-      { title: "a) pozorováním malých detailů", isCorrect: false },
-      { title: "b) lasery o vlnové délce 400 až 780 nm", isCorrect: false },
-      { title: "c) oslněním", isCorrect: false },
-      { title: "d) sledováním obrazovky", isCorrect: false },
-    ],
-  },
-  "369": {
-    title: "25) Atypická alimentární nákaza je:",
-    options: [
-      { title: "a) břišní tyfus", isCorrect: false },
-      { title: "b) stafylokoková enterotoxikózy", isCorrect: false },
-      { title: "c) salmonelóza", isCorrect: false },
-      { title: "d) skvrnitý tyfus", isCorrect: false },
-    ],
-  },
-  "370": {
-    title: "26) Doporučená hodnota ukazatele jakosti pitné vody je:",
-    options: [
-      {
-        title: "a) se týká Ca a Mg a je pro výrobce vody závazná",
-        isCorrect: false,
-      },
-      { title: "b) týká se Ca, Mg, F, Fe", isCorrect: false },
-      { title: "c) neexistuje", isCorrect: false },
-      {
-        title: "d) se týká Ca a Mg a není pro výrobce závazná",
-        isCorrect: false,
-      },
-    ],
-  },
-  "371": {
-    title: "27) Antivibrační rukavice:",
-    options: [
-      {
-        title:
-          "a) se řadí mezi organizační opatření pro odstranění expozice vibracím",
-        isCorrect: false,
-      },
-      {
-        title:
-          "c) se řadí mezi technická řešení pro odstranění expozice vibracím",
-        isCorrect: false,
-      },
-      {
-        title:
-          "c) jsou ochranným pracovním prostředkem chránící ruce pracovníka hlavně proti chladu a vlhku",
-        isCorrect: false,
-      },
-      {
-        title:
-          "d) jsou certifikovaným prostředkem chránícím proti inhalaci škodlivin",
-        isCorrect: false,
-      },
-    ],
-  },
-  "372": {
-    title: "28) Studie případů a kontrol je zvláště vhodná pro studium:",
-    options: [
-      { title: "a) vzácných nemocí", isCorrect: false },
-      { title: "b) vzácných expozic", isCorrect: false },
-      { title: "c) četných expozic", isCorrect: false },
-      { title: "d) četných nemocí", isCorrect: false },
-    ],
-  },
-  "373": {
-    title: "29) Ekvivalentní hladina hluku je hodnota:",
-    options: [
-      {
-        title: "a) dlouhodobě přípustná pro průměrného člověka",
-        isCorrect: false,
-      },
-      {
-        title: "b) součet základní hladiny hluku a příslušných korekcí",
-        isCorrect: false,
-      },
-      {
-        title:
-          "c) se počítá jako energetický průměr hladin hluku v určeném časovém období",
-        isCorrect: false,
-      },
-      {
-        title:
-          "d) se počítá jako aritmetický průměr z měřených hladin v dB za dobu trvání hluku",
-        isCorrect: false,
-      },
-    ],
-  },
-  "374": {
-    title:
-      "30) Nejvyšší přípustná koncentrace chemických látek v pracovním ovzduší je druhem:",
-    options: [
-      { title: "a) krátkodobého čtyřhodinového limitu", isCorrect: false },
-      { title: "b) třicetiminutového limitu", isCorrect: false },
-      { title: "c) průměrného osmihodinového limitu", isCorrect: false },
-      { title: "d) stropového/nepřekročitelného limitu", isCorrect: false },
-    ],
-  },
-  "375": {
-    title: "31) Mezi chemické indikátory fekálního znečistění vody patří:",
-    options: [
-      {
-        title: "a) amonné ionty, dusičnany, dusitany, chloridy",
-        isCorrect: false,
-      },
-      { title: "b) fosforečnany, dusičnany, dusitany", isCorrect: false },
-      { title: "c) hydrogenuhličitany, uhličitany, sírany", isCorrect: false },
-      { title: "d) radon, dusičnany, dusitany, chloridy", isCorrect: false },
-    ],
-  },
-  "376": {
-    title: "32) Incidence rate se vypočte jako:",
-    options: [
-      {
-        title:
-          "a) počet nových případů dělený velikostí populace na začátku sledování",
-        isCorrect: false,
-      },
-      {
-        title:
-          "b) počet existujících případů na konci sledovaného období dělený součinem střední velikosti kohorty a průměrné délky účasti ve studii",
-        isCorrect: false,
-      },
-      {
-        title:
-          "c) počet nových případů dělený celkovým osobočasem, kterým účastníci přispěli do studie",
-        isCorrect: false,
-      },
-      {
-        title:
-          "d) počet případů dělený velikosti populace v polovině sledovaného období",
-        isCorrect: false,
-      },
-    ],
-  },
-  "377": {
-    title:
-      "33) Rodinný stav mužů byl zjišťován pomocí dotazníku s nabídnutou volbou: svobodný, ženatý, rozvedený, vdovec, druh. Rodinný stav je znak:",
-    options: [
-      { title: "a) diskrétní", isCorrect: false },
-      { title: "b) nominální", isCorrect: false },
-      { title: "c) spojitý", isCorrect: false },
-      { title: "d) ordinální", isCorrect: false },
-    ],
-  },
-  "378": {
-    title: "34) Gaussovo normální rozdělení je:",
-    options: [
-      { title: "a) asymetrické", isCorrect: false },
-      { title: "b) dvouvrcholové", isCorrect: false },
-      { title: "c) spojité", isCorrect: false },
-      { title: "d) diskrétní", isCorrect: false },
-    ],
-  },
-  "379": {
-    title: "35) Které tvrzení o mírách variability je pravdivé?",
-    options: [
-      { title: "a) směrodatná odchylka souvisí s rozptylem", isCorrect: false },
-      {
-        title: "b) rozptyl je vždycky větší než směrodatná odchylka",
-        isCorrect: false,
-      },
-      {
-        title:
-          "c) čím je větší rozptyl, tím jsou pozorování více soustředěna kolem průměru",
-        isCorrect: false,
-      },
-      {
-        title:
-          "d) rozptyl může být jen nezáporný, zatímco směrodatná odchylka může nabývat i záporných hodnot",
-        isCorrect: false,
-      },
-    ],
-  },
-  "380": {
-    title: "36) Které dvě metody jsou vhodné pro měření hluku:",
-    options: [
-      { title: "a) doba expozice a hladina hluku", isCorrect: false },
-      { title: "b) frekvenční analýza a hladina hluku", isCorrect: false },
-      { title: "c) hladina hluku a počet zdrojů hluku", isCorrect: false },
-      { title: "d) frekvenční analýza a počet exponovaných", isCorrect: false },
-    ],
-  },
-  "381": {
-    title: "37) Známky dlouhodobé vyšší expozice olovu nejsou:",
-    options: [
-      { title: "a) bledost, šedavý nádech kůže", isCorrect: false },
-      { title: "b) saturninská kolika", isCorrect: false },
-      { title: "c) nechutenství, únava, bolesti hlavy", isCorrect: false },
-      { title: "d) laryngitis, tracheitis, bronchitis", isCorrect: false },
-    ],
-  },
-  "382": {
-    title: "38) Zdrojem antraxu je:",
-    options: [
-      { title: "a) dobytek", isCorrect: false },
-      { title: "b) všechny odpovědi jsou správné", isCorrect: false },
-      { title: "c) výkaly", isCorrect: false },
-      { title: "d) půda", isCorrect: false },
-    ],
-  },
-  "383": {
-    title: "39) Jaké jsou nejběžnější příznaky a symptomy akutraumatu?",
-    options: [
-      { title: "a) psychické poruchy a imunologické změny", isCorrect: false },
-      { title: "b) poruchy spánku a imunosuprese", isCorrect: false },
-      { title: "c) nedoslýchavost a ušní šelesty", isCorrect: false },
-      { title: "d) imunosuprese a změny krevního tlaku", isCorrect: false },
-    ],
-  },
-  "384": {
-    title: "40) Chyba druhého druhu je:",
-    options: [
-      {
-        title: "a) pravděpodobnost, že zamítnu správnou nulovou hypotézu",
-        isCorrect: false,
-      },
-      {
-        title: "b) pravděpodobnost, že zamítnu nesprávnou nulovou hypotézu",
-        isCorrect: false,
-      },
-      {
-        title: "c) pravděpodobnost, že nezamítnu správnou nulovou hypotézu",
-        isCorrect: false,
-      },
-      {
-        title: "d) pravděpodobnost, že nezamítnu nesprávnou nulovou hypotézu",
-        isCorrect: false,
-      },
-    ],
-  },
-  "385": {
-    title: "41) Který z následujících výroků je správný:",
-    options: [
-      {
-        title:
-          "a) prevalenční studie je lepším vědeckým důkazem než randomizovaný kontrolovaný pokus",
-        isCorrect: false,
-      },
-      {
-        title:
-          "b) kohortová studie je lepším vědeckým důkazem než randomizovaný kontrolovaný pokus",
-        isCorrect: false,
-      },
-      {
-        title:
-          "c) průřezová studie je lepším vědeckým důkazem než randomizovaný kontrolovaný pokus",
-        isCorrect: false,
-      },
-      {
-        title:
-          "d) randomizovaný kontrolovaný pokus poskytuje lepší evidenci než kohortová studie",
-        isCorrect: false,
-      },
-    ],
-  },
-  "386": {
-    title: "42) Studie případů a kontrol dovoluje vypočítat:",
-    options: [
-      { title: "a) relativní riziko", isCorrect: false },
-      { title: "b) incidence rate ratio", isCorrect: false },
-      { title: "c) odds ratio", isCorrect: false },
-      { title: "d) poměr prevalencí nemoci", isCorrect: false },
-    ],
-  },
-  "387": {
-    title: "43) Činitel denního osvětlení D (%) je:",
-    options: [
-      {
-        title: "a) poměr intenzity denního a umělého osvětlení",
-        isCorrect: false,
-      },
-      {
-        title: "b) korekce denního osvětlení o % slunečního svitu",
-        isCorrect: false,
-      },
-      {
-        title: "c) poměr nejmenší a největší hodnoty osvětlenosti",
-        isCorrect: false,
-      },
-      {
-        title: "d) poměr osvětlenosti uvnitř a vně místnosti, udaný v %",
-        isCorrect: false,
-      },
-    ],
-  },
-  "388": {
-    title: "44) Tabákový kouř neobsahuje:",
-    options: [
-      { title: "a) amoniak", isCorrect: false },
-      { title: "b) vinylchlorid", isCorrect: false },
-      { title: "c) bupropion", isCorrect: false },
-      { title: "d) benzo-a-pyren", isCorrect: false },
-    ],
-  },
-  "389": {
     title: "45) Při odmítnutí nulové hypotézy na 5% stupnice významnosti:",
     options: [
       {
@@ -4527,7 +3906,7 @@ export const data = {
       { title: "d) Je p=0,05", isCorrect: false },
     ],
   },
-  "390": {
+  "346": {
     title: "46) Primární opatření proti hluku je:",
     options: [
       { title: "a) Sluchátka", isCorrect: false },
@@ -4536,7 +3915,7 @@ export const data = {
       { title: "d) Vyšetření audiometrií", isCorrect: false },
     ],
   },
-  "391": {
+  "347": {
     title:
       "47) Pokud lze z hodnoty jedné veličiny odvodit hodnotu druhé, pak je to veličina:",
     options: [
@@ -4546,7 +3925,7 @@ export const data = {
       { title: "d) meow", isCorrect: false },
     ],
   },
-  "392": {
+  "348": {
     title: "48) Hodnocení bolesti na škále 0,1,2,3,4 je znak:",
     options: [
       { title: "a) Ordinární", isCorrect: true },
@@ -4555,7 +3934,7 @@ export const data = {
       { title: "d) spojitý", isCorrect: false },
     ],
   },
-  "393": {
+  "349": {
     title: "49) Které tvrzení je nesprávné o pasivním kouření:",
     options: [
       { title: "a) je to samostatná diagnóza", isCorrect: false },
@@ -4570,7 +3949,7 @@ export const data = {
       },
     ],
   },
-  "394": {
+  "350": {
     title:
       "50) U dětí při preventivní prohlídce byl zjištován počat sourozenců. Počet sourozenců je znak:",
     options: [
@@ -4580,7 +3959,7 @@ export const data = {
       { title: "d) Spojitý", isCorrect: false },
     ],
   },
-  "395": {
+  "351": {
     title: "51) Losangelský smog vzniká:",
     options: [
       { title: "a) Fotolýzou NO2", isCorrect: true },
@@ -4589,7 +3968,7 @@ export const data = {
       { title: "d) Spalováním uhlí", isCorrect: false },
     ],
   },
-  "396": {
+  "352": {
     title:
       "52) Lék byl testovaný na 6 lidech. U žádného nebyl prokázán účinek. Jaká je pravděpodobnost, že bude lék zamítnut i když účinkuje u 20% u celé populace?",
     options: [
@@ -4599,7 +3978,7 @@ export const data = {
       { title: "d) 0,26", isCorrect: true },
     ],
   },
-  "397": {
+  "353": {
     title: "53) Co je typické pro vitaminy rozpustné v tucích?",
     options: [
       {
@@ -4611,7 +3990,7 @@ export const data = {
       { title: "d) jejich nadbytek není toxický", isCorrect: false },
     ],
   },
-  "398": {
+  "354": {
     title: "54) Nejčastější nádor celosvětově:",
     options: [
       { title: "a) melanom", isCorrect: false },
@@ -4620,7 +3999,7 @@ export const data = {
       { title: "d) plíce", isCorrect: false },
     ],
   },
-  "399": {
+  "355": {
     title: "55) Kde se používá odds ratio?",
     options: [
       { title: "a) kohortové studie", isCorrect: false },
@@ -4629,7 +4008,7 @@ export const data = {
       { title: "d) studie prevalence", isCorrect: false },
     ],
   },
-  "400": {
+  "356": {
     title: "56) Pearsonův korelační koeficient:",
     options: [
       {
@@ -4641,7 +4020,7 @@ export const data = {
       { title: "d) meow", isCorrect: false },
     ],
   },
-  "401": {
+  "357": {
     title: "57) Radon ve vodě:",
     options: [
       { title: "a) hrozí otravy", isCorrect: false },
@@ -4653,7 +4032,7 @@ export const data = {
       },
     ],
   },
-  "402": {
+  "358": {
     title: "58) Londýnský smog vzniká:",
     options: [
       { title: "a) Fotolýzou NO2", isCorrect: false },
