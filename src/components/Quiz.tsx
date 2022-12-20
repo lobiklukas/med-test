@@ -74,7 +74,7 @@ export const Quiz = () => {
               <div className="card-body">
                 <h2 className="card-title">{selectedQuestion.title}</h2>
                 <div className="mt-4 grid grid-cols-2 gap-4">
-                  {selectedQuestion.options.map(({ text, isCorrect }, i) => (
+                  {selectedQuestion.options.map(({ title, isCorrect }, i) => (
                     <button
                       key={i}
                       onClick={() =>
@@ -87,7 +87,7 @@ export const Quiz = () => {
                         "cursor-not-allowed": selectedAnswer !== undefined,
                       })}
                     >
-                      {text}
+                      {title}
                     </button>
                   ))}
                 </div>
