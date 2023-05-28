@@ -29,7 +29,7 @@ export const QuizSelection: React.FC = () => {
     <>
       <div className="text-center">
         <h2 className="text-4xl font-bold">Start Single Quiz</h2>
-        <div className="mt-4 flex justify-center gap-2">
+        <div className="mt-4 flex flex-wrap justify-center gap-2">
           {keys.map((key) => (
             <button
               key={key}
@@ -56,7 +56,7 @@ export const QuizSelection: React.FC = () => {
             </label>
           </div>
           <h3 className="text-xl">Quizes which should be included:</h3>
-          <div className="flex justify-center gap-2">
+          <div className="flex flex-wrap justify-center gap-2">
             {keys.map((key) => (
               <div key={key} className="form-control">
                 <label className="label cursor-pointer">

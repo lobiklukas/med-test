@@ -14,7 +14,7 @@ export default function RootLayout({
   return (
     <html suppressHydrationWarning={true} lang="en">
       <body className="relative">
-        <div className="absolute right-5 top-5 z-10 p-8">
+        <div className="absolute right-5 top-5 z-10 lg:p-8">
           <ThemeChange />
         </div>
         {children}

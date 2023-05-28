@@ -21,6 +21,7 @@ export const QuizCard: React.FC<QuizCardProps> = ({
   const [known, setKnown] = useLocalStorage<string[]>("known", []);
   const [filtered, setFiltered] = useState<Question[]>([]);
   const [selectedId, setSelectedId] = useState<string>("");
+  console.log("🚀 ~ file: QuizCard.tsx:24 ~ selectedId:", selectedId);
   const [selectedAnswer, setSelectedAnswer] =
     useState<boolean[]>(DEFAULT_ANSWERS);
   const [isFinished, setIsFinished] = useState<boolean>(false);
@@ -28,9 +29,8 @@ export const QuizCard: React.FC<QuizCardProps> = ({
   const [progress, setProgress] = useState<number>(1);
 
   useEffect(() => {
-    const filtered = ignoreFilter
-      ? data
-      : data.filter((item) => !known.includes(item.id));
+    const filtered = data.filter((item) => !known.includes(item.id));
+    console.log("🚀 ~ file: QuizCard.tsx:33 ~ useEffect ~ filtered:", filtered);
     if (filtered.length) {
       setSelectedId(filtered?.[0]?.id as string);
       setFiltered(filtered);
@@ -50,7 +50,19 @@ export const QuizCard: React.FC<QuizCardProps> = ({
 
   const handleNextQuestion = () => {
     const index = filtered.findIndex((key) => key.id === selectedId) as number;
+    console.log(
+      "🚀 ~ file: QuizCard.tsx:53 ~ handleNextQuestion ~ index:",
+      index
+    );
     const nextId = filtered?.[index + 1]?.id;
+    console.log(
+      "🚀 ~ file: QuizCard.tsx:55 ~ handleNextQuestion ~ filtered?.[index + 1]:",
+      filtered?.[index + 1]
+    );
+    console.log(
+      "🚀 ~ file: QuizCard.tsx:54 ~ handleNextQuestion ~ nextId:",
+      nextId
+    );
     const correstAnswers = selectedQuestion?.options.map(
       (item) => item.isCorrect
     );
@@ -75,11 +87,6 @@ export const QuizCard: React.FC<QuizCardProps> = ({
 
   return (
     <div className="relative flex h-full min-h-screen w-full flex-col justify-around">
-      <div className="flex flex-col text-center">
-        <span>
-          Learned: {data.length - filtered.length} / {data.length}
-        </span>
-      </div>
       {isFinished && (
         <div className="mt-4 w-full text-center">
           <h2 className="text-2xl font-bold">Finished!</h2>
@@ -114,12 +121,12 @@ export const QuizCard: React.FC<QuizCardProps> = ({
       {selectedQuestion && !isFinished && (
         <div className="mx-auto">
           <div className="mt-4">
-            <div className="w-full p-12">
+            <div className="w-full p-4">
               <h5 className="text-center ">{selectedQuestion.category}</h5>
               <h2 className="text-center text-2xl">
                 {selectedQuestion.order}. {selectedQuestion.text}
               </h2>
-              <div className="mt-6 grid grid-cols-2 gap-4 ">
+              <div className="mt-6 grid gap-4 md:grid-cols-2">
                 {selectedQuestion.options.map(({ text, isCorrect }, i) => (
                   <button
                     key={i}
@@ -160,7 +167,7 @@ export const QuizCard: React.FC<QuizCardProps> = ({
       <div className="flex w-full items-center justify-center gap-6 px-8">
         <div className="grow">
           <div className="relative">
-            <p className="absolute bottom-3 left-1/2 -translate-x-1/2 -translate-y-1/2 transform text-center text-sm">
+            <p className="text-center text-sm">
               Session progress: {progress} / {filtered.length}
             </p>
             <progress
@@ -169,8 +176,8 @@ export const QuizCard: React.FC<QuizCardProps> = ({
               max={filtered.length}
             />
           </div>
-          <div className="relative mt-4">
-            <p className="absolute bottom-3 left-1/2 -translate-x-1/2 -translate-y-1/2 transform text-center text-sm">
+          <div className="relative">
+            <p className="text-center text-sm">
               Learned: {data.length - filtered.length} / {data.length}
             </p>
             <progress
