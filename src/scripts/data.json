@@ -1,0 +1,5125 @@
+{
+  "Pediatrická propedeutika": [
+    {
+      "id": "1Pediatrická propedeutika",
+      "order": 1,
+      "text": "Rozdělení dětského věku:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Kojenecké období trvá od 29. dne do konce prvního roku života",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Novorozenecké období se dělí na časné (užší nebo perinatální) a pozdní",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Batolecí období je od prvních do třetích narozenin",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Prenatální období se dělí na blastémové, embryonální a fetální ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "2Pediatrická propedeutika",
+      "order": 2,
+      "text": "Na intrauterinní růstové restrikci (retardaci) se podílejí následující rizikové faktory:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Chromosomální aberace plodu",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Infarkty placenty",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Kouření matky",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Hypertenze u matky ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "3Pediatrická propedeutika",
+      "order": 3,
+      "text": "Průměrná délka a váha plodu:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je v 20. gestačním týdnu gravidity 35 cm s váhou 1200 g",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Je v 36. gestačním týdnu gravidity 45 cm s váhou 2500 g",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Je ve 16. gestačním týdnu gravidity 16 cm s váhou 600 g",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Je v 32. gestačním týdnu gravidity 40 cm s váhou 2500 g",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "4Pediatrická propedeutika",
+      "order": 4,
+      "text": "Přírůstky hmotnosti v prvním roce života:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Jsou v prvním trimenonu 150 až 250 g za týden",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Jsou v druhém trimenonu 500 až 600 g za měsíc",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Jsou v prvním trimenonu 350 g za týden",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Dítě přibližně ztrojnásobí svou porodní váhu v roce života ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "5Pediatrická propedeutika",
+      "order": 5,
+      "text": "Platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Donošený novorozenec váží 3000-4000 g, měří 50 cm, chlapci jsou průměrně o 100 g těžší než dívky",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Váhový spád v novorozeneckém období je průměrně 7 %, maximálně 2.-3. den života",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Novorozenci mají velkou hlavu, poměrně krátký trup a dlouhé končetiny",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Novorozenci mají malou hlavu, poměrně dlouhý trup a krátké končetiny",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "6Pediatrická propedeutika",
+      "order": 6,
+      "text": "V růstu dítěte platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Dítě vyroste první rok života o 25 cm",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Dítě vyroste první tři měsíce průměrně o 3-4 cm měsíčně",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Dítě vyroste čtvrtý trimenon života průměrně 3 cm měsíčně",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Ve druhém roce života dítě vyroste o 9 cm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "7Pediatrická propedeutika",
+      "order": 7,
+      "text": "O růstu platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Tempo růstu v předškolním věku a mladším školním věku je přibližně 5 cm ročně",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Nejpomalejší tempo růstu je těsně před pubertou (pouze 3-4 cm ročně)",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Dítě vyroste ve třetím roce věku přibližně 6 cm",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Dítě dosáhne výšky 1 m průměrně ve věku 3,5 let ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "8Pediatrická propedeutika",
+      "order": 8,
+      "text": "O váhových přírůstcích platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Dítě zdvojnásobí svou porodní váhu 4. až 5. měsíc života",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Dítě fyziologicky vyrovná svůj váhový spád do 10. až 14. dne života",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Dítě v batolecím období přibírá průměrně 4 kg za rok",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "V roce věku dítě váží přibližně 12 kg",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "9Pediatrická propedeutika",
+      "order": 9,
+      "text": "O pubertě platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Akcelerace růstu u dívek nastává většinou po 10. roce života, s maximem kolem 12. roka života",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Maximum růstu chlapců je o jeden až dva roky před maximem růstu u dívek",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Roční váhový přírůstek v pubertě je 3-5 kg",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Přírůstek výšky v období pubertálního růstového výšvihu může být 8-12 cm ročně  ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "10Pediatrická propedeutika",
+      "order": 10,
+      "text": "O pubertě platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Prvním příznakem puberty u chlapců je nárůst ochlupení",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Prvním příznakem puberty u chlapců je zvětšení varlat",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Prvním příznakem puberty u dívek je nárůst prsou a růstový výšvih",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Prvním příznakem puberty u dívek je nepravidelná menstruace",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "11Pediatrická propedeutika",
+      "order": 11,
+      "text": "Platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "U dospělého muže tvoří tuk asi 25 % tělesného hmotnosti",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "U dospívajících žen tvoří množství tuku asi 25 % tělesné hmotnosti",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "U dospělého muže tvoří svaly asi 60 % tělesného hmotnosti",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "U dospělého muže tvoří svaly asi 40 % tělesného hmotnosti",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "12Pediatrická propedeutika",
+      "order": 12,
+      "text": "Platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Obvod hlavy je u novorozenců průměrně 37 cm",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Obvod hlavy je v prvním roce života 46-47 cm",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Hmotnost mozku je při narození 350-400 g, na konci prvního roku života 800-900 g",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Obvod hlavy v 6 letech života je průměrně 51 cm ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "13Pediatrická propedeutika",
+      "order": 13,
+      "text": "Povrch těla:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je u novorozence přibližně 0,25 m2",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Je u ročního dítěte přibližně 0,45 m2",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Je u 10 letého dítěte přibližně 1,1 m2",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Je u dospělého přibližně 2.0 m2",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "14Pediatrická propedeutika",
+      "order": 14,
+      "text": "Chlapec se narodil v 39+3 gestačním týdnu:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Obvod hlavy 38 cm je v pořádku",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Hmotnost 2200 g je v pořádku",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Hmotnost 2800 g je v pořádku ",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Délka 48 cm je v pořádku ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "15Pediatrická propedeutika",
+      "order": 15,
+      "text": "Pokud má novorozenec narozený v 40. gestačním týdnu porodní hmotnost 4400 g, musíme myslet kromě jiného i na:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Fetoplacentární insuficienci",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Gestační diabetes matky",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Hypotyreózu dítěte",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Hypotyreózu matky",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "16Pediatrická propedeutika",
+      "order": 16,
+      "text": "Pokud novorozenec narozený v 40. gestačním týdnu má porodní hmotnost 2100 g, musíme kromě jiného myslet i na:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Kouření matky v těhotenství",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Fetoplacentární insuficienci",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Fetální alkoholový syndrom",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Gestační diabetes matky",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "17Pediatrická propedeutika",
+      "order": 17,
+      "text": "První tři měsíce věku zdravé a původně donošené dítě průměrně:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Vyroste o 2 cm za měsíc",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Prospívá 350 g týdně",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Potřeba tekutin je 150 ml/kg/den",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Hlavička roste o 2-3 cm za měsíc ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "18Pediatrická propedeutika",
+      "order": 18,
+      "text": "Plně kojená tříměsíční holčička měla porodní hmotnost 4100 g, nyní váží 5050 g.",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Váha je v pořádku, dítě koriguje svou vyšší porodní váhu, není potřeba je vyšetřovat",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "V diferenciální diagnostice se může jednat o celiakii",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Může se jednat o nedostatek mateřského mléka",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Dítě má nejspíše vysoké dávky mateřského mléka",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "19Pediatrická propedeutika",
+      "order": 19,
+      "text": "Půlroční chlapec má obvod hlavy 38 cm. Mohlo by se jednat o:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Achondroplázii",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Hydrocefalus",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Intrauterinní infekci CMV",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Neléčenou fenylketonurii ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "20Pediatrická propedeutika",
+      "order": 20,
+      "text": "Donošená dívka s porodní délkou 50 cm měří v roce 70 cm. Do diferenciální diagnostiky patří:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Deficit růstového hormonu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Kostní dysplázie",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Cystická fibróza",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Chronická insuficience ledvin ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "21Pediatrická propedeutika",
+      "order": 21,
+      "text": "Percentilové křivky:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Pokud dítě svým růstem v prvních dvou letech života překročí některou z hlavních percentilových křivek (3., 10., 25., 50., 75., 90., 97. percentil), je to v pořádku (lag down nebo catch up růst)",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Pokud při narození eutrofické dítě v grafu poměru váhy k délce v prvních dvou letech života překročí dvě sousední hlavní percentilové křivky (3., 10., 25., 50., 75., 90., 97. percentil), je to v pořádku (lag down nebo catch up růst)",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Pokud dítě roste těsně pod třetím percentilem, může se jednat o familiární opoždění růstu",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Novorozence s hmotností pod 3. (nebo pod 5.) percentil pro daný gestační věk má intrauterinní růstovou restrikci (retardaci)",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "24Pediatrická propedeutika",
+      "order": 24,
+      "text": "Ve vývoji dítěte platí",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Ve čtyřech měsících drží končetiny ve flekční poloze, ruce má sevřené v pěst, otáčí hlavičku do strany",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Ve dvou měsících začíná zvedat nožičky, v poloze na bříšku udrží hlavičku asi na 3 s",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Jako novorozenec rozeznává světlo a tmu, krátce fixuje světlé předměty",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Jako novorozenec reaguje trhnutím celého těla na silné zvuky ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "25Pediatrická propedeutika",
+      "order": 25,
+      "text": "Ve vývoji dítěte platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Dítě cíleně uchopí hračku a přendává si ji z ruky do ruky ve třech měsících",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Dítě cíleně uchopí hračku a přendává si ji z ruky do ruky v pěti měsících",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Hlasitý smích se většinou objevuje ve čtyřech měsících života",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Šestiměsíční dítě umí lézt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "26Pediatrická propedeutika",
+      "order": 26,
+      "text": "Ve vývoji dítěte platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "V sedmi měsících se naučí paci-paci, pá-pá",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "V devíti měsících se naučí paci-paci, pá-pá",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "V jedenácti měsících rozumí jednoduchým pokynům, např. „otevři“ nebo „zavři pusu“, apod.",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Ve dvanácti měsících umí vyslovit kolem deseti slov s významem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "27Pediatrická propedeutika",
+      "order": 27,
+      "text": "Dítě ve 24 měsících věku:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Umí průměrně 300 slov, umí složit 2-3 slovní věty",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Umí nakreslit trojúhelník",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Hraje s jinými dětmi",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Chodí nahoru po schodech bez držení ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "28Pediatrická propedeutika",
+      "order": 28,
+      "text": "Dítě v pěti letech věku:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Poskakuje na jedné noze",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Rozeznává pravou a levou ruku",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Nemýlí si pojmy „včera“ a „zítra“",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Nakreslí postavu s hlavou, trupem a končetinami ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "29Pediatrická propedeutika",
+      "order": 29,
+      "text": "Platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Novorozenec má 60-80 % hemoglobinu HbF",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Hematokrit narozeného dítěte dosahuje přes 50 %",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Objem erytrocytu novorozence je 70-85 fl",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Objem erytrocytu novorozence je 90-110 fl ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "30Pediatrická propedeutika",
+      "order": 30,
+      "text": "Platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Hodnota leukocytů po narození je 9-30.109/l",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Hodnota leukocytů po narození je 4-9.109/l",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "V diferenciálním rozpočtu narozeného dítěte je převaha lymfocytů",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "V diferenciálním rozpočtu narozeného dítěte je převaha neutrofilů ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "31Pediatrická propedeutika",
+      "order": 31,
+      "text": "Platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Koncentrace koagulačních faktorů u novorozence dosahuje přibližně 50 % hodnoty dospělých",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Mateřské mléko obsahuje kolem 2 µg/l vitamínu K, kravské 5 µg/l",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Hemokoagulační parametry šestiměsíčního kojence se jen málo liší od parametrů u dospělého",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Mateřské mléko obsahuje kolem 5 µg/l vitamínu K, kravské 50 µg/l",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "32Pediatrická propedeutika",
+      "order": 32,
+      "text": "Platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Přirozeně se vyskytující aglutininy anti-A a anti-B se u větších dětí a dospělých nacházejí v imunoglobulinové frakci plazmy typu IgM",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Pozitivita Rh systému závisí na přítomnosti antigenu C",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Anti Rh protilátky se v krvi přirozeně vyskytují, bez předešlé imunizace",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Hemolytická nemoc novorozenců se léčí podáním vitamínu K",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "33Pediatrická propedeutika",
+      "order": 33,
+      "text": "Platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Rh-aloimunizace plodu se projeví konjugovanou hyperbilirubinémii",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Rh-aloimunizace plodu bývá závažnější než aloimunizace v AB0 systému",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Těžká hemolýza u plodu/novorozence může vést k masivnímu generalizovanému edému v důsledku anémie, hypoxie, hypoproteinémie",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Fetální erytroblastóza je důsledkem zvýšené tvorby nezralých červených krvinek (mj. i v játrech a slezině) v důsledku hemolytické anémie u novorozence ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "34Pediatrická propedeutika",
+      "order": 34,
+      "text": "Platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Placenta má dva oddělené krevní oddíly - uteroplacentární a uterofetální",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Rh-aloimunizace vzniká pouze v případě předchozího abortu u matky",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Rh-aloimunizace vzniká pouze v případě předchozího porodu u matky",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Matka, která byla již jedenkrát imunizována a tvoří anti-D protilátky, tvoří již protilátky po celý život ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "35Pediatrická propedeutika",
+      "order": 35,
+      "text": "Platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Mezi primární lymfatické orgány patří kostní dřeň a Peyerovy plaky",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Mezi primární lymfatické orgány patří kostní dřeň a lymfatické uzliny",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Mezi sekundární lymfatické orgány patří lymfatické uzliny a adenoidní vegetace",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Mezi sekundární lymfatické orgány patří tymus a slezina",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "36Pediatrická propedeutika",
+      "order": 36,
+      "text": "Platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Novorozenci jsou vnímaví na Staphylokokové kožní infekce",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Novorozenci jsou vnímaví na enterovirové infekce",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Infekce v novorozeneckém věku jsou částečně zapříčiněné zvýšenou koncentrací myeloperoxidázy v polymorfonukleárních leukocytech",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "V boji s pyogenními bakteriemi se účastní zejména polymorfonukleární leukocyty ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "37Pediatrická propedeutika",
+      "order": 37,
+      "text": "Platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Snížená hladina protilátek IgM v pupečníkové krvi svědčí o prodělané intrauterinní infekci",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Syntéza IgG je prenatálně nízká a stoupá až postnatálně vlivem stimulace imunitního systému exogenními antigeny",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Hladina IgG se vyrovná hladině u dospělých ve čtvrtém až šestém roce života",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Antibakteriální účinnost sekrečních imunoglobulinů třídy IgA je založena na agregaci bakterií a zabránění jejich adherenci na povrch sliznic",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "38Pediatrická propedeutika",
+      "order": 38,
+      "text": "Mateřské mléko obsahuje:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Všechny třídy imunoglobulinů",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Velké množství buněk (přibližně 2.106/l), převážně makrofágů (80-90 %)",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Všechny základní složky komplementu",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Aktiferrin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "39Pediatrická propedeutika",
+      "order": 39,
+      "text": "Platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Lysosym se zúčastňuje na lýze gramnegativních bakterií",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Lysosym štěpí mukopolysacharidové komplexy zejména grampozitivních bakterií",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Laktoferin chrání střevo novorozenců zejména před infekcemi patogenními kmeny E.coli",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Mateřské mléko obsahuje kyselinu neuramínovů a laktoperoxidázový systém ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "40Pediatrická propedeutika",
+      "order": 40,
+      "text": "Ductus arteriosus Botalli:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "U donošených novorozenců se průměrně uzavírá do 72-96 hodin po narození",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Ibuprofen ductus arteriosus udržuje otevřený",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "K uzávěru ductus arteriosus vede zvýšený parciální tlak kyslíku v krvi",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Prostaglandiny ductus arteriosus udržují otevřený ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "41Pediatrická propedeutika",
+      "order": 41,
+      "text": "Perzistující ductus arteriosus Botalli:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je častější u donošených novorozenců",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Zvýšení plicního průtoku vede ke snížení dynamické poddajnosti plic a zhoršení plicních funkcí",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Znamená zvýšené zatížení levé komory",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Následkem je mj. zvýšení plicního průtoku, které může vést k závažným vaskulárním změnám plicního řečiště ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "42Pediatrická propedeutika",
+      "order": 42,
+      "text": "Perzistující ductus arteriosus Botalli:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Může vést k zhoršenému prokrvení ledvin se zvýšenými koncentracemi kreatininu, které je reverzibilní po úspěšném uzavření duktu",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Při velkých zkratech může vést k zhoršenému prokrvení CNS",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Se lze pokusit farmakologicky uzavřít podáním inhibitorů syntézy prostaglandinů",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Se lze pokusit farmakologicky uzavřít podáním inhibitorů degradace prostaglandinů",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "43Pediatrická propedeutika",
+      "order": 43,
+      "text": "Po narození:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Se plicní vaskulární rezistence zvyšuje",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Se plicní vaskulární rezistence snižuje",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Střední tlak krvi v a.pulmonalis klesne na hodnoty kolem 15 mm Hg v 6. až 8. týdnu postnatálního života",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Střední tlak krvi v a.pulmonalis klesne na hodnoty kolem 15 mm Hg ve dvou letech postnatálního života",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "44Pediatrická propedeutika",
+      "order": 44,
+      "text": "Důvodem perzistující plicní hypertenze novorozenců je:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Aspirace mekonia",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Sepse",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "IRDS",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Diafragmatická hernie",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "45Pediatrická propedeutika",
+      "order": 45,
+      "text": "Normální hodnota pO2 v krvi ve v.umbilicalis plodu:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je přibližně 28 mm Hg (3,7 kPa)",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Je o 10-15 mm Hg (1,3-2,0 kPa) nižší než ve venózní krvi matky",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Je nižší než v a.umbilicalis plodu",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Je vyšší než v a.umbilicalis plodu ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "46Pediatrická propedeutika",
+      "order": 46,
+      "text": "Platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Dechový objem má průměrnou hodnotu 5-7 ml/kg tělesné hmotnosti",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Dechový objem má průměrnou hodnotu 15-20 ml/kg tělesné hmotnosti",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Pro novorozence je charakteristické dýchání nepravidelné, případně periodické",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Periodické dýchání je častější u nezralých dětí ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "47Pediatrická propedeutika",
+      "order": 47,
+      "text": "Grunting:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je charakterizován aktivním a prodlouženým inspiriem",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Je charakterizován aktivním a prodlouženým exspiriem",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Mechanismem způsobujícím grunting je přivření glottis",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Je průvodním jevem dechové nedostatečnosti ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "48Pediatrická propedeutika",
+      "order": 48,
+      "text": "Surfaktant:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je syntetizován pneumocyty I.typu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Je syntetizován pneumocyty II.typu",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Se začíná v alveolech produkovat až po 32. gestačním týdnu",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Jeho podstatnou část (90 %) tvoří fosfolipidy",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "49Pediatrická propedeutika",
+      "order": 49,
+      "text": "Surfaktant:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Snižuje povrchové napětí plicních alveol",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Zvyšuje povrchové napětí plicních alveol",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Napomáhá mechanickému odstraňování částic a poškozených buněk z alveol do dýchacích cest",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Má přímé baktericidní účinky ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "50Pediatrická propedeutika",
+      "order": 50,
+      "text": "Glomerulární filtrace:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je u čerstvě narozeného donošeného novorozence přibližně 0,33 ml/s/1,73 m2 povrchu těla",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Se do dvou týdnů po porodu zdvojnásobuje, což je dáno především redistribucí průtoku krve",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Hodnoty blízké dospělým v přepočtu na povrch těla dosahuje v roce věku dítěte",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Je u dospělých přibližně 2 ml/s/ 1,73m2 povrchu těla ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "51Pediatrická propedeutika",
+      "order": 51,
+      "text": "Na glomerulární filtraci se podílejí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Filtrační tlak",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Onkotický tlak",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Permeabilita kapilární stěny",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Velkost filtrační plochy ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "52Pediatrická propedeutika",
+      "order": 52,
+      "text": "Koncentrační schopnost ledvin:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Dospělí dokážou zkoncentrovat moč na 1800-2200 mOsm/kg",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Dospělí dokážou zkoncentrovat moč na přibližně 1400 mOsm/kg",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Týdenní novorozenec dokáže zkoncentrovat moč na přibližně 50 % hodnoty u dospělých",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Děti v roce věku dokážou zkoncentrovat moč na přibližně 1100 mOsm/kg ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "53Pediatrická propedeutika",
+      "order": 53,
+      "text": "Platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Mozek novorozence váží 400 g",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Koncem prvního roku se hmotnost mozku zdvojnásobí",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Mozek novorozence je plně myelinizován",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "V šestém roce dosahuje hmotnost mozku hranice dospělého člověka (1250g) ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "54Pediatrická propedeutika",
+      "order": 54,
+      "text": "Fyziologická hypermetropie:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je přítomna u cca ¾ novorozenců",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Často přetrvává až do mladšího školního věku",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Je způsobena relativně krátkým očním bulbem a méně zakřivenou rohovkou",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Je způsobena konsenzuální reakcí",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "55Pediatrická propedeutika",
+      "order": 55,
+      "text": "V postnatálním vývoji motoriky:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Při holokinetickém stadiu hybnosti se vlastně jedná o nekoordinovaný pohyb všech čtyř končetin",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Monokinetické stadium hybnosti se objevuje v deseti měsících věku",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Dromokinetické stadium se objevuje od pátého měsíce věku ",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Kratikinetické stadium hybnosti přichází s dokončením prvního roku života ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "56Pediatrická propedeutika",
+      "order": 56,
+      "text": "V postnatálním vývoji motoriky:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Při monokinetickém stadiu hybnosti již kojenec pohybuje samostatně i jednou končetinou, ale pohyby ještě nemají směr a řízení",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Holokinetické stadium hybnosti je typické pro věk sedmi měsíců",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Dromokinetické stadium je charakterizováno správným směrem pohybů končetin",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Kratikinetické stadium je odvozeno od řeckého slova kratein - zvládnout ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "57Pediatrická propedeutika",
+      "order": 57,
+      "text": "Mezi 7. a 9. měsícem věku:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Dítě začíná rozlišovat mezi známou a cizí tváří tzv. první období separační úzkosti",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Začíná vnímat permanenci objektu",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Chování k věcem a osobám nevykazuje žádné významné rozdíly",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Charakteristická pro toto období je žárlivost při narození mladšího sourozence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "58Pediatrická propedeutika",
+      "order": 58,
+      "text": "Batole:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Kolem dvou let si dítě rádo hraje vedle druhých dětí, ale nemá rádo, aby mu do hry zasahovaly (paralelní hra)",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Ve třetím roce začíná mít hra charakter spolupráce nebo soupeřivosti (kolektivní hra)",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Charakteristická je reakce žárlivosti při narození mladšího sourozence",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Objevují se reakce násilného vymáhání nebo odmítání (fáze negativismu nebo vzdoru)",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "59Pediatrická propedeutika",
+      "order": 59,
+      "text": "Předškolní dítě:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Objevuje se pocit viny, vytváří se svědomí",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Do pěti let tvoří ve hře většinou nejvýše tříčlenné skupiny",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Hru lze charakterizovat jako kolektivní",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Hru lze charakterizovat jako paralelní",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "60Pediatrická propedeutika",
+      "order": 60,
+      "text": "Léky proti bolesti u dětí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Podáváme dětem méně často, protože děti vnímají bolest méně než dospělí",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Podáváme dětem méně často, protože u nich vzniká rychleji návyk",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Bolest tlumíme vždy, protože již plod ve 22. týdnu je vybaven komplexním systémem pro vnímání bolesti",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Jen když bolest dokumentujeme skórovacími systémy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "61Pediatrická propedeutika",
+      "order": 61,
+      "text": "Schopnost abstraktního myšlení:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Dosahuje dítě v 10 letech",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Dosahuje dítě v 5-6 letech",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Umožňuje výchovu k pořádku",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Dovoluje začít s vzdělávacím procesem",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "62Pediatrická propedeutika",
+      "order": 62,
+      "text": "Nejčastější příčina úmrtí u dětí starších 1 roku jsou:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Kardiovaskulární nemoci",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Vrozené vývojové vady",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Úrazy a otravy",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Maligní nádory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "63Pediatrická propedeutika",
+      "order": 63,
+      "text": "Dvouměsíční dívka má opruzený zadeček:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Vyslovíme podezření na buněčný imunodeficit",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Zadeček namažeme antibiotickou mastí",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Důležitá je důsledná hygiena a omytí vodou po stolici",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Důležité je ponechat podle možností exponovanou kůži na vzduchu",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "64Pediatrická propedeutika",
+      "order": 64,
+      "text": "Jaká je vhodná poloha pro spánek u dvouměsíčního dítěte:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Na bříšku",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Na levém nebo pravém boku",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Na pravém boku",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Na zádech",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "65Pediatrická propedeutika",
+      "order": 65,
+      "text": "Nejrychlejší růst u dospívající dívky je:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "V období kolem menarché",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Těsně po 17. roce",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "2.-3. rok po menarché",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "1 rok po menarché",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "66Pediatrická propedeutika",
+      "order": 66,
+      "text": "Do obrazu purgativní mentální anorexie nepatří:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Porucha vnímání vlastního těla",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Krátké bulimické ataky",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Amenorea",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Noční pocení",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "67Pediatrická propedeutika",
+      "order": 67,
+      "text": "Na ambulanci dětské kliniky přichází 16letý učeň s otcem. Otec je přesvědčený, že hoch užívá drogy, dle otce se „chytl“ špatné party, doma se ztrácejí peníze. Chlapec abúzus drog popírá. Co může přispět k podezření, že chlapec drogy bere?",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Viditelné vpichy na kůži, které se nedají vysvětlit odběry krve nebo injekční terapií",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Povrchové trombózy a kožní infekce",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Váhový úbytek",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Palmoplantární erytém",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "68Pediatrická propedeutika",
+      "order": 68,
+      "text": "Dospívající dívka udává u praktického lékaře pro děti a dorost nepříjemné dysurie, praktický lékař odebral vyšetření moče a sedimentu a kvantitativní bakteriurii. Moč a sediment vykazuje mírnou proteinurii a signifikantní leukocyturii. Kultivace moče je ale negativní. Teploty ani jiné celkové příznaky dívka nemá. Příčinou obtíží a močového nálezu může být:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Akutní postreptokoková glomerulonefritida",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Akutní pyelonefritida",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Urolithiáza",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Chlamydiová uretritida",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "69Pediatrická propedeutika",
+      "order": 69,
+      "text": "Dospívající hoch, bez jakýchkoli zdravotních obtíží, obdržel výsledek sportovní prohlídky, při které byly provedeny i krevní odběry. Jediný patologický výsledek v krevním biochemismu (včetně bilirubinu, ALT, AST, GMT) je bilirubin 60 µmol/l, konjugovaný bilirubin je 8 µmol/l). Jaká diagnóza přichází v úvahu?",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Crohnova choroba",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Gilbertův syndrom",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Infekční mononukleóza",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Ulcerózní kolitida",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "71Pediatrická propedeutika",
+      "order": 71,
+      "text": "Při experimentování s drogami:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Užívá dospívající drogy většinou ve skupině vrstevníků",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Může z experimentu spontánně odstoupit bez větších tělesných nebo psychických obtíží",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Bere drogy často tajně a o samotě",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Většinou již užívá drogy intravenózně",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "73Pediatrická propedeutika",
+      "order": 73,
+      "text": "Jedno vyšetření krevního tlaku u 17letého dospívajícího chlapce, které přinese hodnotu 145/90 mm Hg:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Již znamená, že dospívající má diagnózu hypertenze",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Nás vede k urgentnímu vyšetření funkcí ledvin",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Je signálem pro opakované kontroly krevního tlaku",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Může být způsobeno „syndromem bílého pláště“",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "74Pediatrická propedeutika",
+      "order": 74,
+      "text": "Bolesti v pravém podbřišku v adolescenci mohou být projevem",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Akutní appendicitidy",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Extrauterinní gravidity",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Crohnovy choroby",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Urolithiázy",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "75Pediatrická propedeutika",
+      "order": 75,
+      "text": "Zralé mateřské mléko obsahuje:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "0,9-1,1 g bílkoviny na 100 ml",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "2 g tuků na 100 ml",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "3,5 g laktózy na 100 ml",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Imunoglobulin IgM",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "76Pediatrická propedeutika",
+      "order": 76,
+      "text": "Kojenecká mléčná výživa má tyto modifikace a fortifikace:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Počáteční (označovaná číslem 1)",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Pokračovací (označovaná číslem 2)",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Mléka pro batolata (označovaná číslem 3)",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Je fortifikována vitaminem D",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "77Pediatrická propedeutika",
+      "order": 77,
+      "text": "U zavádění příkrmů platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Příkrmy lze zahájit zeleninou na lžičce (brokolice, mrkev, brambor)",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Mezi zaváděním jednotlivých složek je vhodné ponechat interval 3-4 dnů k posouzení tolerance nové potraviny",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Med lze zavést od 6. měsíce věku",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Lepek je vhodné zavést až po 9. měsíci věku pro snížení rizika celiakie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "78Pediatrická propedeutika",
+      "order": 78,
+      "text": "Které vitaminy jsou rutinně podávány všem novorozencům a kojencům:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "B12",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "D",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "C",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "K",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "79Pediatrická propedeutika",
+      "order": 79,
+      "text": "Nemléčné příkrmy (komplementární výživu) je doporučeno zavádět:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Ve 3. měsíci",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Ve 4. měsíci",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Mezi 5.-6. měsícem",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Lžičkou",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "80Pediatrická propedeutika",
+      "order": 80,
+      "text": "V léčbě alergie na bílkovinu kravského mléka jsou používány:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Umělá mléčná kojenecká výživa označená HA (hypoantigenní formule)",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Extenzivní hydrolyzáty",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Umělá mléčná kojenecká výživa na bázi aminokyselin",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Umělá mléčná kojenecká výživa označená AR",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "81Pediatrická propedeutika",
+      "order": 81,
+      "text": "Kojenecká strava „do ruky“ (finger food) u zdravého kojence:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Se nabízí mezi 4.-5. měsícem",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Od 6.měsíce",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Mezi 7.-8. měsícem",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Je zaváděna kolem 1. roku života jako tzv. „family food“",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "82Pediatrická propedeutika",
+      "order": 82,
+      "text": "Veganská výživa po 6. měsíci věku ohrožuje dítě:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Nedostatkem kalorií",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Nedostatkem bílkovin",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Nedostatkem vitaminu B12",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Nedostatkem vápníku",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "85Pediatrická propedeutika",
+      "order": 85,
+      "text": "Horečka je:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Tělesná teplota nad 38,0 °C naměřena v konečníku",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Zvýšení „bazální teploty jedince“ o 1-4 °C",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Zvýšení tělesné teploty v axile nad 37,2 °C",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Zvýšení teploty kůže čela dítěte",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "86Pediatrická propedeutika",
+      "order": 86,
+      "text": "Zvýšení tělesné teploty může způsobit:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Zvýšení nastavení „centrálního termostatu“",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Zvýšení metabolické aktivity",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Přehřátí pobytem v horkém prostředí",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Požití přehřátých nápojů nebo jídla",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "87Pediatrická propedeutika",
+      "order": 87,
+      "text": "Termogeneza u dítěte má zdroje:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Třesová termogeneze",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Netřesová termogeneze",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Křik kojence",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Peristaltika GIT",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "88Pediatrická propedeutika",
+      "order": 88,
+      "text": "U dosud zdravého dítěte se změna zdravotního stavu projeví náhle horečkou. Které z uvedených průvodních jevů jsou velmi závažné?",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Porucha vědomí",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Dušnost",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Pocení",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Krvácivé projevy na kůži",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "89Pediatrická propedeutika",
+      "order": 89,
+      "text": "Popis průběhu horečky pomáhá při diferenciální diagnostice:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Šesté dětské nemoci",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Malárie",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Revmatické horečky",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Hodgkinského lymfomu",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "90Pediatrická propedeutika",
+      "order": 90,
+      "text": "Patofyziologické mechanizmy vzniku horečky způsobené „endogenním pyrogenem“ jsou:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Periferní vazodilatace",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Periferní vazokonstrikce",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Bradykardie",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Svalová kontraktura a třesavka",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "91Pediatrická propedeutika",
+      "order": 91,
+      "text": "Léky, které nejsou vhodné pro ovlivnění horečky u dětí při běžné nemoci:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Paracetamol",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Acetylsalicylová kyselina",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "V-penicilin",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Prednison",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "92Pediatrická propedeutika",
+      "order": 92,
+      "text": "Mírné zvýšení tělesné teploty u kojence může způsobovat také:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Nedostatek vitamínu K",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Předávkování vitamínu D",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Prořezávání zubů",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Kongenitální hypothyreóza",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "93Pediatrická propedeutika",
+      "order": 93,
+      "text": "Paracetamol při horečce u dětí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Dávkuje se 10-15 mg/kg a dávku",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Dávkuje se 150 mg/kg a den",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Interval mezi dávkou paracetamolu je 6 hod",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Lze podat i intravenózně",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "95Pediatrická propedeutika",
+      "order": 95,
+      "text": "O novorozeneckém screeningu v ČR neplatí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Vyšetření se provádí 48.-72. hodinu života",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Pravděpodobnost, že u jednoho konkrétního vyšetřovaného novorozence bude zjištěno některé ze screenovaných onemocnění, je přibližně 1:1000",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Krevní vzorky se odebírají do speciální zkumavky",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Vyšetření se provádí u všech novorozenců 72.-96. hodinu života",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "96Pediatrická propedeutika",
+      "order": 96,
+      "text": "Pro kongenitální adrenální hyperplazii platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Při novorozeneckém screeningu se stanovuje hladina kortizolu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Více než 90 % je onemocnění způsobeno deficitem 21-hydroxylázy",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Je v novorozeneckém screeningu snadněji diagnostikována u chlapců",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Děti trpí dehydratací při hyperglykémii",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "97Pediatrická propedeutika",
+      "order": 97,
+      "text": "Pro kongenitální hypothyreózu neplatí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je druhé nejčastější onemocnění zařazené do programu novorozeneckého screeningu",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Klinické příznaky neléčené kongenitální hypothyreózy se plně rozvinou mezi 3.-6. měsícem věku",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "V novorozeneckém screeningu se měří hladina fT4",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Může se jednat o autosomálně dominantně i recesivně děděná onemocnění související s dysgenezí i dyshormonogenezí štítné žlázy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "98Pediatrická propedeutika",
+      "order": 98,
+      "text": "Pro novorozenecký screening fenylketonurie platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Jedná se o nejdéle screenované onemocnění na světě",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Při pozitivním nálezu je plné kojení kontraindikováno",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "I přes adekvátní léčbu nemusí být prognóza u klasické formy onemocnění dobrá",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Pokud by nebyla diagnostikována, projeví se závažným onemocněním jater a ledvin spolu s těžkým opožděním vývoje",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "99Pediatrická propedeutika",
+      "order": 99,
+      "text": "Pro novorozenecký screening cystické fibrózy neplatí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Metodou novorozeneckého screeningu je měření hladiny chloridů v potu na porodnici 48.-72. hodinu života",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Diagnostikuje všechny formy onemocnění",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Do vyšetření v rámci novorozeneckého screeningu patří i vyšetření DNA",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Při pozitivitě imunoreaktivního trypsinogenu v krvi se provádí recall a nový odběr krve na vyšetření DNA",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "100Pediatrická propedeutika",
+      "order": 100,
+      "text": "O vyšetření v rámci novorozeneckého screeningu platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Při screeningu kongenitální hypothyreózy se stanovuje koncentrace volného thyroxinu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Pro diagnostiku cystické fibrózy je zásadní stanovení hladina elastázy v suché krevní kapce",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Hladina amoniaku se měří v rámci novorozeneckého screeningu při vyšetření poruch cyklu močovinY",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Při screeningu kongenitální hypothyreózy se stanovuje koncentrace TSH",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "104Pediatrická propedeutika",
+      "order": 104,
+      "text": "V novorozenecké populaci se sluchové vady vyskytují ve frekvenci 1-2/1000 živě narozených novorozenců. K jejich odhalení slouží novorozenecký screening sluchu, který je nutné realizovat 2.-4. den po narození na novorozeneckých odděleních. K tomuto vyšetření slouží jednoduchá neinvazivní metoda:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "BERA (brainstem electric response audiometry)",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "SSEP (steady state evoked potentials)",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "TEOAE (tranzitorní evokované otoakustické emise)",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "OAE (otoakustické emise)",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "105Pediatrická propedeutika",
+      "order": 105,
+      "text": "Pravidelné preventivní prohlídky v ordinaci praktického lékaře pro děti a dorost slouží k včasnému odhalení odchylek v somatickém, psychomotorickém a senzorickém vývoji dítěte.  Rodiče jsou zváni k pravidelným prohlídkám 10x v období kojeneckém a batolecím a od třetího roku života v pravidelných dvouletých intervalech. K vyšetření dětí školního věku v ordinaci PLDD kromě fyzikálního vyšetření vždy patří:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Vyšetření zraku, sluchu, arteriálního TK, vyšetření moči",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Měření glykémie a cholesterolu",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Antropometrické vyšetření",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Kontrola a plán pravidelného a dobrovolného očkování + očkování dítěte",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "106Pediatrická propedeutika",
+      "order": 106,
+      "text": "Součástí preventivní prohlídky kojenců a batolat je i hodnocení psychomotorického a psychosociálního vývoje dítěte. V případě překročení mezníků v tomto vývoji je potřeba dítě odeslat na vyšetření do dalších specializovaných ordinací (dětský neurolog, fyzioterapeut, eventuálně další specialisté, dle dalších asociovaných komorbidit a symptomů).  Vyznačte nepravdivá tvrzení.",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "V rámci fyziologického vývoje dítě v roce musí samostatně chodit",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "V rámci fyziologického vývoje dítě samostatně chodí nejpozději v 18 měsících",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "V 7 měsících dítě na břichu leží ve vzporu s nataženými pažemi opřenými o dlaně",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "V roce dítě musí umět alespoň 10 slov",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "107Pediatrická propedeutika",
+      "order": 107,
+      "text": "Pro období batolecího věku jsou v ordinaci PLDD stanovené prohlídky v 18. měsíci a 3 letech věku. Označte pravdivá tvrzení.",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Ve 3 letech věku se v ordinaci PLDD realizuje první skríningové vyšetření pro poruchy autistického spektra (PAS) prostřednictvím Dotazníku M-CHAT",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Pro batolecí věk jsou typické separační úzkost a silná fixace na matku",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "V batolecím věku dítě prožívá první období vzdoru a sebeuvědomování",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Batolecí neofobie můžou vést k nutričním deficitům. Nejčastější nemocí z nedostatečného příjmu u batolat je proteino-energetická malnutrice",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "108Pediatrická propedeutika",
+      "order": 108,
+      "text": "Preventivní prohlídky v ordinaci praktického lékaře pro děti a dorost mají za cíl:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Včasný záchyt patologických stavů vrozených i získaných v somatickém, psychomotorickém a sociálním vývoji",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Prevence obezity a civilizačních nemocí, rizikového chování, závislostí",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Vyšetřením stolice na OK (okultní krvácení) ve 3 měsících věku dítěte včasný záchyt alergie na bílkovinu kravského mléka",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Nutričním poradenstvím a podporou laktace v kojeneckém věku podpořit prevenci civilizačních a alergických nemocí",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "109Pediatrická propedeutika",
+      "order": 109,
+      "text": "V ordinaci praktického lékaře pro děti a dorost se na základě Jednotného systému preventivních prohlídek u dítěte v 5. roce života vyšetřuje:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Zrak standardizovanými řádkovými optotypy. Vyšetřují se vždy obě oči (monookulárně s dobře zalepeným druhým okem)",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Školní zralost dítěte – vývoj řeči, grafomotoriky, psychosociální a emocionální zralost dítěte, úroveň kognitivních dovedností",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Vyšetření cholesterolu u dětí s vysokým výskytem kardiovaskulárních nemocí v rodině",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Přítomnost sekundární enurézy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "110Pediatrická propedeutika",
+      "order": 110,
+      "text": "Při preventivním vyšetření 3letého chlapce v ordinaci praktického lékaře pro děti a dorost je pravděpodobné, že pediatr může vyšetřením konstatovat níže uvedené. Označte pravdivá tvrzení:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Dítě se odchyluje z antropometrické křivky, je bledé, s prominencí břicha. Jako vhodné je imunologické vyšetření celiakie.",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Chlapec mluví v jednoduchých 2-3 slovných srozumitelných větách. Rozumí jednoduchým pokynům, porozumění řeči se zdá být v pořádku. Nejeví další známky odchylek v psychosociálním vývoji.  Předchozí dotazníkové M-CHAT hodnocení je bez zjevné patologie. Jedná se o možný fyziologický vývoj. Sledování řeči je vhodné v ordinaci PLDD, nevyžaduje prozatím další specializovaná vyšetření.",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Chlapec má neustále pleny na noc. I přes den je přítomná občasná enureza. Pediatr indikuje vyšetření na sonografickém a nefrologickém pracovišti.",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "V případě, že při monokulárním vyšetření dítěte na optotypu dítě nespolupracuje anebo je vyšetření nejednoznačné, odloží toto vyšetření na prohlídku v 5. roce života. Riziko pozdního odhalení vrozených vad zraku a tupozrakosti je minimální.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "111Pediatrická propedeutika",
+      "order": 111,
+      "text": "Při preventivním vyšetření 11letého chlapce v ordinaci PLDD pediatr může po prohlídce konstatovat níže uvedené závěry:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Chlapec doposud nemá žádné projevy puberty. Je indikovaná k vyšetření endokrinologem jako pubertas tarda.",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Praktický lékař doporučí chlapci očkování proti HPV a v případě souhlasu rodičů chlapce očkuje. Jedná se o dobrovolné očkování hrazené z veřejného pojištění pro kohortu 11letých chlapců.",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "S ohledem na akcelerovaný růst u pubertálního chlapce se začíná rozvíjet skolióza.  Pediatr indikuje vyšetření ortopedem.",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "V moči pediatr zachytí mikroskopickou hematurii, bez proteinurie, bez leukocyturie. Tato byla u chlapce již zachycená v minulosti, intermitentně. Chlapec je normotenzní, zdravý, bez dalších chronických nemocí, bez historie infekcí močových cest. Bratr maminky chlapce trpí chronickým ledvinovým selháním. Pediatr indikuje opětovné vyšetření moči za standardních odběrových podmínek a v případě potvrzení mikroskopické hematurie nefrologické vyšetření. Zvažuje audiometrické vyšetření.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "112Pediatrická propedeutika",
+      "order": 112,
+      "text": "Očkování dětí v rámci očkovacího kalendáře je v ČR ze zákona:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Povinné",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Dobrovolné",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Povinné pouze před nástupem do kolektivního zařízení",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Nepovinné",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "113Pediatrická propedeutika",
+      "order": 113,
+      "text": "Mezi kontraindikace pro očkování patří:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Předchozí závažná alergická reakce po očkování",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Srdeční vada s prevencí infekční endokarditidy",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Atopický ekzém",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Akutní horečnatá infekce",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "114Pediatrická propedeutika",
+      "order": 114,
+      "text": "Aktivní imunizace se neaplikuje:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Intramuskulárně",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Intravenózně",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Subkutánně",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Intradermálně",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "115Pediatrická propedeutika",
+      "order": 115,
+      "text": "Po aplikaci vakcíny zůstává dítě pod zdravotnickým dohledem:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "30 minut",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "1 hodinu",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Pokud o to požádá rodič nebo doprovod dítěte",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Pokud dítě má v anamnéze alergickou reakci nebo atopii v rodině",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "116Pediatrická propedeutika",
+      "order": 116,
+      "text": "Proti hepatitidě A se očkuje:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Se neočkuje",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Při cestách do zahraničí",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Na žádost rodičů",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Mimořádně z rozhodnutí hlavního hygienika",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "117Pediatrická propedeutika",
+      "order": 117,
+      "text": "Hexavalentní očkovací látka neobsahuje vakcínu proti:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Hepatitidě typu B",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Rotavirům",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Záškrtu",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "RSV",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "118Pediatrická propedeutika",
+      "order": 118,
+      "text": "Očkování proti rotavirové infekci je vhodné zahájit:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Po prvním průjmovém onemocnění kojence",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "V 6. týdnu života",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "V porodnici místo očkování proti tuberkulóze",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Před nástupem do mateřské školky",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "121Pediatrická propedeutika",
+      "order": 121,
+      "text": "Očkování proti tuberkulóze (BCG vakcína):",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Očkují se pouze novorozenci a kojenci, u kterých je v rodině riziko nákazy",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Očkují se pouze novorozenci narození před 32. týdnem těhotenství",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "U dětí očkovaných proti tuberkulóze se první dávka hexavakcíny podává až po 15. týdnu a po zahojení jizvy po BCG inokulaci",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "BCG vakcína se aplikuje přísně intramuskulárně",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "122Pediatrická propedeutika",
+      "order": 122,
+      "text": "Ve 13.-18. měsíci života se zahajuje povinné očkování proti:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Spalničkám",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Zarděnkám",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Klíšťové encefalitidě",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Příušnicím",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "123Pediatrická propedeutika",
+      "order": 123,
+      "text": "V 10 -11 letech je přeočkování mimo jiné i proti tetanu, další přeočkování proti tetanu je:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Po 15 letech",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Není nutné v našich podmínkách",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Je nutné u zdravotníků",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Očkují se jen žokejové a zaměstnanci ve stájích koní",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "124Pediatrická propedeutika",
+      "order": 124,
+      "text": "Očkování v ordinaci praktického lékaře pro děti a dorost je jednou z klíčových úloh v péči praktického pediatra o dítě. V ordinacích probíhá očkování pravidelné, očkování dobrovolné a očkování rizikových skupin. Rizikové skupiny v pediatrii, pro které je očkování proti invazivním pneumokokovým, meningokokovým nemocem a chřipce hrazeno podle aktuálně platné legislativy z veřejného zdravotního pojištění, jsou indikované pro:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Děti narozené do 1500 g",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Děti s primárním a závažným sekundárním imunodeficitem",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Děti po bakteriálních meningitidách a septikemiích",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "S anatomickou a funkční asplenií",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "125Pediatrická propedeutika",
+      "order": 125,
+      "text": "Dle platné legislativy od roku 2011 došlo v České republice ke změně v kalmetizaci dětské populace. Kalmetizaci podléhají pouze rizikové skupiny dětí. Pro indikaci ke kalmetizaci platí:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "Jeden z rodičů, oba rodiče nebo sourozenec má/měl aktivní TBC",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Dítě, jeden z rodičů nebo člen domácnosti se narodil nebo souvisle déle než 6 měsíců pobýval ve státě s vyšší incidencí TBC než 40/100 000 obyvatel",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Dítě bylo v kontaktu s TBC",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Novorozenec narozený v České republice s pozitivně vyhodnoceným Dotazníkem rizika tuberkulózy, který je povinný pro všechny novorozence",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "126Pediatrická propedeutika",
+      "order": 126,
+      "text": "Fyziologická výška desetiletého dítěte je:",
+      "category": "Pediatrická propedeutika",
+      "options": [
+        {
+          "option": "a",
+          "text": "120 cm",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "140 cm",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "160 cm",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "110 cm",
+          "isCorrect": false
+        },
+        {
+          "option": "a",
+          "text": "120 cm",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "140 cm",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "160 cm",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "110 cm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "126Pediatrická propedeutika",
+      "order": 126,
+      "text": "Fyziologická výška desetiletého dítěte je:",
+      "category": "Pediatrická propedeutika",
+      "options": []
+    }
+  ],
+  "Akutní stavy v pediatrii": [
+    {
+      "id": "1Akutní stavy v pediatrii",
+      "order": 1,
+      "text": "Obsah celkové tělesné vody v organismu:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je závislý na věku",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Souvisí s množstvím tělesného tuku a pohlavím jedince",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Tvoří 50 % tělesné hmotnosti novorozence",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Je u novorozenců z větší části tvořena intracelulární tekutinou",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "2Akutní stavy v pediatrii",
+      "order": 2,
+      "text": "U dehydratace platí:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Dehydrataci lze rozdělit na čtyři stupně dle závažnosti a hmotnostního úbytku",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Mezi příznaky lehké dehydratace patří oschlé sliznice, snížený kožní turgor, prodloužený kapilární návrat, hyperpnoe",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Nedostatečná hydratace dítěte ovlivňuje diurézu, tlak krve a vědomí",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Pokud průměrně prospívající 15měsíční batole ztratí na váze 700 g, jedná se o dehydrataci těžkou",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "3Akutní stavy v pediatrii",
+      "order": 3,
+      "text": "Mezi zásady rehydratační terapie patří:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Polovinu vypočtených ztrát podáváme během prvních 4 hodin, druhou polovinu během dalších 8 hodin",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Počáteční volumexpanzi při těžké dehydrataci podáváme v dávce 10-20 (40) ml/kg",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Při mírném stupni dehydratace lze zvolit perorální rehydrataci orálními rehydratačními roztoky s 60 mmol/l natria obsahujícími glukózu",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Při hypernatremické dehydrataci podáváme jako první poloviční fyziologický roztok",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "4Akutní stavy v pediatrii",
+      "order": 4,
+      "text": "Při horečce 39 °C a zánětu plic navýšíme bazální potřebu tekutin o:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "5-10 %",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "10-15 %",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "20-30 %",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Potřebu tekutin nenavyšujeme",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "5Akutní stavy v pediatrii",
+      "order": 5,
+      "text": "Bazální potřebu tekutin navyšujeme v případě:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Zvýšeného katabolismu při bakteriální sepsi",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Srdečního selhání",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Akutního renálního selhání",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Průjmech",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "6Akutní stavy v pediatrii",
+      "order": 6,
+      "text": "Součástí klinického vyšetření 10měsíčního kojence s dehydratací je mimo jiné:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Pouze tepová a dechová frekvence, tlak krve měřit nemusíme, pokud dítě vypadá dobře",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Tepová frekvence, dechová frekvence, krevní tlak, tělesná teplota a hmotnost",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Zhodnocení stavu vědomí",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Vyšetření Homansova znamení",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "7Akutní stavy v pediatrii",
+      "order": 7,
+      "text": "Součástí počáteční intravenosní rehydratační terapie bez znalosti laboratorních výsledků je u 5letého chlapce se středně závažnou dehydratací možná aplikace:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Fyziologický roztok plný",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Fyziologický roztok poloviční",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Glukóza 10 % s MgSO4 10 %",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Plasmalyte roztok",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "8Akutní stavy v pediatrii",
+      "order": 8,
+      "text": "Původně zdravý 10kg kojenec se středně těžkou isonatremickou dehydratací (6 % hmotnostní úbytek) při objemných vodnatých průjmech (stolice 4x denně) a teplotou 38 °C byl přijat k rehydratační intravenosní terapii na dětské oddělení. Kolik tekutin by mělo dítě přibližně dostat během prvních 24 hodin, aby dále nedošlo ke zhoršování klinického stavu?",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "1100 ml",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "1600 ml",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "2100 ml",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "2700 ml",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "11Akutní stavy v pediatrii",
+      "order": 11,
+      "text": "Nejčastější příčina intoxikace dítěte v předškolním věku je:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Sebevražedný pokus",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Náhodné požití chemikálií",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Náhodné požití léků",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Záměrné podání léku jinou osobou",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "12Akutní stavy v pediatrii",
+      "order": 12,
+      "text": "Při podezření na otravu dítěte neznámými léky v přednemocniční péči:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Zajistíme žilní vstup a podáme infuzi 10 % glukózy",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Zajistíme žilní vstup a podáme infuzi balancovaným roztokem",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Ihned zahájíme kardiopulmonální resuscitaci",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Sledovat životní funkce a možné příznaky otravy",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "13Akutní stavy v pediatrii",
+      "order": 13,
+      "text": "Pokud se dítě omylem napilo petroleje:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Vyvoláme zvracení podáním alespoň 100 ml slané vody",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Co nejrychleji provedeme výplach žaludku",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Výplach žaludku je přísně kontraindikovaný",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Výplach žaludku lze provést jen u zaintubovaného pacienta",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "14Akutní stavy v pediatrii",
+      "order": 14,
+      "text": "Pokud je dítěti omylem nitrožilně podán jiný lék, než je ordinovaný:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Ihned vytáhneme i.v. kanylu, abychom minimalizovali dávku a budeme sledovat základní životní funkce",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Ponecháme i.v. kanylu a budeme sledovat základní životní funkce",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Konzultujeme příznaky s Toxikologickým informačním střediskem",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Oznámíme otravu na SÚKL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "15Akutní stavy v pediatrii",
+      "order": 15,
+      "text": "Při intoxikaci alkoholem – má-li dítě poruchu vědomí – je třeba:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Dítě hospitalizovat, zajistit žilní vstup a co nejdříve podat antidotum naloxon",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Dítě hospitalizovat, zajistit žilní vstup a monitorovat základní životní funkce",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Zajistit vyšetření hladiny alkoholu a vnitřního prostředí",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Dítě hospitalizovat, provést výplach žaludku a co nejdříve podat živočišné uhlí",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "16Akutní stavy v pediatrii",
+      "order": 16,
+      "text": "Při intoxikaci alkoholem - má-li dítě poruchu vědomí - hrozí:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Zástava dechu",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Selhání krevního oběhu",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Zvracení a aspirace zvratků",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Dehydratace při hyperglykémii vedoucí k polyurii",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "17Akutní stavy v pediatrii",
+      "order": 17,
+      "text": "Výplach žaludku u dítěte po intoxikaci léky děláme:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Vlažným fyziologickým roztokem nejlépe do 2 hodin po požití",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Chladným fyziologickým roztokem nejlépe do 2 hodin po požití",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Je-li dítě v bezvědomí, provádíme výplach žaludku až po intubaci",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Je-li dítě v bezvědomí, výplach žaludku neprovádíme",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "18Akutní stavy v pediatrii",
+      "order": 18,
+      "text": "Při požití kyseliny (např. prostředek k odstraňování vodního kamene):",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Co nejrychleji provedeme výplach žaludku fyziologickým roztokem",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Podáme roztok bikarbonátu k neutralizaci účinků kyseliny",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Podáme pouze malé množství čisté vody a dopravíme RZP dítě do nemocnice",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Zavedeme naso či orogastrickou sondu ke snížení rizika striktury jícnu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "19Akutní stavy v pediatrii",
+      "order": 19,
+      "text": "Při požití louhu (např. čistící prostředek do myček nádobí):",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Podáme 50 ml vody s citronem a dopravíme dítě co nejrychleji do nemocnice",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Podáme pouze malé množství čisté vody a dopravíme co nejrychleji dítě do nemocnice",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Provedeme výplach žaludku fyziologickým roztokem a sondu ponecháme in situ",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Dáme vypít hrnek mléka a dopravíme dítě co nejrychleji do nemocnice",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "20Akutní stavy v pediatrii",
+      "order": 20,
+      "text": "Živočišné uhlí (Carbo adsorbens) podáváme:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Na konci výplachu žaludku v dávce do 0,5 g/kg",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Používá se pouze při léčbě průjmu, nikdy ne u intoxikací",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Podává se především u intoxikace železem a dalšími těžkými kovy",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Je třeba podat do 2 hodin po intoxikaci",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "21Akutní stavy v pediatrii",
+      "order": 21,
+      "text": "Při intoxikaci oxidem uhelnatým blokuje COHb:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "NADH-Q-oxidoreduktázu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Cytochrom c reduktázu",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Cytochrom c oxidázu",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Sukcinátdehydrogenázu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "22Akutní stavy v pediatrii",
+      "order": 22,
+      "text": "Etiologie a patogeneze selhání základních životních funkcí u dětí a u dospělých:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Se v zásadě neliší, podstatné je co nejrychlejší přivolání odborné pomoci s údajem pro ZZS, že se jedná o zástavu základních životních funkcí",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "U dětí v naprosté většině případů etiologicky převládá respirační problém, proto je potřeba věnovat úvodní pozornost především volným dýchacím cestám a obnovení/zajištění dostatečné ventilace",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Etiologie se v jednotlivých věkových kategoriích u dětí prakticky neliší, převažuje obstrukce dýchacích cest",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Při poskytování neodkladné resuscitace v jednom osamoceném zachránci se doporučuje přivolání ZZS metodou tzv. „phone fast“ (tedy nejprve 1-2 minuty provádět KPR a pak teprve přivolat ZZS) bez rozdílu u dětí i u dospělých, a to z důvodu potřeby co nejčasnějšího odstranění akutní hypoxie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "23Akutní stavy v pediatrii",
+      "order": 23,
+      "text": "Aspirace cizího tělesa:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je doménou dětského věku, až k 85 % ze všech závažných aspirací dochází v prvních 5 letech života",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Vdechnutí tekuté stravy nebo tuhého cizího tělesa není prognosticky rozdílné, většinou mívá u dětí nezávažný průběh",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Správný algoritmus první pomoci při snaze o odstranění cizího tělesa z dýchacích cest má následující posloupnost:  • pokud je postižený při vědomí, vyzýváme ho ke kašli a podporujeme jej ve snaze cizí těleso vykašlat, je to nejúčinnější mechanismus • při neúspěchu provedeme 5 úderů do zad (mezi lopatky) • při neúspěchu provedeme 5x stlačení nadbřišku (Heimlichův manévr)",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Heimlichův manévr je kontraindikován u: těhotných žen, obézních pacientů a do 15 let věku",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "24Akutní stavy v pediatrii",
+      "order": 24,
+      "text": "Zajištění průchodnosti dýchacích cest záklonem hlavy:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je základním krokem první pomoci, jehož provedení se nijak neliší s věkem pacienta ani s etiologií zástavy jeho základních životních funkcí",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "U novorozenců provádíme pouze mírný záklon hlavy (tzv. „čichací poloha“)",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Tzv. „trojitý manévr“ je jednodušší a účinnější variantou uvolnění dýchacích cest než záklon hlavy a  je u dětí vzhledem k šetrnosti upřednostňován",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Bychom měli provést u spontánně dýchajícího pacienta až ve chvíli, kdy jsme přesvědčeni, že dutina ústní neobsahuje patologický obsah, který by mohl vést k jeho aspiraci",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "25Akutní stavy v pediatrii",
+      "order": 25,
+      "text": "Použití kyslíku při KPR novorozence:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je obsolentní, při UPV se insufluje již jen vzduch",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Nezralí novorozenci se při KPR ventilují vzduchem a donošení kyslíkem",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Je zcela jedno, jestli se použije vzduch nebo kyslík, důležitá je hlavně rychlost při poskytování KPR",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Pro děti v termínu by měl být iniciálně použit při KPR vzduch. Pokud je i přes účinnou ventilaci oxygenace (SpO2) nedostatečná, je potřeba zvážit užití vyšší koncentrace kyslíku. U předčasně narozených dětí (<32.tt) by SpO2 nemělo dosáhnout stejných hodnot jako u donošených.  FiO2 by mělo být použito uvážlivě, dle hodnot aktuální SpO2, především je důležité eliminovat riziko hyperoxémie",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "26Akutní stavy v pediatrii",
+      "order": 26,
+      "text": "KPR u dětí a dospělých se liší především:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "V použití vyšších frekvencí při NSM a UPV, které by se měly blížit fyziologickým funkcím dítěte v té které věkové kategorii",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Menším fyzickým úsilím při provádění UPV (zajištění menších dechových objemů u dětí než u dospělých - musí být ale zajištěno, aby se hrudník při umělém vdechu zvedal přibližně jako při spontánní ventilaci postiženého)",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Menším fyzickým úsilím při provádění NSM (šetrnější komprese hrudníku – musí být ale zajištěno jeho stištění cca do třetiny jeho předozadního průměru bez ohledu na velikost dítěte)",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Se v zásadě v ničem neliší, prioritní je snaha o co nejčasnější odstranění asfyxie všemi dostupnými prostředky",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "27Akutní stavy v pediatrii",
+      "order": 27,
+      "text": "NSM u novorozence je indikována:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Vždy při AS 60/min a méně",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Při tzv. „bílé asfyxii“",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Při AS 80/min, která nereaguje elevací při suficientní UPV",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Pokud není cítit tepová vlna na pupečníku",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "28Akutní stavy v pediatrii",
+      "order": 28,
+      "text": "Základní poměry UPV/NSM a frekvence při poskytování KPR u dětí jsou:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Novorozenec 1:3, frekvence NSM 120/min",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Kojenci, batolata a větší děti 2:15, frekvence NSM 100/min",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Dítě nad 8 let věku až dospělý 2:30, frekvence NSM 100/min",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Nejvhodnější a nejbezpečnější je kardiopulmonální resuscitace způsobem „top less“ se snahou o co nejrychlejší frekvenci NSM do příjezdu ZZS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "29Akutní stavy v pediatrii",
+      "order": 29,
+      "text": "Základním resuscitačním lékem je adrenalin, v pediatrii ho podáváme:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Ředěný ve fyziologickém roztoku v dávce 1 ampule/10 kg hmotnosti pacienta",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Vždy spolu s bikarbonátem, při acidóze samotný adrenalin neúčinkuje",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Intratracheálně ihned po zaintubování, je to nejrychlejší a nejúčinnější způsob podání",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "V dávce 0,01 mg/kg",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "32Akutní stavy v pediatrii",
+      "order": 32,
+      "text": "Pro definici respiračního selhání platí:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Stav inadekvátní výměny plynů, kdy se jejich hodnoty pohybují mimo normální hodnoty. Pokles PaO2 je označován jako hypoxémie a vzestup PaCO2 je označován jako hyperkapnie.",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Stav charakterizovaný významnou dušností, cyanózou, tachypnoí",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Stav charakterizovaný hodnotami PaO2  < 9 kPa; PaCO2 > 6 kPa, respirační acidózou s pH < 7,35",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Stav charakterizovaný poslechovým nálezem oslabeného dýchání, dušností, kašlem a cyanózou",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "33Akutní stavy v pediatrii",
+      "order": 33,
+      "text": "Příčinou syndromu hyalinních membrán u novorozenců je:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Absence surfaktantu v alveolech",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "U novorozence s nízkou porodní hmotností snížená produkce nezralého surfaktantu a strukturální nezralost plic",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Hypoperfuze plic",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Nesprávné ošetření pupečníku",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "34Akutní stavy v pediatrii",
+      "order": 34,
+      "text": "Pro aspiraci mekonia platí následující odpovědi:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je pravidelně provázena perzistující plicní hypertenzí novorozence",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Při podezření na aspiraci mekonia se odsávají dýchací cesty ihned po porodu hlavičky",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Může vést k závažné respirační insuficienci s nutností i ECMO podpory",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Je důsledkem intrauterinně probíhající infekce nebo asfyxie",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "35Akutní stavy v pediatrii",
+      "order": 35,
+      "text": "Pneumothorax u novorozence se klinicky projevuje:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Oslabeným dýcháním na kontralaterální straně",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Oslabeným dýcháním na postižené straně",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Rychle progredujícím oxygenačním a ventilačním selháním",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Oslabeným dýcháním na postižené straně a vpadlým „člunkovitým“ nálezem na břiše",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "36Akutní stavy v pediatrii",
+      "order": 36,
+      "text": "Pro pneumokokovou pneumonii u dětí platí:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Probíhá jako lobární nebo alární pneumonie",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Probíhá jako intersticiální plicní proces",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Může být provázena rozpadovým procesem v postiženém plicním parenchymu",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Je provázena často pleurálními efuzemi",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "37Akutní stavy v pediatrii",
+      "order": 37,
+      "text": "Při respirační insuficienci u dítěte s klinickým obrazem dyspnoe, prodloužením expiria a obstruktivním poslechovým nálezem při vyšetření ABR a krevních plynů byly zjištěny následující výsledky: PaO2= 8,2 kPa; PaCO2 = 9,1; pH 7,25; HCO3 = 26 mmol/l. Jaká léčba by měla následovat?",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Oxygenoterapie",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Distenční terapie s cílem distenze dýchacích cest",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Umělá plicní ventilace",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Vysokoprůtoková oxygenoterapie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "38Akutní stavy v pediatrii",
+      "order": 38,
+      "text": "Které tvrzení u dítěte s ARDSy (acute respiratory distress syndrom) je pravdivé:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Jde o špatně stanovenou diagnózu, protože tato jednotka se u dětí nevyskytuje",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Příčinou ARDSy je např. plicní infekce, stav po tonutí, inhalační trauma kontuze plic",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Je to onemocnění charakterizované poruchou oxygenace a přítomností plicních infiltrátů",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Je to onemocnění, které má velmi dobrou prognózu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "39Akutní stavy v pediatrii",
+      "order": 39,
+      "text": "Poslechový nález na plicích s auskultačními fenomény krepitu, oslabeného dýchání, popř. trubicového dýchání je typický pro:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Bakteriální zánět plic",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "ARDSy",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Chronické plicní postižení",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Astmatický záchvat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "40Akutní stavy v pediatrii",
+      "order": 40,
+      "text": "Pro diagnostiku pleurálního výpotku jsou nejspolehlivější následující vyšetřovací metody:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Sonografie hrudníku",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "CT hrudníku",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Nativní snímek plic",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Stačí jen poslechový nález oslabeného dýchání na postižené straně",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "41Akutní stavy v pediatrii",
+      "order": 41,
+      "text": "Kvantitativní porucha vědomí se projeví:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Pouze poruchou motorických funkcí",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Pouze poruchou senzorických funkcí",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Poruchou motorických i senzorických funkcí",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Pro děti je typická kvalitativní porucha vědomí",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "42Akutní stavy v pediatrii",
+      "order": 42,
+      "text": "Glasgow coma scale:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Se používá pro stanovení hloubky poruchy vědomí pro děti od 3 let",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Hodnotí slovní a motorickou odpověď na slovní a standardní nociceptivní podněty a reakci, resp. velikost zornic",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Se používá pro hodnocení kvalitativní poruchy vědomí",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Se používá pro stanovení hloubky poruchy vědomí pro děti i dospělé",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "43Akutní stavy v pediatrii",
+      "order": 43,
+      "text": "K nejčastějším příčinám poruchy vědomí u kojenců patří:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Trauma CNS, intoxikace, dědičné poruchy metabolismu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Epilepsie, akutní bronchiolitida, poruchy srdečního rytmu",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Infekce CNS, infekce GIT s metabolickým rozvratem, dědičné poruchy metabolismu, epilepsie",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Tumor CNS, předčasný srůst švů, hydrocefalus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "44Akutní stavy v pediatrii",
+      "order": 44,
+      "text": "U dítěte s nejasnou příčinou poruchy vědomí po přijetí na lůžko:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Monitorujeme srdeční a dechovou frekvenci, saturaci, krevní tlak, teplotu",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Musíme co nejdříve vyšetřit CT CNS",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Monitorujeme vnitřní prostředí (ABR + ionty + glykémii)",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Indikujeme vyšetření očního pozadí",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "45Akutní stavy v pediatrii",
+      "order": 45,
+      "text": "Mezi vstupní vyšetření u dítěte s poruchou vědomí nepatří:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Vyšetření očního pozadí",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Vyšetření dědičných poruch metabolismu",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Vyšetření acidobazické rovnováhy, iontů a glykémie",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Vyšetření mozkomíšního moku",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "46Akutní stavy v pediatrii",
+      "order": 46,
+      "text": "K základnímu vyšetření u školního dítěte s nejasnou příčinou poruchy vědomí patří:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "EKG, neurologické vyšetření, CT CNS, oční pozadí",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "EKG, neurologické vyšetření, toxikologické vyšetření, CT CNS",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "EKG, EEG, oční pozadí, vyšetření mozkomíšního moku",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "EKG, kardiologické vyšetření, EEG, MRI CNS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "47Akutní stavy v pediatrii",
+      "order": 47,
+      "text": "Standardní zajištění dítěte s poruchou vědomí po přijetí na lůžko:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Zavedení periferního žilního vstupu, monitorování základních životních funkcí",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Zavedení centrálního žilního katetru, zahájení umělé plicní ventilace",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Parenterální výživa, monitorování vnitřního prostředí",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Zvýšená poloha horní poloviny těla, sledování reakce zornic X48. Léčba dítěte s poruchou vědomí je třeba:",
+          "isCorrect": false
+        },
+        {
+          "option": "a",
+          "text": "Zajistit žilní vstup a podat bolus fyziologického roztoku (10 ml/kg) k dosažení hladiny Na nad 145 mmol/l",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Při hypoglykémii je nutné podat ihned 10% glukózu perorálně a následně intravenózně",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Zajistit žilní vstup a včasně podat metylprednisolon 1 mg/kg jako prevenci edému mozku",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Zajistit žilní vstup, udržovat stabilní vnitřní prostředí s Na nad 140 mmol/l",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "49Akutní stavy v pediatrii",
+      "order": 49,
+      "text": "Umělá plicní ventilace u dítěte s poruchou vědomí:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je indikovaná, pokud má dítě dostatečnou dechovou aktivitu, ale má hlubokou poruchu vědomí (GCS ≤ 8 b.)",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Je indikovaná, pokud vlastní dechová aktivita je nedostatečná, nezávisle na GCS",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Má-li dítě dostatečnou dechovou aktivitu, není umělá plicní ventilace indikovaná, nezáleží na GCS",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Je indikovaná v případě nutnosti transportu dítěte na jiné pracoviště",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "50Akutní stavy v pediatrii",
+      "order": 50,
+      "text": "CT CNS u dítěte s poruchou vědomí:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je indikované, pokud není jednoznačná příčina poruchy vědomí",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Je indikované pouze u kraniotraumat",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Je pro dítě příliš zatěžující, stačí RTG lbi, u kojenců UZV vyšetření přes velkou fontanelu",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "CT CNS indikujeme po domluvě s neurologem na základě jeho vyšetření",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "51Akutní stavy v pediatrii",
+      "order": 51,
+      "text": "Nejčastějším typem šoku v dětském věku je:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Hypovolemický šok",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Kardiogenní šok",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Distribuční šok",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Septický šok",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "52Akutní stavy v pediatrii",
+      "order": 52,
+      "text": "Ke klinickým příznakům počínajícího šoku u dětí patří:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Tachykardie, tachypnoe, porucha periferního prokrvení, porucha vědomí",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Tachykardie, tachypnoe, porucha periferního prokrvení, polyurie",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Bradykardie, hypotenze, dyspnoe, poruchy ventilace",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Tachykardie, horečka, pozitivní meningeální příznaky, křeče",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "53Akutní stavy v pediatrii",
+      "order": 53,
+      "text": "Označte vrozenou srdeční vadu, která nezpůsobuje kardiogenní šok:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Totální anomální návrat plicních žil",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Koarktace aorty",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Transpozice velkých cév",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Interupce aortálního oblouku",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "54Akutní stavy v pediatrii",
+      "order": 54,
+      "text": "Jaký typ šoku způsobí akutní srdeční tamponáda:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Hypovolemický šok z důvodu ztráty tekutin do třetího prostoru",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Kardiogenní šok",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Obstruktivní šok",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Kombinace distribučního a kardiogenního šoku",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "55Akutní stavy v pediatrii",
+      "order": 55,
+      "text": "Při léčbě závažného hypovolemického šoku (AS > 180/min, TK 68/32 torr; čas kapilárního návratu > 5 s) u kojence vážícího 8 kg se jako iniciální léčba volí:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Tekutinová resuscitace plnými roztoky krystaloidů v dávce 10-20 ml/kg/10 min",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Tekutinová resuscitace koloidními roztoky v dávce 5-10 ml/kg/30 min",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Zahájení kardiotonické léčby s cílem dosáhnout poklesu srdeční frekvence",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Bezprostřední podání vazopresorů",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "56Akutní stavy v pediatrii",
+      "order": 56,
+      "text": "Mezi vazopresory nepatří:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Noradrenalin",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Dobutamin",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Vazopresin",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Terlipresin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "57Akutní stavy v pediatrii",
+      "order": 57,
+      "text": "Tenzní pneumothorax může být příčinou:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Distribučního šoku",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Kardiogenního šoku",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Obstruktivního šoku",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Anafylaktického šoku",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "58Akutní stavy v pediatrii",
+      "order": 58,
+      "text": "Septický šok v dětském věku bývá většinou kombinací následujících typů šoku:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Hypovolemický, distribuční, anafylaktický",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Hypovolemický, distribuční, kardiogenní",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Hypovolemický, obstruktivní, distribuční",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Hypovolemický, anafylaktický, kardiogenní",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "59Akutní stavy v pediatrii",
+      "order": 59,
+      "text": "Pro šok v dětském věku platí následující tvrzení:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
+        {
+          "option": "a",
+          "text": "Klesá dodávka kyslíku (DO2), stoupá extrakce kyslíku (VO2)",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Klesá srdeční výdej a stoupá nebo je normální periferní vaskulární rezistence",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Stoupá srdeční výdej a stoupá periferní vaskulární rezistence",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Stoupá DO2, klesá VO2",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "Dětská dermatologie": [
+    {
+      "id": "1Dětská dermatologie",
+      "order": 1,
+      "text": "Ke komplikacím atopické dermatitidy patří:",
+      "category": "Dětská dermatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Mollusca contagiosa",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Eczema herpeticatum",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Condylomata acuminata",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Impetiginizace",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "2Dětská dermatologie",
+      "order": 2,
+      "text": "Impetiginizace:",
+      "category": "Dětská dermatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je sekundární bakteriální infekce v terénu jiné dermatózy",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Je sekundární virová infekce v terénu jiného dermatózy",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Je totéž, co impetigo",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Patří mezi komplikace atopické dermatitidy",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "3Dětská dermatologie",
+      "order": 3,
+      "text": "O atopické dermatitidě platí:",
+      "category": "Dětská dermatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Její prevalence ve vyspělých zemích stoupá",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Její prevalence ve vyspělých zemích klesá",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Manifestuje se nejčastěji už v kojeneckém období",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "V dospělém věku nikdy nedochází k primomanifestaci",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "4Dětská dermatologie",
+      "order": 4,
+      "text": "Na etiopatogenezi atopické dermatitidy se podílí:",
+      "category": "Dětská dermatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Porucha kožní bariéry",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Dysregulace imunitních reakcí",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Dysbioza kožního mikrobiomu",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Monogenní dědičnost",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "5Dětská dermatologie",
+      "order": 5,
+      "text": "K typickým charakteristikám atopické dermatitidy patří:",
+      "category": "Dětská dermatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Pruritus",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Chronický průběh",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Suchost kůže",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Primomanifestace v pubertě",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "6Dětská dermatologie",
+      "order": 6,
+      "text": "Erytrodermie je:",
+      "category": "Dětská dermatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Přechodné zarudnutí kůže doprovázené tachykardií",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Zánět postihující víc než 90 % kůže",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Bakteriální zánět šířící se v dermis",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Závažným projevem/komplikací kožních nemocí většinou vyžadující hospitalizaci či celkovou terapii",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "7Dětská dermatologie",
+      "order": 7,
+      "text": "K typickým projevům seboroické dermatitidy patří:",
+      "category": "Dětská dermatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Erytém a deskvamace",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Eroze a exkoriace",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Vezikuly a buly",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Lichenifikace",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "8Dětská dermatologie",
+      "order": 8,
+      "text": "Predilekční lokalizace seboroické dermatitidy:",
+      "category": "Dětská dermatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Se zcela liší v kojeneckém věku a u dospělých",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Je zcela identická v kojeneckém věku a u dospělých",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Je bez ohledu na věk v intertriginózních a flexurálních oblastech",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Je bez ohledu na věk ve kštici a v obličeji",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "9Dětská dermatologie",
+      "order": 9,
+      "text": "Pro seboroickou dermatitidu platí:",
+      "category": "Dětská dermatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "V patogenezi se uplatňuje dysbalance tvorby kožního mazu",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "V patogenezi se uplatňuje porucha kožní bariéry, zejména mutace filagrinu",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "U kojenců se typicky manifestuje později než atopická dermatitida",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "U kojenců se typicky manifestuje dříve než atopická dermatitida",
+          "isCorrect": true
+        }
+      ]
+    }
+  ],
+  "Dětská endokrinologie": [
+    {
+      "id": "1Dětská endokrinologie",
+      "order": 1,
+      "text": "Pro diabetes mellitus I. typu obvykle neplatí:",
+      "category": "Dětská endokrinologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Manifestuje se obvykle v průběhu dětského věku",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "V době stanovení diagnózy dítě často přichází v diabetické ketoacidóze",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Diabetes mellitus I. typu je velmi často spojen s obezitou",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Diabetes mellitus I. typu je charakterizován především inzulinorezistencí",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "2Dětská endokrinologie",
+      "order": 2,
+      "text": "K účinkům inzulinu patří:",
+      "category": "Dětská endokrinologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Podporuje vstup glukózy do buněk",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Tlumí glukoneogenezu a ketogenezu",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Inhibuje lipolýzu",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Stimuluje glukoneogenezu a ketogenezu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "3Dětská endokrinologie",
+      "order": 3,
+      "text": "Ke klasickým příznakům diabetické ketoacidózy patří:",
+      "category": "Dětská endokrinologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Hmotnostní úbytky, průjmy, tachykardie, nechutenství",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Kussmaulovo dýchání, hmotnostní úbytky, polydipsie",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Obezita, neuropatie, nefropatie",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Známky dehydratace, polyurie, porucha vědomí",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "4Dětská endokrinologie",
+      "order": 4,
+      "text": "Celkový tělesný obsah kalia je při závažné diabetické ketoacidóze:",
+      "category": "Dětská endokrinologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Může být snížený, zvýšený i normální",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Zvýšený",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Snížený",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Normální",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

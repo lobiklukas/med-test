@@ -1,3 +1,4 @@
+"use client";
 import { useEffect } from "react";
 import { themes } from "../themes";
 import { themeChange } from "theme-change";

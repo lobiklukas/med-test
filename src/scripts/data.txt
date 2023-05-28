@@ -1,1500 +1,920 @@
-1		Zásady práce s biologickým materiálem se týkají:
-1	A)	Pouze infekčního materiálu
-1	B)	Pouze mikrobiologického materiálu
-1	C)	Pouze materiálu z pokusných zvířat
-1	D)	Veškerého biolog. materiálu - i od zdravých jedinců	y
-2		Zdrojem cholery je :
-2	A)	Moucha
-2	B)	Voda
-2	C)	Člověk	y
-2	D)	Různé potraviny
-3		Statistický výběr (souboru) je:		X
-3	A)	Pouze část cílového souboru	y
-3	B)	Základní soubor a výběr
-3	C)	Kontrolní soubor
-3	D)	Prvek souboru
-4		Mezi fyzikální metody sterilizace  n e p a t ř í:
-4	A)	Sterilizace etylénoxidem	y
-4	B)	Parní sterilizace
-4	C)	Radiační sterilizace
-4	D)	Sterilizace v autoklávu
-5		Náhodnost výběru výběrového souboru zajistíme:		X
-5	A)	Redukcí znaků
-5	B)	Osobním výběrem
-5	C)	Metodou náhodného výběru	y
-5	D)	Statistickou indukcí
-6		Statistická indukce je:		X
-6	A)	Zobecnění poznatků odvozených z výběrových dat	y
-6	B)	Charakteristika indukční cívky
-6	C)	Metoda sekulárního trendu
-6	D)	Náhodnost výběru
-7		Skríning je:
-7	A)	Obvykle metoda vysoce specifická, ale málo senzitivní
-7	B)	Obvykle metoda vysoce senzitivní, ale málo specifická	y
-7	C)	Obvykle metoda vysoce specifická a vysoce senzitivní
-7	D)	Obvykle metoda málo senzitivní a málo specifická
-8		Hlavním rysem terciální prevence je:
-8	A)	Rehabilitace a náležitá léčba	y
-8	B)	Včasná diagnóza a léčba
-8	C)	Celopopulační intervence
-8	D)	Screeningové vyšetření
-9		Studie sledující výskyt nemoci nebo faktoru v populaci se nazývají:
-9	A)	Experimentální		X
-9	B)	Deskriptivní	y
-9	C)	Analytické
-9	D)	Prospektivní
-10		Poměr počtu nových onemocnění k počtu obyvatel je:
-10	A)	Manifestnost
-10	B)	Prevalence
-10	C)	Incidence	y
-10	D)	Letalita
-11		K časovým charakteristikám patří:
-11	A)	Sezonní variace	y
-11	B)	Distribuce onemocnění podle věku
-11	C)	Prevalence diabetu
-11	D)	Žádná z uvedených
-12		K deskriptivním metodám patří:		X
-12	A)	Prospektivní studie
-12	B)	Charakteristika osob	y
-12	C)	Laboratorní ověření etiologie
-12	D)	Platí všechny ostatní
-13		K prevalenčním studiím řadíme:		X
-13	A)	Klinický pokus
-13	B)	Věkovou charakteristiku
-13	C)	Prospektivní studie
-13	D)	Imunologické přehledy	y
-14		Pro Gaussovo normální rozložení platí:
-14	A)	Modus, medián a rozptyl jsou stejné
-14	B)	Průměr, rozptyl a medián jsou stejné
-14	C)	Průměr, modus a medián jsou stejné	y
-14	D)	Průměr, modus a rozptyl jsou stejné
-15		Prostý náhodný výběr se provádí:
-15	A)	Losováním	y
-15	B)	Výběrovým krokem
-15	C)	Rozdělením souboru do oblastí
-15	D)	Výběrem uměle vytvořených skupin
-16		Z celkového počtu úmrtí v ČR tvoří úmrtí na KVO asi:
-16	A)	20%
-16	B)	50%	y
-16	C)	80%
-16	D)	90%
-17		K opatřením při výskytu nákazy patří:
-17	A)	Terénní pokus
-17	B)	Evidence bacilonosičů
-17	C)	Vstupní lékařské prohlídky
-17	D)	Lékařský dohled	y
-18		Zdrojem nákazy může (mohou) být:
-18	A)	Kontaminované potraviny
-18	B)	Kapénky obsahující mikroby
-18	C)	Nemocný člověk	y
-18	D)	Ani jedna z možností
-19		K protiepidemickému režimu patří:		X
-19	A)	Sérologické přehledy
-19	B)	Terénní pokus
-19	C)	Pravidelné očkování
-19	D)	Lékařský dohled	y
-20		K preventivním protiepidemickým opatřením řadíme:
-20	A)	Izolaci nemocného
-20	B)	Pravidelné očkování	y
-20	C)	Karanténní opatření
-20	D)	Terapii nemocných
-21		Voda se běžně může uplatnit v přenosu:
-21	A)	Stafylokokové enterotoxikózy
-21	B)	Virové hepatitidy A	y
-21	C)	Botulismu
-21	D)	Parotitidy
-22		Vzdušnou cestou dochází k přenosu:
-22	A)	Dyzentérie
-22	B)	Vztekliny
-22	C)	Spalniček	y
-22	D)	Hepatitidy B
-23		Klíšťata se uplatňují v přenosu:
-23	A)	Spavé nemoci
-23	B)	Listeriózy
-23	C)	Boreliozy	y
-23	D)	Malárie
-24		Zdrojem nákazy malárií je:
-24	A)	Komár
-24	B)	Voda
-24	C)	Člověk	y
-24	D)	Hlodavci
-25		K alimentárním nákazám patří:
-25	A)	Ornitóza
-25	B)	Virová hepatitída C
-25	C)	Infekce Campylobacter jejuni	y
-25	D)	Mykoplasmová infekce
-26		Transmisivní přenos je přenos:
-26	A)	Vodou
-26	B)	Kontaktem
-26	C)	Členovci	y
-26	D)	Hlodavci
-27		Vzduchem se typicky přenáší:
-27	A)	Virová hepatitída A
-27	B)	AIDS
-27	C)	Parotitída	y
-27	D)	Salmonelóza
-28		Nejčastější přenos nozokomiálních nákaz je způsoben:
-28	A)	Potravinami
-28	B)	Nesterilními obvazy
-28	C)	Vzduchem
-28	D)	Rukama ošetřujícího personálu	y
-29		Zdrojem nozokomiálních nákaz jsou:
-29	A)	Potraviny
-29	B)	Nástroje a přístroje
-29	C)	Pacienti	y
-29	D)	Obvazový materiál
-30		Za typickou nozokomiální nákazu považujeme:
-30	A)	Virovou hepatitídu A
-30	B)	Virovou hepatitídu B	y
-30	C)	Spálu
-30	D)	Chřipku
-31		Mezi nejčastější nozokomiální nákazy řadíme:
-31	A)	Tromboflebitídy
-31	B)	Infekce močových cest	y
-31	C)	Salmonelózy
-31	D)	Toxoplazmózu
-32		Sérologické přehledy:
-32	A)	Jsou součástí surveillance programu infekčních nemocí
-32	B)	Používají se při plánování a hodnocení očkovacích programů
-32	C)	Slouží ke studiu procesu šíření nákaz
-32	D)	Všechny odpovědi jsou správné	y
-33		Prevalence je pojem, který se hlavně používá:
-33	A)	U onemocnění s dlouhou inkubační dobou
-33	B)	U onemocnění relativně dlouho probíhajících /chronických/	y
-33	C)	U krátkodobých akutních onemocnění
-33	D)	U onemocnění s krátkou inkubační dobou
-34		Klinickou závažnost onemocnění nejlépe vystihuje:
-34	A)	Incidence
-34	B)	Prevalence
-34	C)	Smrtnost	y
-34	D)	Úmrtnost
-35		Prevalence je:
-35	A)	Mortalita
-35	B)	Specifická nemocnost
-35	C)	Poměr počtu všech případů k počtu obyvatel	y
-35	D)	Počet onemocnění s typickými příznaky
-36		Specifická nemocnost vyjadřuje:
-36	A)	Počet nových onemocnění
-36	B)	Počet nemocných k 1.1. kalendářního roku
-36	C)	Nemocnost v přesně charakterizované části populace	y
-36	D)	Letalitu
-37		Etnická příslušnost patří k charakteristice:
-37	A)	Místa
-37	B)	Sociální skupiny
-37	C)	Osoby	y
-37	D)	Přírodních podmínek
-38		Mezi přírodní podmínky /charakteristika místa/  n e p a t ř í:
-38	A)	Nadmořská výška
-38	B)	Hustota obyvatelstva	y
-38	C)	Teplota vzduchu
-38	D)	UV záření
-39		Analytické studie:		X
-39	A)	Popisují místo, kde byli nemocní zjištěni
-39	B)	Jsou terénní kontrolované strudie
-39	C)	Ověřují platnost hypotéz	y
-39	D)	Všechny odpovědi jsou správné
-40		Sekulární trendy patří do:		X
-40	A)	Charakteristiky prostředí
-40	B)	Testování hypotéz
-40	C)	Charakteristiky času	y
-40	D)	Metody analogie
-41		Studie, u kterých postupujeme od příčiny k následku, jsou studie:
-41	A)	Případů a kontrol
-41	B)	Kohortové	y
-41	C)	Experimentální
-41	D)	Deskriptivní
-42		K experimentálním studiím  n e p a t ř í:		X
-42	A)	Terénní kontrolované studie
-42	B)	Metody slepého pokusu
-42	C)	Sledování prevalence v celé populaci	y
-42	D)	Klinické kontrolované studie
-43		Medián vyjadřuje:
-43	A)	Střední hodnotu souboru	y
-43	B)	Geometrický průměr
-43	C)	Aritmetický průměr
-43	D)	Nejčetnější hodnotu souboru
-44		Střední hodnota souboru je:
-44	A)	Medián	y
-44	B)	Geometrický průměr
-44	C)	Aritmeticý průměr
-44	D)	Modus
-45		Modus v sérii pozorování je:
-45	A)	Hodnota nejvyšší
-45	B)	Hodnota střední
-45	C)	Hodnota nejčastěji se opakující	y
-45	D)	Průměr dvou sousedních středních hodnot při sudém počtu pozorování
-46		Jako intervenční epidemiologické studie označujeme :		X
-46	A)	Studie experimentální	y
-46	B)	Studie deskriptivní
-46	C)	Studie analytické
-46	D)	Všechny odpovědi jsou správné
-47		Soubor opatření, jejichž cílem je  likvidace epidemiologicky významných členovců, je :
-47	A)	Dezinfekce
-47	B)	Deratizace
-47	C)	Dezinsekce	y
-47	D)	Dehelmintace
-48		Zabránění vývoji v populaci dosud neexistujícího rizikového faktoru je:
-48	A)	Primordiální prevence	y
-48	B)	Primární prevence
-48	C)	Sekundární prevence
-48	D)	Terciální prevence
-49		Letalita tetanu je :
-49	A)	>50%	y
-49	B)	Nulová
-49	C)	Velmi nízká
-49	D)	Nelze určit
-50		Ze zhoubných nádorů (bez nádorů kůže) u žen v ČR je nejčastější:
-50	A)	Karcinom žaludku
-50	B)	Karcinom ledvin
-50	C)	Karcinom děložního čípku
-50	D)	Karcinom prsu	y
-51		Primovakcinace proti spalničkám v ČR se provádí:
-51	A)	U dětí starších 14-ti měsíců	y
-51	B)	Vždy v březnu a dubnu
-51	C)	Až před zahájením školní docházky
-51	D)	Do 6. měsíce po narození
-52		K pasivní imunizaci se používají:
-52	A)	Hyperimunní globulíny	y
-52	B)	Čištěné antigeny
-52	C)	Toxoidy
-52	D)	Bakteríny
-53		Mezi anatoxíny patří očkovací látka proti:
-53	A)	Zarděnkám
-53	B)	Tetanu	y
-53	C)	TBC
-53	D)	Hepatitídě B
-54		Živá očkovací látka je používaná u:
-54	A)	Pertuse
-54	B)	Záškrtu
-54	C)	Spalniček	y
-54	D)	Virové hepatitidy B
-55		K aktivní imunizaci se používají:
-55	A)	Antitoxíny
-55	B)	Imunoglobulíny
-55	C)	Interferony
-55	D)	Anatoxiny	y
-56		Ke kontraindikacím očkování proti tetanu patří:
-56	A)	ICHS
-56	B)	Diabetes melitus
-56	C)	Rozsáhlé popáleniny
-56	D)	Žádná z uvedených	y
-57		Očkovací látka proti TBC se aplikuje:
-57	A)	Subkutánně
-57	B)	Perorálně
-57	C)	Intradermálně	y
-57	D)	Intramuskulárně
-58		Antitoxín je:
-58	A)	Protilátka	y
-58	B)	Toxoid
-58	C)	Anatoxín
-58	D)	Toxin zbavený toxického účinku
-59		Toxoid je synonymum pro:
-59	A)	Imunoglobulin
-59	B)	Toxín
-59	C)	Anatoxín	y
-59	D)	Sérum
-60		Živá očkovací látka se používá proti:
-60	A)	Difterii
-60	B)	TBC	y
-60	C)	Tetanu
-60	D)	Pertusi
-61		Zdrojem svrabu je :		X
-61	A)	 Člověk	y
-61	B)	 Ložní prádlo
-61	C)	Domácí mazlíčci ( pes, kočka apod.)
-61	D)	Žádná odpověď není správná
-62		Mezi anatoxiny patří očkovací látka proti:
-62	A)	Pertusi
-62	B)	Spalničkám
-62	C)	TBC
-62	D)	Difterii	y
-63		Inkubační doba chřipky je :
-63	A)	Týden
-63	B)	Měsíc
-63	C)	Několik hodin až dva dny	y
-63	D)	Nelze určit
-64		Anatoxín je:
-64	A)	Toxín zbavený patogenního účinku se zachovanou antigenicitou	y
-64	B)	Specifická protilátka
-64	C)	Specifický opsonin
-64	D)	Přípravek využívaný pro pasivně-aktivní imunizaci
-65		Kontraindikací profylaktického očkování proti vzteklině je:
-65	A)	Těhotenství
-65	B)	Akutní respirační onemocnění
-65	C)	Rozsáhlý ekzém
-65	D)	Neexistuje	y
-66		Sabinova vakcína proti poliomyelitídě patří mezi:
-66	A)	Očkovací látky živé, oslabené	y
-66	B)	Bakteríny
-66	C)	Chemovakcíny
-66	D)	Rekombinované očkovací látky
-67		Lidská forma bovinní spongiformní enecefalopatie (BSE) se označuje:		X
-67	A)	Kuru
-67	B)	Creutzfeldt - Jacobova nemoc (CJN)
-67	C)	Neexistuje
-67	D)	Nová varianta CJN	y
-68		K běžným reakcím po očkování  n e p a t ř í:
-68	A)	Absces v místě vpichu	y
-68	B)	Zvýšená teplota
-68	C)	Bolesti hlavy
-68	D)	Bolesti a otok v místě vpichu
-69		K trvalým kontraindikacím očkování patří:
-69	A)	Akutní onemocnění spalničkami
-69	B)	Rekonvalescence
-69	C)	Těžká reakce po prvním podání vakcíny	y
-69	D)	Metabolické poruchy
-70		K pravidelnému očkování patří očkování proti:
-70	A)	Vzteklině
-70	B)	Rubeole	y
-70	C)	VHC
-70	D)	Žluté zimnici
-71		Lysozym je:
-71	A)	Dezinfekční prostředek
-71	B)	Bojová chemická látka
-71	C)	Očkovací látka
-71	D)	Jeden z faktorů nespecifické imunity	y
-72		Komplement je:
-72	A)	Dezinfekční prostředek
-72	B)	Očkovací látka
-72	C)	ATB
-72	D)	Jeden z faktorů nespecifické imunity	y
-73		Transplacentárně získané protilátky patří do třídy:
-73	A)	IgG	y
-73	B)	IgM
-73	C)	IgA
-73	D)	IgE
-74		Hlavní třídou imunoglobulínů ve slizničních sekretech je:
-74	A)	IgG
-74	B)	IgM
-74	C)	IgA	y
-74	D)	IgE
-75		Funkcí B lymfocytů je:
-75	A)	Cytotoxická reakce
-75	B)	Fagocytóza
-75	C)	Tvorba protilátek	y
-75	D)	Tvorba některých složek komplementového systému
-76		Virus parotitídy se přenáší:
-76	A)	Klíšťaty
-76	B)	Kapénkovou infekcí	y
-76	C)	Močí
-76	D)	Alimentárně
-77		Lymeskou boreliózu způsobuje:
-77	A)	Borrelia reccurentis
-77	B)	Borrelia vincentii
-77	C)	Borrelia refringens
-77	D)	Borrelia burgdorferi	y
-78		Schopnost původce nákazy vyvolat onemocnění je:
-78	A)	Patogenita	y
-78	B)	Invazivita
-78	C)	Infekciozita
-78	D)	Antigenicita
-79		Původce AIDS patří mezi:
-79	A)	Adenoviry
-79	B)	Retroviry	y
-79	C)	Rotaviry
-79	D)	Helminty
-80		Malformace plodu u těhotných vyvolává původce:
-80	A)	Zarděnek	y
-80	B)	Weillovy choroby
-80	C)	TBC
-80	D)	Žádný z uvedených
-81		Alimentární přenos se typicky uplatňuje u:
-81	A)	Botulismu	y
-81	B)	Trachomu
-81	C)	Infekční mononukleózy
-81	D)	Vztekliny
-82		Celosvětově byly eradikovány:
-82	A)	Záškrt
-82	B)	Variola	y
-82	C)	Cholera
-82	D)	Malárie
-83		Malárii přenáší:
-83	A)	Krysa
-83	B)	Komár	y
-83	C)	Klíště
-83	D)	Moucha
-84		Poliomyelitída probíhá inaparentně u:
-84	A)	1% případů
-84	B)	50% případů
-84	C)	75% případů
-84	D)	99% případů	y
-85		Sterilizací rozumíme:
-85	A)	Zničení patogenních mikroorganizmů
-85	B)	Zničení všech mikroorganizmů, včetně spór	y
-85	C)	Inhibici růstu bakterií
-85	D)	Dekontaminaci
-86		Autokláv je:
-86	A)	Přístroj na kontrolu sterility
-86	B)	Tlakový sterilizační přístroj	y
-86	C)	Horkovzdušný sterilizátor
-86	D)	Plynový sterilizátor
-87		Dezinfekcí rozumíme:
-87	A)	Zničení patogenních mikroorganizmů	y
-87	B)	Zničení všech mikroorganizmů, včetně spór
-87	C)	Inhibici růstu bakterií
-87	D)	Všechny odpovědi jsou správné
-88		Základní očkování proti tetanu se provádí :		X
-88	A)	Třemi dávkami specifického anatoxinu	y
-88	B)	Jednou dávkou specifického anatoxinu
-88	C)	Žádná odpověď není správná
-88	D)	Dvěma dávkami specifického anatoxinu
-89		Stafylokoková alimentární intoxikace je vyvolaná působením :
-89	A)	Termolabilního stafylokokového enterotoxinu
-89	B)	Termostabilního stafylokokového enterotoxinu	y
-89	C)	Termolabilního stafylokokového neurotoxinu
-89	D)	Termostabilního stafylokokového neurotoxinu
-90		Zdrojem kterého z těchto onemocnění je výlučně člověk:
-90	A)	Salmonelóza
-90	B)	Bacilární úplavice	y
-90	C)	Legionelóza
-90	D)	Platí všechny odpovědi
-91		Standardizace je:
-91	A)	Synonymem pro pojem homologizace
-91	B)	Se vypočítá podle vzorce (A+B)-(C+D)/(A+B)x(C+D)
-91	C)	Metoda umožňující z modusu a mediánu vypočíst aritmetický průměr
-91	D)	Metoda umožňující srovnání dvou či více souborů s různou vnitřní strukturou v odlišných územích	y
-92		Bakteriofág je:
-92	A)	Bakterie
-92	B)	Virus	y
-92	C)	Prvok
-92	D)	Červ
-93		Mezi antropozoonózy nepatří :
-93	A)	Salmonelóza
-93	B)	Malárie	y
-93	C)	Brucelóza
-93	D)	Vzteklina
-94		Nejkratší, průměrná a maximální inkubační doba hepatitidy A je zpravidla:
-94	A)	1 den, 1 týden, 3 týdny
-94	B)	1 měsíc, 2 měsíce, 3 měsíce
-94	C)	15 dní, 1 měsíc, 50 dní	y
-94	D)	3 měsíce, 4 měsíce, 6 měsíců
-95		Vertikální přenos infekce znamená:
-95	A)	Přímý přenos infekčního agens od nadřízeného k podřízenému
-95	B)	Přímý přenos infekčního agens z obratlovců na bezobratlé
-95	C)	Přímý přenos infekčního agens z matky na plod nebo na novorozence	y
-95	D)	Nepřímý přenos infekčního agens z obratlovců na bezobratlé
-96		Nozokomiální nákazou nemůže být:		X
-96	A)	Ebola
-96	B)	Chřipka
-96	C)	Virová hepatitida C
-96	D)	Všechny uvedené nemoci mohou být nozokomiální nákazou	y
-97		Kohortové studie charakterizuje:		X
-97	A)	Finanční a časová nenáročnost
-97	B)	Častý pokles počtu sledovaných v souboru v průběhu pozorování	y
-97	C)	Vhodnost pro studium vzácných onemocnění
-97	D)	Nevhodnost pro studium expozic vzácným rizikovým faktorům
-98		Studie případů a kontrol charakterizuje:
-98	A)	Možnost sledování i více rizikových faktorů u jedné nemoci	y
-98	B)	Časová a finanční náročnost
-98	C)	Vhodnost pro studium vzácných expozic
-98	D)	Jedná se vždy o prospektivní studie
-99		Chladový řetězec znamená:
-99	A)	Specifické podmínky transportu a přechovávání vakcín	y
-99	B)	Postup výroby inaktivovaných vakcín
-99	C)	Postup výroby živých vakcín
-99	D)	Sterilizace za velmi nízkých teplot
-100		Počet hlášených HIV pozitivních případů v ČR se pohybuje v řádech:
-100	A)	Desítek
-100	B)	Stovek	y
-100	C)	Statisíců
-100	D)	Desetitisíců
-101		K nejčastějším alergenům v prostředí patří:		X
-101	A)	Kovy
-101	B)	Pyly	y
-101	C)	Alergeny v sekretech švábů
-101	D)	Beta-laktoglobulin
-102		Toluen působí toxicky zejména na:
-102	A)	Kostní dřeň
-102	B)	Játra
-102	C)	CNS	y
-102	D)	Plíce
-103		K posouzení fyzické zátěže se používá nejčastěji:
-103	A)	Měření plicní ventilace
-103	B)	Měření krevního tlaku
-103	C)	Měření spotřeby kyslíku
-103	D)	Měření tepové frekvence	y
-104		Sdružené osvětlení je:
-104	A)	Denní osvětlení horní a boční
-104	B)	Umělé osvětlení stropním a místním svítidlem
-104	C)	Současné osvětlení denním a umělým světlem	y
-104	D)	Umělé osvětlení s kombinací zářivka a žárovka
-105		Činitel denního osvětlení je:
-105	A)	Poměr osvětlenosti uvnitř a vně místnosti, udaný v %	y
-105	B)	Poměr nejmenší a největší hodnoty osvětlenosti
-105	C)	Korekce denního osvětlení o % slunečního svitu
-105	D)	Poměr intenzity denního a umělého osvětlení
-106		Oslnění kontrastem:
-106	A)	Vzniká náhlou změnou jasu v zorném poli
-106	B)	Je pozorováno jen vyjimečně
-106	C)	Je závislé na interindividualních dispozicích
-106	D)	Vzniká zrakovým vnímáním ploch o velmi různém jasu	y
-107		Oslnění absolutní je:
-107	A)	Možné pouze v noci
-107	B)	Možné pouze ve dne
-107	C)	Možné ve dne i v noci	y
-107	D)	Způsobuje často poruchy vidění trvalého charakteru
-108		Oslnění přechodné:
-108	A)	Vzniká náhlou změnou jasu v zorném poli	y
-108	B)	Je pozorováno jen vyjímečně
-108	C)	Je závislé na interindividualních dispozicích
-108	D)	Vzniká zrakovým vnímáním ploch o velmi různém jasu
-109		Neionizující záření:
-109	A)	Není elektromagnetické záření
-109	B)	Je plně absorbováno kůži
-109	C)	Má na organismus tepelné a netepelné účinky	y
-109	D)	Je veškeré pohlcováno atmosférou
-110		Kontrolované pásmo na pracovištích s rizikem ionizujícího záření jsou prostory, kde:
-110	A)	Dochází k manipulaci s otevřenými zářiči
-110	B)	Se provádí pravidelná hygienická kontrola 1x týdně
-110	C)	Mezní absorbovaná dávka pro jednotlivce  je 1MGy
-110	D)	Je možno obdržet ročně víc než 0.3 maximální přípustné dávky	y
-111		Uzavřený zářič je:
-111	A)	Radioaktivní (RA) zářič, jehož úprava vylučuje únik RA látek ze zářiče	y
-111	B)	Vždy pouze alfa zářič
-111	C)	Zářič uzavřený v obalu, který nelze přemisťovat
-111	D)	RA zářič, jehož úprava vylučuje únik RA záření
-112		Otevřený zářič je:
-112	A)	Radioaktivní zářič, nevyhovující podmínkám pro uzavřený zářič	y
-112	B)	Pouze beta zářič
-112	C)	Kobaltová bomba
-112	D)	Zářič, jehož měrná energie je větší než 0,5 GY
-113		Mezi kontraindikace pro práci s ionizujícím zářením patří:
-113	A)	Barvoslepost, šeroslepost
-113	B)	Katarakta, glaukom
-113	C)	Infertilita, sterilita
-113	D)	Věk do 18 let, těhotenství, laktace	y
-114		Vyšší obsah trihalometanů v upravených vodách je způsoben:		X
-114	A)	Používáním solí hliníku
-114	B)	Chlorováním vody	y
-114	C)	Přítomností amoniaku
-114	D)	Ozonizací vody
-115		Akutní nemoc z ozáření vzniká:
-115	A)	Běžně po terapeutické aplikaci ionizujícího záření
-115	B)	Jako důsledek tepelných účinků ionizujícího záření
-115	C)	 Jako důsledek stochastických účinků ionizujícího záření
-115	D)	V důsledku  krátkodobého ozáření vysokými dávkami pronikavého záření	y
-116		Základní hladina hluku je:
-116	A)	Stanovena pro pracovní prostředí, obytné budovy, venkovní prostor	y
-116	B)	Nejnižší hladina hluku, kterou člověk vnímá
-116	C)	Není nikdy stejná jako nejvyšší přípustná hladina hluku
-116	D)	Je jiný výraz pro nejvýše přípustnou hodnotu
-117		Nejvyšší přípustná hodnota hluku:
-117	A)	Se určuje v závislosti na věku
-117	B)	Je 90 dB pro pracovní prostředí
-117	C)	Je stanovená v Hyg. předpise jako pevné číslo
-117	D)	Se získá součtem základní hladiny hluku a korekcí	y
-118		Ekvivalentní hladina hluku je hodnota:
-118	A)	Dlouhodobě přípustná pro průměrného člověka
-118	B)	Ustáleného hluku rovná zátěži hlukem proměnným	y
-118	C)	Součtu základní hladiny hluku a příslušných korekcí
-118	D)	Průměru z měřených hladin v dB za dobu trvání hluku
-119		Korekce výpočtu nejvýše přípustných hodnot hluku:		X
-119	A)	Jsou různé podle typu použitého měřidla
-119	B)	Se užívají u zahraničních měřidel kvůli různým normám
-119	C)	Připočítáváme k základním hodnotám hluku 	y
-119	D)	Závisí na dodržení či nedodržení limitní hlukové dávky
-120		Při práci s lasery je pracovník ohrožen:
-120	A)	Poškozením sítnice a kůže	y
-120	B)	Tepelnou devastací vnitřních orgánů
-120	C)	Zhoubnými kožnímy nádory
-120	D)	Poškozením sluchu
-121		Kontraindikace práce v nadměrném  hluku  n e j s o u:
-121	A)	Těhotenství
-121	B)	Percepční nedoslýchavost
-121	C)	Věk  přes 45 let	y
-121	D)	Porucha rovnovážného ústrojí
-122		Pitná voda je voda která:
-122	A)	Při dlouhodobém užívání nevyvolá poruchy zdraví 	y
-122	B)	Je určena pouze pro hromadné zásobování
-122	C)	Je pouze balená
-122	D)	Nesmí být používaná jako voda užitková
-123		Nejvyšší mezná hodnota ukazatele jakosti pitné vody:
-123	A)	Je hodnota, jejíž překročení povolují orgány hyg. služby
-123	B)	Je hodnota jejíž překročení vylučuje použití vody jako pitné	y
-123	C)	Za určitých podmínek může být překročena
-123	D)	Je indikátor pozdních  toxických účinků látek obsažených ve vodě
-124		Mezná hodnota ukazatele jakosti pitné vody:		X
-124	A)	Nesmí být za žádných okolností překročena
-124	B)	Je hodnota při níž se vylučuje použití vody jako pitné
-124	C)	Je hodnota, jejímž překročením ztrácí voda vyhovující jakost	y
-124	D)	Je ukazatel pozdních toxických účinků látek obsažených ve vodě
-125		Prevalence alergií v naší dětské populaci:
-125	A)	Přesahuje 60%
-125	B)	Je nejvyšší na světě
-125	C)	Je nejnižší na světě
-125	D)	Se pohybuje kolem 30%	y
-126		Freóny jsou:
-126	A)	Polycyklické aromatické uhlovodíky
-126	B)	Chlórfluórderiváty jednoduchých alifatických uhlovodíků	y
-126	C)	Polychlorované aromatické uhlovodíky
-126	D)	N-Dimetyl nitrosaminy
-127		PAN / Peroxyacetylnitrát je:
-127	A)	Jedním z atmosférických oxidantů	y
-127	B)	Druh pesticidů
-127	C)	Druh herbicidů
-127	D)	Složkou terpenů
-128		Mezná hodnota referenčního rizika ukazatele jakosti pitné vody je:		X
-128	A)	Hodnota pro látky  s bezprahovým účinkem v pitné vodě	y
-128	B)	Hodnota pro obsah mikroorganismů v pitné vodě
-128	C)	Hodnota týkající se pouze obsahu toxických kovů v pitné vodě
-128	D)	Hodnota pro látky s prahovým účinkem v pitné vodě
-129		Oxidační smog je:
-129	A)	Podmíněn vysokou vlhkostí a oblačností atmosféry
-129	B)	Smog londýnského typu ze spalování tuhých paliv
-129	C)	Tvořen směsí tuhého aerosolu a oxidu siřičitého
-129	D)	Fotochemický smog	y
-130		Umělá ionizace vzduchu působí:
-130	A)	Zvyšování počtu malých záporných iontů ve vzduchu	y
-130	B)	Ozonizaci vzduchu - zlepšení dýchání
-130	C)	Zvyšování vlhkosti vzduchu - zlepšené dýchání
-130	D)	Snížení množství usazovaného prachu na plochách
-131		Na pracoviště s hlukem  nad 140 dB:
-131	A)	Možno vstoupit max. na 5 minut
-131	B)	Možno vstoupit max na 1 minutu
-131	C)	Se nesmí vůbec vstoupit	y
-131	D)	Lze vstoupit s ochrannou přilbou s tlumením > 45 dB
-132		Poruhy sluchu z nadměrného hluku mají podstatu v:
-132	A)	Úbytku vláskových buněk Cortiho orgánu	y
-132	B)	Ztrátě pohyblivosti převodního aparátu
-132	C)	Poruchách činnosti vestibulárního aparátu
-132	D)	Zmnožení vláskových buněk Cortiho orgánu
-133		Nejčastějším nedostatkem vodárensky připravené pitné vody u nás je:
-133	A)	Přechlorování	y
-133	B)	Vysoký obsah koliformních bakterií
-133	C)	Vysoká tvrdost vody
-133	D)	Zvýšený obsah olova a rtuti
-134		Které z následujících tvrzení  o kojení NEPLATÍ
-134	A)	Je spolehlivou antikoncepcí	y
-134	B)	Je levné
-134	C)	Stimuluje kontrakce uteru k rychlejšímu návratu do původní velikosti
-134	D)	Snižuje riziko Ca ovaria matky
-135		Původcem parazitární dyzentérie je:
-135	A)	Salmonela  enteritidis
-135	B)	Entamoeba histolytica	y
-135	C)	Naegleria fowleri
-135	D)	Ascaris lumbricoides
-136		Bezpečný obsah dusičnanů ve vodě pro kojence:
-136	A)	Pod 50 mg na litr
-136	B)	Pod 15 mg na litr	y
-136	C)	Pod 5 mg na litr
-136	D)	Neexistuje
-137		Náhlé zvýšení obsahu chloridů v pitné vodě může být způsobeno:
-137	A)	Ošetřením vody chlorací	y
-137	B)	Přítomností řas a sinic
-137	C)	Znečištěním močí
-137	D)	Vysokým obsahem psychrofilních bakterií
-138		Kolísá-li  teplota vody ve studni:
-138	A)	Zdroj je znečištěn povrchovými nebo odpadními vodami	y
-138	B)	Je to známka účinnosti dezinfekčních prostředků
-138	C)	Je to nepodstatné
-138	D)	Je to jev žádoucí
-139		Sagen je preparát  používaný k desinfekci pitné vody:
-139	A)	Který je založen na desinfekčním účinku ozonu
-139	B)	Který je vhodný jen při lehkém znečištění vody	y
-139	C)	Který má krátkou  dobu účinnosti
-139	D)	Který ovlivňuje organoleptické vlastnosti vody
-140		Enterokoky v pitné vodě:
-140	A)	Jsou běžně nacházeny
-140	B)	Nejsou ničím významné
-140	C)	Jsou indikátorem čerstvého fekálního znečištění	y
-140	D)	Jsou indikátorem znečištění vody močí
-141		Chem. indikátory znečištění pitné vody  n e j s o u:
-141	A)	Anionaktivní tenzidy
-141	B)	Amonné a dusitanové ionty
-141	C)	Chloridové ionty
-141	D)	Psychrofilní bakterie	y
-142		Indikátory fekálního znečištění jsou:		X
-142	A)	Pouze fekální koliformní bakterie
-142	B)	Fekální koliformní bakterie nebo některé chemické látky	y
-142	C)	Sinice
-142	D)	Pseudomonády
-143		S příjmem dostatečného množství které látky mohou mít lakto-ovo vegetariáni problémy?
-143	A)	Tuk
-143	B)	Cholesterol
-143	C)	Vápník
-143	D)	Železo	y
-144		Výskyt bezbarvých bičíkovců  ve studni:		X
-144	A)	Je naprosto nepřípustný
-144	B)	Zvýšený výskyt indikuje znečištění povrchovou vodou	y
-144	C)	Vždy indikuje fekální znečištění
-144	D)	Je zcela bezvýznamný
-145		Anaerobní čištění odpadních vod:		X
-145	A)	Produkuje metan využitelný k vytápění	y
-145	B)	Probíhá v biologických rybnících
-145	C)	Probíhá v oxidačních příkopech
-145	D)	Probíhá po přidání aktivovaného kalu
-146		Wernicke-Korsakoff syndrom z deficitu thiaminu vzniká nejčastěji u
-146	A)	Alkoholiků	y
-146	B)	Diabetiků
-146	C)	Těhotných
-146	D)	Postižených opsteoporózou
-147		Mezi organoleptické vlastnosti vody  n e p a t ř í:
-147	A)	Teplota vody
-147	B)	Koncentrace amonných solí	y
-147	C)	Kyselost
-147	D)	Zabarvení vody
-148		Přemnožení sinic ve vodních nádržích je způsobeno:
-148	A)	Zvýšenou koncentrací sloučenin dusíku a fosforu	y
-148	B)	Přemnožením ryb
-148	C)	Zvýšenou koncentrací sloučenin selenu a zinku
-148	D)	Vysokou vrstvou bahna u dna
-149		Dezinfekční prostředky s oligodynamickými účinky ničí:		X
-149	A)	Všechny mikroorganizmy i spory
-149	B)	Pouze mikroorganizmy s enzymatickým aparátem	y
-149	C)	Pouze mikroorganizmy bez enzymatického aparátu
-149	D)	Pouze viry a spory
-150		Rychlost proudění vzduchu v místnosti má být:
-150	A)	Do 0,2 m/s	y
-150	B)	Do 1,0 m/s
-150	C)	Do 2,0 m/s
-150	D)	Do 3,0 m/s
-151		Do jakého věku by dítě mělo být kojeno (ať s příkrmem nebo bez):
-151	A)	Do 3 měsíců
-151	B)	Do 6 měsíců
-151	C)	Do 1 roku
-151	D)	Do 2 let a déle	y
-152		Karcinogenní jsou všechny tyto látky:
-152	A)	Arsen, benzidin, kademnaté sole, nikotin
-152	B)	Nikelnaté sole, benzpyren, naftylamin, NaCl
-152	C)	Aflatoxiny, arsen, azbest, benzen, vinylchlorid	y
-152	D)	Soli niklu a chromu, benzen, azbest, kyselina octová
-153		Provoz s nadměr. nároky na termoregulaci je pracoviště:
-153	A)	S prům.teplotou vzduchu nad 25st.C.a relat.vlhkostí nad 80%
-153	B)	Kde prac. ztrácí za směnu pocením a dýcháním více než 1 l	y
-153	C)	S teplotou vzduchu nad 30 st. C
-153	D)	S teplotou vzduchu nad 30 st. C nebo  pod 15 st. C
-154		Methemoglobinémii mohou způsobit:
-154	A)	Anionaktivní tenzidy
-154	B)	Chloridové anionty
-154	C)	Všechny látky obsahující dusík
-154	D)	Dusitanové a dusičnanové anionty	y
-155		Příčinou pelagry je:
-155	A)	Nedostatek niacinu	y
-155	B)	Hypertrofie nadledvinek
-155	C)	Nedostatek hořčíku
-155	D)	Otrava histaminem
-156		Cizorodé látky se do potravin dostávají:
-156	A)	Úmyslným přidáním
-156	B)	Z půdy, ovzduší, vody
-156	C)	Z výrobních postupů
-156	D)	Všemi uvedenými postupy	y
-157		Mykotoxin patulin se vyskytuje hlavně v:
-157	A)	Nesprávně uskladněných bramborách
-157	B)	Nesprávně uskladněném ovoci	y
-157	C)	Podzemnici olejné
-157	D)	Plesnivých pekařských výrobcích
-158		Kostní věk u dítěte v současné době:
-158	A)	Se běžně určuje
-158	B)	Se určuje pouze v indikovaných případech	y
-158	C)	Určuje se pouze u chlapců
-158	D)	Určuje se rutinně u hospitalizovaných dětí
-159		Staré fekální znečištění indikují pouze:
-159	A)	Spolurující bakterie fekálního původu	y
-159	B)	Anaerobní i aerobní bakterie fekálního původu
-159	C)	Bezbarví bičíkovci
-159	D)	Amoniak
-160		Biologický expoziční test je:
-160	A)	Typický alergologický test
-160	B)	Expozice člověka roztočům
-160	C)	Testování noxy na laboratorním zvířeti
-160	D)	Měřitelná odpověď organismu na zátěž chem. látkou	y
-161		Překročení biologického limitu:
-161	A)	Je vždy důvodem pro uzavření provozu
-161	B)	Znamená zpravidla toxickou dávku
-161	C)	Ukazuje zpravidla na překročení NPK (PEL)	y
-161	D)	Znamená vždy poškození zdraví
-162		Prokázaný chemický karcinogen dle klasifikace IARC je látka u níž:
-162	A)	Bylo prokázáno karcinogenní působení na člověka	y
-162	B)	Bylo prokázáno karcinogenní působení jen na zvířatech
-162	C)	Bylo prokázáno karcinogenní působení pouze testy in vitro
-162	D)	Musí platit všechny varianty dohromady
-163		Při BET stanovujeme škodlivinu, její metabolit, či jiný indikátor expozice:
-163	A)	V biologickém materiálu	y
-163	B)	V ovzduší
-163	C)	Ve vodě
-163	D)	Ve všech uvedených možnostech
-164		Kvalita vzduchu uvnitř budov závisí  zejména na:
-164	A)	Na kvalitě venkovního ovzduší
-164	B)	Na výměně vzduchu (větrání)
-164	C)	Na množství kontaminant, které vznikají ve vnit.prostředí
-164	D)	Platí všechny možnosti	y
-165		Toxické účinky vinylchloridu se mohou projevit jako:
-165	A)	Alergický ekzém
-165	B)	Hemangiosarkom jater
-165	C)	Porucha krvetvorby
-165	D)	Raynaudův syndrom a akroosteolýza	y
-166		Formaldehyd:
-166	A)	Je teratogen
-166	B)	Je prokázaný karcinogen	y	opraveno
-166	C)	Má pouze alergizující účinek
-166	D)	Lze ho snadno odstranit pomocí povrchové úpravy
-167		Rychlost proudění vzduchu stanovíme z měření:
-167	A)	Vernon-Joklovým kulovým teploměrem
-167	B)	Kaliperem Somet
-167	C)	Assmanovým aspiračním psychrometrem
-167	D)	Hillovým katateploměrem	y
-168		Relativní vlhkost stanovíme z měření:
-168	A)	Vernon-Joklovým kulovým teploměrem
-168	B)	Kaliperem Somet
-168	C)	Assmanovým aspiračním psychrometrem	y
-168	D)	Hillovým katateploměrem
-169		Sálavé teplo stanovíme z měření:
-169	A)	Vernon-Joklovým kulovým teploměrem	y
-169	B)	Kaliperem Somet
-169	C)	Assmanovým aspiračním psychrometrem
-169	D)	Hillovým katateploměrem
-170		Biologickými indikátory znečištění pitné vody jsou:		X
-170	A)	Plži a mlži
-170	B)	Bezbarví bičíkovci a nálevníci	y
-170	C)	Psychrofilní bakterie
-170	D)	Mezofilní bakterie
-171		Znečištěné ovzduší  arzenem se projeví nejzřetelněji u:
-171	A)	Prasat
-171	B)	Člověka
-171	C)	Včel	y
-171	D)	Ovcí
-172		Prachové částice rozptýlené ve vzduchu při vdechnutí většinou:		X
-172	A)	Snižují účinky plynných imisí
-172	B)	Zvyšují účinky plynných imisí	y
-172	C)	Nemají vliv na účinek plynných imisí
-172	D)	Adsorbčními účinky eliminují účinek plynných imisí
-173		Pro sdružené osvětlení platí:
-173	A)	V pracovním prostředí nelze  použít
-173	B)	Nutno zajistit shodnou intenzitu umělé a denní složky
-173	C)	Nutno zajistit co největší plochu umělého svítidla
-173	D)	Požadavek obdobného spektrál. složení umělé a denní složky	y
-174		Mikroklima je:
-174	A)	Složka prostředí, tvořená tepelně-vlhkostními faktory	y
-174	B)	Určováno teplotou vzduchu a rychlosti jeho proudění
-174	C)	Prostředí pro organismus ve stavu tepelné neutrality
-174	D)	Vnitřní prostředí organismu
-175		NPK-P je:
-175	A)	Nejvýše přípustná koncentr. škodlivin v pracov. ovzduší	y
-175	B)	Střední hodnota koncentrace škodlivin za 24 hodin
-175	C)	Průměrná denní koncentrace škodlivin v ovzduší
-175	D)	Označení pro překročení NPK
-176		Přítomnost zelených řas a rozsivek ve zdroji pitné vody:
-176	A)	Zlepšuje okysličování vody
-176	B)	Indikuje znečištění splaškovými vodami
-176	C)	Je naprosto nepřípustná	y
-176	D)	Na kvalitu pitné vody nemá žádný vliv
-177		Provětráváním místnosti (zlepš.kvality vnitř.ovzduší) označujeme:
-177	A)	Otevření oken a dveří zároveň (průvan)
-177	B)	Klimatizaci
-177	C)	Trvalou ventilaci pootevřeným oknem
-177	D)	Okna otevřená 3 až 5minut 4-5x dennně	y
-178		Radon:
-178	A)	Je složkou náplně chladícího okruhu v jaderných elektrárnách
-178	B)	Vzniká rozpadem uranu a patří mezi alfa-zářiče	y
-178	C)	Je kovový prvek, který produkuje beta záření
-178	D)	Je konečným produktem první rozpadové řady
-179		Radon se do obytných budov dostává:
-179	A)	Výhradně ze stavebních materiálů
-179	B)	Nedokonalým spalováním nekvalitního uhlí
-179	C)	Z podloží, stavebních hmot a vody	y
-179	D)	Výhradně větráním v době inverze
-180		Radon je:
-180	A)	Chemicky inertní plyn bez vlivu na lidský organismus
-180	B)	Dráždivý, silně zapáchající plyn
-180	C)	Plyn těžší než vzduch	y
-180	D)	Nažloutlý plyn lehčí než vzduch
-181		Syndrom nemoci z budov:
-181	A)	Je onemocněním zedníků
-181	B)	Působí látky, uvolňující se z tuhnoucího cementu
-181	C)	Se vyskytuje pouze v moderních panelových domech
-181	D)	Postihuje obyvatele nových nebo rekonstruovaných budov	y
-182		BMI:
-182	A)	Je zkratka pro nejvyšší denní dávku dusičnanů
-182	B)	Se používá při hodnocení pracovního ovzduší
-182	C)	Patří mezi somatometrické indexy	y
-182	D)	Je zkratka - blesková mimořádná inspekce hyg. služby
-183		Mezi ukazatele biologického věku  n e p a t ř í :
-183	A)	Hodnocení nemocnosti	y
-183	B)	Zjišťování psychomotorického vývoje
-183	C)	Zjišťování zubního věku
-183	D)	Zjišťování mentálního věku
-184		Který vitamin se může tvořit z aminokyseliny tryptofan
-184	A)	Riboflavin
-184	B)	Thiamin
-184	C)	Niacin	y
-184	D)	Kyselina pantothenová
-185		Nejvíce energie ze stravy by měly poskytovat:
-185	A)	Tuky
-185	B)	Monosacharidy
-185	C)	Polysacharidy	y
-185	D)	Bílkoviny
-186		V jakém věku by kojené dítě mělo být přikrmovano:
-186	A)	Ve 4 měsících
-186	B)	Když váži 6 kg
-186	C)	V 6 měsících	y
-186	D)	Když mu narostou první zuby
-187		Který z následujících pokrmů poskytne nejvíce vitaminu A nebo jeho prekurzorů:
-187	A)	Vepřová pečeně, knedlík zelí
-187	B)	Telecí maso s bramborovou kaší a dušenou mrkví	y
-187	C)	Okurkový salát
-187	D)	Pečené kuře se zeleným hráškem a vařeným bramborem
-188		Který z tuků má nejvyšší obsah nenasycených mastných kyselin:		X
-188	A)	Máslo
-188	B)	Slunečnicový olej	y
-188	C)	Sádlo
-188	D)	Kokosový olej
-189		V prevenci profesionálně vzniklých vertebrog.obtíží  je nejdůležitější:
-189	A)	Vstupní preventivní prohlídka
-189	B)	Rehabilitační péče
-189	C)	Uspořádání prac.místa a správná manipulace s břemeny	y
-189	D)	Režim práce a odpočinku
-190		Biologický věk dítěte určuje:
-190	A)	Kostní, zubní a metnální věku	y
-190	B)	Somatoskopie
-190	C)	Akcelerační trend
-190	D)	Sekulární trend
-191		Mezi testy k biologickému monitorování expozice genotoxickým látkám  n e p a t ř í:
-191	A)	Cytogenetická analýza leukocytů periferní krve
-191	B)	DNA addukty
-191	C)	Amesův test mutagenity moče
-191	D)	Amesův test mutagenity ovzduší	y
-192		Optimální zastoupení bílkovin v trojpoměru hlavních živin je:
-192	A)	10 - 15 %	y
-192	B)	3 - 5 %
-192	C)	60 - 70 %
-192	D)	20 - 25 %
-193		Přijatelná denní dávka je:
-193	A)	Přijatelná denní dávka některých cizorodých látek	y
-193	B)	Přijatelná denní dávka energie v kJ na kg hmotnosti
-193	C)	Přijatelná denní dávka hlavních živin, vitamínů, minerálů
-193	D)	Dávka škodliviny, vedoucí k akutní otravě
-194		Přijatelná denní dávka pro dusičnany je:
-194	A)	Stejná jako pro dusitany
-194	B)	Menší než pro dusitany
-194	C)	Vyšší než pro dusitany	y
-194	D)	Není stanovena
-195		Mezi mykotoxíny nepatří:
-195	A)	Antibiotika produkovaná plísněmi
-195	B)	Solanin	y
-195	C)	Aflatoxíny
-195	D)	Jedovaté metabolity vyšších hub
-196		Některé se symptomů pelagry jsou
-196	A)	Cefalea, dušnost, nadýmání
-196	B)	Porucha vidění, poškození nervů, bledost
-196	C)	Deprese, nausea, krvácení ze sliznic
-196	D)	Dermatitis, diarrhea, demence	y
-197		Profesionální traumatická vazoneuroza je způsobena:		X
-197	A)	Tvorbou imunokomplexů
-197	B)	Aterosklerotickými změnami
-197	C)	Vibracemi	y
-197	D)	Vibracemi a aterosklerotickými změnami
-198		Doporučené dávky energie, živin, přídatných látek:		X
-198	A)	Udávají jejich denní potřebu na 1 kg hmotnosti
-198	B)	Jsou stanoveny podle pohlaví, věku a prac. zatížení	y
-198	C)	Udávají jejich dávky pro průměrnou 60-ti kg osobu
-198	D)	Se používají pouze v dětských zařízeních
-199		Která z potravin  n e n í  dobrý zdrojem vitaminu C:
-199	A)	Brambory
-199	B)	Jahody
-199	C)	Chléb	y
-199	D)	Pomeranč
-200		Zjišťování výživového stavu spočívá ve vyšetření:		X
-200	A)	Antropometrickém, klinickém a laboratorním	y
-200	B)	Pouze somatometrických znaků a klinickém vyšetření
-200	C)	Pouze hmotnosti, výšky a objemu hrudníku
-200	D)	Celkové energetické spotřeby
-201		Kaliperem měříme:
-201	A)	Klimatické faktory
-201	B)	Energetickou spotřebu
-201	C)	Tloušťku kožních řas	y
-201	D)	Konvexitu očního bulbu
-202		Nadměrný přívod selénu do organismu  n e m á:		X
-202	A)	Teratogenní účinky
-202	B)	Karcinogenní účinky
-202	C)	Protektivní účinky	y
-202	D)	Akutní toxické účinky
-203		Mezi látky s antikarcinogenními účinky  n e p a t ř í:		X
-203	A)	Tokoferoly
-203	B)	Karoteny
-203	C)	Selén
-203	D)	Nikl	y
-204		Mezi látky s antikarcinogenními účinky  n e p a t ř í:		X
-204	A)	Flavonoidy
-204	B)	Selén
-204	C)	Arzén	y
-204	D)	Beta - sitosterol
-205		3-4-benzo(a)pyren v potravě má:		X
-205	A)	Antikarcinogenní účinek
-205	B)	Aterogenní a teratogenní účinek
-205	C)	Alergizující účinek
-205	D)	Aterogenní a karcinogenní účinek	y
-206		Mléko a mléčné produkty obsahují jednoduchý cukr
-206	A)	Laktózu	y
-206	B)	Laktázu
-206	C)	Nestravitelný škrob
-206	D)	Cukerný alkohol
-207		Olovo se do organismu dospělého jedince dostává především:
-207	A)	Kůží
-207	B)	Respiračním traktem	y
-207	C)	Perorálně
-207	D)	Perorálně a kůží
-208		Olovo se kumuluje především v:
-208	A)	Kůži
-208	B)	Kloubním pouzdru
-208	C)	Játrech
-208	D)	Kostech	y
-209		Nemoc Yusho byla popsána po požití:
-209	A)	Rýžového oleje se stafylokokovým endotoxinem
-209	B)	Nadměrného množství glutamátu sodného
-209	C)	Rýžového oleje kontaminovaného polychlorovanými bifenyly	y
-209	D)	Mořských ryb kontaminovaných rtutí
-210		Kterou z následujících funkcí  n e m á vláknina:
-210	A)	Poskytuje tělu energii	y
-210	B)	Reguluje střevní funkce
-210	C)	Zvětšuje objem střevního obsahu
-210	D)	Přispívá k pocitu nasycení
-211		Známky dlouhodobé vyšší expozice olovu  n e j s o u:
-211	A)	Laryngitis, tracheitis, bronchitis	y
-211	B)	Nechutenství, únava, bolesti hlavy
-211	C)	Saturninská kolika
-211	D)	Bledost,šedavý nádech kůže
-212		Leptospirosa se přenáší:		X
-212	A)	Přímým kontaktem s močí či tkáněmi infik.hlodavců
-212	B)	Ingescí - pitím kontaminované vody či zeleninou zalitou touto vodou
-212	C)	Kontaktem kůže a sliznic  s kontaminovanou  vodou
-212	D)	Platí všechny možnosti	y
-213		Mentální věk je:
-213	A)	Objektivně detekovatelný	y
-213	B)	Nedetekovatelný
-213	C)	Těžko detekovatelný
-213	D)	Výmysl
-214		Příznakem chronické otravy elementární rtutí  n e n í:
-214	A)	Saturninská kolika	y
-214	B)	Gingivitis
-214	C)	Tremor
-214	D)	Eretismus
-215		Při podezření na otravu toluenem stanovujeme:
-215	A)	Fenol v moči
-215	B)	Kyselinu trichloroctovou v moči
-215	C)	Kyselinu hippurovou v moči	y
-215	D)	Toluen v moči
-216		Která z malnutricí je ve světě nejčastějí:
-216	A)	Anémie z nedostatku železa	y
-216	B)	Kurděje z nedostatku vitamin C
-216	C)	Beri beri z nedostatku thiaminu
-216	D)	Pelagra z nedostatku niacinu
-217		Při otravě organofosfáty dochází k:
-217	A)	Poklesu aktivity acetylcholinesterázy nejméně o 20 % původní hodnoty	y
-217	B)	Vzrůstu aktivity acetylcholinesterázy nejméně o 20 % původní hodnoty
-217	C)	Masivní hemolýze
-217	D)	Vzrůstu aktivity acetycholinesterázy o 50 % a více proti normě
-218		Nejtoxičtější jsou sloučeniny chromu, v nichž je chrom:
-218	A)	Šestimocný	y
-218	B)	Dvojmocný
-218	C)	Elementární
-218	D)	Trojmocný
-219		Biologické expoziční testy přímé stanovují:
-219	A)	Koncentraci cizorodé látky v nezměněné podobě nebo  její metabolity	y
-219	B)	Jen koncentraci původní cizorodé látky v moči a v krvi
-219	C)	Koncentraci látky, která působí toxicky na organismus
-219	D)	Míru expozice organismu radioaktivnímu záření
-220		Mezi pozdní účinky škodlivin  n e p a t ř í:
-220	A)	Teratogenní účinky
-220	B)	Karcinogenní účinky
-220	C)	Otravy	y
-220	D)	Mutagenní účinky
-221		Označte nesprávné tvrzení:
-221	A)	Vláknina snižuje riziko arteriosklerozy
-221	B)	Vláknina snižuje riziko nádoru střev
-221	C)	Vláknina zvyšuje energetickou hodnotu stravy	y
-221	D)	Vláknina v nadbytku snižuje vstřebávání Fe, Ca a Zn
-222		Nejčastější příčinou exogenní alergické alveolitidy jsou:
-222	A)	Termofilní aktinomycety	y
-222	B)	Pyly
-222	C)	Sekrety roztočů
-222	D)	Legionely
-223		Limitující aminokyselina je:
-223	A)	Kterákoliv aminokyselina, které je v bílkovině nejvíce
-223	B)	Esenciální aminokyselina, které je v bílkovině nejméně	y
-223	C)	Kterákoliv aminokyselina, které je v bílkovině nejméně
-223	D)	Esenciální aminokyselina,které je v bílkovině nejvíce
-224		Přímý expoziční test se  n e u ž í v á  při stanovení:
-224	A)	Expozice alkylačním činidlům	y
-224	B)	Expozice rtuti
-224	C)	Expozice trichlorethylenu
-224	D)	Expozice styrenu
-225		U člověka pracujícího v riziku styrénu zpravidla stanovujeme:
-225	A)	Styren v krvi
-225	B)	Kyselinu hippurovou v krvi
-225	C)	Kyselinu mandlovou v moči	y
-225	D)	Kyselinu trichloroctovou v moči
-226		Biologický limit je hodnota:
-226	A)	Při níž subjektivní obtíže i klinický nález jsou negativní	y
-226	B)	Shodná s nejvyšší přípustnou koncentrací
-226	C)	Určená WHO a mezinárodně závazná
-226	D)	Limitující délku pobytu v znečištěném prostředí
-227		Fenylketonurici by neměli používat umělé sladidlo
-227	A)	Acesulfam-K
-227	B)	Aspartam	y
-227	C)	Sacharin
-227	D)	Sorbitol
-228		Teratogenní látky vyvolávají:
-228	A)	Změnu genotypu i fenotypu
-228	B)	Chromozomové aberace
-228	C)	Změnu fenotypu bez změny genotypu	y
-228	D)	Genové mutace
-229		Mezi teratogeny  n e p a t ř í:		X
-229	A)	Olovo	y
-229	B)	Nitrosaminy
-229	C)	Aflatoxiny
-229	D)	Chlorované uhlovodíky
-230		Kteří kojenci mají dostávat  vitamin D:
-230	A)	Kojení
-230	B)	Na umělé výživě
-230	C)	Všichni	y
-230	D)	Kojenci nemají dostávat vitamin D
-231		Epigenetické karcinogeny zpravidla působí:
-231	A)	Nezasahují do genetické informace	y
-231	B)	Působí jen na zvířecích modelech
-231	C)	Genové mutace
-231	D)	Korekci naměřené výšky
-232		Zdrojem cholesterolu v potravě jsou:
-232	A)	Máslo, škvarky	y
-232	B)	Všechny živočišné i rostlinné nenasycené tuky
-232	C)	Ztužené tuky, margariny, kokosový olej
-232	D)	Sádlo, hovězí lůj, sojový olej
-233		Hlavní náš přirozený zdroj fluóru jsou:
-233	A)	Houby
-233	B)	Brambory
-233	C)	Vnitřnosti
-233	D)	Voda	y
-234		Optimální hrazení potřebné energ. dávky sacharidy:
-234	A)	58 - 60 %	y
-234	B)	30 - 45 %
-234	C)	10 - 20 %
-234	D)	70 - 80 %
-235		Nejdůležitějším zdrojem hořčíku ve stravě je:
-235	A)	Zelenina	y
-235	B)	Mléko a vejce
-235	C)	Maso
-235	D)	Ryby
-236		Mikrocytární anémie je příznakem nedostatku:
-236	A)	Železa	y
-236	B)	Kobaltu
-236	C)	Vitaminu D
-236	D)	Obilovin
-237		Preventivní působení selenu v onkogenezi se uplatňuje:
-237	A)	Snížením oxidačního stresu	y
-237	B)	Vazbou xenobiotik vylučovaných žlučí
-237	C)	Ovlivněním beta-oxidace mastných kyselin
-237	D)	Nemá preventivní účinek
-238		Který z minerálů má důležitou úlohu ve vedení nervových vzruchů a srážení krve
-238	A)	Síra
-238	B)	Vápník	y
-238	C)	Hořčík
-238	D)	Fosfor
-239		Biologické účinky prachu na organismus jsou závislé na:
-239	A)	Barvě a tvaru částic
-239	B)	Velikosti a tvaru částic	y
-239	C)	Distribuční křivce
-239	D)	Vzdušné vlhkosti
-240		Hlavním zdrojem hořčíku z potravy jsou:
-240	A)	Rostlinné potraviny	y
-240	B)	Živočišné potraviny
-240	C)	Vnitřnosti
-240	D)	Mléko a mléčné výrobky
-241		V tabákovém kouři je obsaženo:
-241	A)	Méně než 10 karcinogenů
-241	B)	Přes 40 karcinogenů	y
-241	C)	Přes 1000 karcinogenů
-241	D)	Několik tisíc karcinogenů
-242		Který prvek se účastní téměř všech kroků v procesu srážení krve
-242	A)	Fosfor
-242	B)	Vápník	y
-242	C)	Síra
-242	D)	Hořčík
-243		Závislost na nikotinu:
-243	A)	Vzniká přímo úměrně k délce kuřáctví
-243	B)	Nemusí souviset s délkou kuřáctví	y
-243	C)	Je důvodem, proč kuřák začíná kouřit
-243	D)	Není drogovou závislostí
-244		Psychosociální závislost na tabákových výrobcích:
-244	A)	Zmizí sama, když kuřák přestane kouřit
-244	B)	Lze léčit náhradní terapií nikotinem
-244	C)	Musí každý odvykající kuřák zvládnout sám	y
-244	D)	Nelze odstranit
-245		Abstinenčním příznakem nedostatku nikotinu  n e n í:
-245	A)	Nervozita
-245	B)	Vazodilatace	y
-245	C)	Obstipace
-245	D)	Neschopnost koncentrace
-246		Nikotin z nikotinové žvýkačky se:
-246	A)	Vstřebává z dutiny ústní	y
-246	B)	Vstřebává ze žaludku
-246	C)	Vstřebává z dutiny ústní i ze žaludku
-246	D)	Nevstřebává
-247		Kouření je jedním z rizikových faktorů při vzniku:
-247	A)	Nádorů pankreatu
-247	B)	Nádorů ledvin
-247	C)	Nádorů laryngu
-247	D)	Platí všechny možnosti	y
-248		Metabolicky nejméně rizikový typ obezity je:
-248	A)	Androidní typ
-248	B)	Difuzní typ
-248	C)	Gynoidní typ	y
-248	D)	Centralizovaný typ
-249		Expozice tabákovému kouři u dětí:
-249	A)	Může souviset s vývojem leukémie	y
-249	B)	Vyvolá vždy leukémii
-249	C)	Nemůže vyvolat leukémii
-249	D)	Je příčinou většiny dětských leukémií
-250		Nikotin se v ústech:
-250	A)	Vstřebává v kyselém pH
-250	B)	Vstřebává v zásaditém pH	y
-250	C)	Vstřebává bez souvislosti s hodnotou pH
-250	D)	Nevstřebává
-251		Škytavka při užívání nikotinové žvýkačky:
-251	A)	Znamená přecitlivělost na nikotin
-251	B)	Je způsobena předávkování při příliš rychlém žvýkání	y
-251	C)	Nesouvisí s nikotinovou žvýkačkou
-251	D)	Je způsobena alergií na nikotin
-252		Kuřáctví lze objektivizovat při analýze vydech. vzduchu:
-252	A)	Stanovením kotininu, metabolitu nikotinu
-252	B)	Stanovením množství CO	y
-252	C)	Stanovením oxidů dusíku
-252	D)	Nelze dát do souvislosti s vydechovaným vzduchem
-253		Analýza vydechovaného vzduchu:
-253	A)	Prokáže kuřáctví za posledních 12 hodin	y
-253	B)	Prokáže kuřáctví za poslední týden
-253	C)	Prokáže kuřáctví za poslední měsíc
-253	D)	Nemá souvislost s kuřáctvím
-254		Analýza CO ve vydech. vzduchu při validizaci nekuřáctví:
-254	A)	Je zcela specifická
-254	B)	Může být falešně pozitivní (výfukové plyny, hoření)	y
-254	C)	Může být falešně pozitivní při terapii nikotinem
-254	D)	Nemůže být provedena při současné léčbě nikotinem
-255		Průkaz kotininu je možný:
-255	A)	Pouze ve slinách
-255	B)	Pouze v moči
-255	C)	V krvi, moči nebo slinách	y
-255	D)	Pouze v krvi
-256		Kotininový test může být mimo kouření pozitivní při:
-256	A)	Silně znečištěném prostředí výfukovými plyny
-256	B)	Náhradní terapii nikotinem	y
-256	C)	Silné stresové zátěži
-256	D)	Expozici produktům hoření fosilních paliv
-257		Která z trojic jsou rizikové faktory osteoporózy
-257	A)	Předčasná menopausa, nedostatečný přívod vápníku, pokročilý věk	y
-257	B)	Pokročilý věk, nadváha, kouření
-257	C)	Nadměrná spotřeba alkoholu, kofeinu, nedostatek zátěžových cvičení
-257	D)	Ženské pohlaví, gracilní kostra, diabetes
-258		Nejméně bezpečným typem mastných kyselin v potravě jsou:
-258	A)	Nasycené
-258	B)	Nenasycené-cis-n-6
-258	C)	Nenasycené -trans	y
-258	D)	Nenasycené-cis-a-3
-259		Náhradní terapie nikotinem:
-259	A)	Je nejúčinnější v kombinaci s behaviorální léčbou	y
-259	B)	Je použitelná pouze v rámci skupinové terapie
-259	C)	Není použitelná u těhotné kuřačky
-259	D)	Pomáhá odstranit psychosociální závislost na kouření
-260		Nejvýznamnějším alergenem domácího prachu jsou:
-260	A)	Pyly
-260	B)	Termofilní aktinomycety
-260	C)	Chrom a nikl
-260	D)	Roztočové alergeny	y
-261		Preventivní opatření k ochraně před prachem v pracovním prostředí jsou možná:
-261	A)	Technická a technologická
-261	B)	Organizační
-261	C)	Náhradní
-261	D)	Všechny uvedené	y
-262		Účinek  prachu  na organismus  je závislý:
-262	A)	Pouze na velikosti částic
-262	B)	Na maximálním expozičním limitu
-262	C)	Na průměrném expozičním limitu
-262	D)	Na chemických a fyzikálních vlastnostech částic	y
-263		Nejčastější vstup xenobiotik do organismu v pracovním prostředí je:
-263	A)	Alimentární
-263	B)	Inhalační	y
-263	C)	Perkutánní
-263	D)	Parenterální
-264		Nemoc z povolání může ohlásit:
-264	A)	Kterýkoliv lékař
-264	B)	Vedoucí lékař hygienické stanice
-264	C)	Určený specialista  s atestací z hygieny práce a nemocí z povolání	y
-264	D)	Pouze internista
-265		Mezi faktory ovlivňující koncentraci škodlivin na pracovišti  n e p a t ř í:
-265	A)	Technologické postupy
-265	B)	Mikroklimatické podmínky
-265	C)	Vzduchotechnické vybavení
-265	D)	Nejvyšší přípustné koncentrace	y
-266		Při systémových účincích škodlivin se za cílový orgán označuje:
-266	A)	Orgán s největší kumulací škodliviny	y
-266	B)	Orgán, kde se projeví největší  efekt škodliviny
-266	C)	Musí platit i  dohromady
-266	D)	Vždy orgán, který škodliviny nejrychleji metabolizuje
-267		Rizikové pracoviště vyhlašuje:
-267	A)	Vedoucí lékař zdravotního úřadu	y
-267	B)	Specialista v oboru nemocí z povolání
-267	C)	Závodní lékař
-267	D)	Ředitel podniku
-268		Nedostatek jódu v potravě může způsobit:
-268	A)	Strumu
-268	B)	Mrtvorozenost plodu
-268	C)	Sníženou inteligenci
-268	D)	Všechny uvedené	y
-269		Resorpce vápníku z potravy závisí mimo jiné na:
-269	A)	Poměru vápníku a fosforu v potravě	y
-269	B)	Obsahu vitamínu C v potravě
-269	C)	Poměru mědi a zinku v potravě
-269	D)	Obsahu beta karotenu v potravě
-270		Vysoký přívod vlákniny:
-270	A)	Zvyšuje vstřebávání minerálů
-270	B)	Snižuje vstřebávání minerálů	y
-270	C)	Nemá vliv na vstřebávání minerálů
-270	D)	Nelze docílit
-271		Polychlorované bifenyly se v organismu hromadí:
-271	A)	Ve svalstvu
-271	B)	V tukové tkáni	y
-271	C)	V intersticiu
-271	D)	V tělních tekutinách
-272		Hořčík:		X
-272	A)	Zvyšuje nervosvalovou dráždivost
-272	B)	Nemá vliv na nervosvalovou dráždivost
-272	C)	Snižuje nervosvalovou dráždivost	y
-272	D)	Není biogenní prvek
-273		Vápník:
-273	A)	Zvyšuje nervosvalovou dráždivost
-273	B)	Nemá vliv na nervosvalovou dráždivost
-273	C)	Snižuje nervosvalovou dráždivost	y
-273	D)	Není biogenní prvek
-274		Anémie při nedostatku železa bývá:
-274	A)	Megaloblastická
-274	B)	Makrocytární hypochromní
-274	C)	Mikrocytární ortochromní
-274	D)	Mikrocytární hypochromní	y
-275		Která forma chromu působí biogenně:
-275	A)	Dvojmocná
-275	B)	Trojmocná	y
-275	C)	Čtyřmocná
-275	D)	Šestimocná
-276		Kadmium:
-276	A)	Může být toxickou příměsí potravy	y
-276	B)	Je součástí významných enzymů
-276	C)	Má antioxidační účinky
-276	D)	Nemá vliv na lidský metabolismus
-277		Zinek:
-277	A)	Je toxickou příměsí potravy
-277	B)	Je součástí významných enzymů	y
-277	C)	Snižuje nervosvalovou dráždivost
-277	D)	Nemá vliv na lidský metabolismus
-278		Účinky selenu v organismu mohou být následující:		X
-278	A)	Teratogenní
-278	B)	Karcinogenní	y
-278	C)	Alergizující
-278	D)	Abortivní
-279		Kolik procent z energie přijaté potravy by měly činit tuky:		X
-279	A)	15
-279	B)	30	y
-279	C)	40
-279	D)	50
-280		Nejvýznamnějším faktorem při vzniku alergií je:
-280	A)	Znečištění vnějšího prostředí
-280	B)	Vegetariánská strava
-280	C)	Genetická zátěž	y
-280	D)	Pohlaví
-281		Jak dlouho by mělo být dítě výhradně kojeno:		X
-281	A)	3 měsíce
-281	B)	6 měsíců	y
-281	C)	4 měsíce
-281	D)	do jednoho roku
-282		Kdy by měl být zdravý novorozenec prvně přiložen k prsu:
-282	A)	12 až 24 hodin po porodu
-282	B)	6 až 12 hodin po porodu
-282	C)	Do šesti hodin po porodu
-282	D)	Co nejdříve po porodu	y
-283		Jaká tekutina je nezbytná pro kojence do 4 měsíců mimo mateřské mléko:
-283	A)	Voda
-283	B)	Čaj
-283	C)	Ovocná šťáva
-283	D)	Žádná	y
-284		Která potravina neobsahuje cholesterol:
-284	A)	Nízkotučný sýr
-284	B)	Sojový olej	y
-284	C)	Zmrzlina
-284	D)	Hovězí játra
-285		Která skupina potravin je v ČR největším zdrojem vápníku:
-285	A)	Maso a masné výrobky
-285	B)	Mléko a mléčné výrobky	y
-285	C)	Luštěniny
-285	D)	Ovoce
-286		Z které potraviny se železo vstřebává nejlépe:
-286	A)	Hovězí maso	y
-286	B)	Špenát
-286	C)	Máslo
-286	D)	Soja
-287		Která potravina neobsahuje vlákninu:
-287	A)	Zelí
-287	B)	Jablko
-287	C)	Bílá mouka
-287	D)	Sýr	y
-288		Hlavním rizikovým faktorem vzniku melanoblastomu je:
-288	A)	Nedostatečná hygiena kůže
-288	B)	UV záření	y
-288	C)	Vysoká hladina sérového cholesterolu
-288	D)	Opakované kožní infekce
-289		Podstata rentgenového záření je:
-289	A)	Proud neutronů
-289	B)	Proud elektronů
-289	C)	Proud gama fotonů	y
-289	D)	Alfa záření
-290		Alfa záření je:
-290	A)	Proud neutronů
-290	B)	Proud elektronů
-290	C)	Proud gama fotonů
-290	D)	Proud jader helia	y
-291		Beta záření je:
-291	A)	Proud neutronů
-291	B)	Proud elektronů nebo pozitronů	y
-291	C)	Proud gama fotonů
-291	D)	Proud jader helia
-292		Gama záření je:
-292	A)	Proud neutronů
-292	B)	Proud elektronů
-292	C)	Elektromagnetické záření v kvantech fotonů	y
-292	D)	Proud jader helia
-293		Jednotkou aktivity je:
-293	A)	Siemens
-293	B)	Bequerel	y
-293	C)	Sievert
-293	D)	Gray
-294		Jednotkou dávky ionizujícího záření je:
-294	A)	Siemens
-294	B)	Bequerel
-294	C)	Sievert
-294	D)	Gray	y
-295		Jednotkou dávkového ekvivalentu je:
-295	A)	Gray
-295	B)	Bequerel
-295	C)	Siemens
-295	D)	Sievert	y
-296		Důsledkem nehody při terapii radiofarmaky může být:		X
-296	A)	Akutní poškození zdraví či smrt
-296	B)	Zkrácení pravděpodobné délky života
-296	C)	Vznik následných nádorových onemocnění
-296	D)	Platí všechny možnosti	y
-297		Prvotní reakce v havarijní situaci při práci s otevřeným zářičem:
-297	A)	Informovat nadřízeného
-297	B)	Zakrýt záčič stínícím materiálem
-297	C)	Vypnout elektronické přístroje
-297	D)	Co nejrychleji se vzdálit	y
-298		Při práci s lasery  může dojít k:
-298	A)	Poškození sítnice	y
-298	B)	Kataraktě čočky
-298	C)	Zhoubným nádorům kůže
-298	D)	Platí všechny možnosti
-299		Poklesem aktivity acetylcholinesterazy je ohrožen pracovník při práci s:
-299	A)	Kyanovodíkem
-299	B)	Karbamáty	y
-299	C)	Toluenem
-299	D)	Fosgenem
-300		Karcinom močového měchýře se může objevit v souvislosti s  expozicí:
-300	A)	Benzenu
-300	B)	Benzínu
-300	C)	Benzpyrenu
-300	D)	Benzidinu	y
+Pediatrická propedeutika
+1. Rozdělení dětského věku:
+a) Kojenecké období trvá od 29. dne do konce prvního roku života X
+b) Novorozenecké období se dělí na časné (užší nebo perinatální) a pozdní X
+c) Batolecí období je od prvních do třetích narozenin X
+d) Prenatální období se dělí na blastémové, embryonální a fetální  X
+2. Na intrauterinní růstové restrikci (retardaci) se podílejí následující rizikové faktory:
+a) Chromosomální aberace plodu X
+b) Infarkty placenty X
+c) Kouření matky X
+d) Hypertenze u matky  X
+3. Průměrná délka a váha plodu:
+a) Je v 20. gestačním týdnu gravidity 35 cm s váhou 1200 g
+b) Je v 36. gestačním týdnu gravidity 45 cm s váhou 2500 g X
+c) Je ve 16. gestačním týdnu gravidity 16 cm s váhou 600 g
+d) Je v 32. gestačním týdnu gravidity 40 cm s váhou 2500 g
+4. Přírůstky hmotnosti v prvním roce života:
+a) Jsou v prvním trimenonu 150 až 250 g za týden X
+b) Jsou v druhém trimenonu 500 až 600 g za měsíc X
+c) Jsou v prvním trimenonu 350 g za týden
+d) Dítě přibližně ztrojnásobí svou porodní váhu v roce života  X
+5. Platí:
+a) Donošený novorozenec váží 3000-4000 g, měří 50 cm, chlapci jsou průměrně o 100 g těžší než dívky X
+b) Váhový spád v novorozeneckém období je průměrně 7 %, maximálně 2.-3. den života X
+c) Novorozenci mají velkou hlavu, poměrně krátký trup a dlouhé končetiny
+d) Novorozenci mají malou hlavu, poměrně dlouhý trup a krátké končetiny
+6. V růstu dítěte platí:
+a) Dítě vyroste první rok života o 25 cm X
+b) Dítě vyroste první tři měsíce průměrně o 3-4 cm měsíčně X
+c) Dítě vyroste čtvrtý trimenon života průměrně 3 cm měsíčně
+d) Ve druhém roce života dítě vyroste o 9 cm
+7. O růstu platí:
+a) Tempo růstu v předškolním věku a mladším školním věku je přibližně 5 cm ročně X
+b) Nejpomalejší tempo růstu je těsně před pubertou (pouze 3-4 cm ročně) X
+c) Dítě vyroste ve třetím roce věku přibližně 6 cm
+d) Dítě dosáhne výšky 1 m průměrně ve věku 3,5 let  X
+8. O váhových přírůstcích platí:
+a) Dítě zdvojnásobí svou porodní váhu 4. až 5. měsíc života X
+b) Dítě fyziologicky vyrovná svůj váhový spád do 10. až 14. dne života X
+c) Dítě v batolecím období přibírá průměrně 4 kg za rok
+d) V roce věku dítě váží přibližně 12 kg
+9. O pubertě platí:
+a) Akcelerace růstu u dívek nastává většinou po 10. roce života, s maximem kolem 12. roka života X
+b) Maximum růstu chlapců je o jeden až dva roky před maximem růstu u dívek
+c) Roční váhový přírůstek v pubertě je 3-5 kg X
+d) Přírůstek výšky v období pubertálního růstového výšvihu může být 8-12 cm ročně   X
+10. O pubertě platí:
+a) Prvním příznakem puberty u chlapců je nárůst ochlupení
+b) Prvním příznakem puberty u chlapců je zvětšení varlat X
+c) Prvním příznakem puberty u dívek je nárůst prsou a růstový výšvih X
+d) Prvním příznakem puberty u dívek je nepravidelná menstruace
+11. Platí:
+a) U dospělého muže tvoří tuk asi 25 % tělesného hmotnosti
+b) U dospívajících žen tvoří množství tuku asi 25 % tělesné hmotnosti X
+c) U dospělého muže tvoří svaly asi 60 % tělesného hmotnosti
+d) U dospělého muže tvoří svaly asi 40 % tělesného hmotnosti
+12. Platí:
+a) Obvod hlavy je u novorozenců průměrně 37 cm
+b) Obvod hlavy je v prvním roce života 46-47 cm X
+c) Hmotnost mozku je při narození 350-400 g, na konci prvního roku života 800-900 g X
+d) Obvod hlavy v 6 letech života je průměrně 51 cm  X
+13. Povrch těla:
+a) Je u novorozence přibližně 0,25 m2 X
+b) Je u ročního dítěte přibližně 0,45 m2 X
+c) Je u 10 letého dítěte přibližně 1,1 m2 X
+d) Je u dospělého přibližně 2.0 m2
+14. Chlapec se narodil v 39+3 gestačním týdnu:
+a) Obvod hlavy 38 cm je v pořádku
+b) Hmotnost 2200 g je v pořádku
+c) Hmotnost 2800 g je v pořádku  X
+d) Délka 48 cm je v pořádku  X
+15. Pokud má novorozenec narozený v 40. gestačním týdnu porodní hmotnost 4400 g, musíme myslet kromě jiného i na:
+a) Fetoplacentární insuficienci
+b) Gestační diabetes matky X
+c) Hypotyreózu dítěte
+d) Hypotyreózu matky
+16. Pokud novorozenec narozený v 40. gestačním týdnu má porodní hmotnost 2100 g, musíme kromě jiného myslet i na:
+a) Kouření matky v těhotenství X
+b) Fetoplacentární insuficienci X
+c) Fetální alkoholový syndrom X
+d) Gestační diabetes matky
+17. První tři měsíce věku zdravé a původně donošené dítě průměrně:
+a) Vyroste o 2 cm za měsíc
+b) Prospívá 350 g týdně
+c) Potřeba tekutin je 150 ml/kg/den X
+d) Hlavička roste o 2-3 cm za měsíc  X
+18. Plně kojená tříměsíční holčička měla porodní hmotnost 4100 g, nyní váží 5050 g.
+a) Váha je v pořádku, dítě koriguje svou vyšší porodní váhu, není potřeba je vyšetřovat
+b) V diferenciální diagnostice se může jednat o celiakii
+c) Může se jednat o nedostatek mateřského mléka X
+d) Dítě má nejspíše vysoké dávky mateřského mléka
+19. Půlroční chlapec má obvod hlavy 38 cm. Mohlo by se jednat o:
+a) Achondroplázii
+b) Hydrocefalus
+c) Intrauterinní infekci CMV X
+d) Neléčenou fenylketonurii  X
+20. Donošená dívka s porodní délkou 50 cm měří v roce 70 cm. Do diferenciální diagnostiky patří:
+a) Deficit růstového hormonu
+b) Kostní dysplázie X
+c) Cystická fibróza X
+d) Chronická insuficience ledvin  X
+21. Percentilové křivky:
+a) Pokud dítě svým růstem v prvních dvou letech života překročí některou z hlavních percentilových křivek (3., 10., 25., 50., 75., 90., 97. percentil), je to v pořádku (lag down nebo catch up růst) X
+b) Pokud při narození eutrofické dítě v grafu poměru váhy k délce v prvních dvou letech života překročí dvě sousední hlavní percentilové křivky (3., 10., 25., 50., 75., 90., 97. percentil), je to v pořádku (lag down nebo catch up růst)
+c) Pokud dítě roste těsně pod třetím percentilem, může se jednat o familiární opoždění růstu X
+d) Novorozence s hmotností pod 3. (nebo pod 5.) percentil pro daný gestační věk má intrauterinní růstovou restrikci (retardaci) X
+24. Ve vývoji dítěte platí
+a) Ve čtyřech měsících drží končetiny ve flekční poloze, ruce má sevřené v pěst, otáčí hlavičku do strany
+b) Ve dvou měsících začíná zvedat nožičky, v poloze na bříšku udrží hlavičku asi na 3 s X
+c) Jako novorozenec rozeznává světlo a tmu, krátce fixuje světlé předměty X
+d) Jako novorozenec reaguje trhnutím celého těla na silné zvuky  X
+25. Ve vývoji dítěte platí:
+a) Dítě cíleně uchopí hračku a přendává si ji z ruky do ruky ve třech měsících
+b) Dítě cíleně uchopí hračku a přendává si ji z ruky do ruky v pěti měsících X
+c) Hlasitý smích se většinou objevuje ve čtyřech měsících života X
+d) Šestiměsíční dítě umí lézt
+26. Ve vývoji dítěte platí:
+a) V sedmi měsících se naučí paci-paci, pá-pá
+b) V devíti měsících se naučí paci-paci, pá-pá X
+c) V jedenácti měsících rozumí jednoduchým pokynům, např. „otevři“ nebo „zavři pusu“, apod. X
+d) Ve dvanácti měsících umí vyslovit kolem deseti slov s významem
+27. Dítě ve 24 měsících věku:
+a) Umí průměrně 300 slov, umí složit 2-3 slovní věty X
+b) Umí nakreslit trojúhelník
+c) Hraje s jinými dětmi
+d) Chodí nahoru po schodech bez držení  X
+28. Dítě v pěti letech věku:
+a) Poskakuje na jedné noze X
+b) Rozeznává pravou a levou ruku X
+c) Nemýlí si pojmy „včera“ a „zítra“ X
+d) Nakreslí postavu s hlavou, trupem a končetinami  X
+29. Platí:
+a) Novorozenec má 60-80 % hemoglobinu HbF X
+b) Hematokrit narozeného dítěte dosahuje přes 50 % X
+c) Objem erytrocytu novorozence je 70-85 fl
+d) Objem erytrocytu novorozence je 90-110 fl  X
+30. Platí:
+a) Hodnota leukocytů po narození je 9-30.109/l X
+b) Hodnota leukocytů po narození je 4-9.109/l
+c) V diferenciálním rozpočtu narozeného dítěte je převaha lymfocytů
+d) V diferenciálním rozpočtu narozeného dítěte je převaha neutrofilů  X
+31. Platí:
+a) Koncentrace koagulačních faktorů u novorozence dosahuje přibližně 50 % hodnoty dospělých X
+b) Mateřské mléko obsahuje kolem 2 µg/l vitamínu K, kravské 5 µg/l X
+c) Hemokoagulační parametry šestiměsíčního kojence se jen málo liší od parametrů u dospělého X
+d) Mateřské mléko obsahuje kolem 5 µg/l vitamínu K, kravské 50 µg/l
+32. Platí:
+a) Přirozeně se vyskytující aglutininy anti-A a anti-B se u větších dětí a dospělých nacházejí v imunoglobulinové frakci plazmy typu IgM X
+b) Pozitivita Rh systému závisí na přítomnosti antigenu C
+c) Anti Rh protilátky se v krvi přirozeně vyskytují, bez předešlé imunizace
+d) Hemolytická nemoc novorozenců se léčí podáním vitamínu K
+33. Platí:
+a) Rh-aloimunizace plodu se projeví konjugovanou hyperbilirubinémii
+b) Rh-aloimunizace plodu bývá závažnější než aloimunizace v AB0 systému X
+c) Těžká hemolýza u plodu/novorozence může vést k masivnímu generalizovanému edému v důsledku anémie, hypoxie, hypoproteinémie X
+d) Fetální erytroblastóza je důsledkem zvýšené tvorby nezralých červených krvinek (mj. i v játrech a slezině) v důsledku hemolytické anémie u novorozence  X
+34. Platí:
+a) Placenta má dva oddělené krevní oddíly - uteroplacentární a uterofetální X
+b) Rh-aloimunizace vzniká pouze v případě předchozího abortu u matky
+c) Rh-aloimunizace vzniká pouze v případě předchozího porodu u matky
+d) Matka, která byla již jedenkrát imunizována a tvoří anti-D protilátky, tvoří již protilátky po celý život  X
+35. Platí:
+a) Mezi primární lymfatické orgány patří kostní dřeň a Peyerovy plaky
+b) Mezi primární lymfatické orgány patří kostní dřeň a lymfatické uzliny
+c) Mezi sekundární lymfatické orgány patří lymfatické uzliny a adenoidní vegetace X
+d) Mezi sekundární lymfatické orgány patří tymus a slezina
+36. Platí:
+a) Novorozenci jsou vnímaví na Staphylokokové kožní infekce X
+b) Novorozenci jsou vnímaví na enterovirové infekce
+c) Infekce v novorozeneckém věku jsou částečně zapříčiněné zvýšenou koncentrací myeloperoxidázy v polymorfonukleárních leukocytech
+d) V boji s pyogenními bakteriemi se účastní zejména polymorfonukleární leukocyty  X
+37. Platí:
+a) Snížená hladina protilátek IgM v pupečníkové krvi svědčí o prodělané intrauterinní infekci
+b) Syntéza IgG je prenatálně nízká a stoupá až postnatálně vlivem stimulace imunitního systému exogenními antigeny X
+c) Hladina IgG se vyrovná hladině u dospělých ve čtvrtém až šestém roce života X
+d) Antibakteriální účinnost sekrečních imunoglobulinů třídy IgA je založena na agregaci bakterií a zabránění jejich adherenci na povrch sliznic X
+38. Mateřské mléko obsahuje:
+a) Všechny třídy imunoglobulinů X
+b) Velké množství buněk (přibližně 2.106/l), převážně makrofágů (80-90 %) X
+c) Všechny základní složky komplementu X
+d) Aktiferrin
+39. Platí:
+a) Lysosym se zúčastňuje na lýze gramnegativních bakterií X
+b) Lysosym štěpí mukopolysacharidové komplexy zejména grampozitivních bakterií X
+c) Laktoferin chrání střevo novorozenců zejména před infekcemi patogenními kmeny E.coli X
+d) Mateřské mléko obsahuje kyselinu neuramínovů a laktoperoxidázový systém  X
+40. Ductus arteriosus Botalli:
+a) U donošených novorozenců se průměrně uzavírá do 72-96 hodin po narození X
+b) Ibuprofen ductus arteriosus udržuje otevřený
+c) K uzávěru ductus arteriosus vede zvýšený parciální tlak kyslíku v krvi X
+d) Prostaglandiny ductus arteriosus udržují otevřený  X
+41. Perzistující ductus arteriosus Botalli:
+a) Je častější u donošených novorozenců
+b) Zvýšení plicního průtoku vede ke snížení dynamické poddajnosti plic a zhoršení plicních funkcí X
+c) Znamená zvýšené zatížení levé komory X
+d) Následkem je mj. zvýšení plicního průtoku, které může vést k závažným vaskulárním změnám plicního řečiště  X
+42. Perzistující ductus arteriosus Botalli:
+a) Může vést k zhoršenému prokrvení ledvin se zvýšenými koncentracemi kreatininu, které je reverzibilní po úspěšném uzavření duktu X
+b) Při velkých zkratech může vést k zhoršenému prokrvení CNS X
+c) Se lze pokusit farmakologicky uzavřít podáním inhibitorů syntézy prostaglandinů X
+d) Se lze pokusit farmakologicky uzavřít podáním inhibitorů degradace prostaglandinů
+43. Po narození:
+a) Se plicní vaskulární rezistence zvyšuje
+b) Se plicní vaskulární rezistence snižuje X
+c) Střední tlak krvi v a.pulmonalis klesne na hodnoty kolem 15 mm Hg v 6. až 8. týdnu postnatálního života X
+d) Střední tlak krvi v a.pulmonalis klesne na hodnoty kolem 15 mm Hg ve dvou letech postnatálního života
+44. Důvodem perzistující plicní hypertenze novorozenců je:
+a) Aspirace mekonia X
+b) Sepse X
+c) IRDS X
+d) Diafragmatická hernie X
+45. Normální hodnota pO2 v krvi ve v.umbilicalis plodu:
+a) Je přibližně 28 mm Hg (3,7 kPa) X
+b) Je o 10-15 mm Hg (1,3-2,0 kPa) nižší než ve venózní krvi matky X
+c) Je nižší než v a.umbilicalis plodu
+d) Je vyšší než v a.umbilicalis plodu  X
+46. Platí:
+a) Dechový objem má průměrnou hodnotu 5-7 ml/kg tělesné hmotnosti X
+b) Dechový objem má průměrnou hodnotu 15-20 ml/kg tělesné hmotnosti
+c) Pro novorozence je charakteristické dýchání nepravidelné, případně periodické X
+d) Periodické dýchání je častější u nezralých dětí  X
+47. Grunting:
+a) Je charakterizován aktivním a prodlouženým inspiriem
+b) Je charakterizován aktivním a prodlouženým exspiriem X
+c) Mechanismem způsobujícím grunting je přivření glottis X
+d) Je průvodním jevem dechové nedostatečnosti  X
+48. Surfaktant:
+a) Je syntetizován pneumocyty I.typu
+b) Je syntetizován pneumocyty II.typu X
+c) Se začíná v alveolech produkovat až po 32. gestačním týdnu
+d) Jeho podstatnou část (90 %) tvoří fosfolipidy X
+49. Surfaktant:
+a) Snižuje povrchové napětí plicních alveol X
+b) Zvyšuje povrchové napětí plicních alveol
+c) Napomáhá mechanickému odstraňování částic a poškozených buněk z alveol do dýchacích cest X
+d) Má přímé baktericidní účinky  X
+50. Glomerulární filtrace:
+a) Je u čerstvě narozeného donošeného novorozence přibližně 0,33 ml/s/1,73 m2 povrchu těla X
+b) Se do dvou týdnů po porodu zdvojnásobuje, což je dáno především redistribucí průtoku krve X
+c) Hodnoty blízké dospělým v přepočtu na povrch těla dosahuje v roce věku dítěte X
+d) Je u dospělých přibližně 2 ml/s/ 1,73m2 povrchu těla  X
+51. Na glomerulární filtraci se podílejí:
+a) Filtrační tlak X
+b) Onkotický tlak X
+c) Permeabilita kapilární stěny X
+d) Velkost filtrační plochy  X
+52. Koncentrační schopnost ledvin:
+a) Dospělí dokážou zkoncentrovat moč na 1800-2200 mOsm/kg
+b) Dospělí dokážou zkoncentrovat moč na přibližně 1400 mOsm/kg X
+c) Týdenní novorozenec dokáže zkoncentrovat moč na přibližně 50 % hodnoty u dospělých X
+d) Děti v roce věku dokážou zkoncentrovat moč na přibližně 1100 mOsm/kg  X
+53. Platí:
+a) Mozek novorozence váží 400 g X
+b) Koncem prvního roku se hmotnost mozku zdvojnásobí X
+c) Mozek novorozence je plně myelinizován
+d) V šestém roce dosahuje hmotnost mozku hranice dospělého člověka (1250g)  X
+54. Fyziologická hypermetropie:
+a) Je přítomna u cca ¾ novorozenců X
+b) Často přetrvává až do mladšího školního věku X
+c) Je způsobena relativně krátkým očním bulbem a méně zakřivenou rohovkou X
+d) Je způsobena konsenzuální reakcí
+55. V postnatálním vývoji motoriky:
+a) Při holokinetickém stadiu hybnosti se vlastně jedná o nekoordinovaný pohyb všech čtyř končetin X
+b) Monokinetické stadium hybnosti se objevuje v deseti měsících věku
+c) Dromokinetické stadium se objevuje od pátého měsíce věku  X
+d) Kratikinetické stadium hybnosti přichází s dokončením prvního roku života  X
+56. V postnatálním vývoji motoriky:
+a) Při monokinetickém stadiu hybnosti již kojenec pohybuje samostatně i jednou končetinou, ale pohyby ještě nemají směr a řízení X
+b) Holokinetické stadium hybnosti je typické pro věk sedmi měsíců
+c) Dromokinetické stadium je charakterizováno správným směrem pohybů končetin X
+d) Kratikinetické stadium je odvozeno od řeckého slova kratein - zvládnout  X
+57. Mezi 7. a 9. měsícem věku:
+a) Dítě začíná rozlišovat mezi známou a cizí tváří tzv. první období separační úzkosti X
+b) Začíná vnímat permanenci objektu X
+c) Chování k věcem a osobám nevykazuje žádné významné rozdíly
+d) Charakteristická pro toto období je žárlivost při narození mladšího sourozence
+58. Batole:
+a) Kolem dvou let si dítě rádo hraje vedle druhých dětí, ale nemá rádo, aby mu do hry zasahovaly (paralelní hra) X
+b) Ve třetím roce začíná mít hra charakter spolupráce nebo soupeřivosti (kolektivní hra) X
+c) Charakteristická je reakce žárlivosti při narození mladšího sourozence X
+d) Objevují se reakce násilného vymáhání nebo odmítání (fáze negativismu nebo vzdoru) X
+59. Předškolní dítě:
+a) Objevuje se pocit viny, vytváří se svědomí X
+b) Do pěti let tvoří ve hře většinou nejvýše tříčlenné skupiny X
+c) Hru lze charakterizovat jako kolektivní X
+d) Hru lze charakterizovat jako paralelní
+60. Léky proti bolesti u dětí:
+a) Podáváme dětem méně často, protože děti vnímají bolest méně než dospělí
+b) Podáváme dětem méně často, protože u nich vzniká rychleji návyk
+c) Bolest tlumíme vždy, protože již plod ve 22. týdnu je vybaven komplexním systémem pro vnímání bolesti X
+d) Jen když bolest dokumentujeme skórovacími systémy
+61. Schopnost abstraktního myšlení:
+a) Dosahuje dítě v 10 letech
+b) Dosahuje dítě v 5-6 letech X
+c) Umožňuje výchovu k pořádku
+d) Dovoluje začít s vzdělávacím procesem X
+62. Nejčastější příčina úmrtí u dětí starších 1 roku jsou:
+a) Kardiovaskulární nemoci
+b) Vrozené vývojové vady
+c) Úrazy a otravy X
+d) Maligní nádory
+63. Dvouměsíční dívka má opruzený zadeček:
+a) Vyslovíme podezření na buněčný imunodeficit
+b) Zadeček namažeme antibiotickou mastí
+c) Důležitá je důsledná hygiena a omytí vodou po stolici X
+d) Důležité je ponechat podle možností exponovanou kůži na vzduchu X
+64. Jaká je vhodná poloha pro spánek u dvouměsíčního dítěte:
+a) Na bříšku
+b) Na levém nebo pravém boku
+c) Na pravém boku
+d) Na zádech X
+65. Nejrychlejší růst u dospívající dívky je:
+a) V období kolem menarché X
+b) Těsně po 17. roce
+c) 2.-3. rok po menarché
+d) 1 rok po menarché
+66. Do obrazu purgativní mentální anorexie nepatří:
+a) Porucha vnímání vlastního těla
+b) Krátké bulimické ataky
+c) Amenorea
+d) Noční pocení X
+67. Na ambulanci dětské kliniky přichází 16letý učeň s otcem. Otec je přesvědčený, že hoch užívá drogy, dle otce se „chytl“ špatné party, doma se ztrácejí peníze. Chlapec abúzus drog popírá. Co může přispět k podezření, že chlapec drogy bere?
+a) Viditelné vpichy na kůži, které se nedají vysvětlit odběry krve nebo injekční terapií X
+b) Povrchové trombózy a kožní infekce X
+c) Váhový úbytek X
+d) Palmoplantární erytém
+68. Dospívající dívka udává u praktického lékaře pro děti a dorost nepříjemné dysurie, praktický lékař odebral vyšetření moče a sedimentu a kvantitativní bakteriurii. Moč a sediment vykazuje mírnou proteinurii a signifikantní leukocyturii. Kultivace moče je ale negativní. Teploty ani jiné celkové příznaky dívka nemá. Příčinou obtíží a močového nálezu může být:
+a) Akutní postreptokoková glomerulonefritida
+b) Akutní pyelonefritida
+c) Urolithiáza
+d) Chlamydiová uretritida X
+69. Dospívající hoch, bez jakýchkoli zdravotních obtíží, obdržel výsledek sportovní prohlídky, při které byly provedeny i krevní odběry. Jediný patologický výsledek v krevním biochemismu (včetně bilirubinu, ALT, AST, GMT) je bilirubin 60 µmol/l, konjugovaný bilirubin je 8 µmol/l). Jaká diagnóza přichází v úvahu?
+a) Crohnova choroba
+b) Gilbertův syndrom X
+c) Infekční mononukleóza
+d) Ulcerózní kolitida
+71. Při experimentování s drogami:
+a) Užívá dospívající drogy většinou ve skupině vrstevníků X
+b) Může z experimentu spontánně odstoupit bez větších tělesných nebo psychických obtíží X
+c) Bere drogy často tajně a o samotě
+d) Většinou již užívá drogy intravenózně
+73. Jedno vyšetření krevního tlaku u 17letého dospívajícího chlapce, které přinese hodnotu 145/90 mm Hg:
+a) Již znamená, že dospívající má diagnózu hypertenze
+b) Nás vede k urgentnímu vyšetření funkcí ledvin
+c) Je signálem pro opakované kontroly krevního tlaku X
+d) Může být způsobeno „syndromem bílého pláště“ X
+74. Bolesti v pravém podbřišku v adolescenci mohou být projevem
+a) Akutní appendicitidy X
+b) Extrauterinní gravidity X
+c) Crohnovy choroby X
+d) Urolithiázy X
+75. Zralé mateřské mléko obsahuje:
+a) 0,9-1,1 g bílkoviny na 100 ml X
+b) 2 g tuků na 100 ml
+c) 3,5 g laktózy na 100 ml
+d) Imunoglobulin IgM X
+76. Kojenecká mléčná výživa má tyto modifikace a fortifikace:
+a) Počáteční (označovaná číslem 1) X
+b) Pokračovací (označovaná číslem 2) X
+c) Mléka pro batolata (označovaná číslem 3) X
+d) Je fortifikována vitaminem D X
+77. U zavádění příkrmů platí:
+a) Příkrmy lze zahájit zeleninou na lžičce (brokolice, mrkev, brambor) X
+b) Mezi zaváděním jednotlivých složek je vhodné ponechat interval 3-4 dnů k posouzení tolerance nové potraviny X
+c) Med lze zavést od 6. měsíce věku
+d) Lepek je vhodné zavést až po 9. měsíci věku pro snížení rizika celiakie
+78. Které vitaminy jsou rutinně podávány všem novorozencům a kojencům:
+a) B12
+b) D X
+c) C
+d) K X
+79. Nemléčné příkrmy (komplementární výživu) je doporučeno zavádět:
+a) Ve 3. měsíci
+b) Ve 4. měsíci
+c) Mezi 5.-6. měsícem X
+d) Lžičkou X
+80. V léčbě alergie na bílkovinu kravského mléka jsou používány:
+a) Umělá mléčná kojenecká výživa označená HA (hypoantigenní formule)
+b) Extenzivní hydrolyzáty X
+c) Umělá mléčná kojenecká výživa na bázi aminokyselin X
+d) Umělá mléčná kojenecká výživa označená AR
+81. Kojenecká strava „do ruky“ (finger food) u zdravého kojence:
+a) Se nabízí mezi 4.-5. měsícem
+b) Od 6.měsíce
+c) Mezi 7.-8. měsícem X
+d) Je zaváděna kolem 1. roku života jako tzv. „family food“
+82. Veganská výživa po 6. měsíci věku ohrožuje dítě:
+a) Nedostatkem kalorií X
+b) Nedostatkem bílkovin X
+c) Nedostatkem vitaminu B12 X
+d) Nedostatkem vápníku X
+85. Horečka je:
+a) Tělesná teplota nad 38,0 °C naměřena v konečníku X
+b) Zvýšení „bazální teploty jedince“ o 1-4 °C X
+c) Zvýšení tělesné teploty v axile nad 37,2 °C
+d) Zvýšení teploty kůže čela dítěte
+86. Zvýšení tělesné teploty může způsobit:
+a) Zvýšení nastavení „centrálního termostatu“ X
+b) Zvýšení metabolické aktivity X
+c) Přehřátí pobytem v horkém prostředí X
+d) Požití přehřátých nápojů nebo jídla
+87. Termogeneza u dítěte má zdroje:
+a) Třesová termogeneze X
+b) Netřesová termogeneze X
+c) Křik kojence X
+d) Peristaltika GIT
+88. U dosud zdravého dítěte se změna zdravotního stavu projeví náhle horečkou. Které z uvedených průvodních jevů jsou velmi závažné?
+a) Porucha vědomí X
+b) Dušnost X
+c) Pocení
+d) Krvácivé projevy na kůži X
+89. Popis průběhu horečky pomáhá při diferenciální diagnostice:
+a) Šesté dětské nemoci X
+b) Malárie X
+c) Revmatické horečky
+d) Hodgkinského lymfomu X
+90. Patofyziologické mechanizmy vzniku horečky způsobené „endogenním pyrogenem“ jsou:
+a) Periferní vazodilatace
+b) Periferní vazokonstrikce X
+c) Bradykardie
+d) Svalová kontraktura a třesavka X
+91. Léky, které nejsou vhodné pro ovlivnění horečky u dětí při běžné nemoci:
+a) Paracetamol
+b) Acetylsalicylová kyselina X
+c) V-penicilin X
+d) Prednison X
+92. Mírné zvýšení tělesné teploty u kojence může způsobovat také:
+a) Nedostatek vitamínu K
+b) Předávkování vitamínu D
+c) Prořezávání zubů X
+d) Kongenitální hypothyreóza
+93. Paracetamol při horečce u dětí:
+a) Dávkuje se 10-15 mg/kg a dávku X
+b) Dávkuje se 150 mg/kg a den
+c) Interval mezi dávkou paracetamolu je 6 hod X
+d) Lze podat i intravenózně X
+95. O novorozeneckém screeningu v ČR neplatí:
+a) Vyšetření se provádí 48.-72. hodinu života
+b) Pravděpodobnost, že u jednoho konkrétního vyšetřovaného novorozence bude zjištěno některé ze screenovaných onemocnění, je přibližně 1:1000
+c) Krevní vzorky se odebírají do speciální zkumavky X
+d) Vyšetření se provádí u všech novorozenců 72.-96. hodinu života X
+96. Pro kongenitální adrenální hyperplazii platí:
+a) Při novorozeneckém screeningu se stanovuje hladina kortizolu
+b) Více než 90 % je onemocnění způsobeno deficitem 21-hydroxylázy X
+c) Je v novorozeneckém screeningu snadněji diagnostikována u chlapců
+d) Děti trpí dehydratací při hyperglykémii
+97. Pro kongenitální hypothyreózu neplatí:
+a) Je druhé nejčastější onemocnění zařazené do programu novorozeneckého screeningu X
+b) Klinické příznaky neléčené kongenitální hypothyreózy se plně rozvinou mezi 3.-6. měsícem věku
+c) V novorozeneckém screeningu se měří hladina fT4 X
+d) Může se jednat o autosomálně dominantně i recesivně děděná onemocnění související s dysgenezí i dyshormonogenezí štítné žlázy
+98. Pro novorozenecký screening fenylketonurie platí:
+a) Jedná se o nejdéle screenované onemocnění na světě X
+b) Při pozitivním nálezu je plné kojení kontraindikováno X
+c) I přes adekvátní léčbu nemusí být prognóza u klasické formy onemocnění dobrá
+d) Pokud by nebyla diagnostikována, projeví se závažným onemocněním jater a ledvin spolu s těžkým opožděním vývoje
+99. Pro novorozenecký screening cystické fibrózy neplatí:
+a) Metodou novorozeneckého screeningu je měření hladiny chloridů v potu na porodnici 48.-72. hodinu života X
+b) Diagnostikuje všechny formy onemocnění X
+c) Do vyšetření v rámci novorozeneckého screeningu patří i vyšetření DNA
+d) Při pozitivitě imunoreaktivního trypsinogenu v krvi se provádí recall a nový odběr krve na vyšetření DNA X
+100. O vyšetření v rámci novorozeneckého screeningu platí:
+a) Při screeningu kongenitální hypothyreózy se stanovuje koncentrace volného thyroxinu
+b) Pro diagnostiku cystické fibrózy je zásadní stanovení hladina elastázy v suché krevní kapce
+c) Hladina amoniaku se měří v rámci novorozeneckého screeningu při vyšetření poruch cyklu močovinY
+d) Při screeningu kongenitální hypothyreózy se stanovuje koncentrace TSH X
+104. V novorozenecké populaci se sluchové vady vyskytují ve frekvenci 1-2/1000 živě narozených novorozenců. K jejich odhalení slouží novorozenecký screening sluchu, který je nutné realizovat 2.-4. den po narození na novorozeneckých odděleních. K tomuto vyšetření slouží jednoduchá neinvazivní metoda:
+a) BERA (brainstem electric response audiometry)
+b) SSEP (steady state evoked potentials)
+c) TEOAE (tranzitorní evokované otoakustické emise) X
+d) OAE (otoakustické emise) X
+105. Pravidelné preventivní prohlídky v ordinaci praktického lékaře pro děti a dorost slouží k včasnému odhalení odchylek v somatickém, psychomotorickém a senzorickém vývoji dítěte.  Rodiče jsou zváni k pravidelným prohlídkám 10x v období kojeneckém a batolecím a od třetího roku života v pravidelných dvouletých intervalech. K vyšetření dětí školního věku v ordinaci PLDD kromě fyzikálního vyšetření vždy patří:
+a) Vyšetření zraku, sluchu, arteriálního TK, vyšetření moči X
+b) Měření glykémie a cholesterolu
+c) Antropometrické vyšetření X
+d) Kontrola a plán pravidelného a dobrovolného očkování + očkování dítěte X
+106. Součástí preventivní prohlídky kojenců a batolat je i hodnocení psychomotorického a psychosociálního vývoje dítěte. V případě překročení mezníků v tomto vývoji je potřeba dítě odeslat na vyšetření do dalších specializovaných ordinací (dětský neurolog, fyzioterapeut, eventuálně další specialisté, dle dalších asociovaných komorbidit a symptomů).  Vyznačte nepravdivá tvrzení.
+a) V rámci fyziologického vývoje dítě v roce musí samostatně chodit X
+b) V rámci fyziologického vývoje dítě samostatně chodí nejpozději v 18 měsících
+c) V 7 měsících dítě na břichu leží ve vzporu s nataženými pažemi opřenými o dlaně
+d) V roce dítě musí umět alespoň 10 slov X
+107. Pro období batolecího věku jsou v ordinaci PLDD stanovené prohlídky v 18. měsíci a 3 letech věku. Označte pravdivá tvrzení.
+a) Ve 3 letech věku se v ordinaci PLDD realizuje první skríningové vyšetření pro poruchy autistického spektra (PAS) prostřednictvím Dotazníku M-CHAT
+b) Pro batolecí věk jsou typické separační úzkost a silná fixace na matku X
+c) V batolecím věku dítě prožívá první období vzdoru a sebeuvědomování X
+d) Batolecí neofobie můžou vést k nutričním deficitům. Nejčastější nemocí z nedostatečného příjmu u batolat je proteino-energetická malnutrice
+108. Preventivní prohlídky v ordinaci praktického lékaře pro děti a dorost mají za cíl:
+a) Včasný záchyt patologických stavů vrozených i získaných v somatickém, psychomotorickém a sociálním vývoji X
+b) Prevence obezity a civilizačních nemocí, rizikového chování, závislostí X
+c) Vyšetřením stolice na OK (okultní krvácení) ve 3 měsících věku dítěte včasný záchyt alergie na bílkovinu kravského mléka
+d) Nutričním poradenstvím a podporou laktace v kojeneckém věku podpořit prevenci civilizačních a alergických nemocí X
+109. V ordinaci praktického lékaře pro děti a dorost se na základě Jednotného systému preventivních prohlídek u dítěte v 5. roce života vyšetřuje:
+a) Zrak standardizovanými řádkovými optotypy. Vyšetřují se vždy obě oči (monookulárně s dobře zalepeným druhým okem) X
+b) Školní zralost dítěte – vývoj řeči, grafomotoriky, psychosociální a emocionální zralost dítěte, úroveň kognitivních dovedností X
+c) Vyšetření cholesterolu u dětí s vysokým výskytem kardiovaskulárních nemocí v rodině X
+d) Přítomnost sekundární enurézy
+110. Při preventivním vyšetření 3letého chlapce v ordinaci praktického lékaře pro děti a dorost je pravděpodobné, že pediatr může vyšetřením konstatovat níže uvedené. Označte pravdivá tvrzení:
+a) Dítě se odchyluje z antropometrické křivky, je bledé, s prominencí břicha. Jako vhodné je imunologické vyšetření celiakie. X
+b) Chlapec mluví v jednoduchých 2-3 slovných srozumitelných větách. Rozumí jednoduchým pokynům, porozumění řeči se zdá být v pořádku. Nejeví další známky odchylek v psychosociálním vývoji.  Předchozí dotazníkové M-CHAT hodnocení je bez zjevné patologie. Jedná se o možný fyziologický vývoj. Sledování řeči je vhodné v ordinaci PLDD, nevyžaduje prozatím další specializovaná vyšetření. X
+c) Chlapec má neustále pleny na noc. I přes den je přítomná občasná enureza. Pediatr indikuje vyšetření na sonografickém a nefrologickém pracovišti.
+d) V případě, že při monokulárním vyšetření dítěte na optotypu dítě nespolupracuje anebo je vyšetření nejednoznačné, odloží toto vyšetření na prohlídku v 5. roce života. Riziko pozdního odhalení vrozených vad zraku a tupozrakosti je minimální.
+111. Při preventivním vyšetření 11letého chlapce v ordinaci PLDD pediatr může po prohlídce konstatovat níže uvedené závěry:
+a) Chlapec doposud nemá žádné projevy puberty. Je indikovaná k vyšetření endokrinologem jako pubertas tarda.
+b) Praktický lékař doporučí chlapci očkování proti HPV a v případě souhlasu rodičů chlapce očkuje. Jedná se o dobrovolné očkování hrazené z veřejného pojištění pro kohortu 11letých chlapců.
+c) S ohledem na akcelerovaný růst u pubertálního chlapce se začíná rozvíjet skolióza.  Pediatr indikuje vyšetření ortopedem. X
+d) V moči pediatr zachytí mikroskopickou hematurii, bez proteinurie, bez leukocyturie. Tato byla u chlapce již zachycená v minulosti, intermitentně. Chlapec je normotenzní, zdravý, bez dalších chronických nemocí, bez historie infekcí močových cest. Bratr maminky chlapce trpí chronickým ledvinovým selháním. Pediatr indikuje opětovné vyšetření moči za standardních odběrových podmínek a v případě potvrzení mikroskopické hematurie nefrologické vyšetření. Zvažuje audiometrické vyšetření. X
+112. Očkování dětí v rámci očkovacího kalendáře je v ČR ze zákona:
+a) Povinné X
+b) Dobrovolné
+c) Povinné pouze před nástupem do kolektivního zařízení
+d) Nepovinné
+113. Mezi kontraindikace pro očkování patří:
+a) Předchozí závažná alergická reakce po očkování X
+b) Srdeční vada s prevencí infekční endokarditidy
+c) Atopický ekzém
+d) Akutní horečnatá infekce X
+114. Aktivní imunizace se neaplikuje:
+a) Intramuskulárně
+b) Intravenózně X
+c) Subkutánně
+d) Intradermálně
+115. Po aplikaci vakcíny zůstává dítě pod zdravotnickým dohledem:
+a) 30 minut X
+b) 1 hodinu
+c) Pokud o to požádá rodič nebo doprovod dítěte
+d) Pokud dítě má v anamnéze alergickou reakci nebo atopii v rodině
+116. Proti hepatitidě A se očkuje:
+a) Se neočkuje
+b) Při cestách do zahraničí X
+c) Na žádost rodičů X
+d) Mimořádně z rozhodnutí hlavního hygienika X
+117. Hexavalentní očkovací látka neobsahuje vakcínu proti:
+a) Hepatitidě typu B
+b) Rotavirům X
+c) Záškrtu
+d) RSV X
+118. Očkování proti rotavirové infekci je vhodné zahájit:
+a) Po prvním průjmovém onemocnění kojence
+b) V 6. týdnu života X
+c) V porodnici místo očkování proti tuberkulóze
+d) Před nástupem do mateřské školky
+121. Očkování proti tuberkulóze (BCG vakcína):
+a) Očkují se pouze novorozenci a kojenci, u kterých je v rodině riziko nákazy X
+b) Očkují se pouze novorozenci narození před 32. týdnem těhotenství
+c) U dětí očkovaných proti tuberkulóze se první dávka hexavakcíny podává až po 15. týdnu a po zahojení jizvy po BCG inokulaci X
+d) BCG vakcína se aplikuje přísně intramuskulárně
+122. Ve 13.-18. měsíci života se zahajuje povinné očkování proti:
+a) Spalničkám X
+b) Zarděnkám X
+c) Klíšťové encefalitidě
+d) Příušnicím X
+123. V 10 -11 letech je přeočkování mimo jiné i proti tetanu, další přeočkování proti tetanu je:
+a) Po 15 letech X
+b) Není nutné v našich podmínkách
+c) Je nutné u zdravotníků
+d) Očkují se jen žokejové a zaměstnanci ve stájích koní
+124. Očkování v ordinaci praktického lékaře pro děti a dorost je jednou z klíčových úloh v péči praktického pediatra o dítě. V ordinacích probíhá očkování pravidelné, očkování dobrovolné a očkování rizikových skupin. Rizikové skupiny v pediatrii, pro které je očkování proti invazivním pneumokokovým, meningokokovým nemocem a chřipce hrazeno podle aktuálně platné legislativy z veřejného zdravotního pojištění, jsou indikované pro:
+a) Děti narozené do 1500 g
+b) Děti s primárním a závažným sekundárním imunodeficitem X
+c) Děti po bakteriálních meningitidách a septikemiích X
+d) S anatomickou a funkční asplenií X
+125. Dle platné legislativy od roku 2011 došlo v České republice ke změně v kalmetizaci dětské populace. Kalmetizaci podléhají pouze rizikové skupiny dětí. Pro indikaci ke kalmetizaci platí:
+a) Jeden z rodičů, oba rodiče nebo sourozenec má/měl aktivní TBC X
+b) Dítě, jeden z rodičů nebo člen domácnosti se narodil nebo souvisle déle než 6 měsíců pobýval ve státě s vyšší incidencí TBC než 40/100 000 obyvatel
+c) Dítě bylo v kontaktu s TBC X
+d) Novorozenec narozený v České republice s pozitivně vyhodnoceným Dotazníkem rizika tuberkulózy, který je povinný pro všechny novorozence X
+126. Fyziologická výška desetiletého dítěte je:
+a) 120 cm
+b) 140 cm X
+c) 160 cm
+d) 110 cm
+126. Fyziologická výška desetiletého dítěte je:
+a) 120 cm
+b) 140 cm X
+c) 160 cm
+d) 110 cm
+Akutní stavy v pediatrii
+1. Obsah celkové tělesné vody v organismu:
+a) Je závislý na věku X
+b) Souvisí s množstvím tělesného tuku a pohlavím jedince X
+c) Tvoří 50 % tělesné hmotnosti novorozence
+d) Je u novorozenců z větší části tvořena intracelulární tekutinou
+2. U dehydratace platí:
+a) Dehydrataci lze rozdělit na čtyři stupně dle závažnosti a hmotnostního úbytku
+b) Mezi příznaky lehké dehydratace patří oschlé sliznice, snížený kožní turgor, prodloužený kapilární návrat, hyperpnoe
+c) Nedostatečná hydratace dítěte ovlivňuje diurézu, tlak krve a vědomí X
+d) Pokud průměrně prospívající 15měsíční batole ztratí na váze 700 g, jedná se o dehydrataci těžkou
+3. Mezi zásady rehydratační terapie patří:
+a) Polovinu vypočtených ztrát podáváme během prvních 4 hodin, druhou polovinu během dalších 8 hodin
+b) Počáteční volumexpanzi při těžké dehydrataci podáváme v dávce 10-20 (40) ml/kg X
+c) Při mírném stupni dehydratace lze zvolit perorální rehydrataci orálními rehydratačními roztoky s 60 mmol/l natria obsahujícími glukózu X
+d) Při hypernatremické dehydrataci podáváme jako první poloviční fyziologický roztok
+4. Při horečce 39 °C a zánětu plic navýšíme bazální potřebu tekutin o:
+a) 5-10 %
+b) 10-15 %
+c) 20-30 % X
+d) Potřebu tekutin nenavyšujeme
+5. Bazální potřebu tekutin navyšujeme v případě:
+a) Zvýšeného katabolismu při bakteriální sepsi X
+b) Srdečního selhání
+c) Akutního renálního selhání
+d) Průjmech X
+6. Součástí klinického vyšetření 10měsíčního kojence s dehydratací je mimo jiné:
+a) Pouze tepová a dechová frekvence, tlak krve měřit nemusíme, pokud dítě vypadá dobře
+b) Tepová frekvence, dechová frekvence, krevní tlak, tělesná teplota a hmotnost X
+c) Zhodnocení stavu vědomí X
+d) Vyšetření Homansova znamení
+7. Součástí počáteční intravenosní rehydratační terapie bez znalosti laboratorních výsledků je u 5letého chlapce se středně závažnou dehydratací možná aplikace:
+a) Fyziologický roztok plný X
+b) Fyziologický roztok poloviční
+c) Glukóza 10 % s MgSO4 10 %
+d) Plasmalyte roztok X
+8. Původně zdravý 10kg kojenec se středně těžkou isonatremickou dehydratací (6 % hmotnostní úbytek) při objemných vodnatých průjmech (stolice 4x denně) a teplotou 38 °C byl přijat k rehydratační intravenosní terapii na dětské oddělení. Kolik tekutin by mělo dítě přibližně dostat během prvních 24 hodin, aby dále nedošlo ke zhoršování klinického stavu?
+a) 1100 ml
+b) 1600 ml
+c) 2100 ml X
+d) 2700 ml
+11. Nejčastější příčina intoxikace dítěte v předškolním věku je:
+a) Sebevražedný pokus
+b) Náhodné požití chemikálií
+c) Náhodné požití léků X
+d) Záměrné podání léku jinou osobou
+12. Při podezření na otravu dítěte neznámými léky v přednemocniční péči:
+a) Zajistíme žilní vstup a podáme infuzi 10 % glukózy
+b) Zajistíme žilní vstup a podáme infuzi balancovaným roztokem X
+c) Ihned zahájíme kardiopulmonální resuscitaci
+d) Sledovat životní funkce a možné příznaky otravy X
+13. Pokud se dítě omylem napilo petroleje:
+a) Vyvoláme zvracení podáním alespoň 100 ml slané vody
+b) Co nejrychleji provedeme výplach žaludku
+c) Výplach žaludku je přísně kontraindikovaný
+d) Výplach žaludku lze provést jen u zaintubovaného pacienta X
+14. Pokud je dítěti omylem nitrožilně podán jiný lék, než je ordinovaný:
+a) Ihned vytáhneme i.v. kanylu, abychom minimalizovali dávku a budeme sledovat základní životní funkce
+b) Ponecháme i.v. kanylu a budeme sledovat základní životní funkce X
+c) Konzultujeme příznaky s Toxikologickým informačním střediskem X
+d) Oznámíme otravu na SÚKL
+15. Při intoxikaci alkoholem – má-li dítě poruchu vědomí – je třeba:
+a) Dítě hospitalizovat, zajistit žilní vstup a co nejdříve podat antidotum naloxon
+b) Dítě hospitalizovat, zajistit žilní vstup a monitorovat základní životní funkce X
+c) Zajistit vyšetření hladiny alkoholu a vnitřního prostředí X
+d) Dítě hospitalizovat, provést výplach žaludku a co nejdříve podat živočišné uhlí
+16. Při intoxikaci alkoholem - má-li dítě poruchu vědomí - hrozí:
+a) Zástava dechu X
+b) Selhání krevního oběhu X
+c) Zvracení a aspirace zvratků X
+d) Dehydratace při hyperglykémii vedoucí k polyurii
+17. Výplach žaludku u dítěte po intoxikaci léky děláme:
+a) Vlažným fyziologickým roztokem nejlépe do 2 hodin po požití X
+b) Chladným fyziologickým roztokem nejlépe do 2 hodin po požití
+c) Je-li dítě v bezvědomí, provádíme výplach žaludku až po intubaci X
+d) Je-li dítě v bezvědomí, výplach žaludku neprovádíme
+18. Při požití kyseliny (např. prostředek k odstraňování vodního kamene):
+a) Co nejrychleji provedeme výplach žaludku fyziologickým roztokem
+b) Podáme roztok bikarbonátu k neutralizaci účinků kyseliny
+c) Podáme pouze malé množství čisté vody a dopravíme RZP dítě do nemocnice X
+d) Zavedeme naso či orogastrickou sondu ke snížení rizika striktury jícnu
+19. Při požití louhu (např. čistící prostředek do myček nádobí):
+a) Podáme 50 ml vody s citronem a dopravíme dítě co nejrychleji do nemocnice
+b) Podáme pouze malé množství čisté vody a dopravíme co nejrychleji dítě do nemocnice X
+c) Provedeme výplach žaludku fyziologickým roztokem a sondu ponecháme in situ
+d) Dáme vypít hrnek mléka a dopravíme dítě co nejrychleji do nemocnice
+20. Živočišné uhlí (Carbo adsorbens) podáváme:
+a) Na konci výplachu žaludku v dávce do 0,5 g/kg X
+b) Používá se pouze při léčbě průjmu, nikdy ne u intoxikací
+c) Podává se především u intoxikace železem a dalšími těžkými kovy
+d) Je třeba podat do 2 hodin po intoxikaci X
+21. Při intoxikaci oxidem uhelnatým blokuje COHb:
+a) NADH-Q-oxidoreduktázu
+b) Cytochrom c reduktázu
+c) Cytochrom c oxidázu X
+d) Sukcinátdehydrogenázu
+22. Etiologie a patogeneze selhání základních životních funkcí u dětí a u dospělých:
+a) Se v zásadě neliší, podstatné je co nejrychlejší přivolání odborné pomoci s údajem pro ZZS, že se jedná o zástavu základních životních funkcí
+b) U dětí v naprosté většině případů etiologicky převládá respirační problém, proto je potřeba věnovat úvodní pozornost především volným dýchacím cestám a obnovení/zajištění dostatečné ventilace X
+c) Etiologie se v jednotlivých věkových kategoriích u dětí prakticky neliší, převažuje obstrukce dýchacích cest
+d) Při poskytování neodkladné resuscitace v jednom osamoceném zachránci se doporučuje přivolání ZZS metodou tzv. „phone fast“ (tedy nejprve 1-2 minuty provádět KPR a pak teprve přivolat ZZS) bez rozdílu u dětí i u dospělých, a to z důvodu potřeby co nejčasnějšího odstranění akutní hypoxie
+23. Aspirace cizího tělesa:
+a) Je doménou dětského věku, až k 85 % ze všech závažných aspirací dochází v prvních 5 letech života X
+b) Vdechnutí tekuté stravy nebo tuhého cizího tělesa není prognosticky rozdílné, většinou mívá u dětí nezávažný průběh
+c) Správný algoritmus první pomoci při snaze o odstranění cizího tělesa z dýchacích cest má následující posloupnost:  • pokud je postižený při vědomí, vyzýváme ho ke kašli a podporujeme jej ve snaze cizí těleso vykašlat, je to nejúčinnější mechanismus • při neúspěchu provedeme 5 úderů do zad (mezi lopatky) • při neúspěchu provedeme 5x stlačení nadbřišku (Heimlichův manévr) X
+d) Heimlichův manévr je kontraindikován u: těhotných žen, obézních pacientů a do 15 let věku
+24. Zajištění průchodnosti dýchacích cest záklonem hlavy:
+a) Je základním krokem první pomoci, jehož provedení se nijak neliší s věkem pacienta ani s etiologií zástavy jeho základních životních funkcí
+b) U novorozenců provádíme pouze mírný záklon hlavy (tzv. „čichací poloha“) X
+c) Tzv. „trojitý manévr“ je jednodušší a účinnější variantou uvolnění dýchacích cest než záklon hlavy a  je u dětí vzhledem k šetrnosti upřednostňován
+d) Bychom měli provést u spontánně dýchajícího pacienta až ve chvíli, kdy jsme přesvědčeni, že dutina ústní neobsahuje patologický obsah, který by mohl vést k jeho aspiraci X
+25. Použití kyslíku při KPR novorozence:
+a) Je obsolentní, při UPV se insufluje již jen vzduch
+b) Nezralí novorozenci se při KPR ventilují vzduchem a donošení kyslíkem
+c) Je zcela jedno, jestli se použije vzduch nebo kyslík, důležitá je hlavně rychlost při poskytování KPR
+d) Pro děti v termínu by měl být iniciálně použit při KPR vzduch. Pokud je i přes účinnou ventilaci oxygenace (SpO2) nedostatečná, je potřeba zvážit užití vyšší koncentrace kyslíku. U předčasně narozených dětí (<32.tt) by SpO2 nemělo dosáhnout stejných hodnot jako u donošených.  FiO2 by mělo být použito uvážlivě, dle hodnot aktuální SpO2, především je důležité eliminovat riziko hyperoxémie X
+26. KPR u dětí a dospělých se liší především:
+a) V použití vyšších frekvencí při NSM a UPV, které by se měly blížit fyziologickým funkcím dítěte v té které věkové kategorii X
+b) Menším fyzickým úsilím při provádění UPV (zajištění menších dechových objemů u dětí než u dospělých - musí být ale zajištěno, aby se hrudník při umělém vdechu zvedal přibližně jako při spontánní ventilaci postiženého) X
+c) Menším fyzickým úsilím při provádění NSM (šetrnější komprese hrudníku – musí být ale zajištěno jeho stištění cca do třetiny jeho předozadního průměru bez ohledu na velikost dítěte) X
+d) Se v zásadě v ničem neliší, prioritní je snaha o co nejčasnější odstranění asfyxie všemi dostupnými prostředky
+27. NSM u novorozence je indikována:
+a) Vždy při AS 60/min a méně X
+b) Při tzv. „bílé asfyxii“
+c) Při AS 80/min, která nereaguje elevací při suficientní UPV X
+d) Pokud není cítit tepová vlna na pupečníku
+28. Základní poměry UPV/NSM a frekvence při poskytování KPR u dětí jsou:
+a) Novorozenec 1:3, frekvence NSM 120/min X
+b) Kojenci, batolata a větší děti 2:15, frekvence NSM 100/min X
+c) Dítě nad 8 let věku až dospělý 2:30, frekvence NSM 100/min X
+d) Nejvhodnější a nejbezpečnější je kardiopulmonální resuscitace způsobem „top less“ se snahou o co nejrychlejší frekvenci NSM do příjezdu ZZS
+29. Základním resuscitačním lékem je adrenalin, v pediatrii ho podáváme:
+a) Ředěný ve fyziologickém roztoku v dávce 1 ampule/10 kg hmotnosti pacienta
+b) Vždy spolu s bikarbonátem, při acidóze samotný adrenalin neúčinkuje
+c) Intratracheálně ihned po zaintubování, je to nejrychlejší a nejúčinnější způsob podání
+d) V dávce 0,01 mg/kg X
+32. Pro definici respiračního selhání platí:
+a) Stav inadekvátní výměny plynů, kdy se jejich hodnoty pohybují mimo normální hodnoty. Pokles PaO2 je označován jako hypoxémie a vzestup PaCO2 je označován jako hyperkapnie. X
+b) Stav charakterizovaný významnou dušností, cyanózou, tachypnoí
+c) Stav charakterizovaný hodnotami PaO2  < 9 kPa; PaCO2 > 6 kPa, respirační acidózou s pH < 7,35 X
+d) Stav charakterizovaný poslechovým nálezem oslabeného dýchání, dušností, kašlem a cyanózou
+33. Příčinou syndromu hyalinních membrán u novorozenců je:
+a) Absence surfaktantu v alveolech
+b) U novorozence s nízkou porodní hmotností snížená produkce nezralého surfaktantu a strukturální nezralost plic X
+c) Hypoperfuze plic
+d) Nesprávné ošetření pupečníku
+34. Pro aspiraci mekonia platí následující odpovědi:
+a) Je pravidelně provázena perzistující plicní hypertenzí novorozence X
+b) Při podezření na aspiraci mekonia se odsávají dýchací cesty ihned po porodu hlavičky
+c) Může vést k závažné respirační insuficienci s nutností i ECMO podpory X
+d) Je důsledkem intrauterinně probíhající infekce nebo asfyxie X
+35. Pneumothorax u novorozence se klinicky projevuje:
+a) Oslabeným dýcháním na kontralaterální straně
+b) Oslabeným dýcháním na postižené straně X
+c) Rychle progredujícím oxygenačním a ventilačním selháním X
+d) Oslabeným dýcháním na postižené straně a vpadlým „člunkovitým“ nálezem na břiše
+36. Pro pneumokokovou pneumonii u dětí platí:
+a) Probíhá jako lobární nebo alární pneumonie X
+b) Probíhá jako intersticiální plicní proces
+c) Může být provázena rozpadovým procesem v postiženém plicním parenchymu X
+d) Je provázena často pleurálními efuzemi X
+37. Při respirační insuficienci u dítěte s klinickým obrazem dyspnoe, prodloužením expiria a obstruktivním poslechovým nálezem při vyšetření ABR a krevních plynů byly zjištěny následující výsledky: PaO2= 8,2 kPa; PaCO2 = 9,1; pH 7,25; HCO3 = 26 mmol/l. Jaká léčba by měla následovat?
+a) Oxygenoterapie
+b) Distenční terapie s cílem distenze dýchacích cest
+c) Umělá plicní ventilace X
+d) Vysokoprůtoková oxygenoterapie
+38. Které tvrzení u dítěte s ARDSy (acute respiratory distress syndrom) je pravdivé:
+a) Jde o špatně stanovenou diagnózu, protože tato jednotka se u dětí nevyskytuje
+b) Příčinou ARDSy je např. plicní infekce, stav po tonutí, inhalační trauma kontuze plic X
+c) Je to onemocnění charakterizované poruchou oxygenace a přítomností plicních infiltrátů X
+d) Je to onemocnění, které má velmi dobrou prognózu
+39. Poslechový nález na plicích s auskultačními fenomény krepitu, oslabeného dýchání, popř. trubicového dýchání je typický pro:
+a) Bakteriální zánět plic X
+b) ARDSy
+c) Chronické plicní postižení
+d) Astmatický záchvat
+40. Pro diagnostiku pleurálního výpotku jsou nejspolehlivější následující vyšetřovací metody:
+a) Sonografie hrudníku X
+b) CT hrudníku X
+c) Nativní snímek plic
+d) Stačí jen poslechový nález oslabeného dýchání na postižené straně
+41. Kvantitativní porucha vědomí se projeví:
+a) Pouze poruchou motorických funkcí
+b) Pouze poruchou senzorických funkcí
+c) Poruchou motorických i senzorických funkcí X
+d) Pro děti je typická kvalitativní porucha vědomí
+42. Glasgow coma scale:
+a) Se používá pro stanovení hloubky poruchy vědomí pro děti od 3 let
+b) Hodnotí slovní a motorickou odpověď na slovní a standardní nociceptivní podněty a reakci, resp. velikost zornic
+c) Se používá pro hodnocení kvalitativní poruchy vědomí
+d) Se používá pro stanovení hloubky poruchy vědomí pro děti i dospělé X
+43. K nejčastějším příčinám poruchy vědomí u kojenců patří:
+a) Trauma CNS, intoxikace, dědičné poruchy metabolismu
+b) Epilepsie, akutní bronchiolitida, poruchy srdečního rytmu
+c) Infekce CNS, infekce GIT s metabolickým rozvratem, dědičné poruchy metabolismu, epilepsie X
+d) Tumor CNS, předčasný srůst švů, hydrocefalus
+44. U dítěte s nejasnou příčinou poruchy vědomí po přijetí na lůžko:
+a) Monitorujeme srdeční a dechovou frekvenci, saturaci, krevní tlak, teplotu X
+b) Musíme co nejdříve vyšetřit CT CNS X
+c) Monitorujeme vnitřní prostředí (ABR + ionty + glykémii) X
+d) Indikujeme vyšetření očního pozadí
+45. Mezi vstupní vyšetření u dítěte s poruchou vědomí nepatří:
+a) Vyšetření očního pozadí X
+b) Vyšetření dědičných poruch metabolismu X
+c) Vyšetření acidobazické rovnováhy, iontů a glykémie
+d) Vyšetření mozkomíšního moku X
+46. K základnímu vyšetření u školního dítěte s nejasnou příčinou poruchy vědomí patří:
+a) EKG, neurologické vyšetření, CT CNS, oční pozadí
+b) EKG, neurologické vyšetření, toxikologické vyšetření, CT CNS X
+c) EKG, EEG, oční pozadí, vyšetření mozkomíšního moku
+d) EKG, kardiologické vyšetření, EEG, MRI CNS
+47. Standardní zajištění dítěte s poruchou vědomí po přijetí na lůžko:
+a) Zavedení periferního žilního vstupu, monitorování základních životních funkcí X
+b) Zavedení centrálního žilního katetru, zahájení umělé plicní ventilace
+c) Parenterální výživa, monitorování vnitřního prostředí X
+d) Zvýšená poloha horní poloviny těla, sledování reakce zornic X48. Léčba dítěte s poruchou vědomí je třeba:
+a) Zajistit žilní vstup a podat bolus fyziologického roztoku (10 ml/kg) k dosažení hladiny Na nad 145 mmol/l
+b) Při hypoglykémii je nutné podat ihned 10% glukózu perorálně a následně intravenózně
+c) Zajistit žilní vstup a včasně podat metylprednisolon 1 mg/kg jako prevenci edému mozku
+d) Zajistit žilní vstup, udržovat stabilní vnitřní prostředí s Na nad 140 mmol/l X
+49. Umělá plicní ventilace u dítěte s poruchou vědomí:
+a) Je indikovaná, pokud má dítě dostatečnou dechovou aktivitu, ale má hlubokou poruchu vědomí (GCS ≤ 8 b.) X
+b) Je indikovaná, pokud vlastní dechová aktivita je nedostatečná, nezávisle na GCS X
+c) Má-li dítě dostatečnou dechovou aktivitu, není umělá plicní ventilace indikovaná, nezáleží na GCS
+d) Je indikovaná v případě nutnosti transportu dítěte na jiné pracoviště
+50. CT CNS u dítěte s poruchou vědomí:
+a) Je indikované, pokud není jednoznačná příčina poruchy vědomí X
+b) Je indikované pouze u kraniotraumat
+c) Je pro dítě příliš zatěžující, stačí RTG lbi, u kojenců UZV vyšetření přes velkou fontanelu
+d) CT CNS indikujeme po domluvě s neurologem na základě jeho vyšetření
+51. Nejčastějším typem šoku v dětském věku je:
+a) Hypovolemický šok X
+b) Kardiogenní šok
+c) Distribuční šok
+d) Septický šok
+52. Ke klinickým příznakům počínajícího šoku u dětí patří:
+a) Tachykardie, tachypnoe, porucha periferního prokrvení, porucha vědomí X
+b) Tachykardie, tachypnoe, porucha periferního prokrvení, polyurie
+c) Bradykardie, hypotenze, dyspnoe, poruchy ventilace
+d) Tachykardie, horečka, pozitivní meningeální příznaky, křeče
+53. Označte vrozenou srdeční vadu, která nezpůsobuje kardiogenní šok:
+a) Totální anomální návrat plicních žil X
+b) Koarktace aorty
+c) Transpozice velkých cév X
+d) Interupce aortálního oblouku
+54. Jaký typ šoku způsobí akutní srdeční tamponáda:
+a) Hypovolemický šok z důvodu ztráty tekutin do třetího prostoru
+b) Kardiogenní šok
+c) Obstruktivní šok X
+d) Kombinace distribučního a kardiogenního šoku
+55. Při léčbě závažného hypovolemického šoku (AS > 180/min, TK 68/32 torr; čas kapilárního návratu > 5 s) u kojence vážícího 8 kg se jako iniciální léčba volí:
+a) Tekutinová resuscitace plnými roztoky krystaloidů v dávce 10-20 ml/kg/10 min X
+b) Tekutinová resuscitace koloidními roztoky v dávce 5-10 ml/kg/30 min
+c) Zahájení kardiotonické léčby s cílem dosáhnout poklesu srdeční frekvence
+d) Bezprostřední podání vazopresorů
+56. Mezi vazopresory nepatří:
+a) Noradrenalin
+b) Dobutamin X
+c) Vazopresin
+d) Terlipresin
+57. Tenzní pneumothorax může být příčinou:
+a) Distribučního šoku
+b) Kardiogenního šoku
+c) Obstruktivního šoku X
+d) Anafylaktického šoku
+58. Septický šok v dětském věku bývá většinou kombinací následujících typů šoku:
+a) Hypovolemický, distribuční, anafylaktický
+b) Hypovolemický, distribuční, kardiogenní X
+c) Hypovolemický, obstruktivní, distribuční
+d) Hypovolemický, anafylaktický, kardiogenní
+59. Pro šok v dětském věku platí následující tvrzení:
+a) Klesá dodávka kyslíku (DO2), stoupá extrakce kyslíku (VO2) X
+b) Klesá srdeční výdej a stoupá nebo je normální periferní vaskulární rezistence X
+c) Stoupá srdeční výdej a stoupá periferní vaskulární rezistence
+d) Stoupá DO2, klesá VO2
+
+Dětská dermatologie
+1. Ke komplikacím atopické dermatitidy patří:
+a) Mollusca contagiosa X
+b) Eczema herpeticatum X
+c) Condylomata acuminata
+d) Impetiginizace X
+2. Impetiginizace:
+a) Je sekundární bakteriální infekce v terénu jiné dermatózy X
+b) Je sekundární virová infekce v terénu jiného dermatózy
+c) Je totéž, co impetigo
+d) Patří mezi komplikace atopické dermatitidy X
+3. O atopické dermatitidě platí:
+a) Její prevalence ve vyspělých zemích stoupá X
+b) Její prevalence ve vyspělých zemích klesá
+c) Manifestuje se nejčastěji už v kojeneckém období X
+d) V dospělém věku nikdy nedochází k primomanifestaci
+4. Na etiopatogenezi atopické dermatitidy se podílí:
+a) Porucha kožní bariéry X
+b) Dysregulace imunitních reakcí X
+c) Dysbioza kožního mikrobiomu X
+d) Monogenní dědičnost
+5. K typickým charakteristikám atopické dermatitidy patří:
+a) Pruritus X
+b) Chronický průběh X
+c) Suchost kůže X
+d) Primomanifestace v pubertě
+6. Erytrodermie je:
+a) Přechodné zarudnutí kůže doprovázené tachykardií
+b) Zánět postihující víc než 90 % kůže X
+c) Bakteriální zánět šířící se v dermis
+d) Závažným projevem/komplikací kožních nemocí většinou vyžadující hospitalizaci či celkovou terapii X
+7. K typickým projevům seboroické dermatitidy patří:
+a) Erytém a deskvamace X
+b) Eroze a exkoriace
+c) Vezikuly a buly
+d) Lichenifikace
+8. Predilekční lokalizace seboroické dermatitidy:
+a) Se zcela liší v kojeneckém věku a u dospělých
+b) Je zcela identická v kojeneckém věku a u dospělých
+c) Je bez ohledu na věk v intertriginózních a flexurálních oblastech
+d) Je bez ohledu na věk ve kštici a v obličeji X
+9. Pro seboroickou dermatitidu platí:
+a) V patogenezi se uplatňuje dysbalance tvorby kožního mazu X
+b) V patogenezi se uplatňuje porucha kožní bariéry, zejména mutace filagrinu
+c) U kojenců se typicky manifestuje později než atopická dermatitida
+d) U kojenců se typicky manifestuje dříve než atopická dermatitida X
+
+Dětská endokrinologie
+1. Pro diabetes mellitus I. typu obvykle neplatí:
+a) Manifestuje se obvykle v průběhu dětského věku
+b) V době stanovení diagnózy dítě často přichází v diabetické ketoacidóze
+c) Diabetes mellitus I. typu je velmi často spojen s obezitou X
+d) Diabetes mellitus I. typu je charakterizován především inzulinorezistencí X
+2. K účinkům inzulinu patří:
+a) Podporuje vstup glukózy do buněk X
+b) Tlumí glukoneogenezu a ketogenezu X
+c) Inhibuje lipolýzu X
+d) Stimuluje glukoneogenezu a ketogenezu
+3. Ke klasickým příznakům diabetické ketoacidózy patří:
+a) Hmotnostní úbytky, průjmy, tachykardie, nechutenství
+b) Kussmaulovo dýchání, hmotnostní úbytky, polydipsie X
+c) Obezita, neuropatie, nefropatie
+d) Známky dehydratace, polyurie, porucha vědomí X
+4. Celkový tělesný obsah kalia je při závažné diabetické ketoacidóze:
+a) Může být snížený, zvýšený i normální
+b) Zvýšený
+c) Snížený X
+d) Normální
