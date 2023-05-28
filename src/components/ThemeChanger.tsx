@@ -2,7 +2,6 @@
 import { useEffect } from "react";
 import { themes } from "../themes";
 import { themeChange } from "theme-change";
-console.log("🚀 ~ file: ThemeChanger.tsx:3 ~ themes", themes);
 
 export function ThemeChange() {
   useEffect(() => {

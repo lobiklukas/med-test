@@ -2,12 +2,14 @@
 import data from "../scripts/data.json";
 import React from "react";
 import { useRouter } from "next/navigation";
+import { useLocalStorage } from "usehooks-ts";
 
 export const QuizSelection: React.FC = () => {
   const router = useRouter();
   const keys = Object.keys(data);
   const [selected, setSelected] = React.useState<string[]>([]);
   const [numOfQuestions, setNumOfQuestions] = React.useState<number>(10);
+  const [known, setKnown] = useLocalStorage<string[]>("known", []);
 
   const handleQuizSelection = (
     data: string[],
@@ -25,8 +27,18 @@ export const QuizSelection: React.FC = () => {
     router.push(url.href);
   };
 
+  const handleReset = () => {
+    setKnown([]);
+  };
+
   return (
     <>
+      <button
+        onClick={handleReset}
+        className="btn-secondary btn absolute left-5 top-5"
+      >
+        Reset learned
+      </button>
       <div className="text-center">
         <h2 className="text-4xl font-bold">Start Single Quiz</h2>
         <div className="mt-4 flex flex-wrap justify-center gap-2">

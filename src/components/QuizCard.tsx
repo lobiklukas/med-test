@@ -50,19 +50,7 @@ export const QuizCard: React.FC<QuizCardProps> = ({
 
   const handleNextQuestion = () => {
     const index = filtered.findIndex((key) => key.id === selectedId) as number;
-    console.log(
-      "🚀 ~ file: QuizCard.tsx:53 ~ handleNextQuestion ~ index:",
-      index
-    );
-    const nextId = filtered?.[index + 1]?.id;
-    console.log(
-      "🚀 ~ file: QuizCard.tsx:55 ~ handleNextQuestion ~ filtered?.[index + 1]:",
-      filtered?.[index + 1]
-    );
-    console.log(
-      "🚀 ~ file: QuizCard.tsx:54 ~ handleNextQuestion ~ nextId:",
-      nextId
-    );
+    const nextId = filtered[index + 1]?.id;
     const correstAnswers = selectedQuestion?.options.map(
       (item) => item.isCorrect
     );

@@ -4420,9 +4420,17 @@
         },
         {
           "option": "d",
-          "text": "Zvýšená poloha horní poloviny těla, sledování reakce zornic X48. Léčba dítěte s poruchou vědomí je třeba:",
-          "isCorrect": false
-        },
+          "text": "Zvýšená poloha horní poloviny těla, sledování reakce zornic",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "48Akutní stavy v pediatrii",
+      "order": 48,
+      "text": "Léčba dítěte s poruchou vědomí je třeba:",
+      "category": "Akutní stavy v pediatrii",
+      "options": [
         {
           "option": "a",
           "text": "Zajistit žilní vstup a podat bolus fyziologického roztoku (10 ml/kg) k dosažení hladiny Na nad 145 mmol/l",

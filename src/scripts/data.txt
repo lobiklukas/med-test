@@ -789,7 +789,8 @@ d) EKG, kardiologické vyšetření, EEG, MRI CNS
 a) Zavedení periferního žilního vstupu, monitorování základních životních funkcí X
 b) Zavedení centrálního žilního katetru, zahájení umělé plicní ventilace
 c) Parenterální výživa, monitorování vnitřního prostředí X
-d) Zvýšená poloha horní poloviny těla, sledování reakce zornic X48. Léčba dítěte s poruchou vědomí je třeba:
+d) Zvýšená poloha horní poloviny těla, sledování reakce zornic X
+48. Léčba dítěte s poruchou vědomí je třeba:
 a) Zajistit žilní vstup a podat bolus fyziologického roztoku (10 ml/kg) k dosažení hladiny Na nad 145 mmol/l
 b) Při hypoglykémii je nutné podat ihned 10% glukózu perorálně a následně intravenózně
 c) Zajistit žilní vstup a včasně podat metylprednisolon 1 mg/kg jako prevenci edému mozku
