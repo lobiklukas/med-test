@@ -1137,8 +1137,7 @@ d) Parathormon zvyšuje aktivitu 1-α-hydroxylázy v ledvinách
 a) Cholekalciferol (vitamin D3) se primárně tvoří v kůži X
 b) 1,25-dihydroxycholekalciferol je aktivní formou vitamínu D3 X
 c) Jako prevence rozvoje křivice se vitamín D podává ihned po porodu p.o. v dávce 1mg a dále v režimu jednou týdně jedna kapka do 12 týdnů věku
-d) Nasycení organismu vitamínem D posuzujeme podle sérové koncentrace 25hydroxyvitamínu D3 (25-OH
-D) X
+d) Nasycení organismu vitamínem D posuzujeme podle sérové koncentrace 25hydroxyvitamínu D3 (25-OHD) X
 53. Mezi laboratorní projevy křivice z důvodu nedostatku vitamínu D nepatří:
 a) Zvýšená aktivita alkalické fosfatázy
 b) Normokalcémie v počátku onemocnění
@@ -1214,3 +1213,956 @@ a) Glukokortikoidy (Hydrokortison) a mineralokortikoidy (Fludrokortison) X
 b) Glukokortikoidy (nejlépe déle působící, tj. Prednison nebo Dexametason) a mineralokortikoidy (Fludrokortison)
 c) Postačí léčba déle působícími glukokortikoidy, tj. Prednisonem nebo Dexametasonem
 d) Postačí léčba krátce působícími glukokortikoidy, tj. Hydrokortisonem, má totiž silný mineralokortikoidní účinek
+Dětská gastroenterologie a hepatologie
+1. Vyberte správné tvrzení - u ikteru:
+a) Prehepatálního je normální hladina přímého bilirubinu v krvi X
+b) Posthepatálního jsou hypocholické nebo acholické stolice X
+c) Způsobeného Rh-alloimunizací je přítomna nízká hladina retikulocytů
+d) Hepatálního je normální hladina přímého bilirubinu v krvi a přítomnost urobilinogenu v moči
+2. Vyberte správné biochemické nálezy:
+a) Elevace AST nad ALT je charakteristická pro Duchenneovou svalovou dystrofii X
+b) Zvýšené ALP + GMT a konjugovaná hyperbilirubinémie jsou typické pro cholestázu X
+c) Konjugovaná hyperbilirubinémie a normální jaterní testy patří k obrazu Gilbertova syndromu
+d) Elevace AST při jinak normálních jaterních testech může být obraz tzv. „makroASTémie“ X
+3. Virová hepatitida A:
+a) Se přenáší fekálně-orální cestou X
+b) Její prevence patří do běžného očkovacího kalendáře
+c) Nepřechází do chronicity X
+d) Léčebnou metodou volby je imunosuprese
+4. Cholecystolitiáza je typická pro:
+a) Pacienty na dlouhodobé parenterální výživě X
+b) Pacienty s astmatem na terapii inhalačními steroidy
+c) Obézní dívky s pozitivní rodinnou anamnézou X
+d) Stavy spojené s hemolýzou X
+5. Typické jaterní onemocnění predominantně adolescentních dívek je:
+a) Nealkoholová steatohepatida asociovaná s obezitou X
+b) Gilbertův syndrom
+c) Autoimunitní hepatitida X
+d) Cholecystolitiáza X
+6. U dětského pacienta přicházejícího s poruchou vědomí a zvracením při jaterním postižením (Reye-like syndrom) musíme vyloučit:
+a) Akutní pyelonefritidu
+b) Dědičnou poruchu metabolismu (dědičné poruchy β-oxidace mastných kyselin, poruchy cyklu močoviny, …) X
+c) Intoxikace houbami X
+d) Požití kyseliny askorbové
+7. Vyberte správná tvrzení:
+a) Nejčastější intoxikací v dětském věku vedoucí k jaternímu selhání je otrava etylenglykolem
+b) Vitamín K dependentní koagulační faktory tvořeny v játrech jsou II, VI, VII, VIII, protein C a S
+c) Při poruše vědomí neznámé etiologie musíme vždy pomýšlet na hyperamonémii X
+d) Markery proteosyntetické funkce jater jsou kromě koagulačních faktorů také albumin, prealbumin a cholinesteráza X
+8. Vyberte správné tvrzení - portální hypertenze:
+a) Prehepatální je typická pro dětský věk X
+b) Hepatální je typická pro dětský věk
+c) Se může komplikovat krvácením z jícnových varixů X
+d) Je typicky doprovázená zvýšeným počtem krevních destiček
+11. Crohnova nemoc:
+a) Patří mezi autoimunitní onemocnění X
+b) Typicky začíná v kojeneckém věku
+c) Postihuje segmentálně gastrointestinální trakt X
+d) Je vyléčitelná
+12. Mezi extraintestinální projevy nespecifických střevních zánětů typicky patří:
+a) Primární sklerotizující cholangitida asociována s ulcerózní kolitidou X
+b) Enteropatická artritida X
+c) Osteoporóza X
+d) Gottronovy papuly
+13. Typické pro Crohnovu nemoc:
+a) Jsou histologicky kryptové abscesy
+b) Je pankolitida
+c) Je terminální ileitida X
+d) Jsou histologicky granulomy X
+14. Charakteristickým nálezem v zobrazovacích vyšetřeních u nespecifických střevních zánětů je:
+a) Fenomén dlažebních kostek u ulcerózní kolitidy
+b) Fenomén vyhlazení haustrací u ulcerózní kolitidy X
+c) Postižení terminálního ilea u Crohnovy nemoci X
+d) Nález píštělí a abscesů u ulcerózní kolitidy
+15. Typické pro Crohnovu nemoc:
+a) Hluboké ulcerace
+b) Aftózní slizniční léze X
+c) Postižení horního i dolního GIT X
+d) Píštěle X
+16. Typické pro ulcerózní kolitidu:
+a) Jsou histologicky kryptové abscesy X
+b) Postižení tlustého střeva - pankolitida X
+c) Postižení tenkého střeva
+d) ANCA protilátky X
+17. K diagnostice idiopatických střevních zánětů patří:
+a) ANCA a ASCA X
+b) Fekální kalprotektin X
+c) Ultrazvuk X
+d) Endoskopie X
+18. K léčbě nespecifických střevních zánětů patří:
+a) Exkluzivní enterální výživa X
+b) Imunosuprese X
+c) Biologická terapie X
+d) Imunoglobuliny
+21. Mezi onemocnění, při kterých je v dětském věku přítomno postižení slinivky břišní, řadíme:
+a) Diabetes mellitus I. typu X
+b) Makroamylasémie
+c) Perzistující hyperinzulinemická hypoglykémie u kojenců X
+d) Cystická fibróza X
+22. Mezi nejčastější příčiny akutní pankreatitidy v dětském věku:
+a) Tupé poranění břicha X
+b) Virové infekce X
+c) Alkoholová ebrieta
+d) Některé léky - azathioprin, valproová kyselina X
+23. Endoskopická retrográdní cholecystopankreatikografie (ERCP) u dětí:
+a) Je indikována jako terapeuticko-diagnostický výkon v případě choledocholitiázy X
+b) Není spojena s významným rizikem pankreatitidy
+c) Patří do spektra vyšetření u atrezie žlučových cest X
+d) Je důležitým vyšetřením při výskytu známek portální hypertenze
+24. Vyberte nesprávné tvrzení:
+a) Izolovaná elevace aktivity amylázy v krvi bez bolesti břicha je typický příznak pankreatitidy X
+b) Pro diagnostiku pankreatitidy se doporučuje vyšetření pankreatické amylázy, lipázy v séru a amylázy v moči
+c) Při podezření na akutní pankreatitidu s poruchou funkce je doporučené podávat perorální substituci pankreatickými enzymy X
+d) Bolesti břicha jsou dominujícím příznakem pankreatitidy
+25. Atrézie žlučových cest:
+a) Je vrozená vývojová vada, která se projeví do týdne po narození
+b) Se vyznačuje přítomností acholických nebo hypocholických stolic X
+c) Typická je pro ni extrémní nekonjugovaná hyperbilirubinémie s elevací gama-glutamyl transferázy
+d) K diagnostice postačí ultrasonografické vyšetření
+26. Léčba akutní pankreatitidy:
+a) Zahrnuje přechodné vysazení stravy a postupné zavádění enterální výživy X
+b) Léčba bolesti může vyžadovat podání opioidních analgetik X
+c) Zásadní je podávání kyseliny acetylsalicylové k potlačení lokálního zánětu
+d) Nutné je podávání glukagonu k udržení normoglykémie
+27. Cystická fibróza je:
+a) Jedno z nejčastějších autosomálně recesivních onemocnění kavkazské populace X
+b) Podmíněná postižením CFTR genu X
+c) Polygenně podmíněné onemocnění
+d) Neléčitelné onemocnění
+28. Mezi léčbu CF patří:
+a) Pankreatická substituce X
+b) Dechová rehabilitace X
+c) ATB terapie X
+d) Multiorgánová transplantace X
+31. Mezi poruchy příjmu potravy řadíme:
+a) Mentální anorexii X
+b) Mentální bulimii X
+c) Vegetariánství
+d) Ortorexii X
+32. Mezi důsledky malnutrice patří:
+a) Snížená svalová síla a hojení ran X
+b) Zvýšené riziko pankreatitidy X
+c) Bradykardie X
+d) Hyperkalémie a hyperkalcémie
+33. Mentální anorexie:
+a) Je typická pro dospívání X
+b) Je typická pro mladší věk
+c) Při vyšetření dítěte s podezřením na mentální anorexii je nutné vyloučit jiné příčiny ztráty váhy X
+d) Diagnostikovaná v časném věku zvyšuje riziko úmrtí až 18x proti běžné populaci X
+34. Diferenciálně diagnosticky musíme zvažovat u váhového úbytku a odmítání stravy:
+a) Fáze vývoje dítěte s přirozeným negativismem
+b) Gastroesofageální refluxní onemocnění X
+c) Deprese X
+d) Chronickou renální insuficienci X
+35. Kritéria mentální anorexie jsou:
+a) Perfekcionismus
+b) Porucha vnímání vlastního těla X
+c) Chtěný hmotnostní úbytek X
+d) Strach z obezity X
+36. Nutriční intervenci u poruch příjmu potravy:
+a) Zahajujeme úpravou/navýšením stávající diety na 120 % doporučeného energetického a proteinového denního příjmu
+b) U spolupracujících pacientů lze doporučit sipping X
+c) Ve stravě je nutné navýšit podíl tuků vůči proteinům a sacharidům pro riziko rozvoje refeeding syndromu
+d) Je nutno doplnit antibitiockou terapii pro riziko rozvoje enterogenní sepse (metronidazol)
+37. Refeeding syndrom:
+a) Představuje metabolické komplikace spojené se zahájením nutriční podpory u podvyživených pacientů X
+b) Ohrožuje pacienta kardiální zástavou X
+c) Přítomna je hyponatrémie, hypofosfatémie, hyperchlorémie
+d) Přítomna je hyperkalémie, hypofosfatémie, hypermagnezémie
+38. K léčbě poruch příjmu potravy patří:
+a) Enterální výživa X
+b) Psychoterapie X
+c) Hormonální substituce X
+d) Antidepresiva X
+
+Dětská hematologie
+1. Tříletý chlapec s trombocytopenií 15.109/l po proběhlém virovém infektu:
+a) Má pravděpodobně ITP, nemusíme ho vyšetřovat, stačí observace
+b) Je ohrožen intrakraniálním krvácením, a proto mu podáme separované trombocyty
+c) Má pravděpodobně ITP, provedeme KO s diferenciálním rozpočtem a aspoň základní biochemické a imunologické vyšetření X
+d) Rozhodnutí o observaci nebo zahájení terapie závisí na přítomnosti krvácivých projevů X
+2. K příznakům ITP nepatří:
+a) Hematomy, petechie a sufuze
+b) Lymfadenopatie X
+c) Mírná splenomegalie
+d) Horečka s únavou X
+3. Novorozenec s trombocytopenií může mít:
+a) Matku s ITP X
+b) Sepsi X
+c) Novorozeneckou aloimunní trombocytopenii X
+d) Kongenitální hypothyreózu
+4. U hemofilie A platí, že:
+a) Se jedná o onemocnění mužů, ale žena přenašečka může mít hladinu F VIII nižší X
+b) Otec hemofilik má všechny syny zdravé X
+c) Polovina dcer otce hemofilika jsou přenašečky
+d) Je 2x častější než hemofilie B
+5. Von Willebrandova choroba:
+a) Je nejčastější vrozené krvácivé onemocnění X
+b) Je provázena především slizničním krvácením X
+c) Má kvalitativní či kvantitativní defekt vWF, současně je vždy prodloužené APTT
+d) Je onemocnění s gonosomálně recesivní dědičností
+6. Dítě ve věku 18 měsíců s Leu 16,2.109/l, ANC 1,8 .109/l, Hb 112g/l, MCV 74 fl a Tr 410.109/l:
+a) Má pravděpodobně hypochromní anemii
+b) Má leukocytózu s trombocytózou – asi bakteriální etiologie
+c) Má KO odpovídající věku X
+d) Má trombocytózu a potřebuje terapii Anopyrinem
+7. Děti s chronickou benigní neutropenií:
+a) Většinou nemívají závažné infekční komplikace X
+b) Mají mít vždy vyšetřenou kostní dřeň k vyloučení vrozené agranulocytózy
+c) Mohou mít pozitivní protilátky proti granulocytům, po měsících dojde ke spontánní úpravě X
+d) Mají v dospělosti riziko hematologické malignity či autoimunního onemocnění
+8. Febrilní měsíční kojenec s rozsáhlou pneumonií, neutropenií s ANC 0,2.109 /l a CRP 150 mg/l:
+a) Má virovou pneumonie a potřebuje jen symptomatickou terapii
+b) Potřebuje cílenou ATB terapii a G-CSF X
+c) Je suspektní z vrozené neutropenie, potřebuje podrobné vyšetření včetně punkce kostní dřeně X
+d) Potřebuje ATB p.o. v běžné dávce a podrobnější vyšetření až při recidivě stavu
+11. Novorozenec s anamnézou aloimunní anemie při Rh inkompatibilitě po opakovaném podání erymasy potřebuje po propuštění z porodnice:
+a) Kontrolu KO nejpozději 3-4 týdny od poslední transfuse X
+b) Kontrolu KO za 2 měsíce
+c) Nasazení ferroterapie
+d) Další sledování není nutné, transfuse problém vyřešila
+12. Pozitivní Coombsův test najdeme u:
+a) Deficitu pyruvát kinázy
+b) Systémový lupus erythematodes X
+c) Hereditární sférocytózy
+d) Autoimunní hemolytické anemie X
+13. Pacient s hereditární sférocytózou je ohrožen:
+a) Hemosiderózou
+b) Aplastickou krizí v důsledku infekce parvovirem B19 X
+c) Biliární kolikou X
+d) Postupně progredujícími pancytopenií při hypersplenismu
+14. Mezi K vitamin dependentní koagulační faktory a inhibitory koagulace patří:
+a) FII, FV, FVII, FIX, FX,
+b) FII, FVI, FVIII, FIX, FX,
+c) FII, FVII, FIX, FX, PC a PS X
+d) FII, FVII, FIX, FX, AT, PC a PS
+15. Dívka, jejíž otec zemřel ve 45 letech na plicní embolii, žádá hormonální antikoncepci:
+a) Může dostat jakýkoli hormonální preparát
+b) Může dostat jen nehormonální intrauterinní tělísko
+c) Musí být provedeno vyšetření trombofilních markerů a pak rozhodnuto o hormonální antikoncepci X
+d) Stačí vyšetření Leidenské mutace a mutace protrombinu, další vyšetření je zbytečné
+
+
+
+Dětská kardiologie
+1. Prenatální echokardiografie plodu se během fyziologického těhotenství provádí:   a) 1x X
+b) 2x
+c) 3x
+d) 4x
+2. S kritickou vrozenou srdeční vadou se v ČR každoročně narodí cca:
+a) 200 - 300 novorozenců X
+b) 800 - 900 novorozenců
+c) 1500 - 1600 novorozenců
+d) 2000 novorozenců
+3. Ductus dependentní kritické vrozené srdeční vady se nejčastěji manifestují:
+a) Ihned po porodu
+b) Během prvních hodin
+c) Během prvního týdne života
+d) Všechny odpovědi jsou správné X
+4. Která vrozená srdeční vada je nejčastější?
+a) Transpozice velkých cév
+b) Defekt síňového septa
+c) Defekt komorového septa X
+d) Koarktace aorty
+5. Prostaglandiny typu E se v neonatologii používají:
+a) V léčbě srdečního selhání
+b) K udržení otevřené tepenné dučeje X
+c) Jako selektivní plicní vasodilatátor
+d) V léčbě hemorrhagické nemoci novorozenců
+6. Myokarditida v kojeneckém a adolescentním věku má úmrtnost:
+a) Zhruba stejnou
+b) Vyšší u kojenců X
+c) Vyšší u adolescentů
+d) V současnosti se u nás vyskytuje jen ojediněle
+7. Běžná prevence bakteriální endokarditidy je indikována:
+a) V rámci všech operací v neonatologii
+b) U všech pacientů s vrozenou srdeční vadou před i po operaci
+c) U všech zkratových vrozených srdečních vad mimo defekt septa síní před operací X
+d) Při náhradě srdeční chlopně
+8. Nejčastější typ sekundární hypertenze u dětí je v současnosti:
+a) Renovaskulární
+b) Renoparenchymatózní X
+c) Endokrinní
+d) Farmakologicky vyvolaná
+9. Lékem volby u akutního srdečního selhání novorozence jsou:
+a) Katecholaminy X
+b) Beta-blokátory
+c) Digoxin
+d) Nitroprusid
+10. Nejčastější poruchou srdečního rytmu v dětském věku je:
+a) Supraventrikulární tachykardie X
+b) Komorová tachykardie
+c) Fibrilace komor
+d) Fibrilace síní
+11. Závažná stenóza plicnice patří mezi vady:
+a) S levopravým zkratem
+b) Cyanotické X
+c) Necyanotické
+d) Nepatří mezi srdeční vady
+12. EKG novorozence je typické:
+a) Bradykardií pod 100/min
+b) Pravostrannou převahou X
+c) Levostrannou převahou
+d) AV blokem 1. st.
+13. Akcidentální srdeční šelest je typický:
+a) Intenzitou min. 3/6
+b) Je vždy systolický X
+c) Je vždy diastolický
+d) Je vždy kontinuální
+14. Po narození průtok krve plicemi novorozence:
+a) Stoupá X
+b) Klesá
+c) Nemění se
+d) Závisí na průchodnosti tepenné dučeje
+15. Balónková atrioseptostomie se užívá u:
+a) Stenózy plicnice
+b) Koarktace aorty
+c) Transpozice velkých cév X
+d) Fallotovy tetralogie
+16. Totální anomální návrat plicních žil se může projevit:
+a) V prvních hodinách po porodu
+b) V prvních dnech po porodu
+c) V prvních 2 týdnech po porodu
+d) Všechny odpovědi jsou správné X
+17. Kritická koarktace aorty u novorozence se projeví:
+a) Srdečním selháním
+b) Anurií
+c) Nehmatným pulzem na aa.femorales
+d) Všechny odpovědi jsou správné X
+18. Neuzavřená tepenná dučej u 6měsíčního kojence se obvykle projeví:
+a) Srdečním selháním
+b) Bradykardií
+c) Tachykardií X
+d) Arytmií
+19. Myokarditidy v dětském věku jsou nejčastěji:
+a) Bakteriální
+b) Virové X
+c) Toxické
+d) Autoimunitní
+20. Predilekčním místem pro vznik vegetací při bakteriální endokarditidě jsou:   a) Obě AV chlopně
+b) Mitrální a aortální chlopeň X
+c) Trikuspidální a pulmonální chlopeň
+d) Ouška síní
+21. Pro diagnózu perikarditidy je typický:   a) Perikardiální výpotek X
+b) Srdeční arytmie
+c) Srdeční selhání
+d) Ischemické změny nad levou komorou na EKG
+22. Nejčastější kardiomyopatií v dětském věku je:   a) Restriktivní
+b) Hypertrofická X
+c) Dilatační
+d) Arytmogenní kardiomyopatie
+23. V medikamentózní léčbě idiopatické systémové hypertenze v dětském věku začínáme:    a) Diuretiky
+b) Blokátory Ca kanálů
+c) ACE inhibitory X
+d) Diuretiky + blokátory Ca kanálů
+24. Náhodně zjištěné izolované předčasné komorové stahy u zdravého 14letého pacienta, který je subj. bez potíží, léčíme:
+a) Kardioverzí
+b) Digoxinem
+c) Cordaronem
+d) Neléčíme X
+25. V léčbě akutního srdečního selhání batolete podáváme:
+a) Katecholaminy intravenózně kontinuálně X
+b) Intravenózně v rychlé infuzi/20 min
+c) Intramuskulárně 6x denně
+d) Katecholaminy jsou kontraindikované pro svoje proarytmogenní účinky
+26. U dětí se digoxin:
+a) Používá X
+b) Nepoužívá
+c) Je kontraindikován pro možnost vzniku komorové tachykardie
+d) Používá se pouze v kombinaci s beta-blokátory
+27. Mezi typické příznaky vrozené srdeční vady nepatří:
+a) Cyanóza
+b) Srdeční selhání
+c) Trubicové dýchání X
+d) Asystolie při porodu X
+28. Perikardiální výpotek u 8letého dítěte je nález typický při:
+a) Sepsi
+b) Perikarditidě X
+c) Myokarditidě
+d) Srdečním selhání
+29. Při prvním záchytu systémové hypertenze u 14letého obézního pacienta:   a) Nasadíme ACE inhibitory
+b) Nasadíme diuretika
+c) Uložíme pacienta na lůžko s klidovým režimem a provedeme zátěžové vyšetření
+d) Žádná odpověď není správná X
+30. Která vrozená srdeční vada nepatří mezi cyanotické vady:
+a) Totální anomální návrat plicních žil
+b) Transpozice velkých arterií
+c) Defekt atrioventrikulárního septa X
+d) Stenóza plicnice
+31. Mezi velká Jonesova kritéria nepatří:
+a) Podkožní uzlíky
+b) Karditida
+c) Artralgie X
+d) Erythema marginatum
+
+Dětská pneumologie
+1. Které z tvrzení je pravdivé:
+a) Hnisavá rýma je vždy bakteriální
+b) Nejčastějším vyvolavatelem rýmy je Str. pneumoniae
+c) Rýma je vzácnou příčinou kašle
+d) Zdravé batole docházející do kolektivu může prodělat až 8 nachlazení/rok X
+2. Frontální dutiny jsou vyvinuty:
+a) Při narození
+b) Se vyvíjejí v adolescenci
+c) Začínají se vyvíjet okolo 8. roku věku X
+d) Začínají se vyvíjet okolo 4. roku věku
+3. Komplikací bakteriální sinusitidy není:
+a) Orbitocelulitida
+b) Osteomyelitida os frontale
+c) Hnisavá meningitida
+d) Generalizovaná lymfadenopatie X
+4. K běžným bakteriálním vyvolavatelům akutní faryngitidy nepatří:
+a) Str. pneumoniae X
+b) Str. pyogenes sk. A
+c) Streptokoky sk. C
+d) Mycoplasma pneumoniae
+5. Která z následujících situací není indikací k adenoidektomii:
+a) Chronická adenoiditida
+b) Chronická sinusitida refrakterní na léčbu
+c) Opakované otitidy
+d) Opakované tonsilofaryngitidy X
+6. Komplikací adenotonsilektomie není:
+a) Pooperační krvácení
+b) Rozvoj alergie X
+c) Akutní obstrukce dýchacích cest
+d) Velofaryngeální insuficience
+7. U 2letého chlapce s akutně vzniklým štěkavým kašlem a inspiračním stridorem pouze při pláči, bez hyposaturace, bez tachypnoe, je nejvhodnější provést:
+a) Laterální skiagram krku
+b) Podat inhalaci adrenalinu
+c) Vyšetřit krevní obraz
+d) Podat orálně dexametason X
+8. Pro mesotitidy neplatí:
+a) Mesotitida je častější u chlapců
+b) Nejčastější je v prvních 2 letech života
+c) Může mít familiární predispozici
+d) Je stejně častá u kojených a nekojených dětí X
+9. K nejčastějším vyvolavatelům akutní mesotitidy nepatří:
+a) Str. pneumonieae
+b) H. influenzae
+c) Moraxella cat.
+d) Pseudomonas aeruginosa X
+10. Ke klinickým příznakům mesotitidy u kojence patří:
+a) Febrilie
+b) Zvracení
+c) Neklid
+d) Všechny uvedené X
+11. Vyjmenuj možné komplikace akutní mesotitidy:
+a) Otogenní meningitida X
+b) Trombóza kavernózních splavů X
+c) Mastoiditida X
+d) Jizvení bubínku X
+12. Vodnatá rýma není při:
+a) Alergii
+b) Nachlazení
+c) Pertusi
+d) Streptokokové tonsilitidě X
+13. Streptokoková tonsilitida nemá příznak:
+a) Horečka nad 39 °C
+b) Zduření lymfatických uzlin na krku
+c) Kašel X
+d) Bolest hlavy
+14. Vyjmenuj respirační infekce preventabilní očkováním:
+a) Difterie X
+b) Pertuse X
+c) Pneumokoková onemocnění X
+d) Chřipka X
+15. Při akutně vzniklé inspirační dušnosti je slinění a obtížné polykání příznakem:
+a) Epiglotitidy
+b) Retrofaryngeálního abscesu
+c) Cizího tělesa zaklíněného v horní části jícnu
+d) Všech uvedených X
+16. Při akutní epiglotitidě zaujímá dítě pozici - vyber nejsprávnější odpověď:
+a) Ortopnoickou
+b) Vsedě s předklonem dopředu a nataženým krkem, pootevřenými ústy, opírá se o ruce před tělem X
+c) V polosedu
+d) V kleče
+17. Správná léčba akutní subglotické laryngitidy je - vyber nejsprávnější odpověď:
+a) Inhalace adrenalinu
+b) Podání perorálních kortikoidů
+c) Při lehkém průběhu podání kortikoidů, u střední a těžké přidáváme inhalaci adrenalinu X
+d) Při neklidu podání diazepamu
+18. Do ambulance PLDD přináší rodiče dvouletého chlapce pro zhoršující se inspirační dušnost s horečkou 40 °C. Chlapec sedí v mírném předklonu, je nápadně klidný, z pusy mu vytékají sliny, povrchně dýchá:
+a) Dítěti je třeba ihned podat inhalaci adrenalinu a kortikoidy
+b) Lékař doporučí rodičům dítě co nejrychleji převést k hospitalizaci, kterou neprodleně telefonicky domluví v nejbližším lůžkovém zdravotnickém zařízení
+c) Do zabezpečení dýchacích cest nelze dítě položit do horizontální polohy X
+d) Lékař důkladně prohlédne oblast hltanu
+19. Na ambulanci přijde 13měsíční dívka se štěkavým kašlem, inspirační dušností, zvýšenou teplotou a inspiračním stridorem:
+a) Lékem první volby jsou kortikosteroidy X
+b) Na léčbu kašle je vhodná nebulizace mukolytik, pokud klinickému nálezu dominuje intenzivní kašel
+c) Na léčbu kašle je vhodné antitusikum, neboť kašel je pro dítě velmi vysilující
+d) Lze podat nebulizace adrenalinu u dítěte léčeného za hospitalizace X
+20. Při častých recidivách akutní laryngitidy je třeba v rámci dif. dg. zvažovat:
+a) Extraesofageální refluxní chorobu X
+b) Sinobronchiální syndrom
+c) Trvalou obstrukci dýchacích cest (např. kongenitální subglotickou stenózu, laryngomalacii, parézu hlasových vazů apod.) X
+d) Záměnu za alergickou reakci, zvláště u atyp. klinických projevů (absence známek infekce, otoky, exantém, průjem, zvracení apod.) X
+21. Pro akutní epiglotitidu je charakteristický:
+a) Nesvědivý makulózní anulární exantém
+b) Nápadný klid dítěte X
+c) Intenzivní štěkavý kašel
+d) Výrazný ústup dušnosti při expozici chladnému vzduchu
+22. Pro akutní epiglotitidu platí:
+a) Typicky je provázena záchvatovitým dráždivým kašlem s kokrhavým zvukem během nádechu
+b) Bývá patrná porucha polykání provázená sliněním X
+c) Může být vyvolána jedním či kombinací více respiračních virů
+d) Vyžaduje intenzivní bronchodilatační terapii
+23. Akutní inspirační dušnost může způsobit:
+a) Peritonzilární absces X
+b) Exacerbace astma bronchiale
+c) Aspirace cizího tělesa X
+d) Bronchopulmonální dysplázie
+24. Fyzikální nález svědčící pro akutní laryngitidu zahrnuje:
+a) Slinění
+b) Inspirační či smíšený stridor X
+c) Chrůpky na plicních bazích
+d) Dysfonii X
+25. Downes skóre, skórovací systém hodnotící závažnost akutní laryngitidy hodnotí mimo jiné:
+a) Charakter a množství sputa
+b) Přítomnost a závažnost febrilií
+c) Charakter kašle X
+d) Auskultační nález inspiračních chrůpků
+28. Doporučená opatření proti roztočům v domácnosti jsou pravdivá s výjimkou:
+a) Prát ložní prádlo nad 60 °C, každý týden
+b) Odstranit z ložnice koberec
+c) Používat speciální pro alergeny nepropustné ložní povlečení
+d) Užívat pravidelně zvlhčovač vzduchu X
+29. Nesprávné opatření ke snížení koncentrace kočičího alergenu v domácím prostředí je:
+a) Odstranit kočku z bytu
+b) Kočku pravidelně koupat
+c) Odstranit koberce
+d) Nepoužívat čističku vzduchu X
+30. V čem je druhá generace antihistaminik výhodnější než první:
+a) Mají menší sedativní efekt X
+b) Jsou levnější
+c) Jsou mnohem více účinná
+d) Jsou volně prodejná
+31. K léčbě astmatu často užíváme léky s adrenergní aktivitou:
+a) Alfa 1 mimetika
+b) Alfa 2 mimetika
+c) Beta 1 mimetika
+d) Beta 2 mimetika X
+33. Pro diagnózu a léčbu astmatu je nejméně důležité:
+a) Pravidelné kontroly pacienta
+b) Genetické vyšetření X
+c) Odstranění negativních vlivů prostředí
+d) Edukace pacienta, rodičů
+34. S atopickým ekzémem se často pojí uvedené stavy kromě:
+a) Alergická rýma
+b) Astma bronchiale
+c) Eozinofilie v krevním obraze
+d) Lymfopenie X
+35. Který z následujících nálezů je nejméně pravděpodobný u dítěte s astma bronchiale:
+a) Tachypnoe
+b) Exspirační pískoty
+c) Zvětšený předozadní průměr hrudníku
+d) Paličkovité prsty X
+37. Osmiletému chlapci se středně závažnou formou akutní exacerbace astma bronchiale v první hodině podáme:
+a) Beta 2 sympatomimetikum 2-4 vstřiky po 20 minutách přes nástavec X
+b) Inhalační beta 2 sympatolytikum 2-4 vstřiky po 20 minutách přes nástavec
+c) Adrenalin subkutánně z injektoru či nitrožilně
+d) Systémový kortikoid (prednison 1 mg/kg/den, max 40 mg) X
+38. Pro astma bronchiale je/jsou typický/é:
+a) Chronické hnisavé zánětlivé změny dýchacích cest provázené tvorbou bronchiektázií
+b) Nález irreverzibilní bronchiální obstrukce
+c) Chronické zánětlivé alergické či nealergické postižení dýchacích cest X
+d) Alergické zánětlivé postižení plicního intersticia
+39. Do klinického obrazu exacerbace astma bronchiale nepatří:
+a) Prodloužené exspirium
+b) Prodloužené inspirium X
+c) Vrzoty, pískoty
+d) Stridor X
+40. U tachydyspnoického pacienta s exacerbací astma bronchiale pro mírný stupeň svědčí hodnoty pCO2 v krvi:
+a) Hypokapnie X
+b) Normokapnie
+c) Hyperkapnie
+d) Nemá význam v hodnocení tíže exacerbace astma bronchiale
+41. Které tvrzení platí pro astma bronchiale u dětí:
+a) U dětí pod 3 roky nelze stanovit diagnózu astma bronchiale
+b) Jeho prevalence u dětí v ČR je 2-4 %
+c) U 70 % astmatiků se první obtíže objevily v batolecím věku jako obstruktivní bronchitida
+d) U 70 % dětí se první obtíže objevily ve školním věku X
+42. Která kombinace příznaků je charakteristická pro astma bronchiale:
+a) Dušnost, stridor, dysfonie, pocit tísně na hrudi
+b) Pískoty, dysfagie, expektorace hnisavého sputa, dušnost
+c) Dušnost, kašel, pocit tísně na hrudi, pískoty X
+d) Dušnost, pískoty, dysfonie, dysfagie
+43. Který nález či údaj jasně podporuje diagnózu astmatu:
+a) Difúzně snížená vzdušnost na skiagramu hrudníku
+b) Průkaz reverzibilní bronchiální obstrukce během bronchodilatačního testu X
+c) Průkaz ireverzibilní bronchiální obstrukce během bronchodilatačního tesu
+d) Nález voštinovité plíce na HRCT
+44. Který údaj je rizikovým faktorem zvyšujícím pravděpodobnost astma bronchiale u malých dětí (pod 5 let):
+a) Přítomnost dráždivého kašle při respiračních infektech
+b) Astma bronchiale, alergická rýma, atopická dermatitida u nejbližších příbuzných X
+c) Přítomnost domácího zvířete v domácnosti (hlavně kočka, pes, papoušek)
+d) Přítomnost dráždivého kašle mimo infekt při smíchu, pláči či aktivitě X
+47. PLDD vyšetřuje 3letého chlapce, který dlouhodobě vlhce pokašlává, trpí na opakované mesotitidy, bronchitidy, i přes velkou chuť k jídlu je v percentilovém grafu patrný pokles váhy i zpomalení růstu. Mívá objemné zapáchající stolice. V rámci diferenciální diagnostiky je třeba na prvním místě zvážit:
+a) Alergii na bílkovinu kravského mléka
+b) Celiakii
+c) Cystickou fibrózu X
+d) Autoinflamatorní onemocnění
+48. Mezi projevy cystické fibrózy u novorozence patří:a) Mekoniový ileus X
+b) Dermatitis herpetiformis Duhring
+c) Mikrocefalie
+d) Enteroragie
+49. Mezi projevy cystické fibrózy u dětí patří:
+a) Neprospívání X
+b) Klinické projevy deficitu vitamínu B1, B2, a B12
+c) Prolaps rekta X
+d) Steatorrhea X
+50. U dětí s cystickou fibrózou je třeba:
+a) Snížení energetického příjmu pro střevní dysmikrobii
+b) Zvýšení energetického příjmu o 20-40 % X
+c) Provádět kontroly glukózové homeostázy X
+d) Není třeba kontroly inzulinové sekrece, u cystické fibrózy se jedná pouze postižení exogenní pankreatické sekrece
+51. Diagnóza cystické fibrózy se považuje za potvrzenou:
+a) Pokud u dítěte jednou zjistíme koncentraci chloridů v potu nad 60 mmol/l
+b) Pokud u dítěte prokážeme 1 mutaci v genu CFTR
+c) Pokud má dítě pozitivní novorozenecký screeningový test
+d) Pokud má dítě sourozence s cystickou fibrózou a 2x pozitivní potní test X
+52. U dětí s cystickou fibrózou je pro zpomalení rozvoje chronického plicní postižení zásadní:
+a) Pravidelná inhalace bronchodilatancií
+b) Prevence ev. eradikace kolonizace dýchacích cest bakteriemi (především Burkholderia cep., Pseudomonas aeruginosa) X
+c) Imunomodulační terapie bakteriálními lyzáty
+d) Dechová rehabilitace s inhalací mukolytik, rekomb. DNÁzy, hypertonických solných roztoků několikrát za den X
+53. Diagnostika cystické fibrózy:
+a) V ČR je zaveden celoplošný screening cystické fibrózy vyšetřením potního testu u každého novorozence v porodnici
+b) Hraniční výsledek potního testu představuje koncentrace chloridů v potu 15 – 30 mmol/l
+c) Diagnózu cystické fibrózy u školního dítěte stanovujeme na základě vyšetření koncentrace imunoreaktivního trypsinogenu z krve
+d) Koncentraci chloridů v potu 25 mmol/l při vyšetření cystické fibrózy hodnotíme jako negativní nález X
+54. Mezi respirační komplikace cystické fibrózy patří:
+a) Alergická bronchopulmonální aspergilóza X
+b) Rozvoj bronchiektázií X
+c) Pneumotorax X
+d) Hemoptýza X
+57. Pro exsudát platí:
+a) Celková bílkovina - výpotek/sérum > 0,5, LDH výpotek/sérum > 0,6 X
+b) Celková bílkovina do 30 g/l, hodnota LDH nemá význam
+c) Celková bílkovina > 30 g/l, albumin výpotek/sérum > 12
+d) Celková bílkovina - výpotek/sérum < 0,5, LDH výpotek/sérum < 0,6
+58. Původce bakteriální pneumonie lze stanovit prostřednictvím:
+a) Kultivace výtěru z nosu
+b) Kultivace výtěru z krku
+c) Kultivačním vyšetřením krve (hemokulturou) X
+d) Kultivačním vyšetřením moče
+59. Antibiotikem první linie v léčbě pneumokokové pneumonie je:
+a) Doxycyklin
+b) Penicilin X
+c) Vankomycin
+d) Aminopenicilin X
+60. Pro kruposní (bakteriální) pneumonii svědčí auskultační nález:
+a) Vrzotů a/či chropů
+b) Oslabené dýchání X
+c) Trubicovité dýchání X
+d) Krepitace X
+61. Antibiotikem 1.volby při léčbě mykoplasmové pneumonie u 5letého dítěte je:
+a) Makrolid X
+b) Aminopenicilin
+c) Tetracyklin
+d) Cefalosporin
+62. Z bakteriálních původců pneumonie:
+a) U novorozenců do 3 týdnů dominuje Mycoplasma pneumoniae a Chlamydophila pneumoniae
+b) U novorozenců nalézáme Streptococcus agalactiae, E. coli, Listeria monocytogenes, Klebsiella pneumoniae X
+c) U dětí nad 5 let dominuje Streptococcus pyogenes a Enterococcus faec.
+d) U dětí nad 5 let dominuje Chlamydophila trachomatis a Ureaplasma ur.
+63. Výskyt recidivující pneumonie lokalizované stále ve stejném místě může být způsoben:
+a) Cévním prstencem X
+b) Cystickou fibrózou
+c) Imunodeficitem
+d) VVV plic jako je plicní sekvestrace či cystická adenomatoidní malformace X
+64. Na etiologii pneumonie můžeme pomyslet:
+a) Jednorázovým vyšetřením protilátek z krve (Chlamydophila pneumoniae, Mycoplasma pneumoniae)
+b) Jednorázovým serologickým vyšetřením antigenu z moče (Streptococcus pneumoniae, Legionela pneumophila) X
+c) Kultivací sputa či pleurálního punktátu X
+d) Přímý průkaz virových antigenů z moče
+67. Mezi závažné formy tuberkulózy nepatří:
+a) Miliární TBC
+b) Bazilární leptomeningitida
+c) Tuberkulózní pneumonie X
+d) Rozpadová TBC
+68. Pojmem mykobakterióza rozumíme:
+a) Chronickou plicní infekci Mycoplasma pneumoniae
+b) Lokalizovanou formu plicní tuberkulózy
+c) Infekci způsobenou netuberkulózními mykobakteriemi X
+d) Systémové komplikace BCG vakcinace
+69. BCG vakcinace:
+a) Chrání před rozvojem tuberkulózy
+b) Chrání před rozvojem bazilární leptomeningitidy X
+c) Chrání před rozvojem miliární tuberkulózy X
+d) Nemá význam v současné době
+70. BCG vakcína:
+a) Je živá vakcína X
+b) Je neživá vakcína
+c) Její podání je formou pasivní imunizace
+d) Obsahuje oslabený kmen Mycobacterium tuberculosis
+71. Epidemiologicky závažná forma tuberkulózy je:
+a) Mikroskopicky pozitivní nález ve sputu X
+b) Pozitivita PCR z BALu
+c) Pozitivní kultivační nález v moči
+d) Pozitivní tuberkulinový test
+72. Chemoprofylaxe tuberkulózy:
+a) Je terapií první volby u lokalizované formy tuberkulózy
+b) Slouží u dětí již infikovaných k zábraně přechodu infekce do manifestního onemocnění X
+c) Zahrnuje podávání antituberkulotik u jedinců, kteří jsou ve zvýšeném riziku vzniku tuberkulózy X
+d) Slouží k ochraně osob neinfikovaných, ale exponovaných nákaze tuberkulózou X
+73. Dvanáctiletý chlapec s pozitivním kultivačním nálezem na tuberkulózu a RTG korelátem na skiagramu hrudníku bude léčen:
+a) Chemoprofylaxe INH na 6 měsíců
+b) INH + RMP + PZA + STR na 2 měsíce, RMP + INH na 4 měsíce X
+c) INH + RMP na 2 měsíce, INH na 6 měsíců
+d) INH + RMP + PZA + EMB na 2 měsíce, INH + EMB na 6 měsíců X
+74. Negativní tuberkulinový test u neočkovaného dítěte je:
+a) < 5 mm indurace X
+b) < 10 mm erytém
+c) < 15 mm  indurace
+d) > 10 mm erytém
+Dětská revmatologie
+1. JIA je mezinárodně uznávaným akronymem označujícím onemocnění:
+a) Juvenilní intersticiální adenitidu
+b) Juvenilní idiopatickou artritidu X
+c) Jejunální intermitentní afunkci
+d) Chronický kloubní zánět nejasné etiologie X
+2. Artritida je definována příznaky:
+a) Bolest kloubu X
+b) Omezení rozsahu pohybu kloubu X
+c) Přítomnost nitrokloubního výpotku X
+d) Noční pocení
+3. Pro juvenilní idiopatickou artritidu platí:
+a) Objektivní projevy kloubního zánětu trvající alespoň 6 týdnů X
+b) Vyloučení známých příčin kloubních potíží X
+c) Objektivní synovitida alespoň v 1 kloubu X
+d) Většinou je přítomno váhové neprospívání
+4. Pro systémovou formu JIA je typické:
+a) Subfebrilie
+b) Hemoragický exantém převážně na dolních končetinách
+c) Vysoká sedimentace a C-reaktivní protein X
+d) Kolísavá horečka, prchavý exantém, lymfadenopatie, hepatosplenomegalie, serositida X
+5. Nejčastějším typickým mimokloubním projevem JIA je:
+a) Chronická přední uveitida X
+b) Intersticiální pneumonitida
+c) Chlopenní vada
+d) Malabsorpce
+6. Pro oligoartikulární JIA platí:
+a) Obvykle je přítomno zvýšení sedimentace erytrocytů, CRP a anemie
+b) Přítomnost antinukleárních protilátek je rizikovým faktorem rozvoje uveitidy X
+c) Terapií první volby je nitrokloubní aplikace depotního kortikosteroidu X
+d) Častým projevem je přerůst končetiny do délky X
+7. MAS je akronym označující:
+a) Život ohrožující komplikaci systémových onemocnění X
+b) Syndrom aktivace makrofágů X
+c) Mikrodeleční astigmatismus
+d) Syndrom myeloidní aplázie
+8. Pro polyartikulární JIA platí:
+a) Typické je postižení >4 kloubů X
+b) Seropozitivní forma je i u dětí častá
+c) Obvykle není přítomno zvýšení sedimentace erytrocytů ani CRP
+d) Lékem první volby je nízkodávkovaný metotrexát
+9. Dosud zdravá 3letá holčička začala vždy po ránu výrazně kulhat, v průběhu dne se chůze normalizuje. Jiné potíže nemá. Co je nejpravděpodobnější příčinou:
+a) Kongenitální dysplázie kyčlí
+b) Juvenilní idiopatická artritida X
+c) Legg-Calve-Perthesova nemoc
+d) Septická artritida
+10. „Malinový jazyk“ je typickým nálezem pro:
+a) Juvenilní dermatomyositidu
+b) Kawasakiho nemoc X
+c) Spálu X
+d) Revmatickou horečku
+11. Které z následujících vyšetření je jednoznačně indikované u všech pacientů s JIA:
+a) MRI postižených kostí
+b) Vyšetření očí ve štěrbinové lampě X
+c) Echokardiografie
+d) CT dlouhých kostí
+12. Čtyřletý chlapec přichází akutně pro odmítání chůze pro bolest nohy. Začalo to včera a dnes je to horší. Říká, že ho bolí s nohou pohnout a nemůže se ani postavit pro bolest. Jeho osobní anamnéza je negativní, ale minulý týden prodělal respirační infekt. Nyní je bez teplot. Který z následujících kroků je nejméně vhodný?
+a) Provedení RTG kyčlí
+b) Vyšetření krevního obrazu s diferenciálem
+c) Provedení MRI kyčlí
+d) Zahájení intravenózní antibiotické terapie vankomycinem a ceftriaxonem X
+13. Které z uvedených vyšetření pomůže potvrdit přítomnost septické artritidy:
+a) RTG vyšetření bolestivého kloubu
+b) Hemokultura X
+c) Vyšetření počtu leukocytů ve výpotku postiženého kloubu X
+d) Kultivace výpotku z postiženého kloubu
+14. Co je nejčastější příčinou revmatické horečky:
+a) Impetigo způsobené beta-hemolytickým streptokokem skupiny A
+b) Akutní tonsilofaryngitida způsobená beta-hemolytickým streptokokem skupiny A X
+c) Kožní infekce zlatým stafylokokem
+d) Enterokoková infekce
+15. V jaké části těla je přítomen zánět při entezitidě:
+a) Růstová chrupavka
+b) Synchondrotické spojení
+c) Úpon ligamenta, šlachy nebo fascie do kosti X
+d) Periartikulární měkké tkáně
+16. Co je typickým projevem Stillovy nemoci:
+a) Lososově růžová vyrážka X
+b) Ekzém
+c) Petechie
+d) Rosacea
+17. Pokud dítě potřebuje denní kortikoterapii, co je nejvhodnější doba podání:
+a) Těsně před snídaní X
+b) Těsně před obědem
+c) Těsně před večeří
+d) Před spaním
+18. Co je nejvhodnější léčbou dospívajícího se syndromem fibromyalgie:
+a) Prednison
+b) Nesteroidní antirevmatika
+c) Intenzivní cvičení X
+d) Náplasti s lidokainem
+19. Dítě s bolestí a otokem levého kolene s přítomným balotováním pately má:
+a) Natržený meniskus
+b) Výpotek v koleni X
+c) Přetržený přední zkřížený vaz
+d) Přetržený mediální kolaterální vaz
+20. Lékem první volby u 7letého dítěte s lymeskou artritidou je:
+a) Intraartikulární kortikosteroid
+b) Penicilin
+c) Doxycyklin
+d) Amoxicilin X
+21. Srdeční šelest u akutní revmatické horečky je nejčastěji způsoben:
+a) Mitrální stenózou
+b) Mitrální regurgitací X
+c) Trikuspidální regurgitací
+d) Regurgitací plicnice
+22. S jakým typem artritidy se pojí antigeny Yersinia enterocolitica:
+a) Lymeská artritida
+b) JIA
+c) Reaktivní artritida X
+d) Psoriatická artritida
+23. Co je pravdivé konstatování pro laboratorní výsledky u oligoartikulární JIA:
+a) Krevní obraz a sedimentace mohou být v normě X
+b) Antinukleární protilátky jsou přítomny u všech dětí
+c) CRP je zvýšené vždy když je přítomen aktivní kloubní zánět
+d) Počet leukocytů a komplement jsou často sníženy
+24. Na jaké známky onemocnění je třeba se zaměřit při podezření na syndrom komplexní regionální bolesti (algodystrofický syndrom):
+a) Rozsah pohybu v kloubech
+b) Svalová síla
+c) Barva a teplota kůže, podkožní edém, palpační bolestivost X
+d) Čití a koordinace
+25. Vyber nejlepší test k identifikaci perikardiálního výpotku:
+a) Echokardiografie X
+b) CT hrudníku
+c) MRI srdce
+d) RTG plic a srdce
+26. Které z následujících jevů jsou typické pro systémovou sklerodermii:
+a) Raynaudův fenomen X
+b) Sicca syndrom (suchost sliznic)
+c) Zvýšení titru anti-DNázy B
+d) Nekaseifikující granulom
+27. Pro antifosfolipidový syndrom platí:
+a) Je častější u mužů než u žen
+b) Je to autoimunní onemocnění spojené s opakovanými venózními i arteriálními trombózami X
+c) Vyžaduje periodickou antikoagulační terapii
+d) U dětí se nevyskytuje
+28. Pro juvenilní systémovou sklerodermii je typické:
+a) Vaskulitida velkých tepen
+b) Porucha motility jícnu X
+c) Suché sliznice
+d) Zvýšení titru anti-DNázy B
+29. Která z protilátek přítomných u systémového lupusu erythematosus je spojena se srdečním blokem u neonatálního lupusu:
+a) Anti-dsDNA
+b) Anti-Sm
+c) Anti-histony
+d) Anti-SSA (Ro) X
+30. Pro dětský (juvenilní) systémový lupus erythematosus platí:
+a) Nejčastěji začíná u dospívajících dívek X
+b) Jedním z imunologických kriterií je pozitivita IgM revmatoidního faktoru
+c) Typická je diskrepance mezi vysokou sedimentací erytrocytů a nízkým CRP X
+d) Postižení ledvin je u dětí vzácné
+31. Při podezření na juvenilní systémový lupus erythematosus nám nepomůže vyšetření:
+a) APTT
+b) Antinukleárních protilátek
+c) HLA B-27 X
+d) Močového sedimentu
+32. Šupící se dermatitida nad extenzorovými plochami kloubů se zarudnutím víček a tváří jsou projevy typické pro:
+a) Lupénku
+b) Revmatickou horečku
+c) Dětský ekzém
+d) Juvenilní dermatomyositidu X
+33. Pro svalovou slabost u juvenilní dermatomyositidy je typické:
+a) Postižení pletence pánevního a pažního X
+b) Normální nález na EMG
+c) Riziko postižení faryngeálních a dýchacích svalů X
+d) Nevýbavné šlachové reflexy
+34. Pro myopatii se symetrickou proximální svalovou slabostí platí:
+a) Je typickým projevem juvenilní dermatomyositidy X
+b) Je typickým projevem Duchenneovy svalové dystrofie X
+c) Počátečním projevem je slabost stisku ruky
+d) Je obvykle provázena zvýšením svalových enzymů X
+35. Při podezření na juvenilní dermatomyositidu do první linie diagnostických vyšetření patří:
+a) Jaterní testy, CK, LDH X
+b) Elektromyografie
+c) Vyšetření svalové síly X
+d) Svalová biopsie
+36. Desetiletý dosud zdravý chlapec přichází s anamnézou 1 den trvající výrazné bolesti a otoku kolem pravého kotníku. Kromě tohoto nálezu vidíte výsev petechií na bércích. Pravděpodobnou diagnózou je:
+a) Akutní lymfoblastická leukemie
+b) Idiopatická trombocytopenická purpura
+c) Juvenilní systémový lupus erythematosus
+d) IgA vaskulitida X
+37. Pro IgA vaskulitidu je typické:
+a) Krvácivé projevy na kůži X
+b) Enterorhagie X
+c) Mikrohematurie X
+d) Trombocytopenie
+38. U 7leté dosud zdravé dívky s hematurií a výsevem petechií na bércích a hýždích při normálních hodnotách trombocytů bude pravděpodobně přítomno:
+a) Koagulopatie
+b) Menarche praecox
+c) Primární vaskulitida drobných cév X
+d) Bolestivý otok kloubů X
+39. Dítě s IgA vaskulitidou může být akutně ohroženo:
+a) Invaginací X
+b) Malabsorpcí
+c) Hemarthrosem
+d) Akutní endokarditidou
+40. Výsev petechií u febrilního dítěte s vysokou zánětlivou aktivitou může být typickým projevem:
+a) Meningokokové infekce X
+b) IgA vaskulitidy
+c) Idiopatické trombocytopenické purpury
+d) Akutní lymfoblastické leukemie X
+41. Mezi typické projevy Kawasakiho nemoci patří:
+a) Exantém v oblasti perinea
+b) Hnisavá konjunktivitida X
+c) Protrahované subfebrilie
+d) Malinový jazyk X
+42. Typickým projevem Kawasakiho nemoci je:
+a) Olupování kůže X
+b) Protrahovaná horečka déle než 5 dnů X
+c) Předcházející infekce beta-hemolytickým streptokokem skupiny A
+d) Dilatace koronárních arterií X
+43. U batolete s febrilním exantémovým onemocněním do diferenciální diagnózy patří:
+a) Juvenilní systémový lupus erythematosus
+b) Kawasakiho nemoc X
+c) Revmatická horečka
+d) Spalničky X
+44. Mezi typické projevy Kawasakiho nemoci nepatří:
+a) Papulo-pustulozní exantém X
+b) Výrazná dráždivost dítěte
+c) Erytém dlaní a plosek
+d) Krční lymfadenopatie
+45. Pro horečku neznámého původu platí:
+a) Trvání horečky alespoň 4 dny X
+b) Negativní kultivace
+c) Dokumentovaná přítomnost horečky při hospitalizaci
+d) Trvání horečky po týdnu antibiotické léčby
+46. Pro syndromy periodické horečky neplatí:
+a) Výstupy teploty související s menstruací X
+b) Střídání epizod horečky s afebrilním intervalem
+c) Stejné trvání epizod horečky bez ohledu na podání antibiotika
+d) Sérový amyloid A je zvýšen pouze v atakách horečky
+47. Čtyřleté zdravě vypadající, prospívající dítě přichází s anamnézou opakovaných angín pravidelně jednou měsíčně od 2 let věku. Pravděpodobnou diagnózou je:
+a) Nosičství beta-hemolytického streptokoka skupiny A
+b) Revmatická horečka
+c) Systémová JIA
+d) Syndrom PFAPA X
+48. Pojem „autoinflamatorní“ označuje:
+a) Protilátkami zprostředkovaný systémový zánět
+b) Skupinu vrozených imunodeficitů provázených infekcemi od novorozeneckého věku
+c) Poruchu mechanismů vrozené obranyschopnosti X
+d) Proces eliminace nádorových buněk
+49. Familiární středomořská horečka je:
+a) Nejčastější monogenní horečkou X
+b) Obvykle provázena krutými bolestmi břicha X
+c) Ve Středomoří vyvolána infekcí Leishmania donovani
+d) Nejčastěji léčena kolchicinem X
+50. Syndrom PFAPA není:
+a) Nejčastější syndrom periodické horečky u dětí
+b) Syndrom opakované horečky s faryngitidou, lymfadenitidou a afty
+c) Periodická horečka způsobená mutací genu TNFRS1A X
+d) Syndrom periodické fetální aplastické anemie X

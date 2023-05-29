@@ -6778,5 +6778,5292 @@
         }
       ]
     }
+  ],
+  "Dětská gastroenterologie a hepatologie": [
+    {
+      "id": "1Dětská gastroenterologie a hepatologie",
+      "order": 1,
+      "text": "Vyberte správné tvrzení - u ikteru:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Prehepatálního je normální hladina přímého bilirubinu v krvi",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Posthepatálního jsou hypocholické nebo acholické stolice",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Způsobeného Rh-alloimunizací je přítomna nízká hladina retikulocytů",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Hepatálního je normální hladina přímého bilirubinu v krvi a přítomnost urobilinogenu v moči",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "2Dětská gastroenterologie a hepatologie",
+      "order": 2,
+      "text": "Vyberte správné biochemické nálezy:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Elevace AST nad ALT je charakteristická pro Duchenneovou svalovou dystrofii",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Zvýšené ALP + GMT a konjugovaná hyperbilirubinémie jsou typické pro cholestázu",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Konjugovaná hyperbilirubinémie a normální jaterní testy patří k obrazu Gilbertova syndromu",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Elevace AST při jinak normálních jaterních testech může být obraz tzv. „makroASTémie“",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "3Dětská gastroenterologie a hepatologie",
+      "order": 3,
+      "text": "Virová hepatitida A:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Se přenáší fekálně-orální cestou",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Její prevence patří do běžného očkovacího kalendáře",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Nepřechází do chronicity",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Léčebnou metodou volby je imunosuprese",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "4Dětská gastroenterologie a hepatologie",
+      "order": 4,
+      "text": "Cholecystolitiáza je typická pro:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Pacienty na dlouhodobé parenterální výživě",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Pacienty s astmatem na terapii inhalačními steroidy",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Obézní dívky s pozitivní rodinnou anamnézou",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Stavy spojené s hemolýzou",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "5Dětská gastroenterologie a hepatologie",
+      "order": 5,
+      "text": "Typické jaterní onemocnění predominantně adolescentních dívek je:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Nealkoholová steatohepatida asociovaná s obezitou",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Gilbertův syndrom",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Autoimunitní hepatitida",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Cholecystolitiáza",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "6Dětská gastroenterologie a hepatologie",
+      "order": 6,
+      "text": "U dětského pacienta přicházejícího s poruchou vědomí a zvracením při jaterním postižením (Reye-like syndrom) musíme vyloučit:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Akutní pyelonefritidu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Dědičnou poruchu metabolismu (dědičné poruchy β-oxidace mastných kyselin, poruchy cyklu močoviny, …)",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Intoxikace houbami",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Požití kyseliny askorbové",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "7Dětská gastroenterologie a hepatologie",
+      "order": 7,
+      "text": "Vyberte správná tvrzení:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Nejčastější intoxikací v dětském věku vedoucí k jaternímu selhání je otrava etylenglykolem",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Vitamín K dependentní koagulační faktory tvořeny v játrech jsou II, VI, VII, VIII, protein C a S",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Při poruše vědomí neznámé etiologie musíme vždy pomýšlet na hyperamonémii",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Markery proteosyntetické funkce jater jsou kromě koagulačních faktorů také albumin, prealbumin a cholinesteráza",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "8Dětská gastroenterologie a hepatologie",
+      "order": 8,
+      "text": "Vyberte správné tvrzení - portální hypertenze:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Prehepatální je typická pro dětský věk",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Hepatální je typická pro dětský věk",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Se může komplikovat krvácením z jícnových varixů",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Je typicky doprovázená zvýšeným počtem krevních destiček",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "11Dětská gastroenterologie a hepatologie",
+      "order": 11,
+      "text": "Crohnova nemoc:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Patří mezi autoimunitní onemocnění",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Typicky začíná v kojeneckém věku",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Postihuje segmentálně gastrointestinální trakt",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Je vyléčitelná",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "12Dětská gastroenterologie a hepatologie",
+      "order": 12,
+      "text": "Mezi extraintestinální projevy nespecifických střevních zánětů typicky patří:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Primární sklerotizující cholangitida asociována s ulcerózní kolitidou",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Enteropatická artritida",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Osteoporóza",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Gottronovy papuly",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "13Dětská gastroenterologie a hepatologie",
+      "order": 13,
+      "text": "Typické pro Crohnovu nemoc:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Jsou histologicky kryptové abscesy",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Je pankolitida",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Je terminální ileitida",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Jsou histologicky granulomy",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "14Dětská gastroenterologie a hepatologie",
+      "order": 14,
+      "text": "Charakteristickým nálezem v zobrazovacích vyšetřeních u nespecifických střevních zánětů je:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Fenomén dlažebních kostek u ulcerózní kolitidy",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Fenomén vyhlazení haustrací u ulcerózní kolitidy",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Postižení terminálního ilea u Crohnovy nemoci",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Nález píštělí a abscesů u ulcerózní kolitidy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "15Dětská gastroenterologie a hepatologie",
+      "order": 15,
+      "text": "Typické pro Crohnovu nemoc:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Hluboké ulcerace",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Aftózní slizniční léze",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Postižení horního i dolního GIT",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Píštěle",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "16Dětská gastroenterologie a hepatologie",
+      "order": 16,
+      "text": "Typické pro ulcerózní kolitidu:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Jsou histologicky kryptové abscesy",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Postižení tlustého střeva - pankolitida",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Postižení tenkého střeva",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "ANCA protilátky",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "17Dětská gastroenterologie a hepatologie",
+      "order": 17,
+      "text": "K diagnostice idiopatických střevních zánětů patří:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "ANCA a ASCA",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Fekální kalprotektin",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Ultrazvuk",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Endoskopie",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "18Dětská gastroenterologie a hepatologie",
+      "order": 18,
+      "text": "K léčbě nespecifických střevních zánětů patří:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Exkluzivní enterální výživa",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Imunosuprese",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Biologická terapie",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Imunoglobuliny",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "21Dětská gastroenterologie a hepatologie",
+      "order": 21,
+      "text": "Mezi onemocnění, při kterých je v dětském věku přítomno postižení slinivky břišní, řadíme:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Diabetes mellitus I. typu",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Makroamylasémie",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Perzistující hyperinzulinemická hypoglykémie u kojenců",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Cystická fibróza",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "22Dětská gastroenterologie a hepatologie",
+      "order": 22,
+      "text": "Mezi nejčastější příčiny akutní pankreatitidy v dětském věku:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Tupé poranění břicha",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Virové infekce",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Alkoholová ebrieta",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Některé léky - azathioprin, valproová kyselina",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "23Dětská gastroenterologie a hepatologie",
+      "order": 23,
+      "text": "Endoskopická retrográdní cholecystopankreatikografie (ERCP) u dětí:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je indikována jako terapeuticko-diagnostický výkon v případě choledocholitiázy",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Není spojena s významným rizikem pankreatitidy",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Patří do spektra vyšetření u atrezie žlučových cest",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Je důležitým vyšetřením při výskytu známek portální hypertenze",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "24Dětská gastroenterologie a hepatologie",
+      "order": 24,
+      "text": "Vyberte nesprávné tvrzení:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Izolovaná elevace aktivity amylázy v krvi bez bolesti břicha je typický příznak pankreatitidy",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Pro diagnostiku pankreatitidy se doporučuje vyšetření pankreatické amylázy, lipázy v séru a amylázy v moči",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Při podezření na akutní pankreatitidu s poruchou funkce je doporučené podávat perorální substituci pankreatickými enzymy",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Bolesti břicha jsou dominujícím příznakem pankreatitidy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "25Dětská gastroenterologie a hepatologie",
+      "order": 25,
+      "text": "Atrézie žlučových cest:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je vrozená vývojová vada, která se projeví do týdne po narození",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Se vyznačuje přítomností acholických nebo hypocholických stolic",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Typická je pro ni extrémní nekonjugovaná hyperbilirubinémie s elevací gama-glutamyl transferázy",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "K diagnostice postačí ultrasonografické vyšetření",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "26Dětská gastroenterologie a hepatologie",
+      "order": 26,
+      "text": "Léčba akutní pankreatitidy:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Zahrnuje přechodné vysazení stravy a postupné zavádění enterální výživy",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Léčba bolesti může vyžadovat podání opioidních analgetik",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Zásadní je podávání kyseliny acetylsalicylové k potlačení lokálního zánětu",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Nutné je podávání glukagonu k udržení normoglykémie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "27Dětská gastroenterologie a hepatologie",
+      "order": 27,
+      "text": "Cystická fibróza je:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Jedno z nejčastějších autosomálně recesivních onemocnění kavkazské populace",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Podmíněná postižením CFTR genu",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Polygenně podmíněné onemocnění",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Neléčitelné onemocnění",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "28Dětská gastroenterologie a hepatologie",
+      "order": 28,
+      "text": "Mezi léčbu CF patří:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Pankreatická substituce",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Dechová rehabilitace",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "ATB terapie",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Multiorgánová transplantace",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "31Dětská gastroenterologie a hepatologie",
+      "order": 31,
+      "text": "Mezi poruchy příjmu potravy řadíme:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Mentální anorexii",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Mentální bulimii",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Vegetariánství",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Ortorexii",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "32Dětská gastroenterologie a hepatologie",
+      "order": 32,
+      "text": "Mezi důsledky malnutrice patří:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Snížená svalová síla a hojení ran",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Zvýšené riziko pankreatitidy",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Bradykardie",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Hyperkalémie a hyperkalcémie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "33Dětská gastroenterologie a hepatologie",
+      "order": 33,
+      "text": "Mentální anorexie:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je typická pro dospívání",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Je typická pro mladší věk",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Při vyšetření dítěte s podezřením na mentální anorexii je nutné vyloučit jiné příčiny ztráty váhy",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Diagnostikovaná v časném věku zvyšuje riziko úmrtí až 18x proti běžné populaci",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "34Dětská gastroenterologie a hepatologie",
+      "order": 34,
+      "text": "Diferenciálně diagnosticky musíme zvažovat u váhového úbytku a odmítání stravy:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Fáze vývoje dítěte s přirozeným negativismem",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Gastroesofageální refluxní onemocnění",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Deprese",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Chronickou renální insuficienci",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "35Dětská gastroenterologie a hepatologie",
+      "order": 35,
+      "text": "Kritéria mentální anorexie jsou:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Perfekcionismus",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Porucha vnímání vlastního těla",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Chtěný hmotnostní úbytek",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Strach z obezity",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "36Dětská gastroenterologie a hepatologie",
+      "order": 36,
+      "text": "Nutriční intervenci u poruch příjmu potravy:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Zahajujeme úpravou/navýšením stávající diety na 120 % doporučeného energetického a proteinového denního příjmu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "U spolupracujících pacientů lze doporučit sipping",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Ve stravě je nutné navýšit podíl tuků vůči proteinům a sacharidům pro riziko rozvoje refeeding syndromu",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Je nutno doplnit antibitiockou terapii pro riziko rozvoje enterogenní sepse (metronidazol)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "37Dětská gastroenterologie a hepatologie",
+      "order": 37,
+      "text": "Refeeding syndrom:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Představuje metabolické komplikace spojené se zahájením nutriční podpory u podvyživených pacientů",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Ohrožuje pacienta kardiální zástavou",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Přítomna je hyponatrémie, hypofosfatémie, hyperchlorémie",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Přítomna je hyperkalémie, hypofosfatémie, hypermagnezémie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "38Dětská gastroenterologie a hepatologie",
+      "order": 38,
+      "text": "K léčbě poruch příjmu potravy patří:",
+      "category": "Dětská gastroenterologie a hepatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Enterální výživa",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Psychoterapie",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Hormonální substituce",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Antidepresiva",
+          "isCorrect": true
+        }
+      ]
+    }
+  ],
+  "Dětská hematologie": [
+    {
+      "id": "1Dětská hematologie",
+      "order": 1,
+      "text": "Tříletý chlapec s trombocytopenií 15.109/l po proběhlém virovém infektu:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Má pravděpodobně ITP, nemusíme ho vyšetřovat, stačí observace",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Je ohrožen intrakraniálním krvácením, a proto mu podáme separované trombocyty",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Má pravděpodobně ITP, provedeme KO s diferenciálním rozpočtem a aspoň základní biochemické a imunologické vyšetření",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Rozhodnutí o observaci nebo zahájení terapie závisí na přítomnosti krvácivých projevů",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "2x",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "3x",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "4x",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "2Dětská hematologie",
+      "order": 2,
+      "text": "K příznakům ITP nepatří:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Hematomy, petechie a sufuze",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Lymfadenopatie",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Mírná splenomegalie",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Horečka s únavou",
+          "isCorrect": true
+        },
+        {
+          "option": "a",
+          "text": "200 - 300 novorozenců",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "800 - 900 novorozenců",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "1500 - 1600 novorozenců",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "2000 novorozenců",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "3Dětská hematologie",
+      "order": 3,
+      "text": "Novorozenec s trombocytopenií může mít:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Matku s ITP",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Sepsi",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Novorozeneckou aloimunní trombocytopenii",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Kongenitální hypothyreózu",
+          "isCorrect": false
+        },
+        {
+          "option": "a",
+          "text": "Ihned po porodu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Během prvních hodin",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Během prvního týdne života",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Všechny odpovědi jsou správné",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "4Dětská hematologie",
+      "order": 4,
+      "text": "U hemofilie A platí, že:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Se jedná o onemocnění mužů, ale žena přenašečka může mít hladinu F VIII nižší",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Otec hemofilik má všechny syny zdravé",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Polovina dcer otce hemofilika jsou přenašečky",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Je 2x častější než hemofilie B",
+          "isCorrect": false
+        },
+        {
+          "option": "a",
+          "text": "Transpozice velkých cév",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Defekt síňového septa",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Defekt komorového septa",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Koarktace aorty",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "5Dětská hematologie",
+      "order": 5,
+      "text": "Von Willebrandova choroba:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je nejčastější vrozené krvácivé onemocnění",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Je provázena především slizničním krvácením",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Má kvalitativní či kvantitativní defekt vWF, současně je vždy prodloužené APTT",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Je onemocnění s gonosomálně recesivní dědičností",
+          "isCorrect": false
+        },
+        {
+          "option": "a",
+          "text": "V léčbě srdečního selhání",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "K udržení otevřené tepenné dučeje",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Jako selektivní plicní vasodilatátor",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "V léčbě hemorrhagické nemoci novorozenců",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "6Dětská hematologie",
+      "order": 6,
+      "text": "Dítě ve věku 18 měsíců s Leu 16,2.109/l, ANC 1,8 .109/l, Hb 112g/l, MCV 74 fl a Tr 410.109/l:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Má pravděpodobně hypochromní anemii",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Má leukocytózu s trombocytózou – asi bakteriální etiologie",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Má KO odpovídající věku",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Má trombocytózu a potřebuje terapii Anopyrinem",
+          "isCorrect": false
+        },
+        {
+          "option": "a",
+          "text": "Zhruba stejnou",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Vyšší u kojenců",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Vyšší u adolescentů",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "V současnosti se u nás vyskytuje jen ojediněle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "7Dětská hematologie",
+      "order": 7,
+      "text": "Děti s chronickou benigní neutropenií:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Většinou nemívají závažné infekční komplikace",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Mají mít vždy vyšetřenou kostní dřeň k vyloučení vrozené agranulocytózy",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Mohou mít pozitivní protilátky proti granulocytům, po měsících dojde ke spontánní úpravě",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Mají v dospělosti riziko hematologické malignity či autoimunního onemocnění",
+          "isCorrect": false
+        },
+        {
+          "option": "a",
+          "text": "V rámci všech operací v neonatologii",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "U všech pacientů s vrozenou srdeční vadou před i po operaci",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "U všech zkratových vrozených srdečních vad mimo defekt septa síní před operací",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Při náhradě srdeční chlopně",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "8Dětská hematologie",
+      "order": 8,
+      "text": "Febrilní měsíční kojenec s rozsáhlou pneumonií, neutropenií s ANC 0,2.109 /l a CRP 150 mg/l:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Má virovou pneumonie a potřebuje jen symptomatickou terapii",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Potřebuje cílenou ATB terapii a G-CSF",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Je suspektní z vrozené neutropenie, potřebuje podrobné vyšetření včetně punkce kostní dřeně",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Potřebuje ATB p.o. v běžné dávce a podrobnější vyšetření až při recidivě stavu",
+          "isCorrect": false
+        },
+        {
+          "option": "a",
+          "text": "Renovaskulární",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Renoparenchymatózní",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Endokrinní",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Farmakologicky vyvolaná",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "11Dětská hematologie",
+      "order": 11,
+      "text": "Novorozenec s anamnézou aloimunní anemie při Rh inkompatibilitě po opakovaném podání erymasy potřebuje po propuštění z porodnice:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Kontrolu KO nejpozději 3-4 týdny od poslední transfuse",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Kontrolu KO za 2 měsíce",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Nasazení ferroterapie",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Další sledování není nutné, transfuse problém vyřešila",
+          "isCorrect": false
+        },
+        {
+          "option": "a",
+          "text": "S levopravým zkratem",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Cyanotické",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Necyanotické",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Nepatří mezi srdeční vady",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "12Dětská hematologie",
+      "order": 12,
+      "text": "Pozitivní Coombsův test najdeme u:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Deficitu pyruvát kinázy",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Systémový lupus erythematodes",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Hereditární sférocytózy",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Autoimunní hemolytické anemie",
+          "isCorrect": true
+        },
+        {
+          "option": "a",
+          "text": "Bradykardií pod 100/min",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Pravostrannou převahou",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Levostrannou převahou",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "AV blokem 1. st.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "13Dětská hematologie",
+      "order": 13,
+      "text": "Pacient s hereditární sférocytózou je ohrožen:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Hemosiderózou",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Aplastickou krizí v důsledku infekce parvovirem B19",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Biliární kolikou",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Postupně progredujícími pancytopenií při hypersplenismu",
+          "isCorrect": false
+        },
+        {
+          "option": "a",
+          "text": "Intenzitou min. 3/6",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Je vždy systolický",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Je vždy diastolický",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Je vždy kontinuální",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "14Dětská hematologie",
+      "order": 14,
+      "text": "Mezi K vitamin dependentní koagulační faktory a inhibitory koagulace patří:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "FII, FV, FVII, FIX, FX,",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "FII, FVI, FVIII, FIX, FX,",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "FII, FVII, FIX, FX, PC a PS",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "FII, FVII, FIX, FX, AT, PC a PS",
+          "isCorrect": false
+        },
+        {
+          "option": "a",
+          "text": "Stoupá",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Klesá",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Nemění se",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Závisí na průchodnosti tepenné dučeje",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "15Dětská hematologie",
+      "order": 15,
+      "text": "Dívka, jejíž otec zemřel ve 45 letech na plicní embolii, žádá hormonální antikoncepci:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Může dostat jakýkoli hormonální preparát",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Může dostat jen nehormonální intrauterinní tělísko",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Musí být provedeno vyšetření trombofilních markerů a pak rozhodnuto o hormonální antikoncepci",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Stačí vyšetření Leidenské mutace a mutace protrombinu, další vyšetření je zbytečné",
+          "isCorrect": false
+        },
+        {
+          "option": "a",
+          "text": "Stenózy plicnice",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Koarktace aorty",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Transpozice velkých cév",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Fallotovy tetralogie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "7Dětská hematologie",
+      "order": 7,
+      "text": "Dětská kardiologie",
+      "category": "Dětská hematologie",
+      "options": []
+    },
+    {
+      "id": "1Dětská hematologie",
+      "order": 1,
+      "text": "Prenatální echokardiografie plodu se během fyziologického těhotenství provádí:   a) 1x X",
+      "category": "Dětská hematologie",
+      "options": []
+    },
+    {
+      "id": "2Dětská hematologie",
+      "order": 2,
+      "text": "S kritickou vrozenou srdeční vadou se v ČR každoročně narodí cca:",
+      "category": "Dětská hematologie",
+      "options": []
+    },
+    {
+      "id": "3Dětská hematologie",
+      "order": 3,
+      "text": "Ductus dependentní kritické vrozené srdeční vady se nejčastěji manifestují:",
+      "category": "Dětská hematologie",
+      "options": []
+    },
+    {
+      "id": "4Dětská hematologie",
+      "order": 4,
+      "text": "Která vrozená srdeční vada je nejčastější?",
+      "category": "Dětská hematologie",
+      "options": []
+    },
+    {
+      "id": "5Dětská hematologie",
+      "order": 5,
+      "text": "Prostaglandiny typu E se v neonatologii používají:",
+      "category": "Dětská hematologie",
+      "options": []
+    },
+    {
+      "id": "6Dětská hematologie",
+      "order": 6,
+      "text": "Myokarditida v kojeneckém a adolescentním věku má úmrtnost:",
+      "category": "Dětská hematologie",
+      "options": []
+    },
+    {
+      "id": "7Dětská hematologie",
+      "order": 7,
+      "text": "Běžná prevence bakteriální endokarditidy je indikována:",
+      "category": "Dětská hematologie",
+      "options": []
+    },
+    {
+      "id": "8Dětská hematologie",
+      "order": 8,
+      "text": "Nejčastější typ sekundární hypertenze u dětí je v současnosti:",
+      "category": "Dětská hematologie",
+      "options": []
+    },
+    {
+      "id": "9Dětská hematologie",
+      "order": 9,
+      "text": "Lékem volby u akutního srdečního selhání novorozence jsou:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Katecholaminy",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Beta-blokátory",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Digoxin",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Nitroprusid",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "10Dětská hematologie",
+      "order": 10,
+      "text": "Nejčastější poruchou srdečního rytmu v dětském věku je:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Supraventrikulární tachykardie",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Komorová tachykardie",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Fibrilace komor",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Fibrilace síní",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "11Dětská hematologie",
+      "order": 11,
+      "text": "Závažná stenóza plicnice patří mezi vady:",
+      "category": "Dětská hematologie",
+      "options": []
+    },
+    {
+      "id": "12Dětská hematologie",
+      "order": 12,
+      "text": "EKG novorozence je typické:",
+      "category": "Dětská hematologie",
+      "options": []
+    },
+    {
+      "id": "13Dětská hematologie",
+      "order": 13,
+      "text": "Akcidentální srdeční šelest je typický:",
+      "category": "Dětská hematologie",
+      "options": []
+    },
+    {
+      "id": "14Dětská hematologie",
+      "order": 14,
+      "text": "Po narození průtok krve plicemi novorozence:",
+      "category": "Dětská hematologie",
+      "options": []
+    },
+    {
+      "id": "15Dětská hematologie",
+      "order": 15,
+      "text": "Balónková atrioseptostomie se užívá u:",
+      "category": "Dětská hematologie",
+      "options": []
+    },
+    {
+      "id": "16Dětská hematologie",
+      "order": 16,
+      "text": "Totální anomální návrat plicních žil se může projevit:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "V prvních hodinách po porodu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "V prvních dnech po porodu",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "V prvních 2 týdnech po porodu",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Všechny odpovědi jsou správné",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "17Dětská hematologie",
+      "order": 17,
+      "text": "Kritická koarktace aorty u novorozence se projeví:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Srdečním selháním",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Anurií",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Nehmatným pulzem na aa.femorales",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Všechny odpovědi jsou správné",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "18Dětská hematologie",
+      "order": 18,
+      "text": "Neuzavřená tepenná dučej u 6měsíčního kojence se obvykle projeví:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Srdečním selháním",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Bradykardií",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Tachykardií",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Arytmií",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "19Dětská hematologie",
+      "order": 19,
+      "text": "Myokarditidy v dětském věku jsou nejčastěji:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Bakteriální",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Virové",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Toxické",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Autoimunitní",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "20Dětská hematologie",
+      "order": 20,
+      "text": "Predilekčním místem pro vznik vegetací při bakteriální endokarditidě jsou:   a) Obě AV chlopně",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "b",
+          "text": "Mitrální a aortální chlopeň",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Trikuspidální a pulmonální chlopeň",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Ouška síní",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "21Dětská hematologie",
+      "order": 21,
+      "text": "Pro diagnózu perikarditidy je typický:   a) Perikardiální výpotek X",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "b",
+          "text": "Srdeční arytmie",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Srdeční selhání",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Ischemické změny nad levou komorou na EKG",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "22Dětská hematologie",
+      "order": 22,
+      "text": "Nejčastější kardiomyopatií v dětském věku je:   a) Restriktivní",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "b",
+          "text": "Hypertrofická",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Dilatační",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Arytmogenní kardiomyopatie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "23Dětská hematologie",
+      "order": 23,
+      "text": "V medikamentózní léčbě idiopatické systémové hypertenze v dětském věku začínáme:    a) Diuretiky",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "b",
+          "text": "Blokátory Ca kanálů",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "ACE inhibitory",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Diuretiky + blokátory Ca kanálů",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "24Dětská hematologie",
+      "order": 24,
+      "text": "Náhodně zjištěné izolované předčasné komorové stahy u zdravého 14letého pacienta, který je subj. bez potíží, léčíme:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Kardioverzí",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Digoxinem",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Cordaronem",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Neléčíme",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "25Dětská hematologie",
+      "order": 25,
+      "text": "V léčbě akutního srdečního selhání batolete podáváme:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Katecholaminy intravenózně kontinuálně",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Intravenózně v rychlé infuzi/20 min",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Intramuskulárně 6x denně",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Katecholaminy jsou kontraindikované pro svoje proarytmogenní účinky",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "26Dětská hematologie",
+      "order": 26,
+      "text": "U dětí se digoxin:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Používá",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Nepoužívá",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Je kontraindikován pro možnost vzniku komorové tachykardie",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Používá se pouze v kombinaci s beta-blokátory",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "27Dětská hematologie",
+      "order": 27,
+      "text": "Mezi typické příznaky vrozené srdeční vady nepatří:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Cyanóza",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Srdeční selhání",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Trubicové dýchání",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Asystolie při porodu",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "28Dětská hematologie",
+      "order": 28,
+      "text": "Perikardiální výpotek u 8letého dítěte je nález typický při:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Sepsi",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Perikarditidě",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Myokarditidě",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Srdečním selhání",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "29Dětská hematologie",
+      "order": 29,
+      "text": "Při prvním záchytu systémové hypertenze u 14letého obézního pacienta:   a) Nasadíme ACE inhibitory",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "b",
+          "text": "Nasadíme diuretika",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Uložíme pacienta na lůžko s klidovým režimem a provedeme zátěžové vyšetření",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Žádná odpověď není správná",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "30Dětská hematologie",
+      "order": 30,
+      "text": "Která vrozená srdeční vada nepatří mezi cyanotické vady:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Totální anomální návrat plicních žil",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Transpozice velkých arterií",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Defekt atrioventrikulárního septa",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Stenóza plicnice",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "31Dětská hematologie",
+      "order": 31,
+      "text": "Mezi velká Jonesova kritéria nepatří:",
+      "category": "Dětská hematologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Podkožní uzlíky",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Karditida",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Artralgie",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Erythema marginatum",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "Dětská pneumologie": [
+    {
+      "id": "1Dětská pneumologie",
+      "order": 1,
+      "text": "Které z tvrzení je pravdivé:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Hnisavá rýma je vždy bakteriální",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Nejčastějším vyvolavatelem rýmy je Str. pneumoniae",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Rýma je vzácnou příčinou kašle",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Zdravé batole docházející do kolektivu může prodělat až 8 nachlazení/rok",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "2Dětská pneumologie",
+      "order": 2,
+      "text": "Frontální dutiny jsou vyvinuty:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Při narození",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Se vyvíjejí v adolescenci",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Začínají se vyvíjet okolo 8. roku věku",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Začínají se vyvíjet okolo 4. roku věku",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "3Dětská pneumologie",
+      "order": 3,
+      "text": "Komplikací bakteriální sinusitidy není:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Orbitocelulitida",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Osteomyelitida os frontale",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Hnisavá meningitida",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Generalizovaná lymfadenopatie",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "4Dětská pneumologie",
+      "order": 4,
+      "text": "K běžným bakteriálním vyvolavatelům akutní faryngitidy nepatří:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Str. pneumoniae",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Str. pyogenes sk. A",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Streptokoky sk. C",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Mycoplasma pneumoniae",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "5Dětská pneumologie",
+      "order": 5,
+      "text": "Která z následujících situací není indikací k adenoidektomii:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Chronická adenoiditida",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Chronická sinusitida refrakterní na léčbu",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Opakované otitidy",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Opakované tonsilofaryngitidy",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "6Dětská pneumologie",
+      "order": 6,
+      "text": "Komplikací adenotonsilektomie není:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Pooperační krvácení",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Rozvoj alergie",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Akutní obstrukce dýchacích cest",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Velofaryngeální insuficience",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "7Dětská pneumologie",
+      "order": 7,
+      "text": "U 2letého chlapce s akutně vzniklým štěkavým kašlem a inspiračním stridorem pouze při pláči, bez hyposaturace, bez tachypnoe, je nejvhodnější provést:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Laterální skiagram krku",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Podat inhalaci adrenalinu",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Vyšetřit krevní obraz",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Podat orálně dexametason",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "8Dětská pneumologie",
+      "order": 8,
+      "text": "Pro mesotitidy neplatí:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Mesotitida je častější u chlapců",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Nejčastější je v prvních 2 letech života",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Může mít familiární predispozici",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Je stejně častá u kojených a nekojených dětí",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "9Dětská pneumologie",
+      "order": 9,
+      "text": "K nejčastějším vyvolavatelům akutní mesotitidy nepatří:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Str. pneumonieae",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "H. influenzae",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Moraxella cat.",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Pseudomonas aeruginosa",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "10Dětská pneumologie",
+      "order": 10,
+      "text": "Ke klinickým příznakům mesotitidy u kojence patří:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Febrilie",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Zvracení",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Neklid",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Všechny uvedené",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "11Dětská pneumologie",
+      "order": 11,
+      "text": "Vyjmenuj možné komplikace akutní mesotitidy:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Otogenní meningitida",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Trombóza kavernózních splavů",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Mastoiditida",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Jizvení bubínku",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "12Dětská pneumologie",
+      "order": 12,
+      "text": "Vodnatá rýma není při:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Alergii",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Nachlazení",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Pertusi",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Streptokokové tonsilitidě",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "13Dětská pneumologie",
+      "order": 13,
+      "text": "Streptokoková tonsilitida nemá příznak:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Horečka nad 39 °C",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Zduření lymfatických uzlin na krku",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Kašel",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Bolest hlavy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "14Dětská pneumologie",
+      "order": 14,
+      "text": "Vyjmenuj respirační infekce preventabilní očkováním:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Difterie",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Pertuse",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Pneumokoková onemocnění",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Chřipka",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "15Dětská pneumologie",
+      "order": 15,
+      "text": "Při akutně vzniklé inspirační dušnosti je slinění a obtížné polykání příznakem:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Epiglotitidy",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Retrofaryngeálního abscesu",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Cizího tělesa zaklíněného v horní části jícnu",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Všech uvedených",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "16Dětská pneumologie",
+      "order": 16,
+      "text": "Při akutní epiglotitidě zaujímá dítě pozici - vyber nejsprávnější odpověď:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Ortopnoickou",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Vsedě s předklonem dopředu a nataženým krkem, pootevřenými ústy, opírá se o ruce před tělem",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "V polosedu",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "V kleče",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "17Dětská pneumologie",
+      "order": 17,
+      "text": "Správná léčba akutní subglotické laryngitidy je - vyber nejsprávnější odpověď:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Inhalace adrenalinu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Podání perorálních kortikoidů",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Při lehkém průběhu podání kortikoidů, u střední a těžké přidáváme inhalaci adrenalinu",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Při neklidu podání diazepamu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "18Dětská pneumologie",
+      "order": 18,
+      "text": "Do ambulance PLDD přináší rodiče dvouletého chlapce pro zhoršující se inspirační dušnost s horečkou 40 °C. Chlapec sedí v mírném předklonu, je nápadně klidný, z pusy mu vytékají sliny, povrchně dýchá:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Dítěti je třeba ihned podat inhalaci adrenalinu a kortikoidy",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Lékař doporučí rodičům dítě co nejrychleji převést k hospitalizaci, kterou neprodleně telefonicky domluví v nejbližším lůžkovém zdravotnickém zařízení",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Do zabezpečení dýchacích cest nelze dítě položit do horizontální polohy",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Lékař důkladně prohlédne oblast hltanu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "19Dětská pneumologie",
+      "order": 19,
+      "text": "Na ambulanci přijde 13měsíční dívka se štěkavým kašlem, inspirační dušností, zvýšenou teplotou a inspiračním stridorem:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Lékem první volby jsou kortikosteroidy",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Na léčbu kašle je vhodná nebulizace mukolytik, pokud klinickému nálezu dominuje intenzivní kašel",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Na léčbu kašle je vhodné antitusikum, neboť kašel je pro dítě velmi vysilující",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Lze podat nebulizace adrenalinu u dítěte léčeného za hospitalizace",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "20Dětská pneumologie",
+      "order": 20,
+      "text": "Při častých recidivách akutní laryngitidy je třeba v rámci dif. dg. zvažovat:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Extraesofageální refluxní chorobu",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Sinobronchiální syndrom",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Trvalou obstrukci dýchacích cest (např. kongenitální subglotickou stenózu, laryngomalacii, parézu hlasových vazů apod.)",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Záměnu za alergickou reakci, zvláště u atyp. klinických projevů (absence známek infekce, otoky, exantém, průjem, zvracení apod.)",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "21Dětská pneumologie",
+      "order": 21,
+      "text": "Pro akutní epiglotitidu je charakteristický:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Nesvědivý makulózní anulární exantém",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Nápadný klid dítěte",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Intenzivní štěkavý kašel",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Výrazný ústup dušnosti při expozici chladnému vzduchu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "22Dětská pneumologie",
+      "order": 22,
+      "text": "Pro akutní epiglotitidu platí:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Typicky je provázena záchvatovitým dráždivým kašlem s kokrhavým zvukem během nádechu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Bývá patrná porucha polykání provázená sliněním",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Může být vyvolána jedním či kombinací více respiračních virů",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Vyžaduje intenzivní bronchodilatační terapii",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "23Dětská pneumologie",
+      "order": 23,
+      "text": "Akutní inspirační dušnost může způsobit:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Peritonzilární absces",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Exacerbace astma bronchiale",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Aspirace cizího tělesa",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Bronchopulmonální dysplázie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "24Dětská pneumologie",
+      "order": 24,
+      "text": "Fyzikální nález svědčící pro akutní laryngitidu zahrnuje:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Slinění",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Inspirační či smíšený stridor",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Chrůpky na plicních bazích",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Dysfonii",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "25Dětská pneumologie",
+      "order": 25,
+      "text": "Downes skóre, skórovací systém hodnotící závažnost akutní laryngitidy hodnotí mimo jiné:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Charakter a množství sputa",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Přítomnost a závažnost febrilií",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Charakter kašle",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Auskultační nález inspiračních chrůpků",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "28Dětská pneumologie",
+      "order": 28,
+      "text": "Doporučená opatření proti roztočům v domácnosti jsou pravdivá s výjimkou:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Prát ložní prádlo nad 60 °C, každý týden",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Odstranit z ložnice koberec",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Používat speciální pro alergeny nepropustné ložní povlečení",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Užívat pravidelně zvlhčovač vzduchu",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "29Dětská pneumologie",
+      "order": 29,
+      "text": "Nesprávné opatření ke snížení koncentrace kočičího alergenu v domácím prostředí je:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Odstranit kočku z bytu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Kočku pravidelně koupat",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Odstranit koberce",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Nepoužívat čističku vzduchu",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "30Dětská pneumologie",
+      "order": 30,
+      "text": "V čem je druhá generace antihistaminik výhodnější než první:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Mají menší sedativní efekt",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Jsou levnější",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Jsou mnohem více účinná",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Jsou volně prodejná",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "31Dětská pneumologie",
+      "order": 31,
+      "text": "K léčbě astmatu často užíváme léky s adrenergní aktivitou:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Alfa 1 mimetika",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Alfa 2 mimetika",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Beta 1 mimetika",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Beta 2 mimetika",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "33Dětská pneumologie",
+      "order": 33,
+      "text": "Pro diagnózu a léčbu astmatu je nejméně důležité:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Pravidelné kontroly pacienta",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Genetické vyšetření",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Odstranění negativních vlivů prostředí",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Edukace pacienta, rodičů",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "34Dětská pneumologie",
+      "order": 34,
+      "text": "S atopickým ekzémem se často pojí uvedené stavy kromě:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Alergická rýma",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Astma bronchiale",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Eozinofilie v krevním obraze",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Lymfopenie",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "35Dětská pneumologie",
+      "order": 35,
+      "text": "Který z následujících nálezů je nejméně pravděpodobný u dítěte s astma bronchiale:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Tachypnoe",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Exspirační pískoty",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Zvětšený předozadní průměr hrudníku",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Paličkovité prsty",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "37Dětská pneumologie",
+      "order": 37,
+      "text": "Osmiletému chlapci se středně závažnou formou akutní exacerbace astma bronchiale v první hodině podáme:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Beta 2 sympatomimetikum 2-4 vstřiky po 20 minutách přes nástavec",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Inhalační beta 2 sympatolytikum 2-4 vstřiky po 20 minutách přes nástavec",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Adrenalin subkutánně z injektoru či nitrožilně",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Systémový kortikoid (prednison 1 mg/kg/den, max 40 mg)",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "38Dětská pneumologie",
+      "order": 38,
+      "text": "Pro astma bronchiale je/jsou typický/é:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Chronické hnisavé zánětlivé změny dýchacích cest provázené tvorbou bronchiektázií",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Nález irreverzibilní bronchiální obstrukce",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Chronické zánětlivé alergické či nealergické postižení dýchacích cest",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Alergické zánětlivé postižení plicního intersticia",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "39Dětská pneumologie",
+      "order": 39,
+      "text": "Do klinického obrazu exacerbace astma bronchiale nepatří:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Prodloužené exspirium",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Prodloužené inspirium",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Vrzoty, pískoty",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Stridor",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "40Dětská pneumologie",
+      "order": 40,
+      "text": "U tachydyspnoického pacienta s exacerbací astma bronchiale pro mírný stupeň svědčí hodnoty pCO2 v krvi:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Hypokapnie",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Normokapnie",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Hyperkapnie",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Nemá význam v hodnocení tíže exacerbace astma bronchiale",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "41Dětská pneumologie",
+      "order": 41,
+      "text": "Které tvrzení platí pro astma bronchiale u dětí:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "U dětí pod 3 roky nelze stanovit diagnózu astma bronchiale",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Jeho prevalence u dětí v ČR je 2-4 %",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "U 70 % astmatiků se první obtíže objevily v batolecím věku jako obstruktivní bronchitida",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "U 70 % dětí se první obtíže objevily ve školním věku",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "42Dětská pneumologie",
+      "order": 42,
+      "text": "Která kombinace příznaků je charakteristická pro astma bronchiale:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Dušnost, stridor, dysfonie, pocit tísně na hrudi",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Pískoty, dysfagie, expektorace hnisavého sputa, dušnost",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Dušnost, kašel, pocit tísně na hrudi, pískoty",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Dušnost, pískoty, dysfonie, dysfagie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "43Dětská pneumologie",
+      "order": 43,
+      "text": "Který nález či údaj jasně podporuje diagnózu astmatu:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Difúzně snížená vzdušnost na skiagramu hrudníku",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Průkaz reverzibilní bronchiální obstrukce během bronchodilatačního testu",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Průkaz ireverzibilní bronchiální obstrukce během bronchodilatačního tesu",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Nález voštinovité plíce na HRCT",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "44Dětská pneumologie",
+      "order": 44,
+      "text": "Který údaj je rizikovým faktorem zvyšujícím pravděpodobnost astma bronchiale u malých dětí (pod 5 let):",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Přítomnost dráždivého kašle při respiračních infektech",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Astma bronchiale, alergická rýma, atopická dermatitida u nejbližších příbuzných",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Přítomnost domácího zvířete v domácnosti (hlavně kočka, pes, papoušek)",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Přítomnost dráždivého kašle mimo infekt při smíchu, pláči či aktivitě",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "47Dětská pneumologie",
+      "order": 47,
+      "text": "PLDD vyšetřuje 3letého chlapce, který dlouhodobě vlhce pokašlává, trpí na opakované mesotitidy, bronchitidy, i přes velkou chuť k jídlu je v percentilovém grafu patrný pokles váhy i zpomalení růstu. Mívá objemné zapáchající stolice. V rámci diferenciální diagnostiky je třeba na prvním místě zvážit:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Alergii na bílkovinu kravského mléka",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Celiakii",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Cystickou fibrózu",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Autoinflamatorní onemocnění",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "48Dětská pneumologie",
+      "order": 48,
+      "text": "Mezi projevy cystické fibrózy u novorozence patří:a) Mekoniový ileus X",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "b",
+          "text": "Dermatitis herpetiformis Duhring",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Mikrocefalie",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Enteroragie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "49Dětská pneumologie",
+      "order": 49,
+      "text": "Mezi projevy cystické fibrózy u dětí patří:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Neprospívání",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Klinické projevy deficitu vitamínu B1, B2, a B12",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Prolaps rekta",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Steatorrhea",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "50Dětská pneumologie",
+      "order": 50,
+      "text": "U dětí s cystickou fibrózou je třeba:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Snížení energetického příjmu pro střevní dysmikrobii",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Zvýšení energetického příjmu o 20-40 %",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Provádět kontroly glukózové homeostázy",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Není třeba kontroly inzulinové sekrece, u cystické fibrózy se jedná pouze postižení exogenní pankreatické sekrece",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "51Dětská pneumologie",
+      "order": 51,
+      "text": "Diagnóza cystické fibrózy se považuje za potvrzenou:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Pokud u dítěte jednou zjistíme koncentraci chloridů v potu nad 60 mmol/l",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Pokud u dítěte prokážeme 1 mutaci v genu CFTR",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Pokud má dítě pozitivní novorozenecký screeningový test",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Pokud má dítě sourozence s cystickou fibrózou a 2x pozitivní potní test",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "52Dětská pneumologie",
+      "order": 52,
+      "text": "U dětí s cystickou fibrózou je pro zpomalení rozvoje chronického plicní postižení zásadní:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Pravidelná inhalace bronchodilatancií",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Prevence ev. eradikace kolonizace dýchacích cest bakteriemi (především Burkholderia cep., Pseudomonas aeruginosa)",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Imunomodulační terapie bakteriálními lyzáty",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Dechová rehabilitace s inhalací mukolytik, rekomb. DNÁzy, hypertonických solných roztoků několikrát za den",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "53Dětská pneumologie",
+      "order": 53,
+      "text": "Diagnostika cystické fibrózy:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "V ČR je zaveden celoplošný screening cystické fibrózy vyšetřením potního testu u každého novorozence v porodnici",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Hraniční výsledek potního testu představuje koncentrace chloridů v potu 15 – 30 mmol/l",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Diagnózu cystické fibrózy u školního dítěte stanovujeme na základě vyšetření koncentrace imunoreaktivního trypsinogenu z krve",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Koncentraci chloridů v potu 25 mmol/l při vyšetření cystické fibrózy hodnotíme jako negativní nález",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "54Dětská pneumologie",
+      "order": 54,
+      "text": "Mezi respirační komplikace cystické fibrózy patří:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Alergická bronchopulmonální aspergilóza",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Rozvoj bronchiektázií",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Pneumotorax",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Hemoptýza",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "57Dětská pneumologie",
+      "order": 57,
+      "text": "Pro exsudát platí:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Celková bílkovina - výpotek/sérum > 0,5, LDH výpotek/sérum > 0,6",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Celková bílkovina do 30 g/l, hodnota LDH nemá význam",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Celková bílkovina > 30 g/l, albumin výpotek/sérum > 12",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Celková bílkovina - výpotek/sérum < 0,5, LDH výpotek/sérum < 0,6",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "58Dětská pneumologie",
+      "order": 58,
+      "text": "Původce bakteriální pneumonie lze stanovit prostřednictvím:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Kultivace výtěru z nosu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Kultivace výtěru z krku",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Kultivačním vyšetřením krve (hemokulturou)",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Kultivačním vyšetřením moče",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "59Dětská pneumologie",
+      "order": 59,
+      "text": "Antibiotikem první linie v léčbě pneumokokové pneumonie je:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Doxycyklin",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Penicilin",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Vankomycin",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Aminopenicilin",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "60Dětská pneumologie",
+      "order": 60,
+      "text": "Pro kruposní (bakteriální) pneumonii svědčí auskultační nález:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Vrzotů a/či chropů",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Oslabené dýchání",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Trubicovité dýchání",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Krepitace",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "61Dětská pneumologie",
+      "order": 61,
+      "text": "Antibiotikem 1.volby při léčbě mykoplasmové pneumonie u 5letého dítěte je:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Makrolid",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Aminopenicilin",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Tetracyklin",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Cefalosporin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "62Dětská pneumologie",
+      "order": 62,
+      "text": "Z bakteriálních původců pneumonie:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "U novorozenců do 3 týdnů dominuje Mycoplasma pneumoniae a Chlamydophila pneumoniae",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "U novorozenců nalézáme Streptococcus agalactiae, E. coli, Listeria monocytogenes, Klebsiella pneumoniae",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "U dětí nad 5 let dominuje Streptococcus pyogenes a Enterococcus faec.",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "U dětí nad 5 let dominuje Chlamydophila trachomatis a Ureaplasma ur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "63Dětská pneumologie",
+      "order": 63,
+      "text": "Výskyt recidivující pneumonie lokalizované stále ve stejném místě může být způsoben:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Cévním prstencem",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Cystickou fibrózou",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Imunodeficitem",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "VVV plic jako je plicní sekvestrace či cystická adenomatoidní malformace",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "64Dětská pneumologie",
+      "order": 64,
+      "text": "Na etiologii pneumonie můžeme pomyslet:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Jednorázovým vyšetřením protilátek z krve (Chlamydophila pneumoniae, Mycoplasma pneumoniae)",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Jednorázovým serologickým vyšetřením antigenu z moče (Streptococcus pneumoniae, Legionela pneumophila)",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Kultivací sputa či pleurálního punktátu",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Přímý průkaz virových antigenů z moče",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "67Dětská pneumologie",
+      "order": 67,
+      "text": "Mezi závažné formy tuberkulózy nepatří:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Miliární TBC",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Bazilární leptomeningitida",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Tuberkulózní pneumonie",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Rozpadová TBC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "68Dětská pneumologie",
+      "order": 68,
+      "text": "Pojmem mykobakterióza rozumíme:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Chronickou plicní infekci Mycoplasma pneumoniae",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Lokalizovanou formu plicní tuberkulózy",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Infekci způsobenou netuberkulózními mykobakteriemi",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Systémové komplikace BCG vakcinace",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "69Dětská pneumologie",
+      "order": 69,
+      "text": "BCG vakcinace:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Chrání před rozvojem tuberkulózy",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Chrání před rozvojem bazilární leptomeningitidy",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Chrání před rozvojem miliární tuberkulózy",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Nemá význam v současné době",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "70Dětská pneumologie",
+      "order": 70,
+      "text": "BCG vakcína:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je živá vakcína",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Je neživá vakcína",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Její podání je formou pasivní imunizace",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Obsahuje oslabený kmen Mycobacterium tuberculosis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "71Dětská pneumologie",
+      "order": 71,
+      "text": "Epidemiologicky závažná forma tuberkulózy je:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Mikroskopicky pozitivní nález ve sputu",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Pozitivita PCR z BALu",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Pozitivní kultivační nález v moči",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Pozitivní tuberkulinový test",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "72Dětská pneumologie",
+      "order": 72,
+      "text": "Chemoprofylaxe tuberkulózy:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je terapií první volby u lokalizované formy tuberkulózy",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Slouží u dětí již infikovaných k zábraně přechodu infekce do manifestního onemocnění",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Zahrnuje podávání antituberkulotik u jedinců, kteří jsou ve zvýšeném riziku vzniku tuberkulózy",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Slouží k ochraně osob neinfikovaných, ale exponovaných nákaze tuberkulózou",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "73Dětská pneumologie",
+      "order": 73,
+      "text": "Dvanáctiletý chlapec s pozitivním kultivačním nálezem na tuberkulózu a RTG korelátem na skiagramu hrudníku bude léčen:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Chemoprofylaxe INH na 6 měsíců",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "INH + RMP + PZA + STR na 2 měsíce, RMP + INH na 4 měsíce",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "INH + RMP na 2 měsíce, INH na 6 měsíců",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "INH + RMP + PZA + EMB na 2 měsíce, INH + EMB na 6 měsíců",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "74Dětská pneumologie",
+      "order": 74,
+      "text": "Negativní tuberkulinový test u neočkovaného dítěte je:",
+      "category": "Dětská pneumologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "< 5 mm indurace",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "< 10 mm erytém",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "< 15 mm  indurace",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "> 10 mm erytém",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "Dětská revmatologie": [
+    {
+      "id": "1Dětská revmatologie",
+      "order": 1,
+      "text": "JIA je mezinárodně uznávaným akronymem označujícím onemocnění:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Juvenilní intersticiální adenitidu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Juvenilní idiopatickou artritidu",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Jejunální intermitentní afunkci",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Chronický kloubní zánět nejasné etiologie",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "2Dětská revmatologie",
+      "order": 2,
+      "text": "Artritida je definována příznaky:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Bolest kloubu",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Omezení rozsahu pohybu kloubu",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Přítomnost nitrokloubního výpotku",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Noční pocení",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "3Dětská revmatologie",
+      "order": 3,
+      "text": "Pro juvenilní idiopatickou artritidu platí:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Objektivní projevy kloubního zánětu trvající alespoň 6 týdnů",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Vyloučení známých příčin kloubních potíží",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Objektivní synovitida alespoň v 1 kloubu",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Většinou je přítomno váhové neprospívání",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "4Dětská revmatologie",
+      "order": 4,
+      "text": "Pro systémovou formu JIA je typické:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Subfebrilie",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Hemoragický exantém převážně na dolních končetinách",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Vysoká sedimentace a C-reaktivní protein",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Kolísavá horečka, prchavý exantém, lymfadenopatie, hepatosplenomegalie, serositida",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "5Dětská revmatologie",
+      "order": 5,
+      "text": "Nejčastějším typickým mimokloubním projevem JIA je:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Chronická přední uveitida",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Intersticiální pneumonitida",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Chlopenní vada",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Malabsorpce",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "6Dětská revmatologie",
+      "order": 6,
+      "text": "Pro oligoartikulární JIA platí:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Obvykle je přítomno zvýšení sedimentace erytrocytů, CRP a anemie",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Přítomnost antinukleárních protilátek je rizikovým faktorem rozvoje uveitidy",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Terapií první volby je nitrokloubní aplikace depotního kortikosteroidu",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Častým projevem je přerůst končetiny do délky",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "7Dětská revmatologie",
+      "order": 7,
+      "text": "MAS je akronym označující:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Život ohrožující komplikaci systémových onemocnění",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Syndrom aktivace makrofágů",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Mikrodeleční astigmatismus",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Syndrom myeloidní aplázie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "8Dětská revmatologie",
+      "order": 8,
+      "text": "Pro polyartikulární JIA platí:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Typické je postižení >4 kloubů",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Seropozitivní forma je i u dětí častá",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Obvykle není přítomno zvýšení sedimentace erytrocytů ani CRP",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Lékem první volby je nízkodávkovaný metotrexát",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "9Dětská revmatologie",
+      "order": 9,
+      "text": "Dosud zdravá 3letá holčička začala vždy po ránu výrazně kulhat, v průběhu dne se chůze normalizuje. Jiné potíže nemá. Co je nejpravděpodobnější příčinou:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Kongenitální dysplázie kyčlí",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Juvenilní idiopatická artritida",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Legg-Calve-Perthesova nemoc",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Septická artritida",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "10Dětská revmatologie",
+      "order": 10,
+      "text": "„Malinový jazyk“ je typickým nálezem pro:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Juvenilní dermatomyositidu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Kawasakiho nemoc",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Spálu",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Revmatickou horečku",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "11Dětská revmatologie",
+      "order": 11,
+      "text": "Které z následujících vyšetření je jednoznačně indikované u všech pacientů s JIA:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "MRI postižených kostí",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Vyšetření očí ve štěrbinové lampě",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Echokardiografie",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "CT dlouhých kostí",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "12Dětská revmatologie",
+      "order": 12,
+      "text": "Čtyřletý chlapec přichází akutně pro odmítání chůze pro bolest nohy. Začalo to včera a dnes je to horší. Říká, že ho bolí s nohou pohnout a nemůže se ani postavit pro bolest. Jeho osobní anamnéza je negativní, ale minulý týden prodělal respirační infekt. Nyní je bez teplot. Který z následujících kroků je nejméně vhodný?",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Provedení RTG kyčlí",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Vyšetření krevního obrazu s diferenciálem",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Provedení MRI kyčlí",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Zahájení intravenózní antibiotické terapie vankomycinem a ceftriaxonem",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "13Dětská revmatologie",
+      "order": 13,
+      "text": "Které z uvedených vyšetření pomůže potvrdit přítomnost septické artritidy:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "RTG vyšetření bolestivého kloubu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Hemokultura",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Vyšetření počtu leukocytů ve výpotku postiženého kloubu",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Kultivace výpotku z postiženého kloubu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "14Dětská revmatologie",
+      "order": 14,
+      "text": "Co je nejčastější příčinou revmatické horečky:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Impetigo způsobené beta-hemolytickým streptokokem skupiny A",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Akutní tonsilofaryngitida způsobená beta-hemolytickým streptokokem skupiny A",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Kožní infekce zlatým stafylokokem",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Enterokoková infekce",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "15Dětská revmatologie",
+      "order": 15,
+      "text": "V jaké části těla je přítomen zánět při entezitidě:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Růstová chrupavka",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Synchondrotické spojení",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Úpon ligamenta, šlachy nebo fascie do kosti",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Periartikulární měkké tkáně",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "16Dětská revmatologie",
+      "order": 16,
+      "text": "Co je typickým projevem Stillovy nemoci:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Lososově růžová vyrážka",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Ekzém",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Petechie",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Rosacea",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "17Dětská revmatologie",
+      "order": 17,
+      "text": "Pokud dítě potřebuje denní kortikoterapii, co je nejvhodnější doba podání:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Těsně před snídaní",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Těsně před obědem",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Těsně před večeří",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Před spaním",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "18Dětská revmatologie",
+      "order": 18,
+      "text": "Co je nejvhodnější léčbou dospívajícího se syndromem fibromyalgie:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Prednison",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Nesteroidní antirevmatika",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Intenzivní cvičení",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Náplasti s lidokainem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "19Dětská revmatologie",
+      "order": 19,
+      "text": "Dítě s bolestí a otokem levého kolene s přítomným balotováním pately má:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Natržený meniskus",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Výpotek v koleni",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Přetržený přední zkřížený vaz",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Přetržený mediální kolaterální vaz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "20Dětská revmatologie",
+      "order": 20,
+      "text": "Lékem první volby u 7letého dítěte s lymeskou artritidou je:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Intraartikulární kortikosteroid",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Penicilin",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Doxycyklin",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Amoxicilin",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "21Dětská revmatologie",
+      "order": 21,
+      "text": "Srdeční šelest u akutní revmatické horečky je nejčastěji způsoben:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Mitrální stenózou",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Mitrální regurgitací",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Trikuspidální regurgitací",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Regurgitací plicnice",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "22Dětská revmatologie",
+      "order": 22,
+      "text": "S jakým typem artritidy se pojí antigeny Yersinia enterocolitica:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Lymeská artritida",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "JIA",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Reaktivní artritida",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Psoriatická artritida",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "23Dětská revmatologie",
+      "order": 23,
+      "text": "Co je pravdivé konstatování pro laboratorní výsledky u oligoartikulární JIA:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Krevní obraz a sedimentace mohou být v normě",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Antinukleární protilátky jsou přítomny u všech dětí",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "CRP je zvýšené vždy když je přítomen aktivní kloubní zánět",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Počet leukocytů a komplement jsou často sníženy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "24Dětská revmatologie",
+      "order": 24,
+      "text": "Na jaké známky onemocnění je třeba se zaměřit při podezření na syndrom komplexní regionální bolesti (algodystrofický syndrom):",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Rozsah pohybu v kloubech",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Svalová síla",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Barva a teplota kůže, podkožní edém, palpační bolestivost",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Čití a koordinace",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "25Dětská revmatologie",
+      "order": 25,
+      "text": "Vyber nejlepší test k identifikaci perikardiálního výpotku:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Echokardiografie",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "CT hrudníku",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "MRI srdce",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "RTG plic a srdce",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "26Dětská revmatologie",
+      "order": 26,
+      "text": "Které z následujících jevů jsou typické pro systémovou sklerodermii:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Raynaudův fenomen",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Sicca syndrom (suchost sliznic)",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Zvýšení titru anti-DNázy B",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Nekaseifikující granulom",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "27Dětská revmatologie",
+      "order": 27,
+      "text": "Pro antifosfolipidový syndrom platí:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je častější u mužů než u žen",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Je to autoimunní onemocnění spojené s opakovanými venózními i arteriálními trombózami",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Vyžaduje periodickou antikoagulační terapii",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "U dětí se nevyskytuje",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "28Dětská revmatologie",
+      "order": 28,
+      "text": "Pro juvenilní systémovou sklerodermii je typické:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Vaskulitida velkých tepen",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Porucha motility jícnu",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Suché sliznice",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Zvýšení titru anti-DNázy B",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "29Dětská revmatologie",
+      "order": 29,
+      "text": "Která z protilátek přítomných u systémového lupusu erythematosus je spojena se srdečním blokem u neonatálního lupusu:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Anti-dsDNA",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Anti-Sm",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Anti-histony",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Anti-SSA (Ro)",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "30Dětská revmatologie",
+      "order": 30,
+      "text": "Pro dětský (juvenilní) systémový lupus erythematosus platí:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Nejčastěji začíná u dospívajících dívek",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Jedním z imunologických kriterií je pozitivita IgM revmatoidního faktoru",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Typická je diskrepance mezi vysokou sedimentací erytrocytů a nízkým CRP",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Postižení ledvin je u dětí vzácné",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "31Dětská revmatologie",
+      "order": 31,
+      "text": "Při podezření na juvenilní systémový lupus erythematosus nám nepomůže vyšetření:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "APTT",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Antinukleárních protilátek",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "HLA B-27",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Močového sedimentu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "32Dětská revmatologie",
+      "order": 32,
+      "text": "Šupící se dermatitida nad extenzorovými plochami kloubů se zarudnutím víček a tváří jsou projevy typické pro:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Lupénku",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Revmatickou horečku",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Dětský ekzém",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Juvenilní dermatomyositidu",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "33Dětská revmatologie",
+      "order": 33,
+      "text": "Pro svalovou slabost u juvenilní dermatomyositidy je typické:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Postižení pletence pánevního a pažního",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Normální nález na EMG",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Riziko postižení faryngeálních a dýchacích svalů",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Nevýbavné šlachové reflexy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "34Dětská revmatologie",
+      "order": 34,
+      "text": "Pro myopatii se symetrickou proximální svalovou slabostí platí:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je typickým projevem juvenilní dermatomyositidy",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Je typickým projevem Duchenneovy svalové dystrofie",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Počátečním projevem je slabost stisku ruky",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Je obvykle provázena zvýšením svalových enzymů",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "35Dětská revmatologie",
+      "order": 35,
+      "text": "Při podezření na juvenilní dermatomyositidu do první linie diagnostických vyšetření patří:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Jaterní testy, CK, LDH",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Elektromyografie",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Vyšetření svalové síly",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Svalová biopsie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "36Dětská revmatologie",
+      "order": 36,
+      "text": "Desetiletý dosud zdravý chlapec přichází s anamnézou 1 den trvající výrazné bolesti a otoku kolem pravého kotníku. Kromě tohoto nálezu vidíte výsev petechií na bércích. Pravděpodobnou diagnózou je:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Akutní lymfoblastická leukemie",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Idiopatická trombocytopenická purpura",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Juvenilní systémový lupus erythematosus",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "IgA vaskulitida",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "37Dětská revmatologie",
+      "order": 37,
+      "text": "Pro IgA vaskulitidu je typické:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Krvácivé projevy na kůži",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Enterorhagie",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Mikrohematurie",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Trombocytopenie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "38Dětská revmatologie",
+      "order": 38,
+      "text": "U 7leté dosud zdravé dívky s hematurií a výsevem petechií na bércích a hýždích při normálních hodnotách trombocytů bude pravděpodobně přítomno:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Koagulopatie",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Menarche praecox",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Primární vaskulitida drobných cév",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Bolestivý otok kloubů",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "39Dětská revmatologie",
+      "order": 39,
+      "text": "Dítě s IgA vaskulitidou může být akutně ohroženo:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Invaginací",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Malabsorpcí",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Hemarthrosem",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Akutní endokarditidou",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "40Dětská revmatologie",
+      "order": 40,
+      "text": "Výsev petechií u febrilního dítěte s vysokou zánětlivou aktivitou může být typickým projevem:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Meningokokové infekce",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "IgA vaskulitidy",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Idiopatické trombocytopenické purpury",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Akutní lymfoblastické leukemie",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "41Dětská revmatologie",
+      "order": 41,
+      "text": "Mezi typické projevy Kawasakiho nemoci patří:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Exantém v oblasti perinea",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Hnisavá konjunktivitida",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Protrahované subfebrilie",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Malinový jazyk",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "42Dětská revmatologie",
+      "order": 42,
+      "text": "Typickým projevem Kawasakiho nemoci je:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Olupování kůže",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Protrahovaná horečka déle než 5 dnů",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Předcházející infekce beta-hemolytickým streptokokem skupiny A",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Dilatace koronárních arterií",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "43Dětská revmatologie",
+      "order": 43,
+      "text": "U batolete s febrilním exantémovým onemocněním do diferenciální diagnózy patří:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Juvenilní systémový lupus erythematosus",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Kawasakiho nemoc",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Revmatická horečka",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Spalničky",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "44Dětská revmatologie",
+      "order": 44,
+      "text": "Mezi typické projevy Kawasakiho nemoci nepatří:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Papulo-pustulozní exantém",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Výrazná dráždivost dítěte",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Erytém dlaní a plosek",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Krční lymfadenopatie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "45Dětská revmatologie",
+      "order": 45,
+      "text": "Pro horečku neznámého původu platí:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Trvání horečky alespoň 4 dny",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Negativní kultivace",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Dokumentovaná přítomnost horečky při hospitalizaci",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Trvání horečky po týdnu antibiotické léčby",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "46Dětská revmatologie",
+      "order": 46,
+      "text": "Pro syndromy periodické horečky neplatí:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Výstupy teploty související s menstruací",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Střídání epizod horečky s afebrilním intervalem",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Stejné trvání epizod horečky bez ohledu na podání antibiotika",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Sérový amyloid A je zvýšen pouze v atakách horečky",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "47Dětská revmatologie",
+      "order": 47,
+      "text": "Čtyřleté zdravě vypadající, prospívající dítě přichází s anamnézou opakovaných angín pravidelně jednou měsíčně od 2 let věku. Pravděpodobnou diagnózou je:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Nosičství beta-hemolytického streptokoka skupiny A",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Revmatická horečka",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Systémová JIA",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Syndrom PFAPA",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "48Dětská revmatologie",
+      "order": 48,
+      "text": "Pojem „autoinflamatorní“ označuje:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Protilátkami zprostředkovaný systémový zánět",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Skupinu vrozených imunodeficitů provázených infekcemi od novorozeneckého věku",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Poruchu mechanismů vrozené obranyschopnosti",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Proces eliminace nádorových buněk",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "49Dětská revmatologie",
+      "order": 49,
+      "text": "Familiární středomořská horečka je:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Nejčastější monogenní horečkou",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Obvykle provázena krutými bolestmi břicha",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Ve Středomoří vyvolána infekcí Leishmania donovani",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Nejčastěji léčena kolchicinem",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "50Dětská revmatologie",
+      "order": 50,
+      "text": "Syndrom PFAPA není:",
+      "category": "Dětská revmatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Nejčastější syndrom periodické horečky u dětí",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Syndrom opakované horečky s faryngitidou, lymfadenitidou a afty",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Periodická horečka způsobená mutací genu TNFRS1A",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Syndrom periodické fetální aplastické anemie",
+          "isCorrect": true
+        }
+      ]
+    }
   ]
 }
