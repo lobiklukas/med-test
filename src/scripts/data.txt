@@ -1443,7 +1443,7 @@ c) Musí být provedeno vyšetření trombofilních markerů a pak rozhodnuto o 
 d) Stačí vyšetření Leidenské mutace a mutace protrombinu, další vyšetření je zbytečné
 
 Dětská kardiologie
-1. Prenatální echokardiografie plodu se během fyziologického těhotenství provádí:   
+1. Prenatální echokardiografie plodu se během fyziologického těhotenství provádí:
 a) 1x X
 b) 2x
 c) 3x
@@ -1538,19 +1538,23 @@ a) Bakteriální
 b) Virové X
 c) Toxické
 d) Autoimunitní
-20. Predilekčním místem pro vznik vegetací při bakteriální endokarditidě jsou:   a) Obě AV chlopně
+20. Predilekčním místem pro vznik vegetací při bakteriální endokarditidě jsou:
+a) Obě AV chlopně
 b) Mitrální a aortální chlopeň X
 c) Trikuspidální a pulmonální chlopeň
 d) Ouška síní
-21. Pro diagnózu perikarditidy je typický:   a) Perikardiální výpotek X
+21. Pro diagnózu perikarditidy je typický:
+a) Perikardiální výpotek X
 b) Srdeční arytmie
 c) Srdeční selhání
 d) Ischemické změny nad levou komorou na EKG
-22. Nejčastější kardiomyopatií v dětském věku je:   a) Restriktivní
+22. Nejčastější kardiomyopatií v dětském věku je:
+a) Restriktivní
 b) Hypertrofická X
 c) Dilatační
 d) Arytmogenní kardiomyopatie
-23. V medikamentózní léčbě idiopatické systémové hypertenze v dětském věku začínáme:    a) Diuretiky
+23. V medikamentózní léčbě idiopatické systémové hypertenze v dětském věku začínáme:
+a) Diuretiky
 b) Blokátory Ca kanálů
 c) ACE inhibitory X
 d) Diuretiky + blokátory Ca kanálů
@@ -1579,7 +1583,8 @@ a) Sepsi
 b) Perikarditidě X
 c) Myokarditidě
 d) Srdečním selhání
-29. Při prvním záchytu systémové hypertenze u 14letého obézního pacienta:   a) Nasadíme ACE inhibitory
+29. Při prvním záchytu systémové hypertenze u 14letého obézního pacienta:
+a) Nasadíme ACE inhibitory
 b) Nasadíme diuretika
 c) Uložíme pacienta na lůžko s klidovým režimem a provedeme zátěžové vyšetření
 d) Žádná odpověď není správná X

@@ -8042,9 +8042,14 @@
     {
       "id": "1Dětská kardiologie",
       "order": 1,
-      "text": "Prenatální echokardiografie plodu se během fyziologického těhotenství provádí:   a) 1x X",
+      "text": "Prenatální echokardiografie plodu se během fyziologického těhotenství provádí:",
       "category": "Dětská kardiologie",
       "options": [
+        {
+          "option": "a",
+          "text": "1x",
+          "isCorrect": true
+        },
         {
           "option": "b",
           "text": "2x",
@@ -8569,9 +8574,14 @@
     {
       "id": "20Dětská kardiologie",
       "order": 20,
-      "text": "Predilekčním místem pro vznik vegetací při bakteriální endokarditidě jsou:   a) Obě AV chlopně",
+      "text": "Predilekčním místem pro vznik vegetací při bakteriální endokarditidě jsou:",
       "category": "Dětská kardiologie",
       "options": [
+        {
+          "option": "a",
+          "text": "Obě AV chlopně",
+          "isCorrect": false
+        },
         {
           "option": "b",
           "text": "Mitrální a aortální chlopeň",
@@ -8592,9 +8602,14 @@
     {
       "id": "21Dětská kardiologie",
       "order": 21,
-      "text": "Pro diagnózu perikarditidy je typický:   a) Perikardiální výpotek X",
+      "text": "Pro diagnózu perikarditidy je typický:",
       "category": "Dětská kardiologie",
       "options": [
+        {
+          "option": "a",
+          "text": "Perikardiální výpotek",
+          "isCorrect": true
+        },
         {
           "option": "b",
           "text": "Srdeční arytmie",
@@ -8615,9 +8630,14 @@
     {
       "id": "22Dětská kardiologie",
       "order": 22,
-      "text": "Nejčastější kardiomyopatií v dětském věku je:   a) Restriktivní",
+      "text": "Nejčastější kardiomyopatií v dětském věku je:",
       "category": "Dětská kardiologie",
       "options": [
+        {
+          "option": "a",
+          "text": "Restriktivní",
+          "isCorrect": false
+        },
         {
           "option": "b",
           "text": "Hypertrofická",
@@ -8638,9 +8658,14 @@
     {
       "id": "23Dětská kardiologie",
       "order": 23,
-      "text": "V medikamentózní léčbě idiopatické systémové hypertenze v dětském věku začínáme:    a) Diuretiky",
+      "text": "V medikamentózní léčbě idiopatické systémové hypertenze v dětském věku začínáme:",
       "category": "Dětská kardiologie",
       "options": [
+        {
+          "option": "a",
+          "text": "Diuretiky",
+          "isCorrect": false
+        },
         {
           "option": "b",
           "text": "Blokátory Ca kanálů",
@@ -8801,9 +8826,14 @@
     {
       "id": "29Dětská kardiologie",
       "order": 29,
-      "text": "Při prvním záchytu systémové hypertenze u 14letého obézního pacienta:   a) Nasadíme ACE inhibitory",
+      "text": "Při prvním záchytu systémové hypertenze u 14letého obézního pacienta:",
       "category": "Dětská kardiologie",
       "options": [
+        {
+          "option": "a",
+          "text": "Nasadíme ACE inhibitory",
+          "isCorrect": false
+        },
         {
           "option": "b",
           "text": "Nasadíme diuretika",
