@@ -6348,12 +6348,7 @@
         },
         {
           "option": "d",
-          "text": "Nasycení organismu vitamínem D posuzujeme podle sérové koncentrace 25hydroxyvitamínu D3 (25-OH",
-          "isCorrect": false
-        },
-        {
-          "option": "D",
-          "text": "",
+          "text": "Nasycení organismu vitamínem D posuzujeme podle sérové koncentrace 25hydroxyvitamínu D3 (25-OHD)",
           "isCorrect": true
         }
       ]
@@ -7703,21 +7698,6 @@
           "option": "d",
           "text": "Rozhodnutí o observaci nebo zahájení terapie závisí na přítomnosti krvácivých projevů",
           "isCorrect": true
-        },
-        {
-          "option": "b",
-          "text": "2x",
-          "isCorrect": false
-        },
-        {
-          "option": "c",
-          "text": "3x",
-          "isCorrect": false
-        },
-        {
-          "option": "d",
-          "text": "4x",
-          "isCorrect": false
         }
       ]
     },
@@ -7746,26 +7726,6 @@
           "option": "d",
           "text": "Horečka s únavou",
           "isCorrect": true
-        },
-        {
-          "option": "a",
-          "text": "200 - 300 novorozenců",
-          "isCorrect": true
-        },
-        {
-          "option": "b",
-          "text": "800 - 900 novorozenců",
-          "isCorrect": false
-        },
-        {
-          "option": "c",
-          "text": "1500 - 1600 novorozenců",
-          "isCorrect": false
-        },
-        {
-          "option": "d",
-          "text": "2000 novorozenců",
-          "isCorrect": false
         }
       ]
     },
@@ -7794,26 +7754,6 @@
           "option": "d",
           "text": "Kongenitální hypothyreózu",
           "isCorrect": false
-        },
-        {
-          "option": "a",
-          "text": "Ihned po porodu",
-          "isCorrect": false
-        },
-        {
-          "option": "b",
-          "text": "Během prvních hodin",
-          "isCorrect": false
-        },
-        {
-          "option": "c",
-          "text": "Během prvního týdne života",
-          "isCorrect": false
-        },
-        {
-          "option": "d",
-          "text": "Všechny odpovědi jsou správné",
-          "isCorrect": true
         }
       ]
     },
@@ -7841,26 +7781,6 @@
         {
           "option": "d",
           "text": "Je 2x častější než hemofilie B",
-          "isCorrect": false
-        },
-        {
-          "option": "a",
-          "text": "Transpozice velkých cév",
-          "isCorrect": false
-        },
-        {
-          "option": "b",
-          "text": "Defekt síňového septa",
-          "isCorrect": false
-        },
-        {
-          "option": "c",
-          "text": "Defekt komorového septa",
-          "isCorrect": true
-        },
-        {
-          "option": "d",
-          "text": "Koarktace aorty",
           "isCorrect": false
         }
       ]
@@ -7890,26 +7810,6 @@
           "option": "d",
           "text": "Je onemocnění s gonosomálně recesivní dědičností",
           "isCorrect": false
-        },
-        {
-          "option": "a",
-          "text": "V léčbě srdečního selhání",
-          "isCorrect": false
-        },
-        {
-          "option": "b",
-          "text": "K udržení otevřené tepenné dučeje",
-          "isCorrect": true
-        },
-        {
-          "option": "c",
-          "text": "Jako selektivní plicní vasodilatátor",
-          "isCorrect": false
-        },
-        {
-          "option": "d",
-          "text": "V léčbě hemorrhagické nemoci novorozenců",
-          "isCorrect": false
         }
       ]
     },
@@ -7937,26 +7837,6 @@
         {
           "option": "d",
           "text": "Má trombocytózu a potřebuje terapii Anopyrinem",
-          "isCorrect": false
-        },
-        {
-          "option": "a",
-          "text": "Zhruba stejnou",
-          "isCorrect": false
-        },
-        {
-          "option": "b",
-          "text": "Vyšší u kojenců",
-          "isCorrect": true
-        },
-        {
-          "option": "c",
-          "text": "Vyšší u adolescentů",
-          "isCorrect": false
-        },
-        {
-          "option": "d",
-          "text": "V současnosti se u nás vyskytuje jen ojediněle",
           "isCorrect": false
         }
       ]
@@ -7986,26 +7866,6 @@
           "option": "d",
           "text": "Mají v dospělosti riziko hematologické malignity či autoimunního onemocnění",
           "isCorrect": false
-        },
-        {
-          "option": "a",
-          "text": "V rámci všech operací v neonatologii",
-          "isCorrect": false
-        },
-        {
-          "option": "b",
-          "text": "U všech pacientů s vrozenou srdeční vadou před i po operaci",
-          "isCorrect": false
-        },
-        {
-          "option": "c",
-          "text": "U všech zkratových vrozených srdečních vad mimo defekt septa síní před operací",
-          "isCorrect": true
-        },
-        {
-          "option": "d",
-          "text": "Při náhradě srdeční chlopně",
-          "isCorrect": false
         }
       ]
     },
@@ -8033,26 +7893,6 @@
         {
           "option": "d",
           "text": "Potřebuje ATB p.o. v běžné dávce a podrobnější vyšetření až při recidivě stavu",
-          "isCorrect": false
-        },
-        {
-          "option": "a",
-          "text": "Renovaskulární",
-          "isCorrect": false
-        },
-        {
-          "option": "b",
-          "text": "Renoparenchymatózní",
-          "isCorrect": true
-        },
-        {
-          "option": "c",
-          "text": "Endokrinní",
-          "isCorrect": false
-        },
-        {
-          "option": "d",
-          "text": "Farmakologicky vyvolaná",
           "isCorrect": false
         }
       ]
@@ -8082,26 +7922,6 @@
           "option": "d",
           "text": "Další sledování není nutné, transfuse problém vyřešila",
           "isCorrect": false
-        },
-        {
-          "option": "a",
-          "text": "S levopravým zkratem",
-          "isCorrect": false
-        },
-        {
-          "option": "b",
-          "text": "Cyanotické",
-          "isCorrect": true
-        },
-        {
-          "option": "c",
-          "text": "Necyanotické",
-          "isCorrect": false
-        },
-        {
-          "option": "d",
-          "text": "Nepatří mezi srdeční vady",
-          "isCorrect": false
         }
       ]
     },
@@ -8130,26 +7950,6 @@
           "option": "d",
           "text": "Autoimunní hemolytické anemie",
           "isCorrect": true
-        },
-        {
-          "option": "a",
-          "text": "Bradykardií pod 100/min",
-          "isCorrect": false
-        },
-        {
-          "option": "b",
-          "text": "Pravostrannou převahou",
-          "isCorrect": true
-        },
-        {
-          "option": "c",
-          "text": "Levostrannou převahou",
-          "isCorrect": false
-        },
-        {
-          "option": "d",
-          "text": "AV blokem 1. st.",
-          "isCorrect": false
         }
       ]
     },
@@ -8177,26 +7977,6 @@
         {
           "option": "d",
           "text": "Postupně progredujícími pancytopenií při hypersplenismu",
-          "isCorrect": false
-        },
-        {
-          "option": "a",
-          "text": "Intenzitou min. 3/6",
-          "isCorrect": false
-        },
-        {
-          "option": "b",
-          "text": "Je vždy systolický",
-          "isCorrect": true
-        },
-        {
-          "option": "c",
-          "text": "Je vždy diastolický",
-          "isCorrect": false
-        },
-        {
-          "option": "d",
-          "text": "Je vždy kontinuální",
           "isCorrect": false
         }
       ]
@@ -8226,26 +8006,6 @@
           "option": "d",
           "text": "FII, FVII, FIX, FX, AT, PC a PS",
           "isCorrect": false
-        },
-        {
-          "option": "a",
-          "text": "Stoupá",
-          "isCorrect": true
-        },
-        {
-          "option": "b",
-          "text": "Klesá",
-          "isCorrect": false
-        },
-        {
-          "option": "c",
-          "text": "Nemění se",
-          "isCorrect": false
-        },
-        {
-          "option": "d",
-          "text": "Závisí na průchodnosti tepenné dučeje",
-          "isCorrect": false
         }
       ]
     },
@@ -8274,97 +8034,235 @@
           "option": "d",
           "text": "Stačí vyšetření Leidenské mutace a mutace protrombinu, další vyšetření je zbytečné",
           "isCorrect": false
-        },
-        {
-          "option": "a",
-          "text": "Stenózy plicnice",
-          "isCorrect": false
-        },
+        }
+      ]
+    }
+  ],
+  "Dětská kardiologie": [
+    {
+      "id": "1Dětská kardiologie",
+      "order": 1,
+      "text": "Prenatální echokardiografie plodu se během fyziologického těhotenství provádí:   a) 1x X",
+      "category": "Dětská kardiologie",
+      "options": [
         {
           "option": "b",
-          "text": "Koarktace aorty",
+          "text": "2x",
           "isCorrect": false
         },
         {
           "option": "c",
-          "text": "Transpozice velkých cév",
-          "isCorrect": true
+          "text": "3x",
+          "isCorrect": false
         },
         {
           "option": "d",
-          "text": "Fallotovy tetralogie",
+          "text": "4x",
           "isCorrect": false
         }
       ]
     },
     {
-      "id": "7Dětská hematologie",
-      "order": 7,
-      "text": "Dětská kardiologie",
-      "category": "Dětská hematologie",
-      "options": []
-    },
-    {
-      "id": "1Dětská hematologie",
-      "order": 1,
-      "text": "Prenatální echokardiografie plodu se během fyziologického těhotenství provádí:   a) 1x X",
-      "category": "Dětská hematologie",
-      "options": []
-    },
-    {
-      "id": "2Dětská hematologie",
+      "id": "2Dětská kardiologie",
       "order": 2,
       "text": "S kritickou vrozenou srdeční vadou se v ČR každoročně narodí cca:",
-      "category": "Dětská hematologie",
-      "options": []
+      "category": "Dětská kardiologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "200 - 300 novorozenců",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "800 - 900 novorozenců",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "1500 - 1600 novorozenců",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "2000 novorozenců",
+          "isCorrect": false
+        }
+      ]
     },
     {
-      "id": "3Dětská hematologie",
+      "id": "3Dětská kardiologie",
       "order": 3,
       "text": "Ductus dependentní kritické vrozené srdeční vady se nejčastěji manifestují:",
-      "category": "Dětská hematologie",
-      "options": []
+      "category": "Dětská kardiologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Ihned po porodu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Během prvních hodin",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Během prvního týdne života",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Všechny odpovědi jsou správné",
+          "isCorrect": true
+        }
+      ]
     },
     {
-      "id": "4Dětská hematologie",
+      "id": "4Dětská kardiologie",
       "order": 4,
       "text": "Která vrozená srdeční vada je nejčastější?",
-      "category": "Dětská hematologie",
-      "options": []
+      "category": "Dětská kardiologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Transpozice velkých cév",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Defekt síňového septa",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Defekt komorového septa",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Koarktace aorty",
+          "isCorrect": false
+        }
+      ]
     },
     {
-      "id": "5Dětská hematologie",
+      "id": "5Dětská kardiologie",
       "order": 5,
       "text": "Prostaglandiny typu E se v neonatologii používají:",
-      "category": "Dětská hematologie",
-      "options": []
+      "category": "Dětská kardiologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "V léčbě srdečního selhání",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "K udržení otevřené tepenné dučeje",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Jako selektivní plicní vasodilatátor",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "V léčbě hemorrhagické nemoci novorozenců",
+          "isCorrect": false
+        }
+      ]
     },
     {
-      "id": "6Dětská hematologie",
+      "id": "6Dětská kardiologie",
       "order": 6,
       "text": "Myokarditida v kojeneckém a adolescentním věku má úmrtnost:",
-      "category": "Dětská hematologie",
-      "options": []
+      "category": "Dětská kardiologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Zhruba stejnou",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Vyšší u kojenců",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Vyšší u adolescentů",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "V současnosti se u nás vyskytuje jen ojediněle",
+          "isCorrect": false
+        }
+      ]
     },
     {
-      "id": "7Dětská hematologie",
+      "id": "7Dětská kardiologie",
       "order": 7,
       "text": "Běžná prevence bakteriální endokarditidy je indikována:",
-      "category": "Dětská hematologie",
-      "options": []
+      "category": "Dětská kardiologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "V rámci všech operací v neonatologii",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "U všech pacientů s vrozenou srdeční vadou před i po operaci",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "U všech zkratových vrozených srdečních vad mimo defekt septa síní před operací",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Při náhradě srdeční chlopně",
+          "isCorrect": false
+        }
+      ]
     },
     {
-      "id": "8Dětská hematologie",
+      "id": "8Dětská kardiologie",
       "order": 8,
       "text": "Nejčastější typ sekundární hypertenze u dětí je v současnosti:",
-      "category": "Dětská hematologie",
-      "options": []
+      "category": "Dětská kardiologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Renovaskulární",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Renoparenchymatózní",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Endokrinní",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Farmakologicky vyvolaná",
+          "isCorrect": false
+        }
+      ]
     },
     {
-      "id": "9Dětská hematologie",
+      "id": "9Dětská kardiologie",
       "order": 9,
       "text": "Lékem volby u akutního srdečního selhání novorozence jsou:",
-      "category": "Dětská hematologie",
+      "category": "Dětská kardiologie",
       "options": [
         {
           "option": "a",
@@ -8389,10 +8287,10 @@
       ]
     },
     {
-      "id": "10Dětská hematologie",
+      "id": "10Dětská kardiologie",
       "order": 10,
       "text": "Nejčastější poruchou srdečního rytmu v dětském věku je:",
-      "category": "Dětská hematologie",
+      "category": "Dětská kardiologie",
       "options": [
         {
           "option": "a",
@@ -8417,45 +8315,150 @@
       ]
     },
     {
-      "id": "11Dětská hematologie",
+      "id": "11Dětská kardiologie",
       "order": 11,
       "text": "Závažná stenóza plicnice patří mezi vady:",
-      "category": "Dětská hematologie",
-      "options": []
+      "category": "Dětská kardiologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "S levopravým zkratem",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Cyanotické",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Necyanotické",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Nepatří mezi srdeční vady",
+          "isCorrect": false
+        }
+      ]
     },
     {
-      "id": "12Dětská hematologie",
+      "id": "12Dětská kardiologie",
       "order": 12,
       "text": "EKG novorozence je typické:",
-      "category": "Dětská hematologie",
-      "options": []
+      "category": "Dětská kardiologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Bradykardií pod 100/min",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Pravostrannou převahou",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Levostrannou převahou",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "AV blokem 1. st.",
+          "isCorrect": false
+        }
+      ]
     },
     {
-      "id": "13Dětská hematologie",
+      "id": "13Dětská kardiologie",
       "order": 13,
       "text": "Akcidentální srdeční šelest je typický:",
-      "category": "Dětská hematologie",
-      "options": []
+      "category": "Dětská kardiologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Intenzitou min. 3/6",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Je vždy systolický",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Je vždy diastolický",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Je vždy kontinuální",
+          "isCorrect": false
+        }
+      ]
     },
     {
-      "id": "14Dětská hematologie",
+      "id": "14Dětská kardiologie",
       "order": 14,
       "text": "Po narození průtok krve plicemi novorozence:",
-      "category": "Dětská hematologie",
-      "options": []
+      "category": "Dětská kardiologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Stoupá",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Klesá",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Nemění se",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Závisí na průchodnosti tepenné dučeje",
+          "isCorrect": false
+        }
+      ]
     },
     {
-      "id": "15Dětská hematologie",
+      "id": "15Dětská kardiologie",
       "order": 15,
       "text": "Balónková atrioseptostomie se užívá u:",
-      "category": "Dětská hematologie",
-      "options": []
+      "category": "Dětská kardiologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Stenózy plicnice",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Koarktace aorty",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Transpozice velkých cév",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Fallotovy tetralogie",
+          "isCorrect": false
+        }
+      ]
     },
     {
-      "id": "16Dětská hematologie",
+      "id": "16Dětská kardiologie",
       "order": 16,
       "text": "Totální anomální návrat plicních žil se může projevit:",
-      "category": "Dětská hematologie",
+      "category": "Dětská kardiologie",
       "options": [
         {
           "option": "a",
@@ -8480,10 +8483,10 @@
       ]
     },
     {
-      "id": "17Dětská hematologie",
+      "id": "17Dětská kardiologie",
       "order": 17,
       "text": "Kritická koarktace aorty u novorozence se projeví:",
-      "category": "Dětská hematologie",
+      "category": "Dětská kardiologie",
       "options": [
         {
           "option": "a",
@@ -8508,10 +8511,10 @@
       ]
     },
     {
-      "id": "18Dětská hematologie",
+      "id": "18Dětská kardiologie",
       "order": 18,
       "text": "Neuzavřená tepenná dučej u 6měsíčního kojence se obvykle projeví:",
-      "category": "Dětská hematologie",
+      "category": "Dětská kardiologie",
       "options": [
         {
           "option": "a",
@@ -8536,10 +8539,10 @@
       ]
     },
     {
-      "id": "19Dětská hematologie",
+      "id": "19Dětská kardiologie",
       "order": 19,
       "text": "Myokarditidy v dětském věku jsou nejčastěji:",
-      "category": "Dětská hematologie",
+      "category": "Dětská kardiologie",
       "options": [
         {
           "option": "a",
@@ -8564,10 +8567,10 @@
       ]
     },
     {
-      "id": "20Dětská hematologie",
+      "id": "20Dětská kardiologie",
       "order": 20,
       "text": "Predilekčním místem pro vznik vegetací při bakteriální endokarditidě jsou:   a) Obě AV chlopně",
-      "category": "Dětská hematologie",
+      "category": "Dětská kardiologie",
       "options": [
         {
           "option": "b",
@@ -8587,10 +8590,10 @@
       ]
     },
     {
-      "id": "21Dětská hematologie",
+      "id": "21Dětská kardiologie",
       "order": 21,
       "text": "Pro diagnózu perikarditidy je typický:   a) Perikardiální výpotek X",
-      "category": "Dětská hematologie",
+      "category": "Dětská kardiologie",
       "options": [
         {
           "option": "b",
@@ -8610,10 +8613,10 @@
       ]
     },
     {
-      "id": "22Dětská hematologie",
+      "id": "22Dětská kardiologie",
       "order": 22,
       "text": "Nejčastější kardiomyopatií v dětském věku je:   a) Restriktivní",
-      "category": "Dětská hematologie",
+      "category": "Dětská kardiologie",
       "options": [
         {
           "option": "b",
@@ -8633,10 +8636,10 @@
       ]
     },
     {
-      "id": "23Dětská hematologie",
+      "id": "23Dětská kardiologie",
       "order": 23,
       "text": "V medikamentózní léčbě idiopatické systémové hypertenze v dětském věku začínáme:    a) Diuretiky",
-      "category": "Dětská hematologie",
+      "category": "Dětská kardiologie",
       "options": [
         {
           "option": "b",
@@ -8656,10 +8659,10 @@
       ]
     },
     {
-      "id": "24Dětská hematologie",
+      "id": "24Dětská kardiologie",
       "order": 24,
       "text": "Náhodně zjištěné izolované předčasné komorové stahy u zdravého 14letého pacienta, který je subj. bez potíží, léčíme:",
-      "category": "Dětská hematologie",
+      "category": "Dětská kardiologie",
       "options": [
         {
           "option": "a",
@@ -8684,10 +8687,10 @@
       ]
     },
     {
-      "id": "25Dětská hematologie",
+      "id": "25Dětská kardiologie",
       "order": 25,
       "text": "V léčbě akutního srdečního selhání batolete podáváme:",
-      "category": "Dětská hematologie",
+      "category": "Dětská kardiologie",
       "options": [
         {
           "option": "a",
@@ -8712,10 +8715,10 @@
       ]
     },
     {
-      "id": "26Dětská hematologie",
+      "id": "26Dětská kardiologie",
       "order": 26,
       "text": "U dětí se digoxin:",
-      "category": "Dětská hematologie",
+      "category": "Dětská kardiologie",
       "options": [
         {
           "option": "a",
@@ -8740,10 +8743,10 @@
       ]
     },
     {
-      "id": "27Dětská hematologie",
+      "id": "27Dětská kardiologie",
       "order": 27,
       "text": "Mezi typické příznaky vrozené srdeční vady nepatří:",
-      "category": "Dětská hematologie",
+      "category": "Dětská kardiologie",
       "options": [
         {
           "option": "a",
@@ -8768,10 +8771,10 @@
       ]
     },
     {
-      "id": "28Dětská hematologie",
+      "id": "28Dětská kardiologie",
       "order": 28,
       "text": "Perikardiální výpotek u 8letého dítěte je nález typický při:",
-      "category": "Dětská hematologie",
+      "category": "Dětská kardiologie",
       "options": [
         {
           "option": "a",
@@ -8796,10 +8799,10 @@
       ]
     },
     {
-      "id": "29Dětská hematologie",
+      "id": "29Dětská kardiologie",
       "order": 29,
       "text": "Při prvním záchytu systémové hypertenze u 14letého obézního pacienta:   a) Nasadíme ACE inhibitory",
-      "category": "Dětská hematologie",
+      "category": "Dětská kardiologie",
       "options": [
         {
           "option": "b",
@@ -8819,10 +8822,10 @@
       ]
     },
     {
-      "id": "30Dětská hematologie",
+      "id": "30Dětská kardiologie",
       "order": 30,
       "text": "Která vrozená srdeční vada nepatří mezi cyanotické vady:",
-      "category": "Dětská hematologie",
+      "category": "Dětská kardiologie",
       "options": [
         {
           "option": "a",
@@ -8847,10 +8850,10 @@
       ]
     },
     {
-      "id": "31Dětská hematologie",
+      "id": "31Dětská kardiologie",
       "order": 31,
       "text": "Mezi velká Jonesova kritéria nepatří:",
-      "category": "Dětská hematologie",
+      "category": "Dětská kardiologie",
       "options": [
         {
           "option": "a",
