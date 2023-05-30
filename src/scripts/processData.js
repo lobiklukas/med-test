@@ -53,6 +53,15 @@ const main = async () => {
   return questions;
 };
 
-main().then((x) =>
-  fs.writeFile(__dirname + "/data.json", JSON.stringify(x, null, 2))
-);
+main().then((result) => {
+  fs.writeFile(__dirname + "/data.json", JSON.stringify(result, null, 2));
+
+  for (const category in result) {
+    if (Object.hasOwnProperty.call(result, category)) {
+      const questions = result[category];
+      for (const question of questions) {
+        if (question.options.length > 4) console.log(question);
+      }
+    }
+  }
+});

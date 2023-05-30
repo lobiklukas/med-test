@@ -569,11 +569,6 @@ a) 120 cm
 b) 140 cm X
 c) 160 cm
 d) 110 cm
-126. Fyziologická výška desetiletého dítěte je:
-a) 120 cm
-b) 140 cm X
-c) 160 cm
-d) 110 cm
 Akutní stavy v pediatrii
 1. Obsah celkové tělesné vody v organismu:
 a) Je závislý na věku X
@@ -1113,7 +1108,8 @@ d) Snížené hladiny TSH, zvýšené hladiny fT4
 a) Zvýšený TK, průjmy, protruze bulbů, hubnutí
 b) Bradykardie, růstová porucha, suchá kůže, únava X
 c) Hrubý hlas, snížená chuť k jídlu, zácpa, myalgie X
-d) Zrychlení růstového tempa, tachykardie,  intolerance tepla   48. Mezi nejčastější příčiny hypertyreózy patří:
+d) Zrychlení růstového tempa, tachykardie,  intolerance tepla
+48. Mezi nejčastější příčiny hypertyreózy patří:
 a) Imunogenní hypertyreóza X
 b) McCuneův - Albrightův syndrom
 c) Independentní adenom štítné žlázy X
@@ -2170,3 +2166,778 @@ a) Nejčastější syndrom periodické horečky u dětí
 b) Syndrom opakované horečky s faryngitidou, lymfadenitidou a afty
 c) Periodická horečka způsobená mutací genu TNFRS1A X
 d) Syndrom periodické fetální aplastické anemie X
+
+Dětská nefrologie
+1. Nefrotická proteinurie u dětí:
+a) Je typická pro akutní poststreptokokovou glomerulonefritidu
+b) Je definována jako proteinurie větší než 1 g/den/m2 tělesného povrchu X
+c) Je typická pro idiopatický nefrotický syndrom X
+d) Je definována jako proteinurie větší než 3,5 g/den
+2. Pro diagnózu nefrotického syndromu je nezbytná:
+a) Přítomnost otoků
+b) Proteinurie a hypalbuminemie X
+c) Proteinurie a hematurie
+d) Průkaz snížení renálních funkcí s oligurií
+3. Primoataku primárního idiopatického nefrotického syndromu léčíme:
+a) Podáváním antibiotik
+b) Podáváním kortikoidů X
+c) Neléčíme medikamentozně, jen sledujeme
+d) Imunosupresivní dávkou cystostatik
+4. Propouštíme domů dítě po úspěšné léčbě primoataky idiopatického nefrotického syndromu kortikoidy. Naše informace rodičům je:
+a) Dítě je vyléčeno, pravděpodobnost recidivy je minimální
+b) Pravděpodobnost recidivy je téměř 100 %
+c) Pravděpodobnost, že nebude mít další recidivu, je cca 30 % X
+d) Pravděpodobnost recidivy je 50 %
+5. Typickým laboratorním příznakem tubulárního postižení ledvin je:
+a) Mikroalbuminurie
+b) Glykosurie při normoglykemii X
+c) Přítomnost beta-2-mikroglobulinu/alfa-1-mikroglobulinu v moči X
+d) Selektivní proteinurie
+6. Mezi tzv. „funkční proteinurie“  patří:
+a) Mikroalbuminurie
+b) Febrilní proteinurie X
+c) Ortostatická proteinurie X
+d) Proteinurie při cystitis
+7. Proteinurie >1,5 g/m2/den je pravděpodobně:
+a) Tubulární
+b) Postrenální
+c) Glomerulární X
+d) Febrilní
+
+8. Mezi příčiny primární monosymptomatické enurézy nepatří:
+a) Noční polyurie
+b) Psychické problémy v rodině X
+c) Porucha buzení
+d) Nízká mikční kapacita moč. měchýře
+11. Přijímáme 6letou afebrilní dívku s mírnými otoky víček, makroskopickou hematurií, hraničně zvýšeným krevním tlakem bez dysurických obtíží. Nejpravděpodobněji se jedná o:
+a) Akutní cystitis
+b) Nefrotický syndrom na podkladě minimálních změn glomerulů
+c) Akutní glomerulonefritis X
+d) Akutní pyelonefritis
+12. Nefritický syndrom v dětském věku:
+a) Je nejčastěji způsoben akutní poststreptokokovou glomerulonefritidou X
+b) Je většinou spojen s hypertenzí X
+c) Jeho nezbytným laboratorním projevem je proteinurie
+d) Jeho nezbytným laboratorním projevem je hematurie X
+13. Snížení C3 složky komplementu není typické pro:
+a) Akutní poststreptokokovou glomerulonefritidu
+b) Lupusovou glomerulonefritidu
+c) Primární idiopatický nefrotický syndrom X
+d) Chronickou membranoproliferaivní glomerulonefritidu typu II
+14. Opakované ataky makroskopické hematurie zároveň s probíhajícím infektem (synfaryngické hematurie) jsou typické pro:
+a) Akutní poststreptokokovou glomerulonefritis
+b) IgA glomerulonefritis X
+c) Alportův syndrom X
+d) ARPKD - autosomálně recesivní polycystickou chorobu ledvin
+15. Do ambulance přijde matka s 8letým chlapcem pro recidivující mikroskopickou hematurii. Jeho matka je také sledována na nefrologii pro hematurii, proteinurii a hypertenzi. Jeho dědeček dochází na dialýzu a špatně slyší. Nejpravděpodobnější dg. dle anamnézy je:
+a) Kongenitální nefrotický syndrom
+b) Syndrom tenkých membrán
+c) Alportův syndrom X
+d) Chronická membranoproliferativní glomerulonefritis
+16. Makroskopická hematurie, která se objeví po bezpříznakovém období (cca 7-14 dnů) po povlakové angině, je typická pro:
+a) IgA nefropatii
+b) Henochovu- Schonleinovu purpuru
+c) ADPKD - autosomálně dominantní polycystickou chorobu ledvin
+d) Akutní glomerulonefritidu X
+17. Mezi onemocnění charakterizovaná sterilními poststreptokokovými komplikacemi nepatří:
+a) Revmatická horečka
+b) Submandibulární lymfadenitis X
+c) Akutní glomerulonefritis
+d) Chronická tonsilitida X
+18. Pozitivní reakce na krevní barvivo při chemickém vyšetření moče může svědčit pro:
+a) Myoglobinurii X
+b) Erytrocyturii X
+c) Hemoglobinurii X
+d) Diabetes insipidus
+21. Jednostranná vrozená hydronefróza vyššího stupně u kojence může mít tyto příznaky:
+a) Klinické a laboratorní známky selhávání ledvin
+b) Ve většině případů je průběh asymptomatický X
+c) Oligurie či anurie
+d) Hmatná rezistence v bříšku X
+22. Konzervativní (nechirurgický) postup u vrozené hydronefrózy volíme:
+a) Vždy
+b) Při normální diferenciální funkci postižené ledviny X
+c) Při asymptomatickém průběhu X
+d) Nikdy
+23. Konzervativní léčba primárního VUR u dětí do jednoho roku je indikována:
+a) Jen u VUR nízkého či středního stupně
+b) Ve většině případů X
+c) Jen u chlapců
+d) Nikdy
+24. K chirurgickému řešení primárního VUR vysokého stupně přistupujeme:
+a) Častěji u chlapců
+b) Častěji u dívek X
+c) Ve většině případů nejdříve po prvním roce věku X
+d) Častěji u symptomatických dětí s opakovanými akutními pyelonefritidami X
+25. Chlopeň zadní uretry:
+a) Je závažná vada uropoetického traktu X
+b) Vyskytuje se stejně u chlapců jako u dívek
+c) Patří mezi nejčastější příčiny chronické ledvinné nedostatečnosti u dětí X
+d) Má charakteristický ultrazvukový prenatální nález X
+26. Fetální uropatie:
+a) Jsou VVV uropoetického traktu diagnostikovaná většinou prenatálně X
+b) Patří mezi vzácné vývojové vady
+c) Mají většinou postnatálně asymptomatický průběh X
+d) Jejich klinický význam je zanedbatelný a proto po nich aktivně nepátráme
+27. Úspěšnost chirurgické léčby - reimplantace primárního VUR je:
+a) 60 - 70%
+b) Nad 95 % X
+c) 10 - 20%
+d) 30 - 50%
+28. Autosomálně dominantní polycystická choroba ledvin (ADPKD):
+a) Je jednou z nejčastějších monogenně podmíněných dědičných chorob v populaci X
+b) Postihuje jen muže
+c) Často přechází do chronické renální insuficience v dospělosti X
+d) Klinicky se začíná projevovat typicky v předškolním věku
+29. Multicystická dysplasie ledvin (MCDK):
+a) Vyžaduje ve většině případů chirurgické řešení
+b) Většinou postupujeme konzervativně X
+c) Většinou do dospělosti ledvina zaniká X
+d) V naprosté většině případů postihuje jen 1 ledvinu X
+32. Nejdůležitějším diagnostickým kritériem infekce močových cest je:
+a) Abnormální zápach a zabarvení moče
+b) Makroskopická hematurie
+c) Významná bakteriurie X
+d) Bolestivé močení
+33. Při chemickém vyšetření moče při infekci močových cest je typickým a specifickým nálezem:
+a) Přítomnost bílých krvinek v moči X
+b) Přítomnost červených krvinek v moči
+c) Přítomnost bílkoviny v moči
+d) Pozitivní reakce na dusitany X
+34. Nejčastějším původcem infekce močových cest u dětí je:
+a) Enterococus foecalis
+b) Pseudomonas aeruginosa
+c) Escherichia coli X
+d) Klebsiela pneumonie
+35. Mezi Jodalova kritéria akutní pyelonefritidy nepatří:
+a) Vyšší FW
+b) Vyšší CRP
+c) Signifikantní bakteriurie X
+d) Hematurie X
+36. U 8měsíční holčičky s druhou atakou akutní pyelonefritidy doporučíme:
+a) Provedení vylučovací urografie
+b) Zajišťovací ATB terapii a pozveme si ji na kontrolu za 6 měsíců
+c) Provedení mikční cystouretrografie X
+d) Léčíme stejně jako první ataku bez dalšího vyšetřování
+37. Na LSPP přichází rodiče s 3měsíčním chlapečkem s nejasným febrilním stavem (TT až 39,8 °C), CRP 120 mg/l. V moči papírkem je výrazná leukocyturie a nitriturie. Doporučený postup:
+a) Předepíšeme mu p.o. ATB a odešleme ho na této terapii domů a předáme do péče PLDD
+b) Odebereme moč kultivačně X
+c) Vzhledem k tomu, že je diagnóza akutní pyelonefritis velmi pravděpodobná, zahájíme po odběru biologického materiálu ATB i.v. terapii. X
+d) Doplníme odběry FW, krevního obrazu, základní biochemie, RTG plic a pozveme si ho na kontrolu za 48 hodin
+38. Při podezření na akutní pyelonefritidu doporučená empirická terapie je:
+a) Nitrofurantoinem
+b) G-penicilinem
+c) Amoksiklavem X
+d) Cefuroximem X
+39. Signifikantní bakteriurii je:
+a) Jakákoliv bakteriurie při odběru suprapubickou punkcí X
+b) Hodnota více jak 105/ml při odběru moče středním proudem X
+c) Hodnota více jak 104/ml při odběru moče katetrizací X
+d) Jakýkoliv průkaz bakteriurie ze spontánní moče
+42. Nejčastější důvod akutního selhání ledvin v dětském věku je:
+a) Renální etiologie
+b) Postrenální etiologie
+c) Prerenální etiologie X
+d) Všechny předchozí příčiny se podílejí cca stejným dílem
+43. V případě prerenální etiologie akutního selhání ledvin (na rozdíl od renální etiologie) většinou u pacienta zjistíme:
+a) Hypertenzi
+b) Vysokou osmolalitu/specifickou hmotnost moče X
+c) Nízkou exkreční frakci Na+ v moči X
+d) Klinické známky dehydratace X
+44. Mezi kritéria hemolyticko-uremického syndromu nepatří:
+a) Hemolytická anemie
+b) Trombocytopenie
+c) Retence dusíkatých metabolitů (vzestup urey, kreatininu)
+d) Průkaz enteropatogenní E. coli ve stolici X
+45. Oligurie u kojence je definována jako:
+a) Diuréza pod 10 ml/kg/hod
+b) Diuréza pod 1 ml/kg/hod X
+c) Diuréza pod 10 ml/kg/den
+d) Méně než 3 pomočené pleny/den
+46. Nejčastější příčinou chronického selhávání ledvin v dětském věku jsou:
+a) Chronické glomerulonefritidy
+b) Vrozené vývojové vady uropoetického traktu X
+c) Stavy po úrazech s poškozením ledvin
+d) Chronické pyelonefritidy
+47. Klinicky nejzávažnějším laboratorním nálezem u pacienta s akutním selháním ledvin je:
+a) Zvýšení kreatininu
+b) Zvýšení urey
+c) Hyperkalemie X
+d) Hyponatremie
+48. Při klinickém vyšetření dítěte s chronickou renální insuficiencí můžeme zjistit:
+a) Kožní purpuru
+b) Oploštění růstové křivky X
+c) Hypertenzi X
+d) Jednostranné lumbalgie
+49. Z uvedených chorob se chronická renální insuficience pravděpodobně nejdříve projeví u pacienta s dg:
+a) ADPKD - autosomálně dominantní polycystické choroby ledvin
+b) ARPKD - autosomálně recesivní polycystické choroby ledvin X
+c) CHRI v důsledku lupusové nefritidy
+d) Refluxová nefropatie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Neonatologie
+1. Donošený novorozenec, kterého přinesli na ošetřovací lůžko po porodu, je v první minutě života nápadně hypotonický, má bledou pokožku, nepláče a nedýchá. Co uděláte?
+a) Změřím životní funkce a dítě budu dále observovat
+b) Počkám, než dítě sestra označí, zváží a změří, do té doby počkám, jestli se stav neupraví
+c) Změřím životní funkce a požádám anesteziologa o zajištění dýchacích cest intubaci
+d) Změřím akci srdeční, budu se snažit dítě taktilně stimulovat, a pokud samo nezačne dýchat, zahájím kardiopulmonální resuscitaci X
+2. Jaké bude skóre dle Apgarové u donošeného novorozence, kterého přinesli na ošetřovací lůžko po porodu, je v první minutě života nápadně hypotonický, má bledou pokožku, nepláče a nedýchá, pokud nebude reagovat na taktilní stimulaci a jeho srdeční akce bude 40 za minutu?
+a) 0 bodů X
+b) 2 body
+c) 6 bodů
+d) 8 bodů
+3. Zaškrtněte, co platí u resuscitace asfyktického donošeného novorozence:
+a) Jednou z možností resuscitace je stlačování hrudníku dvěma prsty do jedné třetiny průměru hrudníku X
+b) Poměr stlačení hrudníku a vdechům je 3:1 X
+c) Před zahájením resuscitace je vhodné intratracheálně podat surfaktant
+d) Frekvence stlačení hrudníku je u novorozence 150 za minutu
+4. pH arteriální pupečníkové krve bylo 7,08 a hladina laktátu 9 mmol/l:
+a) Nejedná se o hypoxii, ta by bylo přítomna až při pH pod 7,05
+b) Jedná se o hypoxii X
+c) Je indikací k podání bikarbonátu
+d) Je v pořádku
+5. Řízená hypotermie:
+a) Není u donošeného novorozence indikována, užívá se jen o nezralých dětí
+b) Trvá normálně 48 hodin
+c) Důležitým indikačním kritériem je EEG záznam X
+d) Její podmínkou je její zahájení do 10 hodin po prodělané hypoxii
+6. Dětská mozková obrna:
+a) Se nevyskytuje, protože proti polioviru je v ČR zavedeno očkování
+b) Je progresivní motorické postižení spojeno s inzultem v perinatálním období
+c) Je neprogresivní motorické postižení spojeno s inzultem v perinatálním období X
+d) Mezi hlavní příčiny se řadí hypoxie, nezralost a infekce X
+7. Dětská mozková obrna (DMO):
+a) Má formu hypotonickou a cerebelární
+b) Mezi léčebné přístupy DMO patří aplikace botulotoxinu X
+c) Důležitá je rehabilitace X
+d) V některých případech se provádí chirurgické prodloužení Achillových šlach X
+8. Donošený novorozenec, který prodělal asfyxii, může mít následující orgánové komplikace:
+a) Hypoxicko-ischemickou encefalopatii X
+b) Rozvoj perzistující plicní hypertenze X
+c) Rozvoj disseminované intravaskulání koagulace X
+d) Hypoxické postižení růstových zón kostí
+9. Terapeutická hypotermie se provádí jako:
+a) Lehká s udržovanou teplotou 33-34 °C X
+b) Střední s udržovanou teplotou 28-32 °C
+c) Terapeutická v rozsahu 35-36 °C
+d) Terapeutická hluboká s udržovanou teplotou 18-26 °C
+10. Při noční službě se ve spádové porodnici předčasně narodil novorozenec v 32+3 gestačním týdnu s váhou 1920 g. Skóre dle Apgarové bylo 6-9-9. Dítě bylo vzhledem ke gestačnímu stáří uloženo do inkubátoru. Jedná se o nedonošeného novorozence:
+a) S nízkou porodní hmotností X
+b) Extrémně nezralé
+c) S velmi nízkou porodní hmotností
+d) Těžce nezralé
+11. Nezralý novorozenec v 29+6 gestačním týdnu je vzhledem ke svému gestačnímu stáří ohrožen hypoglykémií:
+a) Proto ho preventivně začneme od začátku po dvou hodinách přikládat k prsu matky
+b) Jako prevenci hypoglykémie můžeme podat glukagon
+c) Hypoglykémii budeme řešit pouze v případě, že bude symptomatická (třes, pocení, apnoická pauza), jinak je stimulačním mechanismem
+d) Dítě v tomto gestačním stáří ještě nemá polykací reflex, zavádí se výživa bude periferním žilním katetrem nebo umbilikálním katetrem v případě vyšší potřeby přívodu cukru X
+12. Do třiceti minut po porodu nezralého novorozence z 34. gestačního týdne sestra volá lékaře, protože novorozenec je dušný - dýchá nápadně rychle, zatahuje mezižeberní prostory, břišní lis, jugulární jamku, má grunting. Novorozenec je observován na Jednotce intenzivní péče:
+a) Může se jednat o sepsi, je potřeba podat antibiotickou dvojkombinaci - ampicilin, gentamicin
+b) Může se jednat o dechovou respirační tíseň (RDS) nedonošených a terapeuticky zvažujeme distenční podporu (pomocí nCPAP, případně intubaci) a podání surfaktantu
+c) Může se jednat o aspiraci mekónia
+d) Vše z uvedeného je správné X
+13. Nezralý novorozenec v 33. gestační týdnu bude mít:
+a) Tenkou jemnou růžovou kůži s lanugem X
+b) Hmatné a vyvinuté bradavky
+c) Nehty budou přesahovat okraj prstů
+d) Bude mít sestouplé jedno varle
+14. Patnáctý den hospitalizace nezralého novorozence z 28. gestačního týdne na Jednotce intenzivní péče je u dítěte ve fyzikálním vyšetření přítomné nápadně nafouklé bříško. Objevují se bolesti, má teplotní nestabilitu, ventilační zhoršení a hypotenzi. Na indikovaném rentgenovém snímku horizontálním paprskem je nad játry přítomen srpek projasnění, přítomna je distenze střevních kliček a reziduum v žaludku.
+a) Jedná se o hemoperitoneum, bříško je potřeba akutně punktovat a hematom odsát
+b) Jedná se o pneumoperitoneum v důsledku nekrotizující enterokolitidy (NEC) X
+c) Podáme antibiotickou terapii a při závažném stupni NEC (perforace) indikujeme chirurgickou terapii X
+d) Zavedeme nasogastrickou sondu a odsajeme žaludeční obsah X
+15. Retinopatie nedonošených:
+a) Mezi rizikové faktory patří nezralost X
+b) Mezi rizikové faktory patří hyperoxie X
+c) Mezi rizikové faktory patří hypoxie X
+d) Dá se léčit laserovou fotokoagulací nebo kryoterapií X
+16. Bronchopulmonální dysplázie (BPD) nebo nověji chronické plicní onemocnění:
+a) Je definována jako závislost na kyslíku nebo na ventilační podpoře v každém věku novorozence
+b) Nepostihuje novorozence s porodní hmotností pod 1000 g.
+c) Hlavním patofyziologickým podkladem je v současné době zánět, rizikovými faktory jsou toxicita kyslíku a mechanická plicní ventilace v kombinaci s nezralostí X
+d) U dětí s BPD je indikováno očkování proti RSV profylakticky X
+17. Otevřená Botallova tepenná dučej (ductus arteriosus patens, PDA):
+a) Mezi rizikové faktory patří nezralost, syndrom dechové tísně (RDS), asfyxie X
+b) Botallova tepenná dučej se u zdravého donošeného novorozence uzavře do 72-96 hodin po porodu, u nedonošených novorozenců i později X
+c) Zhoršuje oběhové parametry dítěte X
+d) V případě cyanotických vrozených srdečních vad lze zabránit uzavření dučeje intravenózně podaným ibuprofenem/indometacinem
+
+Dětská neurologie
+1. Mezi primární bolesti hlavy nepatří:
+a) Migrenózní cefalea
+b) Tenzní cefalea
+c) Poúrazová bolest hlavy X
+d) Bolest hlavy při hypertenzi X
+2. Je pravda, že tenzní cefalea:
+a) Může být každodenní X
+b) Má silnou až velmi silnou intenzitu
+c) Často budí v noci ze spaní
+d) Dítě mívá normální neurologický nález X
+3. Při bolesti hlavy patří mezi příznaky ukazující na možnost nitrolební hypertenze:
+a) Postupně se zhoršující intenzita bolesti X
+b) Ranní zvracení X
+c) Fotofobie
+d) Spastická diparéza
+4. Bolest hlavy u prosté migrény v dětském věku:
+a) Bývá střední až silné intenzity X
+b) Provází často zvracení X
+c) Nemusí být lateralizovaná X
+d) Má pozitivní neurologický nález - hemiparesu, hemianopsii
+5. Léčba migrenózní cefaley v dětském věku spočívá:
+a) Včasném podání paracetamolu ev. ibuprofenu X
+b) Klidový režim na lůžku X
+c) Včasném podání tryptanů (např. eletriptan)
+d) Psychoterapii
+6. Pro léčbu tenzní cefaley v dětském věku nepoužíváme:
+a) Psychoterapii
+b) Režimová opatření (úprava denního režimu, spánkového režimu)
+c) Pravidelné podání analgetik (paracetamol, ibuprofen) X
+d) Dietní opatření X
+7. V případě bolestí hlavy a podezření na nitrolební hypertenzi/hydrocefalus je nutné:
+a) Co nejdříve zobrazení mozku (CT nebo MR) X
+b) Monitorování vitálních funkcí X
+c) Bezodkladné provedení lumbální punkce
+d) Pacienta nestresovat a pokud možno propustit domů
+10. Dětská mozková obrna:
+a) Je následkem prodělané infekce a lze proti ní očkovat
+b) Je porucha postury a hybnosti způsobená neprogresivní poruchou nezralého mozku X
+c) Vyvíjí se v čase X
+d) Může být provázena deficitem kognitivních, senzorických funkcí, poruchou vývoje řeči X
+11. Mezi rizikové faktory vývoje dětské mozkové obrny patří:
+a) Perinatální asfyxie X
+b) Prematurita X
+c) Infekce X
+d) Roční období porodu
+12. Mezi formy dětské mozkové obrny nepatří:
+a) Spastická diparéza
+b) Spastická kvadruparéza
+c) Spastická paraparéza X
+d) Extrapyramidová forma dětské mozkové obrny
+13. Není pravda, že:
+a) Klinický obraz dětské mozkové obrny se během prvního roku zásadně nemění X
+b) Může se projevit v prvním trimenonu změnou svalového tonu
+c) Některé vývojové reflexy mohou být nevýbavné v novorozeneckém věku
+d) Některé vývojové reflexy mohou přetrvávat po 6. měsíci věku
+14. Spastická diparéza:
+a) Vzniká především u dětí rozených ve 28.-32. postkoncepčním týdnu X
+b) Je často spojena s nálezem periventrikulární leukomalacie X
+c) Postihuje především horní končetiny
+d) U většiny dětí je snížený intelekt a zkrácené přežívání
+15. Spastická kvadruparéza:
+a) Patří mezi lehčí formy dětské mozkové obrny
+b) Bývá často asociována s těžkým mentálním deficitem, poruchou zraku, sluchu, epilepsií X
+c) Bývá následkem těžké perinatální asfyxie X
+d) Je spojena se zkráceným dožitím dítěte X
+16. Extrapyramidová forma dětské mozkové obrny:
+a) Bývá spojena s hlubokou asfyxií u donošených dětí X
+b) Vede k těžké poruše vývoje hybnosti a řeči X
+c) Je převážně spojena s těžkou mentální retardací
+d) U většiny dětí nebrání rozvoji samostatné bipedální lokomoce
+17. Mezi uznávané léčebné postupy u dětské mozkové obrny nepatří:
+a) Rehabilitace
+b) Aplikace botulotoxinu
+c) Protetická léčba
+d) Léčba kmenovými buňkami X
+20. Duchenneova/Beckerova svalová dystrofie:
+a) Je způsobena mutací/delecí/duplikací genu pro dystrofin X
+b) Manifestuje se zpravidla v novorozeneckém věku
+c) Způsobí zpravidla opožděný nástup chůze
+d) Má pseudohypertrofii lýtek jako typický klinický příznak X
+21. Spinální muskulární atrofie ve své nejtěžší formě (Werdnigova-Hoffmanova nemoc):
+a) Se manifestuje v novorozeneckém věku X
+b) Je provázena hypotonií, sníženou svalovou silou, hyporeflexií, svalovou atrofií X
+c) Selhání dechu v důsledku hypoventilace nepatří do příznaků tohoto onemocnění
+d) Je nápadná slabým pláčem X
+22. Myastenie u novorozence:
+a) Nemůže být diagnostikována - v tomto věku se nevyskytuje
+b) Může vzniknout přenesením protilátek proti acetylcholinovému receptoru od matky transplacentálně X
+c) Se může projevit nápadně chabým pláčem a slabým sáním dítěte u prsu X
+d) Může být přechodná X
+23. Mezi metody vyšetření dítěte s podezřením na neuromuskulární onemocnění patří:
+a) EMG X
+b) MR svalu X
+c) ECHOkardiografické vyšetření X
+d) Spirometrie X
+24. Mezi klinické projevy nervosvalových onemocnění většinou nepatří:
+a) Hypotonie
+b) Kontraktury
+c) Snížená svalová síla
+d) Epilepsie X
+25. Pro centrální hypotonický syndrom je typické:
+a) Hyperreflexie X
+b) Snížená svalová síla
+c) Přechod do spasticity X
+d) Pozitivita spastických/pyramidových iritačních jevů X
+26. Pro periferní hypotonický syndrom je typické:
+a) Snížení svalové síly X
+b) Hyporeflexie X
+c) Tichý pláč novorozence/kojence X
+d) Obtížné sání/polykání kojence X
+27. Periferní hypotonie může být způsobena lézí na úrovní:
+a) Alfa motoneuronu X
+b) Periferního nervu X
+c) Neuromuskulárního spojení X
+d) Centrálního motoneuronu
+30. Herpetická encefalitida :
+a) V mozkomíšním moku je lymfocytární pleocytóza X
+b) Může se projevit klinicky jako komplikované febrilní křeče X
+c) V mozkomíšním moku je snížená bílkovina, snížená glukóza a vysoký laktát
+d) V mozkomíšním moku je monocytární pleocytóza
+31. Mezi dvě nejčastější etiologie meningitidy v dětském věku patří:
+a) Escherichia coli
+b) Staphylococcus aureus
+c) Streptococcus pneumoniae X
+d) Neisseria meningitidis X
+32. Edém mozku při zánětu CNS:
+a) Je převážně cytotoxický
+b) Je převážně intersticiální
+c) Je převážně vazogenní
+d) Je způsoben kombinací všech typů X
+33. Klinické příznaky purulentní meningitidy u kojence:
+a) Neklid, křeče či apatie až porucha vědomí X
+b) Horizontální nystagmus a světloplachost
+c) Zvracení, průjem, odmítání stravy X
+d) Vpadlá VF, dehydratace
+34. Typickým nálezem v mozkomíšním moku u purulentní meningitidy je:
+a) Zvýšená hladina bílkoviny  ≥ 2 g/l X
+b) Zvýšená hladiny glukózy ≥ 4 mmol/l
+c) Zvýšený počet erytrocytů ≥ 50/3
+d) Zvýšený počet leukocytů ≤ 100/3
+35. Odběr mozkomíšního moku u suspektní infekce CNS:
+a) Se provádí v sedě, v oblasti mezi L1-L2, odebírá se 2-5 ml moku
+b) U dítěte s oběhovým či ventilačním selháním se provádí pouze v sedě, odebírají se max. 2 ml moku
+c) U kojenců do 6 měsíců se provádí vleže v oblasti Th 12, odebírají se max. 2 ml moku
+d) Se provádí v sedě či vleže, mezi L3-L4, odebírá se 2-5 ml moku X
+36. Léčba purulentní meningitidy:
+a) Antibiotikem první volby jsou cefalosporiny 2. generace i.v.
+b) Antibiotikem první volby jsou cefalosporiny 3. generace i.v.
+c) Antibiotikem první volby jsou karbapenemy i.v.
+d) Antibiotikem první volby jsou aminopenicilíny i.v. X
+37. Meningeální syndrom je:
+a) Soubor příznaků vznikajících v důsledku dráždění mozkomíšních plen a míšních kořenů jakýmkoli patologickým procesem X
+b) Soubor příznaků vznikajících v důsledku dráždění mozkomíšních plen a míšních kořenů pouze při zánětu CNS
+c) Soubor příznaků vznikajících v důsledku dráždění mozkomíšních plen a míšních kořenů při vysoké horečce X
+d) Soubor příznaků vznikajících v důsledku dráždění mozkomíšních plen a míšních kořenů při subarachnoidálním krvácení X
+38. Křeče v dětském věku jsou často:
+a) Symptomatické X
+b) Příznakem epilepsie X
+c) Febrilní X
+d) Projevem dětského vzdoru
+39. Při výskytu křečí u dítěte je nutné všimnout si zvláště:
+a) Symetrie/asymetrie (hemikonvulze, verze očí, hlavy..) X
+b) Velikost a reaktivita zornic X
+c) Vegetativní příznaky (promodrání, opocení, slinění) X
+d) Reaktivity pacienta na verbální ev. taktilní podnět X
+40. V případě prvozáchytu křečí u dítěte je nutné:
+a) Změřit glykemii X
+b) Vyšetřit vnitřní prostředí X
+c) Změřit teplotu X
+d) Zvážit pacienta
+41. Pro febrilní křeče je typické:
+a) Výskyt ve věku 6 měsíců až 6 let X
+b) Opakovaný výskyt u jednoto pacienta X
+c) Většinou závažná prognóza a vysoké riziko trvalých neurologických následků
+d) Teplota nad 39,5 °C
+42. Nekomplikované febrilní křeče:
+a) Jsou symetrické X
+b) Jsou kratší než 10 minut X
+c) Mohou se opakovat se 2-3x během jednoho febrilního infektu
+d) Nekomplikují práci sloužícího lékaře - dítě není nutné vyšetřit, stačí ujištění rodičů
+43. V rámci první pomoci u dítěte s křečemi je nutné:
+a) Uvolnění dýchacích cest vytažením a fixací jazyka
+b) Okamžité zahájení dýchání z úst do úst, zvláště pokud je pacient cyanotický
+c) Aplikace diazepamu, pokud je dostupný X
+d) Uvedení pacienta do stabilizované polohy a monitorování po odeznění křečí X
+44. Diazepam u akutních křečí aplikujeme:
+a) Intravenosně X
+b) Intramuskulárně (žilní vstup je těžké zajistit)
+c) Perorálně
+d) Rektálně X
+45. Diazepam při akutních křečích podáváme v dávce:
+a) Intravenosně 0,3 mg/kg/dávku X
+b) Rektálně 5 mg pokud je dítě lehčí než 15 kg, u dětí pod 10 kg někdy volíme frakcionované podání X
+c) Intramuskulárně v dávce 0,6 mg/kg/dávku
+d) Intranasálně v dávce 0,8 mg/kg/dávku
+46. Dětské absence jsou:
+a) Dětský epileptický syndrom typický pro mladší školní věk X
+b) Denní snění (daydreaming) typický pro předškolní věk
+c) Synonymum pro záškoláctví
+d) Krátký záraz v aktivitě spojený s několika vteřinou ztrátou vědomí X
+47. Pro juvenilní myoklonickou epilepsii je typické:
+a) Výskyt v kojeneckém věku
+b) Generalizovaný tonicko-klonický záchvat X
+c) Provokace nevyspáním X
+d) Recidiva záchvatů v dospělosti po vysazení léčby X
+
+
+
+
+
+Dětská onkologie
+1. Nádory typické pro dětský věk:
+a) Jsou karcinomy střeva a prsu
+b) Nikdy nemetastazují
+c) Většinou netvoří specifické nádorové markery X
+d) Rychle rostou a časně metastazují X
+2. Nejčastější lokalizací meduloblastomu je:
+a) Orbita
+b) Mozková hemisféra
+c) Zadní jáma lební X
+d) Prodloužená mícha
+3. Celkovými příznaky Hodgkinova lymfomu mohou být:
+a) Pruritus X
+b) Intermitentní horečky X
+c) Úbytek váhy X
+d) Noční poty X
+4. Mediastinální lokalizace lymfomu se může projevit:
+a) Dušností X
+b) Syndromem horní duté žíly X
+c) Bolestí v krku
+d) Fluidothoraxem X
+5. Dušnost při nádorovém onemocnění může způsobit:
+a) Anémie X
+b) Atelektáza X
+c) Ascites X
+d) Trombocytopenie
+6. Nefroblastom:
+a) Je typický nádor dospívajících
+b) Je typický nádor kojenců a batolat X
+c) Nejčastěji se projevuje makroskopickou hematurií
+d) Může postihovat obě ledviny X
+7. Mezi nádory primární kostí u dětí a dospívajících patří:
+a) Retinoblastom
+b) Ewingův sarkom X
+c) Hepatoblastom
+d) Osteosarkom X
+8. Neuroblastom:
+a) Je typický nádor dospívajících
+b) Produkuje alfafetoprotein (AFP)
+c) Může infiltrovat kostní dřeň X
+d) Produkuje katecholaminy X
+9. Mezi typické nádory kojenců a batolat patří:
+a) Neuroblastom X
+b) Hepatoblastom X
+c) Hodgkinův lymfom
+d) Glioblastom
+10. Typickými příznaky Hodgkinova lymfomu jsou:
+a) Křeče
+b) Průjem
+c) Nebolestivá lymfadenopatie na krku nebo v nadklíčku X
+d) Diplopie
+
+Imunologie
+1. O imunoglobulinech platí, že:
+a) Základní molekula je tvořeny dvěma identickými těžkými a dvěma lehkými řetězci navzájem spojenými kovalentní vazbou
+b) V reakci na antigenní stimulaci dochází k jejich polyklonální produkci X
+c) Za normálních okolností lze v moči detekovat IgM
+d) Vrozený deficit tvorby protilátek se projeví již v novorozeneckém věku
+2. Těžký kombinovaný defekt imunity (SCID):
+a) Je kombinace poruch mechanismů vrozené a získané imunity
+b) Se projevuje kraniofacialní dysmorfií, neprospíváním a náchylností k infekcím
+c) Se nemusí vždy projevit lymfocytopenií v krevním obraze X
+d) Je pediatrická emergentní situace X
+3. Alergii na bílkovinu kravského mléka (ABKM) lze diagnostikovat:
+a) Vyšetřením sérového IgA a IgG proti kaseinu/syrovátkovým bílkovinám, jejich negativita ABKM vylučuje
+b) Vyšetřením sérového IgE proti laktóze
+c) Vyšetřením sérového IgE proti kaseinu/syrovátkovým bílkovinám, jejich negativita ale ABKM nevylučuje X
+d) Standardizovaným eliminačně-expozičním testem X
+4. Mezi léky s protialergickým účinkem nepatří:
+a) H1 antihistaminika
+b) H2 antihistaminika X
+c) Kortikosteroidy
+d) Antagonisté leukotrienových receptorů
+5. Reakce štěpu proti hostiteli:
+a) Se využívá při transplantacích hemopoetických kmenových buněk u pacientů s hematologickými malignitami X
+b) Je způsobena protilátkami přítomnými u HLA neidentického dárce
+c) Je způsobena dárcovskými T lymfocyty ve štěpu, které rozeznávají tkáňové antigeny příjemce jako “cizí” X
+d) Se projeví jako hyperakutní komplikace transplantace
+6. Obrana proti virům je zajišťována především:
+a) Mechanismy oxidativního vzplanutí mononukleárních fagocytů
+b) Vysokou produkcí interferonu gama T lymfocyty
+c) NK buňkami a cytotoxickými T lymfocyty X
+d) Za účasti interferonu alfa a beta X
+7. Vyberte onemocnění způsobená imunopatologickou reakcí II. typu (protilátkami zprostředkovaná):
+a) Akutní poststeptokoková glomerulonefritida
+b) Hemolytická nemoc novorozence X
+c) Myasthenia gravis X
+d) Kontaktní dermatitida
+8. Porucha komplementu se nepodílí na etiopatogenezi:
+a) Paroxysmální noční hemoglobinurie
+b) Atypického hemolyticko-uremického syndromu
+c) Gravesovy-Basedowovy thyreotoxikózy X
+d) Zvýšené náchylnosti k infekcím opouzdřenými bakteriemi
+9. Patnáctiletý chlapec s anamnézou předchozí anafylaktické reakce na jed vosy je na procházce lesem poštípán vosou do předloktí a udává pocit nastupující dušnosti. Vyberte nejvhodnější první  opatření:
+a) Okamžité podání antihistaminika ústy, dokud je schopný polykat
+b) Zaškrcení končetiny nad loketním kloubem a její imobilizace za účelem omezení šíření alergenu
+c) Inhalace 6 dávek salbutamolu
+d) Aplikace adrenalinu, např. 300 µg i.m. autoinjektorem X
+11. Darovat kostní dřen je možné:
+a) I při mírné formě alergických onemocnění X
+b) I po proběhlé infekční mononukleóze X
+c) I po léčbě zhoubného nádorového onemocnění
+d) I při trvalé chronické medikaci pro onemocnění srdce, cév, plic, kloubů
+
+Ostatní
+1. Mezi infekce TORCH patří:
+a) Cytomegalovirus X
+b) Toxokaróza
+c) Virus herpes simplex X
+d) Rickettsiózy
+2. O intrauterinních infekcích platí:
+a) Kongenitální cytomegalovirová infekce je nejčastější vrozenou infekcí u dětí X
+b) Kongenitální cytomegalovirová infekce je ve velké většině případů asymptomatická X
+c) Serologické vyšetření syfilis u gravidních žen se provádí u rizikových skupin v I. a III. trimestru těhotenství
+d) Screening na hepatitidu typ B se u novorozenců v České republice neprovádí
+3. O intrauterinní infekci plodu virem rubeoly neplatí:
+a) Je ze všech virů nejvíce teratogenní
+b) Způsobuje kataraktu, srdeční vady a hluchotu
+c) Přístupem první volby po zjištění infekce u gravidní ženy je pasivní imunizace X
+d) Prevencí je očkování, které se provádí pouze u dívek X
+4. Jaké klinické příznaky můžeme zjistit u kojence s vrozenou cytomegalovirovou infekcí:
+a) Mikrocefalii X
+b) Hluchotu X
+c) Duodenální atrézii
+d) Neprospívání X
+5. O infekci plodu virem varicella zoster v graviditě platí:
+a) Může vést k embryopatii s hypoplastickými malformacemi končetin a kožními pigmentovanými jizvami X
+b) Viscerální varicellová infekce s postižením jater a plic má 30 % mortalitou a vzniká, pokud žena onemocní 2-3 týdny před porodem
+c) Hyperimunní imunoglobulin a aciclovir se podává všem novorozencům, u jejíž matek došlo k výsevu 5–7 dnů před porodem až do týdne po porodu X
+d) Riziko vzniku kongenitálního varicellového syndromu je cca 2 %, jestli se infekce vyskytne po 20. gestačním týdnu X
+6. O intrauterinní infekci plodu Parvovirem B19 neplatí:
+a) Při infekci v 1. trimestru umírá až 17 % plodů
+b) Může vést k hydropsu plodu
+c) Vede k útlumu erytropoézy
+d) Při zjištění onemocnění je indikováno umělé přerušení těhotenství pro velké riziko vrozených vad X
+7. O intrauterinní infekci plodu Toxoplasma gondii platí:
+a) Při primoinfekci u matky s délkou gravidity riziko infekce plodu stoupá, zatímco riziko teratogenní klesá X
+b) Způsobuje hydrocefalus X
+c) Mezi pozdní příznaky intrauterinní infekce původně asymptomatického novorozence patří chorioretinitida X
+d) Prevencí je vyloučení kontaktu se psy, zejména mláďaty a jejich trusem
+8. Pro intrauterinní infekci plodu a perinatální infekci novorozence virem herpes simplex neplatí:
+a) Embryopatie je vzácnou komplikací a způsobuje kalcifikace v mozku
+b) U perinatálně infikovaných novorozenců se onemocnění manifestuje několik dnů až za 3 týdny po narození
+c) Perinatálně akvírovaná infekce se charakteristicky projeví těžce probíhající novorozeneckou aftózní gingivostomatitidou X
+d) Perinatální herpetická infekce nepatří do dif. dg. novorozeneckých křečí X
+11. Hladiny tekutiny v distendovaných střevních kličkách na nativním snímku břicha můžeme pozorovat při snímkování horizontálním paprskem:
+a) Vstoje X
+b) Vleže na zádech X
+c) Na levém boku X
+d) Na pravém boku X
+12. Na rentgenovém snímku hrudníku popisujeme:
+a) Stíny X
+b) Projasnění X
+c) Změny denzity
+d) Echogenitu
+13. Rentgenový snímek u kojenců hodnotíme s ohledem na:
+a) Stupeň inspiria X
+b) Stočení dítěte na snímku X
+c) Uložení lopatek
+d) Velikost jater
+14. Nejčastější příčinou rozšíření stínu mediastina u kojenců je:
+a) Pneumothorax
+b) Pneumomediastinum
+c) Zvětšený thymus X
+d) Nádor mediastina
+15. U novorozence s porodní hmotností 1620 g se krátce po porodu rozvíjí respirační insuficience. Na rentgenovém snímku se zobrazí syté homogenní zastření obou plicních křídel. Jedná se o:
+a) Oboustranný fluidothorax
+b) Oboustranný pneumothorax
+c) Syndrom dechové tísně X
+d) Bronchopulmonální dysplázii
+16. Radiační zátěž u rentgenového snímku hrudníku je:
+a) Nulová
+b) Velmi nízká (dny přírodního radiačního pozadí) X
+c) Středně vysoká (měsíce přírodního radiačního pozadí)
+d) Velmi vysoká (roky přírodního radiačního pozadí)
+17. U týdenního nedonošeného novorozence se syndromem dechové tísně na umělé plicní ventilaci byl proveden snímek hrudníku na lůžku kvůli poklesu saturací. Na snímku je patrné snížení transparence v pravém horním plicním poli, zmenšení objemu pravé plíce a vytažení pravého plicního hilu kraniálně. Může se jednat o:
+a) Pravostranný pneumothorax
+b) Pravostranný fluidothotrax
+c) Kolaps horního laloku pravé plíce X
+d) Pneumomediastinum
+18. Při podezření na přítomnost pleurální tekutiny je u malých dětí nejvhodnější provést:
+a) Ultrazvukové vyšetření X
+b) CT vyšetření
+c) MR vyšetření
+d) Skiaskopii
+19. Při snímkování horizontálním paprskem vstoje se pneumoperitoneum projeví jako:
+a) Srpkovité projasnění podbráničně X
+b) Hladiny ve střevních kličkách
+c) Konturace psoatů
+d) Snížená transparence epigastria
+20. Čtyřletá dívka přichází v doprovodu rodičů pro „ucpaný nos“, „smrkání“, „pokašlávání“ a „zvýšenou teplotu“ v posledních třech dnech. Fyzikální nález je chudý, proto:
+a) Indikujeme provedení rentgenového snímku paranasálních dutin
+b) Indikujeme provedení rentgenového snímku hrudníku
+c) Indikujeme provedení ultrazvukového vyšetření tonsil
+d) Neindikujeme žádné zobrazovací metody X
+21. Mezi významné geneticky podmíněné příčiny malého vzrůstu u dětí patří:
+a) Klinefelterův syndrom
+b) Turnerův syndrom X
+c) Deficit SHOX genu X
+d) Deficit FBN1 genu
+22. Vyšetření typu microarray (nejčastěji array-CGH či SNP-array) může detekovat:
+a) Plně balancované chromozomové aberace (např. inverze či translokace)
+b) Chromozomové delece či duplikace (včetně submikroskopických změn) X
+c) Sekvenční změny na úrovni jednotlivých genů (například substituce)
+d) Změny na úrovni genové exprese (ovlivnění sestřihu, hypermetylace DNA).
+23. U hypertrofického novorozence s organomegalií, makroglosií, pupeční kýlou a epizodou hypoglykémie bychom měli myslet na:
+a) Downův syndrom
+b) Noonanové syndrom
+c) Beckwithův-Wiedemannův syndrom X
+d) Prune belly syndrom
+24. Které z následujících tvrzení o prenatální diagnostice chromozomových aberací je pravdivé:
+a) Invazivní prenatální diagnostika je stále jedinou možností detekce nejčastějších autozomálních trizomií u plodu.
+b) Odběr choriových klků v posledních letech zcela nahradil dříve používaný odběr plodové vody.
+c) Nejvýznamnější indikací k provedení karyotypizace plodu je v současné době pozitivní screeningové vyšetření. X
+d) Pro potvrzení diagnózy chromozomové aberace u plodu je stále častěji využívána fetoskopie.
+25. Mezi časté - geneticky podmíněné - příčiny mentální retardace u chlapců patří:
+a) Downův syndrom X
+b) Klinefelterův syndrom
+c) Syndrom fragilního chromozomu X. X
+d) Gilbertův syndrom
+26. Vyšetření chromozomů v optickém mikroskopu je vhodnou metodou k diagnostice:
+a) Početních chromozomových odchylek X
+b) Uniparentální disomie
+c) Chromozomových translokací a inverzí X
+d) Chromozomální instability X
+27. U klasické (kompletní) formy syndromu androgenní insenzitivity (mutace AR genu) nacházíme:
+a) Normální ženský karyotyp, normální ženský zevní genitál
+b) Normální ženský karyotyp, normální mužský zevní genitál
+c) Normální mužský karyotyp, normální ženský zevní genitál X
+d) Normální mužský karyotyp, normální mužský zevní genitál
+28. U Angelmanova syndromu může být molekulární příčina diagnostikována na úrovni:
+a) Bodové mutace X
+b) Mikrodelece X
+c) Uniparentální disomie X
+d) Poruchy metylace X
+31. Autozomálně recesivní dědičnost je typická pro:
+a) Cystickou fibrózu (mutace CFTR genu) X
+b) Fenylketonurii (mutace PAH genu) X
+c) Syndrom androgenní insenzitivity (mutace AR genu)
+d) Kongenitální adrenální hyperplázii (mutace CYP21A2 genu) X
+32. Která z následujících tvrzení o genetické laboratorní diagnostice jsou pravdivá:
+a) Genové mutace typu missense je možné detekovat pomocí sekvenačních metod X
+b) MLPA je vhodnou metodou k diagnostice vybraných delecí či duplikací X
+c) Vyšetření karyotypu v optickém mikroskopu zachytí pouze genové/chromozomové přestavby o rozsahu alespoň 100 nukleotidů
+d) Uniparentální disomie je diagnostikovatelná pomocí metody FISH ve fluorescenčním mikroskopu
+33. Která z následujících tvrzení o cytogenetickém vyšetření jsou pravdivá:
+a) Do hodiny po odebrání vzorku krve pro cytogenetické vyšetření je zapotřebí inhibovat buňky pomocí kolcemidu nebo 90% etanolu
+b) Kultivace je klíčovou součástí laboratorního postupu, neboť chromozomy jsou viditelné pouze v dělících se buňkách X
+c) U osob po transplantaci kostní dřeně je k cytogenetickému vyšetření možné využít kožní fibroblasty  X
+d) K vizualizaci chromozomů pro vyšetření v optickém mikroskopu se dnes již nevyužívají tzv. pruhovací metody (jako bylo tzv. G-pruhování), ale jednodušší – klasické barvení pomocí Giemsova barviva
+34. Dvěma zdravým, nepříbuzným rodičům se narodil chlapec, u kterého byla v předškolním věku diagnostikována Hemofilie typu B. Pokud bychom postupovali pouze podle rodokmenu, jaké je teoretické riziko opakování stejné choroby pro další dítě tohoto páru:
+a) 50 % - pokud by šlo o chlapce X
+b) 25 % - pokud by šlo o dívku
+c) 75 % - pokud by šlo o chlapce
+d) 0 % - pokud by šlo o dívku X

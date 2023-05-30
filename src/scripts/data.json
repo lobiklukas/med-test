@@ -3189,35 +3189,8 @@
           "option": "d",
           "text": "110 cm",
           "isCorrect": false
-        },
-        {
-          "option": "a",
-          "text": "120 cm",
-          "isCorrect": false
-        },
-        {
-          "option": "b",
-          "text": "140 cm",
-          "isCorrect": true
-        },
-        {
-          "option": "c",
-          "text": "160 cm",
-          "isCorrect": false
-        },
-        {
-          "option": "d",
-          "text": "110 cm",
-          "isCorrect": false
         }
       ]
-    },
-    {
-      "id": "126Pediatrická propedeutika",
-      "order": 126,
-      "text": "Fyziologická výška desetiletého dítěte je:",
-      "category": "Pediatrická propedeutika",
-      "options": []
     }
   ],
   "Akutní stavy v pediatrii": [
@@ -6216,9 +6189,17 @@
         },
         {
           "option": "d",
-          "text": "Zrychlení růstového tempa, tachykardie,  intolerance tepla   48. Mezi nejčastější příčiny hypertyreózy patří:",
+          "text": "Zrychlení růstového tempa, tachykardie,  intolerance tepla",
           "isCorrect": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "48Dětská endokrinologie",
+      "order": 48,
+      "text": "Mezi nejčastější příčiny hypertyreózy patří:",
+      "category": "Dětská endokrinologie",
+      "options": [
         {
           "option": "a",
           "text": "Imunogenní hypertyreóza",
@@ -12094,6 +12075,4190 @@
         {
           "option": "d",
           "text": "Syndrom periodické fetální aplastické anemie",
+          "isCorrect": true
+        }
+      ]
+    }
+  ],
+  "Dětská nefrologie": [
+    {
+      "id": "1Dětská nefrologie",
+      "order": 1,
+      "text": "Nefrotická proteinurie u dětí:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je typická pro akutní poststreptokokovou glomerulonefritidu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Je definována jako proteinurie větší než 1 g/den/m2 tělesného povrchu",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Je typická pro idiopatický nefrotický syndrom",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Je definována jako proteinurie větší než 3,5 g/den",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "2Dětská nefrologie",
+      "order": 2,
+      "text": "Pro diagnózu nefrotického syndromu je nezbytná:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Přítomnost otoků",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Proteinurie a hypalbuminemie",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Proteinurie a hematurie",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Průkaz snížení renálních funkcí s oligurií",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "3Dětská nefrologie",
+      "order": 3,
+      "text": "Primoataku primárního idiopatického nefrotického syndromu léčíme:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Podáváním antibiotik",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Podáváním kortikoidů",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Neléčíme medikamentozně, jen sledujeme",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Imunosupresivní dávkou cystostatik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "4Dětská nefrologie",
+      "order": 4,
+      "text": "Propouštíme domů dítě po úspěšné léčbě primoataky idiopatického nefrotického syndromu kortikoidy. Naše informace rodičům je:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Dítě je vyléčeno, pravděpodobnost recidivy je minimální",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Pravděpodobnost recidivy je téměř 100 %",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Pravděpodobnost, že nebude mít další recidivu, je cca 30 %",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Pravděpodobnost recidivy je 50 %",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "5Dětská nefrologie",
+      "order": 5,
+      "text": "Typickým laboratorním příznakem tubulárního postižení ledvin je:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Mikroalbuminurie",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Glykosurie při normoglykemii",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Přítomnost beta-2-mikroglobulinu/alfa-1-mikroglobulinu v moči",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Selektivní proteinurie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "6Dětská nefrologie",
+      "order": 6,
+      "text": "Mezi tzv. „funkční proteinurie“  patří:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Mikroalbuminurie",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Febrilní proteinurie",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Ortostatická proteinurie",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Proteinurie při cystitis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "7Dětská nefrologie",
+      "order": 7,
+      "text": "Proteinurie >1,5 g/m2/den je pravděpodobně:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Tubulární",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Postrenální",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Glomerulární",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Febrilní",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "8Dětská nefrologie",
+      "order": 8,
+      "text": "Mezi příčiny primární monosymptomatické enurézy nepatří:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Noční polyurie",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Psychické problémy v rodině",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Porucha buzení",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Nízká mikční kapacita moč. měchýře",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "11Dětská nefrologie",
+      "order": 11,
+      "text": "Přijímáme 6letou afebrilní dívku s mírnými otoky víček, makroskopickou hematurií, hraničně zvýšeným krevním tlakem bez dysurických obtíží. Nejpravděpodobněji se jedná o:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Akutní cystitis",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Nefrotický syndrom na podkladě minimálních změn glomerulů",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Akutní glomerulonefritis",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Akutní pyelonefritis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "12Dětská nefrologie",
+      "order": 12,
+      "text": "Nefritický syndrom v dětském věku:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je nejčastěji způsoben akutní poststreptokokovou glomerulonefritidou",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Je většinou spojen s hypertenzí",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Jeho nezbytným laboratorním projevem je proteinurie",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Jeho nezbytným laboratorním projevem je hematurie",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "13Dětská nefrologie",
+      "order": 13,
+      "text": "Snížení C3 složky komplementu není typické pro:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Akutní poststreptokokovou glomerulonefritidu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Lupusovou glomerulonefritidu",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Primární idiopatický nefrotický syndrom",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Chronickou membranoproliferaivní glomerulonefritidu typu II",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "14Dětská nefrologie",
+      "order": 14,
+      "text": "Opakované ataky makroskopické hematurie zároveň s probíhajícím infektem (synfaryngické hematurie) jsou typické pro:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Akutní poststreptokokovou glomerulonefritis",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "IgA glomerulonefritis",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Alportův syndrom",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "ARPKD - autosomálně recesivní polycystickou chorobu ledvin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "15Dětská nefrologie",
+      "order": 15,
+      "text": "Do ambulance přijde matka s 8letým chlapcem pro recidivující mikroskopickou hematurii. Jeho matka je také sledována na nefrologii pro hematurii, proteinurii a hypertenzi. Jeho dědeček dochází na dialýzu a špatně slyší. Nejpravděpodobnější dg. dle anamnézy je:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Kongenitální nefrotický syndrom",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Syndrom tenkých membrán",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Alportův syndrom",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Chronická membranoproliferativní glomerulonefritis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "16Dětská nefrologie",
+      "order": 16,
+      "text": "Makroskopická hematurie, která se objeví po bezpříznakovém období (cca 7-14 dnů) po povlakové angině, je typická pro:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "IgA nefropatii",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Henochovu- Schonleinovu purpuru",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "ADPKD - autosomálně dominantní polycystickou chorobu ledvin",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Akutní glomerulonefritidu",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "17Dětská nefrologie",
+      "order": 17,
+      "text": "Mezi onemocnění charakterizovaná sterilními poststreptokokovými komplikacemi nepatří:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Revmatická horečka",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Submandibulární lymfadenitis",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Akutní glomerulonefritis",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Chronická tonsilitida",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "18Dětská nefrologie",
+      "order": 18,
+      "text": "Pozitivní reakce na krevní barvivo při chemickém vyšetření moče může svědčit pro:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Myoglobinurii",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Erytrocyturii",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Hemoglobinurii",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Diabetes insipidus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "21Dětská nefrologie",
+      "order": 21,
+      "text": "Jednostranná vrozená hydronefróza vyššího stupně u kojence může mít tyto příznaky:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Klinické a laboratorní známky selhávání ledvin",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Ve většině případů je průběh asymptomatický",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Oligurie či anurie",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Hmatná rezistence v bříšku",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "22Dětská nefrologie",
+      "order": 22,
+      "text": "Konzervativní (nechirurgický) postup u vrozené hydronefrózy volíme:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Vždy",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Při normální diferenciální funkci postižené ledviny",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Při asymptomatickém průběhu",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Nikdy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "23Dětská nefrologie",
+      "order": 23,
+      "text": "Konzervativní léčba primárního VUR u dětí do jednoho roku je indikována:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Jen u VUR nízkého či středního stupně",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Ve většině případů",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Jen u chlapců",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Nikdy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "24Dětská nefrologie",
+      "order": 24,
+      "text": "K chirurgickému řešení primárního VUR vysokého stupně přistupujeme:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Častěji u chlapců",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Častěji u dívek",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Ve většině případů nejdříve po prvním roce věku",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Častěji u symptomatických dětí s opakovanými akutními pyelonefritidami",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "25Dětská nefrologie",
+      "order": 25,
+      "text": "Chlopeň zadní uretry:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je závažná vada uropoetického traktu",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Vyskytuje se stejně u chlapců jako u dívek",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Patří mezi nejčastější příčiny chronické ledvinné nedostatečnosti u dětí",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Má charakteristický ultrazvukový prenatální nález",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "26Dětská nefrologie",
+      "order": 26,
+      "text": "Fetální uropatie:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Jsou VVV uropoetického traktu diagnostikovaná většinou prenatálně",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Patří mezi vzácné vývojové vady",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Mají většinou postnatálně asymptomatický průběh",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Jejich klinický význam je zanedbatelný a proto po nich aktivně nepátráme",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "27Dětská nefrologie",
+      "order": 27,
+      "text": "Úspěšnost chirurgické léčby - reimplantace primárního VUR je:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "60 - 70%",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Nad 95 %",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "10 - 20%",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "30 - 50%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "28Dětská nefrologie",
+      "order": 28,
+      "text": "Autosomálně dominantní polycystická choroba ledvin (ADPKD):",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je jednou z nejčastějších monogenně podmíněných dědičných chorob v populaci",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Postihuje jen muže",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Často přechází do chronické renální insuficience v dospělosti",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Klinicky se začíná projevovat typicky v předškolním věku",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "29Dětská nefrologie",
+      "order": 29,
+      "text": "Multicystická dysplasie ledvin (MCDK):",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Vyžaduje ve většině případů chirurgické řešení",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Většinou postupujeme konzervativně",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Většinou do dospělosti ledvina zaniká",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "V naprosté většině případů postihuje jen 1 ledvinu",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "32Dětská nefrologie",
+      "order": 32,
+      "text": "Nejdůležitějším diagnostickým kritériem infekce močových cest je:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Abnormální zápach a zabarvení moče",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Makroskopická hematurie",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Významná bakteriurie",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Bolestivé močení",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "33Dětská nefrologie",
+      "order": 33,
+      "text": "Při chemickém vyšetření moče při infekci močových cest je typickým a specifickým nálezem:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Přítomnost bílých krvinek v moči",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Přítomnost červených krvinek v moči",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Přítomnost bílkoviny v moči",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Pozitivní reakce na dusitany",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "34Dětská nefrologie",
+      "order": 34,
+      "text": "Nejčastějším původcem infekce močových cest u dětí je:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Enterococus foecalis",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Pseudomonas aeruginosa",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Escherichia coli",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Klebsiela pneumonie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "35Dětská nefrologie",
+      "order": 35,
+      "text": "Mezi Jodalova kritéria akutní pyelonefritidy nepatří:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Vyšší FW",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Vyšší CRP",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Signifikantní bakteriurie",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Hematurie",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "36Dětská nefrologie",
+      "order": 36,
+      "text": "U 8měsíční holčičky s druhou atakou akutní pyelonefritidy doporučíme:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Provedení vylučovací urografie",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Zajišťovací ATB terapii a pozveme si ji na kontrolu za 6 měsíců",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Provedení mikční cystouretrografie",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Léčíme stejně jako první ataku bez dalšího vyšetřování",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "37Dětská nefrologie",
+      "order": 37,
+      "text": "Na LSPP přichází rodiče s 3měsíčním chlapečkem s nejasným febrilním stavem (TT až 39,8 °C), CRP 120 mg/l. V moči papírkem je výrazná leukocyturie a nitriturie. Doporučený postup:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Předepíšeme mu p.o. ATB a odešleme ho na této terapii domů a předáme do péče PLDD",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Odebereme moč kultivačně",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Vzhledem k tomu, že je diagnóza akutní pyelonefritis velmi pravděpodobná, zahájíme po odběru biologického materiálu ATB i.v. terapii.",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Doplníme odběry FW, krevního obrazu, základní biochemie, RTG plic a pozveme si ho na kontrolu za 48 hodin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "38Dětská nefrologie",
+      "order": 38,
+      "text": "Při podezření na akutní pyelonefritidu doporučená empirická terapie je:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Nitrofurantoinem",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "G-penicilinem",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Amoksiklavem",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Cefuroximem",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "39Dětská nefrologie",
+      "order": 39,
+      "text": "Signifikantní bakteriurii je:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Jakákoliv bakteriurie při odběru suprapubickou punkcí",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Hodnota více jak 105/ml při odběru moče středním proudem",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Hodnota více jak 104/ml při odběru moče katetrizací",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Jakýkoliv průkaz bakteriurie ze spontánní moče",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "42Dětská nefrologie",
+      "order": 42,
+      "text": "Nejčastější důvod akutního selhání ledvin v dětském věku je:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Renální etiologie",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Postrenální etiologie",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Prerenální etiologie",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Všechny předchozí příčiny se podílejí cca stejným dílem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "43Dětská nefrologie",
+      "order": 43,
+      "text": "V případě prerenální etiologie akutního selhání ledvin (na rozdíl od renální etiologie) většinou u pacienta zjistíme:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Hypertenzi",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Vysokou osmolalitu/specifickou hmotnost moče",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Nízkou exkreční frakci Na+ v moči",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Klinické známky dehydratace",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "44Dětská nefrologie",
+      "order": 44,
+      "text": "Mezi kritéria hemolyticko-uremického syndromu nepatří:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Hemolytická anemie",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Trombocytopenie",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Retence dusíkatých metabolitů (vzestup urey, kreatininu)",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Průkaz enteropatogenní E. coli ve stolici",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "45Dětská nefrologie",
+      "order": 45,
+      "text": "Oligurie u kojence je definována jako:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Diuréza pod 10 ml/kg/hod",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Diuréza pod 1 ml/kg/hod",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Diuréza pod 10 ml/kg/den",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Méně než 3 pomočené pleny/den",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "46Dětská nefrologie",
+      "order": 46,
+      "text": "Nejčastější příčinou chronického selhávání ledvin v dětském věku jsou:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Chronické glomerulonefritidy",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Vrozené vývojové vady uropoetického traktu",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Stavy po úrazech s poškozením ledvin",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Chronické pyelonefritidy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "47Dětská nefrologie",
+      "order": 47,
+      "text": "Klinicky nejzávažnějším laboratorním nálezem u pacienta s akutním selháním ledvin je:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Zvýšení kreatininu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Zvýšení urey",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Hyperkalemie",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Hyponatremie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "48Dětská nefrologie",
+      "order": 48,
+      "text": "Při klinickém vyšetření dítěte s chronickou renální insuficiencí můžeme zjistit:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Kožní purpuru",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Oploštění růstové křivky",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Hypertenzi",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Jednostranné lumbalgie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "49Dětská nefrologie",
+      "order": 49,
+      "text": "Z uvedených chorob se chronická renální insuficience pravděpodobně nejdříve projeví u pacienta s dg:",
+      "category": "Dětská nefrologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "ADPKD - autosomálně dominantní polycystické choroby ledvin",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "ARPKD - autosomálně recesivní polycystické choroby ledvin",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "CHRI v důsledku lupusové nefritidy",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Refluxová nefropatie",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "Neonatologie": [
+    {
+      "id": "1Neonatologie",
+      "order": 1,
+      "text": "Donošený novorozenec, kterého přinesli na ošetřovací lůžko po porodu, je v první minutě života nápadně hypotonický, má bledou pokožku, nepláče a nedýchá. Co uděláte?",
+      "category": "Neonatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Změřím životní funkce a dítě budu dále observovat",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Počkám, než dítě sestra označí, zváží a změří, do té doby počkám, jestli se stav neupraví",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Změřím životní funkce a požádám anesteziologa o zajištění dýchacích cest intubaci",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Změřím akci srdeční, budu se snažit dítě taktilně stimulovat, a pokud samo nezačne dýchat, zahájím kardiopulmonální resuscitaci",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "2Neonatologie",
+      "order": 2,
+      "text": "Jaké bude skóre dle Apgarové u donošeného novorozence, kterého přinesli na ošetřovací lůžko po porodu, je v první minutě života nápadně hypotonický, má bledou pokožku, nepláče a nedýchá, pokud nebude reagovat na taktilní stimulaci a jeho srdeční akce bude 40 za minutu?",
+      "category": "Neonatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "0 bodů",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "2 body",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "6 bodů",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "8 bodů",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "3Neonatologie",
+      "order": 3,
+      "text": "Zaškrtněte, co platí u resuscitace asfyktického donošeného novorozence:",
+      "category": "Neonatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Jednou z možností resuscitace je stlačování hrudníku dvěma prsty do jedné třetiny průměru hrudníku",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Poměr stlačení hrudníku a vdechům je 3:1",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Před zahájením resuscitace je vhodné intratracheálně podat surfaktant",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Frekvence stlačení hrudníku je u novorozence 150 za minutu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "4Neonatologie",
+      "order": 4,
+      "text": "pH arteriální pupečníkové krve bylo 7,08 a hladina laktátu 9 mmol/l:",
+      "category": "Neonatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Nejedná se o hypoxii, ta by bylo přítomna až při pH pod 7,05",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Jedná se o hypoxii",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Je indikací k podání bikarbonátu",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Je v pořádku",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "5Neonatologie",
+      "order": 5,
+      "text": "Řízená hypotermie:",
+      "category": "Neonatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Není u donošeného novorozence indikována, užívá se jen o nezralých dětí",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Trvá normálně 48 hodin",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Důležitým indikačním kritériem je EEG záznam",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Její podmínkou je její zahájení do 10 hodin po prodělané hypoxii",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "6Neonatologie",
+      "order": 6,
+      "text": "Dětská mozková obrna:",
+      "category": "Neonatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Se nevyskytuje, protože proti polioviru je v ČR zavedeno očkování",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Je progresivní motorické postižení spojeno s inzultem v perinatálním období",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Je neprogresivní motorické postižení spojeno s inzultem v perinatálním období",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Mezi hlavní příčiny se řadí hypoxie, nezralost a infekce",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "7Neonatologie",
+      "order": 7,
+      "text": "Dětská mozková obrna (DMO):",
+      "category": "Neonatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Má formu hypotonickou a cerebelární",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Mezi léčebné přístupy DMO patří aplikace botulotoxinu",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Důležitá je rehabilitace",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "V některých případech se provádí chirurgické prodloužení Achillových šlach",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "8Neonatologie",
+      "order": 8,
+      "text": "Donošený novorozenec, který prodělal asfyxii, může mít následující orgánové komplikace:",
+      "category": "Neonatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Hypoxicko-ischemickou encefalopatii",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Rozvoj perzistující plicní hypertenze",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Rozvoj disseminované intravaskulání koagulace",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Hypoxické postižení růstových zón kostí",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "9Neonatologie",
+      "order": 9,
+      "text": "Terapeutická hypotermie se provádí jako:",
+      "category": "Neonatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Lehká s udržovanou teplotou 33-34 °C",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Střední s udržovanou teplotou 28-32 °C",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Terapeutická v rozsahu 35-36 °C",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Terapeutická hluboká s udržovanou teplotou 18-26 °C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "10Neonatologie",
+      "order": 10,
+      "text": "Při noční službě se ve spádové porodnici předčasně narodil novorozenec v 32+3 gestačním týdnu s váhou 1920 g. Skóre dle Apgarové bylo 6-9-9. Dítě bylo vzhledem ke gestačnímu stáří uloženo do inkubátoru. Jedná se o nedonošeného novorozence:",
+      "category": "Neonatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "S nízkou porodní hmotností",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Extrémně nezralé",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "S velmi nízkou porodní hmotností",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Těžce nezralé",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "11Neonatologie",
+      "order": 11,
+      "text": "Nezralý novorozenec v 29+6 gestačním týdnu je vzhledem ke svému gestačnímu stáří ohrožen hypoglykémií:",
+      "category": "Neonatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Proto ho preventivně začneme od začátku po dvou hodinách přikládat k prsu matky",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Jako prevenci hypoglykémie můžeme podat glukagon",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Hypoglykémii budeme řešit pouze v případě, že bude symptomatická (třes, pocení, apnoická pauza), jinak je stimulačním mechanismem",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Dítě v tomto gestačním stáří ještě nemá polykací reflex, zavádí se výživa bude periferním žilním katetrem nebo umbilikálním katetrem v případě vyšší potřeby přívodu cukru",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "12Neonatologie",
+      "order": 12,
+      "text": "Do třiceti minut po porodu nezralého novorozence z 34. gestačního týdne sestra volá lékaře, protože novorozenec je dušný - dýchá nápadně rychle, zatahuje mezižeberní prostory, břišní lis, jugulární jamku, má grunting. Novorozenec je observován na Jednotce intenzivní péče:",
+      "category": "Neonatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Může se jednat o sepsi, je potřeba podat antibiotickou dvojkombinaci - ampicilin, gentamicin",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Může se jednat o dechovou respirační tíseň (RDS) nedonošených a terapeuticky zvažujeme distenční podporu (pomocí nCPAP, případně intubaci) a podání surfaktantu",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Může se jednat o aspiraci mekónia",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Vše z uvedeného je správné",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "13Neonatologie",
+      "order": 13,
+      "text": "Nezralý novorozenec v 33. gestační týdnu bude mít:",
+      "category": "Neonatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Tenkou jemnou růžovou kůži s lanugem",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Hmatné a vyvinuté bradavky",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Nehty budou přesahovat okraj prstů",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Bude mít sestouplé jedno varle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "14Neonatologie",
+      "order": 14,
+      "text": "Patnáctý den hospitalizace nezralého novorozence z 28. gestačního týdne na Jednotce intenzivní péče je u dítěte ve fyzikálním vyšetření přítomné nápadně nafouklé bříško. Objevují se bolesti, má teplotní nestabilitu, ventilační zhoršení a hypotenzi. Na indikovaném rentgenovém snímku horizontálním paprskem je nad játry přítomen srpek projasnění, přítomna je distenze střevních kliček a reziduum v žaludku.",
+      "category": "Neonatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Jedná se o hemoperitoneum, bříško je potřeba akutně punktovat a hematom odsát",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Jedná se o pneumoperitoneum v důsledku nekrotizující enterokolitidy (NEC)",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Podáme antibiotickou terapii a při závažném stupni NEC (perforace) indikujeme chirurgickou terapii",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Zavedeme nasogastrickou sondu a odsajeme žaludeční obsah",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "15Neonatologie",
+      "order": 15,
+      "text": "Retinopatie nedonošených:",
+      "category": "Neonatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Mezi rizikové faktory patří nezralost",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Mezi rizikové faktory patří hyperoxie",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Mezi rizikové faktory patří hypoxie",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Dá se léčit laserovou fotokoagulací nebo kryoterapií",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "16Neonatologie",
+      "order": 16,
+      "text": "Bronchopulmonální dysplázie (BPD) nebo nověji chronické plicní onemocnění:",
+      "category": "Neonatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je definována jako závislost na kyslíku nebo na ventilační podpoře v každém věku novorozence",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Nepostihuje novorozence s porodní hmotností pod 1000 g.",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Hlavním patofyziologickým podkladem je v současné době zánět, rizikovými faktory jsou toxicita kyslíku a mechanická plicní ventilace v kombinaci s nezralostí",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "U dětí s BPD je indikováno očkování proti RSV profylakticky",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "17Neonatologie",
+      "order": 17,
+      "text": "Otevřená Botallova tepenná dučej (ductus arteriosus patens, PDA):",
+      "category": "Neonatologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Mezi rizikové faktory patří nezralost, syndrom dechové tísně (RDS), asfyxie",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Botallova tepenná dučej se u zdravého donošeného novorozence uzavře do 72-96 hodin po porodu, u nedonošených novorozenců i později",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Zhoršuje oběhové parametry dítěte",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "V případě cyanotických vrozených srdečních vad lze zabránit uzavření dučeje intravenózně podaným ibuprofenem/indometacinem",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "Dětská neurologie": [
+    {
+      "id": "1Dětská neurologie",
+      "order": 1,
+      "text": "Mezi primární bolesti hlavy nepatří:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Migrenózní cefalea",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Tenzní cefalea",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Poúrazová bolest hlavy",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Bolest hlavy při hypertenzi",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "2Dětská neurologie",
+      "order": 2,
+      "text": "Je pravda, že tenzní cefalea:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Může být každodenní",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Má silnou až velmi silnou intenzitu",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Často budí v noci ze spaní",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Dítě mívá normální neurologický nález",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "3Dětská neurologie",
+      "order": 3,
+      "text": "Při bolesti hlavy patří mezi příznaky ukazující na možnost nitrolební hypertenze:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Postupně se zhoršující intenzita bolesti",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Ranní zvracení",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Fotofobie",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Spastická diparéza",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "4Dětská neurologie",
+      "order": 4,
+      "text": "Bolest hlavy u prosté migrény v dětském věku:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Bývá střední až silné intenzity",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Provází často zvracení",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Nemusí být lateralizovaná",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Má pozitivní neurologický nález - hemiparesu, hemianopsii",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "5Dětská neurologie",
+      "order": 5,
+      "text": "Léčba migrenózní cefaley v dětském věku spočívá:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Včasném podání paracetamolu ev. ibuprofenu",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Klidový režim na lůžku",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Včasném podání tryptanů (např. eletriptan)",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Psychoterapii",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "6Dětská neurologie",
+      "order": 6,
+      "text": "Pro léčbu tenzní cefaley v dětském věku nepoužíváme:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Psychoterapii",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Režimová opatření (úprava denního režimu, spánkového režimu)",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Pravidelné podání analgetik (paracetamol, ibuprofen)",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Dietní opatření",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "7Dětská neurologie",
+      "order": 7,
+      "text": "V případě bolestí hlavy a podezření na nitrolební hypertenzi/hydrocefalus je nutné:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Co nejdříve zobrazení mozku (CT nebo MR)",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Monitorování vitálních funkcí",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Bezodkladné provedení lumbální punkce",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Pacienta nestresovat a pokud možno propustit domů",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "10Dětská neurologie",
+      "order": 10,
+      "text": "Dětská mozková obrna:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je následkem prodělané infekce a lze proti ní očkovat",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Je porucha postury a hybnosti způsobená neprogresivní poruchou nezralého mozku",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Vyvíjí se v čase",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Může být provázena deficitem kognitivních, senzorických funkcí, poruchou vývoje řeči",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "11Dětská neurologie",
+      "order": 11,
+      "text": "Mezi rizikové faktory vývoje dětské mozkové obrny patří:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Perinatální asfyxie",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Prematurita",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Infekce",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Roční období porodu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "12Dětská neurologie",
+      "order": 12,
+      "text": "Mezi formy dětské mozkové obrny nepatří:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Spastická diparéza",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Spastická kvadruparéza",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Spastická paraparéza",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Extrapyramidová forma dětské mozkové obrny",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "13Dětská neurologie",
+      "order": 13,
+      "text": "Není pravda, že:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Klinický obraz dětské mozkové obrny se během prvního roku zásadně nemění",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Může se projevit v prvním trimenonu změnou svalového tonu",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Některé vývojové reflexy mohou být nevýbavné v novorozeneckém věku",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Některé vývojové reflexy mohou přetrvávat po 6. měsíci věku",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "14Dětská neurologie",
+      "order": 14,
+      "text": "Spastická diparéza:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Vzniká především u dětí rozených ve 28.-32. postkoncepčním týdnu",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Je často spojena s nálezem periventrikulární leukomalacie",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Postihuje především horní končetiny",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "U většiny dětí je snížený intelekt a zkrácené přežívání",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "15Dětská neurologie",
+      "order": 15,
+      "text": "Spastická kvadruparéza:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Patří mezi lehčí formy dětské mozkové obrny",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Bývá často asociována s těžkým mentálním deficitem, poruchou zraku, sluchu, epilepsií",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Bývá následkem těžké perinatální asfyxie",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Je spojena se zkráceným dožitím dítěte",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "16Dětská neurologie",
+      "order": 16,
+      "text": "Extrapyramidová forma dětské mozkové obrny:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Bývá spojena s hlubokou asfyxií u donošených dětí",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Vede k těžké poruše vývoje hybnosti a řeči",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Je převážně spojena s těžkou mentální retardací",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "U většiny dětí nebrání rozvoji samostatné bipedální lokomoce",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "17Dětská neurologie",
+      "order": 17,
+      "text": "Mezi uznávané léčebné postupy u dětské mozkové obrny nepatří:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Rehabilitace",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Aplikace botulotoxinu",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Protetická léčba",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Léčba kmenovými buňkami",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "20Dětská neurologie",
+      "order": 20,
+      "text": "Duchenneova/Beckerova svalová dystrofie:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je způsobena mutací/delecí/duplikací genu pro dystrofin",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Manifestuje se zpravidla v novorozeneckém věku",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Způsobí zpravidla opožděný nástup chůze",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Má pseudohypertrofii lýtek jako typický klinický příznak",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "21Dětská neurologie",
+      "order": 21,
+      "text": "Spinální muskulární atrofie ve své nejtěžší formě (Werdnigova-Hoffmanova nemoc):",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Se manifestuje v novorozeneckém věku",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Je provázena hypotonií, sníženou svalovou silou, hyporeflexií, svalovou atrofií",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Selhání dechu v důsledku hypoventilace nepatří do příznaků tohoto onemocnění",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Je nápadná slabým pláčem",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "22Dětská neurologie",
+      "order": 22,
+      "text": "Myastenie u novorozence:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Nemůže být diagnostikována - v tomto věku se nevyskytuje",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Může vzniknout přenesením protilátek proti acetylcholinovému receptoru od matky transplacentálně",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Se může projevit nápadně chabým pláčem a slabým sáním dítěte u prsu",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Může být přechodná",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "23Dětská neurologie",
+      "order": 23,
+      "text": "Mezi metody vyšetření dítěte s podezřením na neuromuskulární onemocnění patří:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "EMG",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "MR svalu",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "ECHOkardiografické vyšetření",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Spirometrie",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "24Dětská neurologie",
+      "order": 24,
+      "text": "Mezi klinické projevy nervosvalových onemocnění většinou nepatří:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Hypotonie",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Kontraktury",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Snížená svalová síla",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Epilepsie",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "25Dětská neurologie",
+      "order": 25,
+      "text": "Pro centrální hypotonický syndrom je typické:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Hyperreflexie",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Snížená svalová síla",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Přechod do spasticity",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Pozitivita spastických/pyramidových iritačních jevů",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "26Dětská neurologie",
+      "order": 26,
+      "text": "Pro periferní hypotonický syndrom je typické:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Snížení svalové síly",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Hyporeflexie",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Tichý pláč novorozence/kojence",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Obtížné sání/polykání kojence",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "27Dětská neurologie",
+      "order": 27,
+      "text": "Periferní hypotonie může být způsobena lézí na úrovní:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Alfa motoneuronu",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Periferního nervu",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Neuromuskulárního spojení",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Centrálního motoneuronu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "30Dětská neurologie",
+      "order": 30,
+      "text": "Herpetická encefalitida :",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "V mozkomíšním moku je lymfocytární pleocytóza",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Může se projevit klinicky jako komplikované febrilní křeče",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "V mozkomíšním moku je snížená bílkovina, snížená glukóza a vysoký laktát",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "V mozkomíšním moku je monocytární pleocytóza",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "31Dětská neurologie",
+      "order": 31,
+      "text": "Mezi dvě nejčastější etiologie meningitidy v dětském věku patří:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Escherichia coli",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Staphylococcus aureus",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Streptococcus pneumoniae",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Neisseria meningitidis",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "32Dětská neurologie",
+      "order": 32,
+      "text": "Edém mozku při zánětu CNS:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je převážně cytotoxický",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Je převážně intersticiální",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Je převážně vazogenní",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Je způsoben kombinací všech typů",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "33Dětská neurologie",
+      "order": 33,
+      "text": "Klinické příznaky purulentní meningitidy u kojence:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Neklid, křeče či apatie až porucha vědomí",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Horizontální nystagmus a světloplachost",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Zvracení, průjem, odmítání stravy",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Vpadlá VF, dehydratace",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "34Dětská neurologie",
+      "order": 34,
+      "text": "Typickým nálezem v mozkomíšním moku u purulentní meningitidy je:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Zvýšená hladina bílkoviny  ≥ 2 g/l",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Zvýšená hladiny glukózy ≥ 4 mmol/l",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Zvýšený počet erytrocytů ≥ 50/3",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Zvýšený počet leukocytů ≤ 100/3",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "35Dětská neurologie",
+      "order": 35,
+      "text": "Odběr mozkomíšního moku u suspektní infekce CNS:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Se provádí v sedě, v oblasti mezi L1-L2, odebírá se 2-5 ml moku",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "U dítěte s oběhovým či ventilačním selháním se provádí pouze v sedě, odebírají se max. 2 ml moku",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "U kojenců do 6 měsíců se provádí vleže v oblasti Th 12, odebírají se max. 2 ml moku",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Se provádí v sedě či vleže, mezi L3-L4, odebírá se 2-5 ml moku",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "36Dětská neurologie",
+      "order": 36,
+      "text": "Léčba purulentní meningitidy:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Antibiotikem první volby jsou cefalosporiny 2. generace i.v.",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Antibiotikem první volby jsou cefalosporiny 3. generace i.v.",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Antibiotikem první volby jsou karbapenemy i.v.",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Antibiotikem první volby jsou aminopenicilíny i.v.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "37Dětská neurologie",
+      "order": 37,
+      "text": "Meningeální syndrom je:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Soubor příznaků vznikajících v důsledku dráždění mozkomíšních plen a míšních kořenů jakýmkoli patologickým procesem",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Soubor příznaků vznikajících v důsledku dráždění mozkomíšních plen a míšních kořenů pouze při zánětu CNS",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Soubor příznaků vznikajících v důsledku dráždění mozkomíšních plen a míšních kořenů při vysoké horečce",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Soubor příznaků vznikajících v důsledku dráždění mozkomíšních plen a míšních kořenů při subarachnoidálním krvácení",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "38Dětská neurologie",
+      "order": 38,
+      "text": "Křeče v dětském věku jsou často:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Symptomatické",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Příznakem epilepsie",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Febrilní",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Projevem dětského vzdoru",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "39Dětská neurologie",
+      "order": 39,
+      "text": "Při výskytu křečí u dítěte je nutné všimnout si zvláště:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Symetrie/asymetrie (hemikonvulze, verze očí, hlavy..)",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Velikost a reaktivita zornic",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Vegetativní příznaky (promodrání, opocení, slinění)",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Reaktivity pacienta na verbální ev. taktilní podnět",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "40Dětská neurologie",
+      "order": 40,
+      "text": "V případě prvozáchytu křečí u dítěte je nutné:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Změřit glykemii",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Vyšetřit vnitřní prostředí",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Změřit teplotu",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Zvážit pacienta",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "41Dětská neurologie",
+      "order": 41,
+      "text": "Pro febrilní křeče je typické:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Výskyt ve věku 6 měsíců až 6 let",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Opakovaný výskyt u jednoto pacienta",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Většinou závažná prognóza a vysoké riziko trvalých neurologických následků",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Teplota nad 39,5 °C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "42Dětská neurologie",
+      "order": 42,
+      "text": "Nekomplikované febrilní křeče:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Jsou symetrické",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Jsou kratší než 10 minut",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Mohou se opakovat se 2-3x během jednoho febrilního infektu",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Nekomplikují práci sloužícího lékaře - dítě není nutné vyšetřit, stačí ujištění rodičů",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "43Dětská neurologie",
+      "order": 43,
+      "text": "V rámci první pomoci u dítěte s křečemi je nutné:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Uvolnění dýchacích cest vytažením a fixací jazyka",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Okamžité zahájení dýchání z úst do úst, zvláště pokud je pacient cyanotický",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Aplikace diazepamu, pokud je dostupný",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Uvedení pacienta do stabilizované polohy a monitorování po odeznění křečí",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "44Dětská neurologie",
+      "order": 44,
+      "text": "Diazepam u akutních křečí aplikujeme:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Intravenosně",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Intramuskulárně (žilní vstup je těžké zajistit)",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Perorálně",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Rektálně",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "45Dětská neurologie",
+      "order": 45,
+      "text": "Diazepam při akutních křečích podáváme v dávce:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Intravenosně 0,3 mg/kg/dávku",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Rektálně 5 mg pokud je dítě lehčí než 15 kg, u dětí pod 10 kg někdy volíme frakcionované podání",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Intramuskulárně v dávce 0,6 mg/kg/dávku",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Intranasálně v dávce 0,8 mg/kg/dávku",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "46Dětská neurologie",
+      "order": 46,
+      "text": "Dětské absence jsou:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Dětský epileptický syndrom typický pro mladší školní věk",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Denní snění (daydreaming) typický pro předškolní věk",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Synonymum pro záškoláctví",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Krátký záraz v aktivitě spojený s několika vteřinou ztrátou vědomí",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "47Dětská neurologie",
+      "order": 47,
+      "text": "Pro juvenilní myoklonickou epilepsii je typické:",
+      "category": "Dětská neurologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Výskyt v kojeneckém věku",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Generalizovaný tonicko-klonický záchvat",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Provokace nevyspáním",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Recidiva záchvatů v dospělosti po vysazení léčby",
+          "isCorrect": true
+        }
+      ]
+    }
+  ],
+  "Dětská onkologie": [
+    {
+      "id": "1Dětská onkologie",
+      "order": 1,
+      "text": "Nádory typické pro dětský věk:",
+      "category": "Dětská onkologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Jsou karcinomy střeva a prsu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Nikdy nemetastazují",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Většinou netvoří specifické nádorové markery",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Rychle rostou a časně metastazují",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "2Dětská onkologie",
+      "order": 2,
+      "text": "Nejčastější lokalizací meduloblastomu je:",
+      "category": "Dětská onkologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Orbita",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Mozková hemisféra",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Zadní jáma lební",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Prodloužená mícha",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "3Dětská onkologie",
+      "order": 3,
+      "text": "Celkovými příznaky Hodgkinova lymfomu mohou být:",
+      "category": "Dětská onkologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Pruritus",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Intermitentní horečky",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Úbytek váhy",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Noční poty",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "4Dětská onkologie",
+      "order": 4,
+      "text": "Mediastinální lokalizace lymfomu se může projevit:",
+      "category": "Dětská onkologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Dušností",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Syndromem horní duté žíly",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Bolestí v krku",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Fluidothoraxem",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "5Dětská onkologie",
+      "order": 5,
+      "text": "Dušnost při nádorovém onemocnění může způsobit:",
+      "category": "Dětská onkologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Anémie",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Atelektáza",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Ascites",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Trombocytopenie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "6Dětská onkologie",
+      "order": 6,
+      "text": "Nefroblastom:",
+      "category": "Dětská onkologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je typický nádor dospívajících",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Je typický nádor kojenců a batolat",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Nejčastěji se projevuje makroskopickou hematurií",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Může postihovat obě ledviny",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "7Dětská onkologie",
+      "order": 7,
+      "text": "Mezi nádory primární kostí u dětí a dospívajících patří:",
+      "category": "Dětská onkologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Retinoblastom",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Ewingův sarkom",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Hepatoblastom",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Osteosarkom",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "8Dětská onkologie",
+      "order": 8,
+      "text": "Neuroblastom:",
+      "category": "Dětská onkologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je typický nádor dospívajících",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Produkuje alfafetoprotein (AFP)",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Může infiltrovat kostní dřeň",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Produkuje katecholaminy",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "9Dětská onkologie",
+      "order": 9,
+      "text": "Mezi typické nádory kojenců a batolat patří:",
+      "category": "Dětská onkologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Neuroblastom",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Hepatoblastom",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Hodgkinův lymfom",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Glioblastom",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "10Dětská onkologie",
+      "order": 10,
+      "text": "Typickými příznaky Hodgkinova lymfomu jsou:",
+      "category": "Dětská onkologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Křeče",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Průjem",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Nebolestivá lymfadenopatie na krku nebo v nadklíčku",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Diplopie",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "Imunologie": [
+    {
+      "id": "1Imunologie",
+      "order": 1,
+      "text": "O imunoglobulinech platí, že:",
+      "category": "Imunologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Základní molekula je tvořeny dvěma identickými těžkými a dvěma lehkými řetězci navzájem spojenými kovalentní vazbou",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "V reakci na antigenní stimulaci dochází k jejich polyklonální produkci",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Za normálních okolností lze v moči detekovat IgM",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Vrozený deficit tvorby protilátek se projeví již v novorozeneckém věku",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "2Imunologie",
+      "order": 2,
+      "text": "Těžký kombinovaný defekt imunity (SCID):",
+      "category": "Imunologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je kombinace poruch mechanismů vrozené a získané imunity",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Se projevuje kraniofacialní dysmorfií, neprospíváním a náchylností k infekcím",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Se nemusí vždy projevit lymfocytopenií v krevním obraze",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Je pediatrická emergentní situace",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "3Imunologie",
+      "order": 3,
+      "text": "Alergii na bílkovinu kravského mléka (ABKM) lze diagnostikovat:",
+      "category": "Imunologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Vyšetřením sérového IgA a IgG proti kaseinu/syrovátkovým bílkovinám, jejich negativita ABKM vylučuje",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Vyšetřením sérového IgE proti laktóze",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Vyšetřením sérového IgE proti kaseinu/syrovátkovým bílkovinám, jejich negativita ale ABKM nevylučuje",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Standardizovaným eliminačně-expozičním testem",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "4Imunologie",
+      "order": 4,
+      "text": "Mezi léky s protialergickým účinkem nepatří:",
+      "category": "Imunologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "H1 antihistaminika",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "H2 antihistaminika",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Kortikosteroidy",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Antagonisté leukotrienových receptorů",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "5Imunologie",
+      "order": 5,
+      "text": "Reakce štěpu proti hostiteli:",
+      "category": "Imunologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Se využívá při transplantacích hemopoetických kmenových buněk u pacientů s hematologickými malignitami",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Je způsobena protilátkami přítomnými u HLA neidentického dárce",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Je způsobena dárcovskými T lymfocyty ve štěpu, které rozeznávají tkáňové antigeny příjemce jako “cizí”",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Se projeví jako hyperakutní komplikace transplantace",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "6Imunologie",
+      "order": 6,
+      "text": "Obrana proti virům je zajišťována především:",
+      "category": "Imunologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Mechanismy oxidativního vzplanutí mononukleárních fagocytů",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Vysokou produkcí interferonu gama T lymfocyty",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "NK buňkami a cytotoxickými T lymfocyty",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Za účasti interferonu alfa a beta",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "7Imunologie",
+      "order": 7,
+      "text": "Vyberte onemocnění způsobená imunopatologickou reakcí II. typu (protilátkami zprostředkovaná):",
+      "category": "Imunologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Akutní poststeptokoková glomerulonefritida",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Hemolytická nemoc novorozence",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Myasthenia gravis",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Kontaktní dermatitida",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "8Imunologie",
+      "order": 8,
+      "text": "Porucha komplementu se nepodílí na etiopatogenezi:",
+      "category": "Imunologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Paroxysmální noční hemoglobinurie",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Atypického hemolyticko-uremického syndromu",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Gravesovy-Basedowovy thyreotoxikózy",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Zvýšené náchylnosti k infekcím opouzdřenými bakteriemi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "9Imunologie",
+      "order": 9,
+      "text": "Patnáctiletý chlapec s anamnézou předchozí anafylaktické reakce na jed vosy je na procházce lesem poštípán vosou do předloktí a udává pocit nastupující dušnosti. Vyberte nejvhodnější první  opatření:",
+      "category": "Imunologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "Okamžité podání antihistaminika ústy, dokud je schopný polykat",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Zaškrcení končetiny nad loketním kloubem a její imobilizace za účelem omezení šíření alergenu",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Inhalace 6 dávek salbutamolu",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Aplikace adrenalinu, např. 300 µg i.m. autoinjektorem",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "11Imunologie",
+      "order": 11,
+      "text": "Darovat kostní dřen je možné:",
+      "category": "Imunologie",
+      "options": [
+        {
+          "option": "a",
+          "text": "I při mírné formě alergických onemocnění",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "I po proběhlé infekční mononukleóze",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "I po léčbě zhoubného nádorového onemocnění",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "I při trvalé chronické medikaci pro onemocnění srdce, cév, plic, kloubů",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "Ostatní": [
+    {
+      "id": "1Ostatní",
+      "order": 1,
+      "text": "Mezi infekce TORCH patří:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Cytomegalovirus",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Toxokaróza",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Virus herpes simplex",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Rickettsiózy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "2Ostatní",
+      "order": 2,
+      "text": "O intrauterinních infekcích platí:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Kongenitální cytomegalovirová infekce je nejčastější vrozenou infekcí u dětí",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Kongenitální cytomegalovirová infekce je ve velké většině případů asymptomatická",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Serologické vyšetření syfilis u gravidních žen se provádí u rizikových skupin v I. a III. trimestru těhotenství",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Screening na hepatitidu typ B se u novorozenců v České republice neprovádí",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "3Ostatní",
+      "order": 3,
+      "text": "O intrauterinní infekci plodu virem rubeoly neplatí:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Je ze všech virů nejvíce teratogenní",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Způsobuje kataraktu, srdeční vady a hluchotu",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Přístupem první volby po zjištění infekce u gravidní ženy je pasivní imunizace",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Prevencí je očkování, které se provádí pouze u dívek",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "4Ostatní",
+      "order": 4,
+      "text": "Jaké klinické příznaky můžeme zjistit u kojence s vrozenou cytomegalovirovou infekcí:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Mikrocefalii",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Hluchotu",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Duodenální atrézii",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Neprospívání",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "5Ostatní",
+      "order": 5,
+      "text": "O infekci plodu virem varicella zoster v graviditě platí:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Může vést k embryopatii s hypoplastickými malformacemi končetin a kožními pigmentovanými jizvami",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Viscerální varicellová infekce s postižením jater a plic má 30 % mortalitou a vzniká, pokud žena onemocní 2-3 týdny před porodem",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Hyperimunní imunoglobulin a aciclovir se podává všem novorozencům, u jejíž matek došlo k výsevu 5–7 dnů před porodem až do týdne po porodu",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Riziko vzniku kongenitálního varicellového syndromu je cca 2 %, jestli se infekce vyskytne po 20. gestačním týdnu",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "6Ostatní",
+      "order": 6,
+      "text": "O intrauterinní infekci plodu Parvovirem B19 neplatí:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Při infekci v 1. trimestru umírá až 17 % plodů",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Může vést k hydropsu plodu",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Vede k útlumu erytropoézy",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Při zjištění onemocnění je indikováno umělé přerušení těhotenství pro velké riziko vrozených vad",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "7Ostatní",
+      "order": 7,
+      "text": "O intrauterinní infekci plodu Toxoplasma gondii platí:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Při primoinfekci u matky s délkou gravidity riziko infekce plodu stoupá, zatímco riziko teratogenní klesá",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Způsobuje hydrocefalus",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Mezi pozdní příznaky intrauterinní infekce původně asymptomatického novorozence patří chorioretinitida",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Prevencí je vyloučení kontaktu se psy, zejména mláďaty a jejich trusem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "8Ostatní",
+      "order": 8,
+      "text": "Pro intrauterinní infekci plodu a perinatální infekci novorozence virem herpes simplex neplatí:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Embryopatie je vzácnou komplikací a způsobuje kalcifikace v mozku",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "U perinatálně infikovaných novorozenců se onemocnění manifestuje několik dnů až za 3 týdny po narození",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Perinatálně akvírovaná infekce se charakteristicky projeví těžce probíhající novorozeneckou aftózní gingivostomatitidou",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Perinatální herpetická infekce nepatří do dif. dg. novorozeneckých křečí",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "11Ostatní",
+      "order": 11,
+      "text": "Hladiny tekutiny v distendovaných střevních kličkách na nativním snímku břicha můžeme pozorovat při snímkování horizontálním paprskem:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Vstoje",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Vleže na zádech",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Na levém boku",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Na pravém boku",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "12Ostatní",
+      "order": 12,
+      "text": "Na rentgenovém snímku hrudníku popisujeme:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Stíny",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Projasnění",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Změny denzity",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Echogenitu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "13Ostatní",
+      "order": 13,
+      "text": "Rentgenový snímek u kojenců hodnotíme s ohledem na:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Stupeň inspiria",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Stočení dítěte na snímku",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Uložení lopatek",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Velikost jater",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "14Ostatní",
+      "order": 14,
+      "text": "Nejčastější příčinou rozšíření stínu mediastina u kojenců je:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Pneumothorax",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Pneumomediastinum",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Zvětšený thymus",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Nádor mediastina",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "15Ostatní",
+      "order": 15,
+      "text": "U novorozence s porodní hmotností 1620 g se krátce po porodu rozvíjí respirační insuficience. Na rentgenovém snímku se zobrazí syté homogenní zastření obou plicních křídel. Jedná se o:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Oboustranný fluidothorax",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Oboustranný pneumothorax",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Syndrom dechové tísně",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Bronchopulmonální dysplázii",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "16Ostatní",
+      "order": 16,
+      "text": "Radiační zátěž u rentgenového snímku hrudníku je:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Nulová",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Velmi nízká (dny přírodního radiačního pozadí)",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Středně vysoká (měsíce přírodního radiačního pozadí)",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Velmi vysoká (roky přírodního radiačního pozadí)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "17Ostatní",
+      "order": 17,
+      "text": "U týdenního nedonošeného novorozence se syndromem dechové tísně na umělé plicní ventilaci byl proveden snímek hrudníku na lůžku kvůli poklesu saturací. Na snímku je patrné snížení transparence v pravém horním plicním poli, zmenšení objemu pravé plíce a vytažení pravého plicního hilu kraniálně. Může se jednat o:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Pravostranný pneumothorax",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Pravostranný fluidothotrax",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Kolaps horního laloku pravé plíce",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Pneumomediastinum",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "18Ostatní",
+      "order": 18,
+      "text": "Při podezření na přítomnost pleurální tekutiny je u malých dětí nejvhodnější provést:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Ultrazvukové vyšetření",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "CT vyšetření",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "MR vyšetření",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Skiaskopii",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "19Ostatní",
+      "order": 19,
+      "text": "Při snímkování horizontálním paprskem vstoje se pneumoperitoneum projeví jako:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Srpkovité projasnění podbráničně",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Hladiny ve střevních kličkách",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Konturace psoatů",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Snížená transparence epigastria",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "20Ostatní",
+      "order": 20,
+      "text": "Čtyřletá dívka přichází v doprovodu rodičů pro „ucpaný nos“, „smrkání“, „pokašlávání“ a „zvýšenou teplotu“ v posledních třech dnech. Fyzikální nález je chudý, proto:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Indikujeme provedení rentgenového snímku paranasálních dutin",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Indikujeme provedení rentgenového snímku hrudníku",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Indikujeme provedení ultrazvukového vyšetření tonsil",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Neindikujeme žádné zobrazovací metody",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "21Ostatní",
+      "order": 21,
+      "text": "Mezi významné geneticky podmíněné příčiny malého vzrůstu u dětí patří:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Klinefelterův syndrom",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Turnerův syndrom",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Deficit SHOX genu",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Deficit FBN1 genu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "22Ostatní",
+      "order": 22,
+      "text": "Vyšetření typu microarray (nejčastěji array-CGH či SNP-array) může detekovat:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Plně balancované chromozomové aberace (např. inverze či translokace)",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Chromozomové delece či duplikace (včetně submikroskopických změn)",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Sekvenční změny na úrovni jednotlivých genů (například substituce)",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Změny na úrovni genové exprese (ovlivnění sestřihu, hypermetylace DNA).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "23Ostatní",
+      "order": 23,
+      "text": "U hypertrofického novorozence s organomegalií, makroglosií, pupeční kýlou a epizodou hypoglykémie bychom měli myslet na:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Downův syndrom",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Noonanové syndrom",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Beckwithův-Wiedemannův syndrom",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Prune belly syndrom",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "24Ostatní",
+      "order": 24,
+      "text": "Které z následujících tvrzení o prenatální diagnostice chromozomových aberací je pravdivé:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Invazivní prenatální diagnostika je stále jedinou možností detekce nejčastějších autozomálních trizomií u plodu.",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Odběr choriových klků v posledních letech zcela nahradil dříve používaný odběr plodové vody.",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Nejvýznamnější indikací k provedení karyotypizace plodu je v současné době pozitivní screeningové vyšetření.",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Pro potvrzení diagnózy chromozomové aberace u plodu je stále častěji využívána fetoskopie.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "25Ostatní",
+      "order": 25,
+      "text": "Mezi časté - geneticky podmíněné - příčiny mentální retardace u chlapců patří:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Downův syndrom",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Klinefelterův syndrom",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Syndrom fragilního chromozomu X.",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Gilbertův syndrom",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "26Ostatní",
+      "order": 26,
+      "text": "Vyšetření chromozomů v optickém mikroskopu je vhodnou metodou k diagnostice:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Početních chromozomových odchylek",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Uniparentální disomie",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Chromozomových translokací a inverzí",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Chromozomální instability",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "27Ostatní",
+      "order": 27,
+      "text": "U klasické (kompletní) formy syndromu androgenní insenzitivity (mutace AR genu) nacházíme:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Normální ženský karyotyp, normální ženský zevní genitál",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Normální ženský karyotyp, normální mužský zevní genitál",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "Normální mužský karyotyp, normální ženský zevní genitál",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Normální mužský karyotyp, normální mužský zevní genitál",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "28Ostatní",
+      "order": 28,
+      "text": "U Angelmanova syndromu může být molekulární příčina diagnostikována na úrovni:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Bodové mutace",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Mikrodelece",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Uniparentální disomie",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "Poruchy metylace",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "31Ostatní",
+      "order": 31,
+      "text": "Autozomálně recesivní dědičnost je typická pro:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Cystickou fibrózu (mutace CFTR genu)",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "Fenylketonurii (mutace PAH genu)",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Syndrom androgenní insenzitivity (mutace AR genu)",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Kongenitální adrenální hyperplázii (mutace CYP21A2 genu)",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "32Ostatní",
+      "order": 32,
+      "text": "Která z následujících tvrzení o genetické laboratorní diagnostice jsou pravdivá:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Genové mutace typu missense je možné detekovat pomocí sekvenačních metod",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "MLPA je vhodnou metodou k diagnostice vybraných delecí či duplikací",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "Vyšetření karyotypu v optickém mikroskopu zachytí pouze genové/chromozomové přestavby o rozsahu alespoň 100 nukleotidů",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "Uniparentální disomie je diagnostikovatelná pomocí metody FISH ve fluorescenčním mikroskopu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "33Ostatní",
+      "order": 33,
+      "text": "Která z následujících tvrzení o cytogenetickém vyšetření jsou pravdivá:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "Do hodiny po odebrání vzorku krve pro cytogenetické vyšetření je zapotřebí inhibovat buňky pomocí kolcemidu nebo 90% etanolu",
+          "isCorrect": false
+        },
+        {
+          "option": "b",
+          "text": "Kultivace je klíčovou součástí laboratorního postupu, neboť chromozomy jsou viditelné pouze v dělících se buňkách",
+          "isCorrect": true
+        },
+        {
+          "option": "c",
+          "text": "U osob po transplantaci kostní dřeně je k cytogenetickému vyšetření možné využít kožní fibroblasty ",
+          "isCorrect": true
+        },
+        {
+          "option": "d",
+          "text": "K vizualizaci chromozomů pro vyšetření v optickém mikroskopu se dnes již nevyužívají tzv. pruhovací metody (jako bylo tzv. G-pruhování), ale jednodušší – klasické barvení pomocí Giemsova barviva",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "34Ostatní",
+      "order": 34,
+      "text": "Dvěma zdravým, nepříbuzným rodičům se narodil chlapec, u kterého byla v předškolním věku diagnostikována Hemofilie typu B. Pokud bychom postupovali pouze podle rodokmenu, jaké je teoretické riziko opakování stejné choroby pro další dítě tohoto páru:",
+      "category": "Ostatní",
+      "options": [
+        {
+          "option": "a",
+          "text": "50 % - pokud by šlo o chlapce",
+          "isCorrect": true
+        },
+        {
+          "option": "b",
+          "text": "25 % - pokud by šlo o dívku",
+          "isCorrect": false
+        },
+        {
+          "option": "c",
+          "text": "75 % - pokud by šlo o chlapce",
+          "isCorrect": false
+        },
+        {
+          "option": "d",
+          "text": "0 % - pokud by šlo o dívku",
           "isCorrect": true
         }
       ]
