@@ -10041,9 +10041,14 @@
     {
       "id": "48Dětská pneumologie",
       "order": 48,
-      "text": "Mezi projevy cystické fibrózy u novorozence patří:a) Mekoniový ileus X",
+      "text": "Mezi projevy cystické fibrózy u novorozence patří:",
       "category": "Dětská pneumologie",
       "options": [
+        {
+          "option": "a",
+          "text": "Mekoniový ileus",
+          "isCorrect": true
+        },
         {
           "option": "b",
           "text": "Dermatitis herpetiformis Duhring",
