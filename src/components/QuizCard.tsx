@@ -30,12 +30,11 @@ export const QuizCard: React.FC<QuizCardProps> = ({
 
   useEffect(() => {
     const filtered = data.filter((item) => !known.includes(item.id));
-    console.log("🚀 ~ file: QuizCard.tsx:33 ~ useEffect ~ filtered:", filtered);
     if (filtered.length) {
       setSelectedId(filtered?.[0]?.id as string);
       setFiltered(filtered);
     }
-  }, [known, data]);
+  }, [data]);
 
   const selectedQuestion = useMemo(
     () => data.find((item) => item.id === selectedId),
